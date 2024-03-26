@@ -1,0 +1,370 @@
+.chapternav-item:last-child {
+    margin-right: 0;
+    padding-right: 4px;
+    padding-left: 32px;
+}
+
+
+section.geo-no-tv .section-content {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom:40px
+}
+
+@media only screen and (max-width: 1068px) {
+    section.geo-no-tv .section-content {
+        padding-top: 52px;
+        padding-bottom:40px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    section.geo-no-tv .section-content {
+        padding-top: 60px;
+        padding-bottom:40px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero {
+        min-height: 250px;
+        height:100%
+    }
+}
+
+@media screen and (min-width: 2040px) {
+    .section-accessories .section-gallery-3-tiles {
+        max-width:1205px !important
+    }
+
+    .section-accessories .section-gallery-3-tiles .item-container {
+        max-width:100% !important
+    }
+}
+
+@media screen and (min-width: 1680px) {
+    .section-accessories .section-gallery .item-container {
+        max-width: 1200px !important;
+    }
+}
+
+.section-accessories .section-gallery .gallery-item {
+    padding-right: 20px;
+}
+
+.section-geo-music-tile .router-ctas .icon-after.icon-external:after {
+    padding-left:0.2em;
+    top:0;
+    color: #06c
+}
+
+
+/* home app start */
+.section-flex-tiles .atv-4k .picture-wrapper .overview-your-home-at-your-command img {
+    display: block;
+    width: auto;
+    max-width: unset;
+    padding: 0;
+    margin-left: 162px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-flex-tiles .atv-4k .picture-wrapper .overview-your-home-at-your-command img {
+        margin-left: 92px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-flex-tiles .atv-4k .picture-wrapper .overview-your-home-at-your-command img {
+         margin:0 auto
+    }
+}
+
+/* Fixed macOS Sierra 10.15.7 */
+.section-flex-tiles .atv-4k .tile .picture-wrapper { margin-top: 8em; }
+
+@media only screen and (max-width: 1068px) {
+	.section-flex-tiles .atv-4k .tile .picture-wrapper { margin-top: 5.5em; }
+}
+@media only screen and (max-width: 734px) {
+	.section-flex-tiles .atv-4k .tile .picture-wrapper { margin-top: 2.14em; }
+}
+/* Fixed macOS Sierra 10.15.7 */
+/* home app end  */
+
+
+/* music tile  */
+section.section-geo-music-tile .section-content .column-copy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 40px;
+}
+
+@media only screen and (max-width: 1068px) {
+    section.section-geo-music-tile .section-content .column-copy {
+        padding-right:40px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    section.section-geo-music-tile .section-content .column-copy {
+        padding:80px 0 0
+    }
+}
+
+section.section-geo-music-tile .section-content .column-copy .router-ctas {
+    padding-left: 22px;
+}
+
+@media only screen and (max-width: 1068px) {
+    section.section-geo-music-tile .section-content .column-copy .router-ctas {
+        padding-left: 15px;
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    section.section-geo-music-tile .section-content .column-copy .router-ctas.links-inline li:last-child {
+        display: block;
+        margin-left:0
+    }
+}
+@media only screen and (max-width: 734px) {
+    section.section-geo-music-tile .section-content .column-copy .router-ctas.links-inline li:last-child {
+        display: inline-block;
+        text-align: center;
+        margin-left:.8em
+    }
+}
+@media only screen and (max-width: 734px) {
+    section.section-geo-music-tile .section-content .column-copy h2 {
+        text-align: center;
+    }
+    section.section-geo-music-tile .section-content .column-copy .router-ctas {
+        text-align: center;
+    }
+    section.section-geo-music-tile .section-content .overview-apple-music-logo {
+        margin: 0 auto 16px;
+    }
+}
+
+section.section-geo-music-tile .section-content .column-copy h2 {
+	margin-right: -35px;
+}
+@media only screen and (max-width: 1068px) {
+	section.section-geo-music-tile .section-content .column-copy h2 {
+		margin-right: -35px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	section.section-geo-music-tile .section-content .column-copy h2 {
+		margin-right: 0
+	}
+}
+/* music tile end */
+
+@media only screen and (max-width: 734px) {
+    .section-accessories .section-gallery .picture-wrapper, .section-smart-home .section-gallery .picture-wrapper {
+        margin-top: auto;
+    }
+}
+
+@media only screen and (min-width: 1680px) {
+.section-accessories .section-gallery .gallery-content{
+    padding-left: 24px;
+}
+.section-accessories .section-gallery .gallery{
+    --grid-gap:29px
+}
+}
+@media only screen and (max-width: 734px) {
+    .section-accessories .section-gallery .gallery-content {
+        padding-left: 0px;
+        padding-right:0px
+    }
+}
+.section-holiday-2021 .tile-holiday-2021 {
+    max-width: 1324px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-holiday-2021 .tile-holiday-2021 {
+        max-width:692px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-holiday-2021 .tile-holiday-2021 {
+        width: 87.5%;
+    }
+}
+
+.section-flex-tiles .atv-4k .copy-wrapper .tile-caption {
+    margin-top: 19px;
+}
+@media only screen and (max-width: 1068px) {
+    .section-smart-home .overview-control-your-home img {
+       padding-top:12px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-smart-home .overview-control-your-home img {
+       padding-top:0;
+    }
+}
+
+/* 箭头问题 */
+@media only screen and (min-width: 1216px) {
+.section-accessories .section-gallery .section-paddlenav {
+        display:none
+}
+}
+.section-accessories .section-gallery .item-container{
+    max-width:1180px
+}
+
+/* hero content 边距问题 */
+section .hero-header.p-t-60 {
+    padding-top: 60px;
+}
+
+@media only screen and (max-width: 1068px) {
+    section .hero-header.p-t-60 {
+        padding-top: 52px;
+        padding-bottom:40px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    section .hero-header.p-t-60 {
+        padding-top: 60px;
+        padding-bottom:40px
+    }
+}
+
+/* home app start */
+.section-flex-tiles .home-app .picture-wrapper .overview-your-home-at-your-command img {
+    display: block;
+    width: auto;
+    max-width: unset;
+    padding: 0;
+    margin-left: 162px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-flex-tiles .home-app .picture-wrapper .overview-your-home-at-your-command img {
+        margin-left: 92px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-flex-tiles .home-app .picture-wrapper .overview-your-home-at-your-command img {
+         margin:0 auto
+    }
+}
+
+
+
+.section-flex-tiles .home-app.half-width .picture-wrapper {
+    padding-top:0px;
+}
+/* home app end  */
+
+/* home music start */
+
+section.section-geo-music-tile .section-content.row {
+    max-width: 1380px;
+    width:100%
+}
+
+section.section-geo-music-tile .section-content.row .tile-content {
+    padding:0
+}
+
+@media only screen and (max-width: 1068px) {
+    section.section-geo-music-tile .section-content.row {
+        margin-left: auto;
+        margin-right: auto;
+        width:980px
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 1441px) {
+    section.section-geo-music-tile .section-content.row {
+        margin-left: auto;
+        margin-right: auto;
+        width:980px
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    section.section-geo-music-tile .section-content.row {
+        margin-left: auto;
+        margin-right: auto;
+        width:692px
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 734px) {
+    section.section-geo-music-tile .section-content.row {
+        margin-left: auto;
+        margin-right: auto;
+        width:87.5%
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 320px) {
+    section.section-geo-music-tile .section-content.row {
+        margin-left: auto;
+        margin-right: auto;
+        width:87.5%
+    }
+}
+
+@media only screen and (max-width: 1068px){
+    section.section-geo-music-tile .section-content .column-copy{
+        padding-right: 7px;
+
+    }
+}
+section.section-geo-music-tile .section-content .column-image{
+        margin-left: -70px;
+    }
+@media only screen and (max-width: 1068px){
+    section.section-geo-music-tile .section-content .column-image{
+        padding-left: 40px;
+        margin-left: 0px;
+    }
+}
+
+@media only screen and (max-width: 734px){
+    section.section-geo-music-tile .section-content .column-image{
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+}
+
+/* home music end */
+
+/* homemusic HL start */
+.typography-product-tile-headline.font-music {
+	font-weight: 600
+}
+/* homemusic HL end */
+
+.tv-home-family-page .banner-container{
+    padding: 0 24px 91px;
+}
+
+@media only screen and (max-width: 1068px){
+    .tv-home-family-page .banner-container{
+        padding: 0 0 56px;
+    }
+}
+
+@media only screen and (max-width: 734px){
+    .tv-home-family-page .banner-container{
+        padding:0 0 36px;
+    }
+}

@@ -1,0 +1,50 @@
+/* Only GC 中文 HL */
+.typography-overview-section-headline {
+    font-weight: 600;
+}
+
+/* AR */
+.section-ar .ar-content-text .router-copy {
+    max-width: 300px;
+    padding-right:80px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ar .ar-content-text .router-copy {
+        max-width: 230px;
+        margin-right: auto;
+        margin-left: auto;
+        padding-right:0px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ar .ar-content-text .router-copy {
+        margin:0 auto
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ar .ar-content-text {
+        text-align: center;
+        padding-right:16px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ar .ar-content-text {
+        padding: 49px 24px 0;
+        align-self:center
+    }
+}
+
+/* YouKu CTA */
+.youku-cta {
+    text-align: center;
+    margin-top: 4px;
+}
+
+.youku-cta>a , .youku-cta>a .icon-copy {
+    color:#424245;
+    font-size: 12px;
+}

@@ -1,0 +1,103 @@
+/*  */
+@media only screen and (max-width: 734px) {
+    .section-upgraders .form-dropdown {
+        max-width: 310px;
+    }
+}
+
+/*  */
+.performance-modal-content .subsection-gallery .item-container .gallery-item .bars-container .badge-value-container{
+    align-items: flex-end;
+}
+.performance-modal-content .subsection-gallery .graph-gallery .item-container .bars-container .badge-value{
+    line-height: 1.16;
+}
+.performance-modal-content .subsection-gallery .graph-gallery .item-container .bars-container .badge-unit {
+    font-size: 32px;
+    line-height: 1.45;
+    margin-left: 4px;
+
+}
+
+@media only screen and (max-width: 1068px) {
+    .performance-modal-content .subsection-gallery .graph-gallery .item-container .bars-container .badge-value{
+        line-height: 1.2;
+    }
+    .performance-modal-content .subsection-gallery .graph-gallery .item-container .bars-container .badge-unit {
+        font-size: 20px;
+        line-height: 2;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .performance-modal-content .subsection-gallery .graph-gallery .item-container .bars-container .badge-value{
+        line-height: 1.3;
+    }
+}
+
+/* price */
+.section-hero .hero-copy-wrapper .hero-pricing span[data-pricing-product] {
+    text-transform: none
+}
+
+/* images */
+article.section-performance .subsection-apps .apps-wrapper .apps {
+    background-image: url(../image/apps__dcweftdl8uqa_large.jpg);
+}
+
+@media (min-resolution: 144dpi),only screen and (min-resolution:1.5dppx) {
+    article.section-performance .subsection-apps .apps-wrapper .apps {
+        background-image:url(../image/apps__dcweftdl8uqa_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    article.section-performance .subsection-apps .apps-wrapper .apps {
+        background-image: url(../image/apps__dcweftdl8uqa_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    article.section-performance .subsection-apps .apps-wrapper .apps {
+        background-image:url(../image/apps__dcweftdl8uqa_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    article.section-performance .subsection-apps .apps-wrapper .apps {
+        background-image: url(../image/apps__dcweftdl8uqa_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    article.section-performance .subsection-apps .apps-wrapper .apps {
+        background-image:url(../image/apps__dcweftdl8uqa_small_2x.jpg)
+    }
+}
+
+/* environment start*/
+.section-routers .router-item-environment .accent-green:before {
+    width: 86px;
+    height: 48px;
+    background-size: 86px 48px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-routers .router-item-environment .accent-green:before {
+        width: 72px;
+        height: 41px;
+        background-size: 72px 41px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-routers .router-item-environment .accent-green:before {
+        width: 58px;
+        height: 34px;
+        background-size: 58px 34px;
+    }
+}
+/* environment end*/
+
+.section-routers .section-compare .product-pricing {
+    max-width: 15.5em;
+}

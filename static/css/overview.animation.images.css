@@ -1,0 +1,311 @@
+.section-stickers .grid-item-create glass-screen {
+    background-image: url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-stickers .grid-item-create glass-screen {
+        background-image:url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-stickers .grid-item-create glass-screen {
+        background-image: url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-stickers .grid-item-create glass-screen {
+        background-image:url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-stickers .grid-item-create glass-screen {
+        background-image: url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-stickers .grid-item-create glass-screen {
+        background-image:url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_small_2x.jpg)
+    }
+}
+
+.section-stickers .grid-item-create .inline-video-create .start-frame {
+    background-image: url(../image/create_stickers_screen_startframe__c83bxs7hyuoi_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-stickers .grid-item-create .inline-video-create .start-frame {
+        background-image:url(../image/create_stickers_screen_startframe__c83bxs7hyuoi_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-stickers .grid-item-create .inline-video-create .start-frame {
+        background-image: url(../image/create_stickers_screen_startframe__c83bxs7hyuoi_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-stickers .grid-item-create .inline-video-create .start-frame {
+        background-image:url(../image/create_stickers_screen_startframe__c83bxs7hyuoi_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-stickers .grid-item-create .inline-video-create .start-frame {
+        background-image: url(../image/create_stickers_screen_startframe__c83bxs7hyuoi_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-stickers .grid-item-create .inline-video-create .start-frame {
+        background-image:url(../image/create_stickers_screen_startframe__c83bxs7hyuoi_small_2x.jpg)
+    }
+}
+
+.section-stickers .grid-item-create .inline-video-create .end-frame {
+    background-image: url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-stickers .grid-item-create .inline-video-create .end-frame {
+        background-image:url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-stickers .grid-item-create .inline-video-create .end-frame {
+        background-image: url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-stickers .grid-item-create .inline-video-create .end-frame {
+        background-image:url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-stickers .grid-item-create .inline-video-create .end-frame {
+        background-image: url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-stickers .grid-item-create .inline-video-create .end-frame {
+        background-image:url(../image/create_stickers_screen_endframe__ebkv6r18r4ae_small_2x.jpg)
+    }
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+.section-lock-screen .grid-item-wallpapers .inline-video-wallpapers .end-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/wallpapers_screen_endframe__fodj90ogxi62_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-lock-screen .grid-item-wallpapers .inline-video-wallpapers .end-frame {
+        background-image:url(../image/wallpapers_screen_endframe__fodj90ogxi62_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-lock-screen .grid-item-wallpapers .inline-video-wallpapers .end-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/wallpapers_screen_endframe__fodj90ogxi62_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-lock-screen .grid-item-wallpapers .inline-video-wallpapers .end-frame {
+        background-image:url(../image/wallpapers_screen_endframe__fodj90ogxi62_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-lock-screen .grid-item-wallpapers .inline-video-wallpapers .end-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/wallpapers_screen_endframe__fodj90ogxi62_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-lock-screen .grid-item-wallpapers .inline-video-wallpapers .end-frame {
+        background-image:url(../image/wallpapers_screen_endframe__fodj90ogxi62_small_2x.jpg)
+    }
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+.section-stage-manager .grid-item-windows .inline-video-windows .start-frame {
+    background-image: url(../image/stage_manager_startframe__ffp951q2v5yu_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-stage-manager .grid-item-windows .inline-video-windows .start-frame {
+        background-image:url(../image/stage_manager_startframe__ffp951q2v5yu_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-stage-manager .grid-item-windows .inline-video-windows .start-frame {
+        background-image: url(../image/stage_manager_startframe__ffp951q2v5yu_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-stage-manager .grid-item-windows .inline-video-windows .start-frame {
+        background-image:url(../image/stage_manager_startframe__ffp951q2v5yu_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-stage-manager .grid-item-windows .inline-video-windows .start-frame {
+        background-image: url(../image/stage_manager_startframe__ffp951q2v5yu_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-stage-manager .grid-item-windows .inline-video-windows .start-frame {
+        background-image:url(../image/stage_manager_startframe__ffp951q2v5yu_small_2x.jpg)
+    }
+}
+
+.section-stage-manager .grid-item-windows .inline-video-windows .end-frame {
+    background-image: url(../image/stage_manager_endframe__clna288uxonm_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-stage-manager .grid-item-windows .inline-video-windows .end-frame {
+        background-image:url(../image/stage_manager_endframe__clna288uxonm_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-stage-manager .grid-item-windows .inline-video-windows .end-frame {
+        background-image: url(../image/stage_manager_endframe__clna288uxonm_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-stage-manager .grid-item-windows .inline-video-windows .end-frame {
+        background-image:url(../image/stage_manager_endframe__clna288uxonm_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-stage-manager .grid-item-windows .inline-video-windows .end-frame {
+        background-image: url(../image/stage_manager_endframe__clna288uxonm_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-stage-manager .grid-item-windows .inline-video-windows .end-frame {
+        background-image:url(../image/stage_manager_endframe__clna288uxonm_small_2x.jpg)
+    }
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+.section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+    background-image: url(../image/swipe_to_reply__e3sglpgnxes2_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+        background-image:url(../image/swipe_to_reply__e3sglpgnxes2_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+        background-image: url(../image/swipe_to_reply__e3sglpgnxes2_medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+        background-image:url(../image/swipe_to_reply__e3sglpgnxes2_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+        background-image: url(../image/swipe_to_reply__e3sglpgnxes2_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+        background-image:url(../image/swipe_to_reply__e3sglpgnxes2_small_2x.jpg)
+    }
+}
+
+.section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+    background-image: url(../image/swipe_to_reply_startframe__blzb5dhhau1y_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+        background-image:url(../image/swipe_to_reply_startframe__blzb5dhhau1y_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+        background-image: url(../image/swipe_to_reply_startframe__blzb5dhhau1y_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+        background-image:url(../image/swipe_to_reply_startframe__blzb5dhhau1y_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+        background-image: url(../image/swipe_to_reply_startframe__blzb5dhhau1y_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+        background-image:url(../image/swipe_to_reply_startframe__blzb5dhhau1y_small_2x.jpg)
+    }
+}
+
+.section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+    background-image: url(../image/swipe_to_reply_endframe__ffv5ga48zii6_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+        background-image:url(../image/swipe_to_reply_endframe__ffv5ga48zii6_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+        background-image: url(../image/swipe_to_reply_endframe__ffv5ga48zii6_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+        background-image:url(../image/swipe_to_reply_endframe__ffv5ga48zii6_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+        background-image: url(../image/swipe_to_reply_endframe__ffv5ga48zii6_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+        background-image:url(../image/swipe_to_reply_endframe__ffv5ga48zii6_small_2x.jpg)
+    }
+}

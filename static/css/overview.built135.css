@@ -1,0 +1,243 @@
+/* privacy headline  */
+.tile-privacy .typography-privacy-headline {
+    width: 315px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .tile-privacy .typography-privacy-headline {
+        width:215px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .tile-privacy .typography-privacy-headline {
+        width:150px
+    }
+}
+
+
+/*font weight 600 change*/
+.typography-site-headline,.typography-tile-headline, .typography-section-headline,.typography-privacy-headline, .typography-feature-headline{
+    font-weight: 600;
+}
+
+.page-overview.long-tile-headlines .typography-tile-headline,.page-switch.long-tile-headlines .typography-tile-headline{
+    font-weight: 600;
+}
+
+
+.tile-imessage .tile-headline{
+    margin: initial;
+
+}
+
+@media only screen and (min-width: 1069px) {
+    .grid-wrapper-alt-line-wrap .tile-imessage .tile-headline{
+        max-width: initial;
+    }
+}
+
+/* alts */
+
+@media only screen and (max-width: 374px) {
+    .no-break-for-se{
+        display: none;
+    }
+}
+
+.section-tiles .tile-safety .tile-headline {
+    max-width: 400px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-tiles .tile-safety .tile-headline {
+        max-width:280px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-tiles .tile-safety .tile-headline {
+        max-width:220px
+    }
+}
+
+
+.section-tiles .tile-apple-store .tile-panel-content.textzoom-content {
+    width: 522px;
+}
+
+@media only screen and (min-width: 1441px) {
+    .section-tiles .tile-apple-store .tile-panel-content.textzoom-content {
+        width: 760px;
+        }
+}
+
+@media only screen and (max-width:1068px){
+    .section-tiles .tile-apple-store .tile-panel-content.textzoom-content {
+        width: 376px;
+        }
+}
+
+@media only screen and (max-width:734px){
+    .section-tiles .tile-apple-store .tile-panel-content.textzoom-content {
+        width: 240px;
+    }
+}
+
+
+
+.tile-privacy .typography-privacy-headline{
+    color: #1d1d1f;
+}
+
+.tile-privacy .icon-light {
+    opacity:.001
+}
+
+.tile-privacy .tile-button .icon-dark {
+    opacity:.999
+}
+
+.tile-privacy .tile-button .icon-light {
+    opacity:.001
+}
+
+.tile-privacy .tile-copyblock .tile-eyebrow{
+    color: rgba(0,0,0,.56);
+}
+
+@media only screen and (max-width: 734px) {
+    .tile-privacy .tile-button .icon-dark {
+    opacity:.001
+}
+
+.tile-privacy .tile-button .icon-light {
+    opacity:.999
+}
+}
+
+
+
+.new-top{
+    margin-top: 10px;
+}
+/* apple store */
+.section-tiles .tile-apple-store .tile-copyblock-center {
+    position: absolute;
+    left: 65%;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: left;
+}
+
+.section-tiles .tile-apple-store .tile-copyblock{
+    width: auto;
+    margin-top: 0px;
+ }
+
+ @media only screen and (max-width: 1068px) {
+    .section-tiles .tile-apple-store .tile-copyblock-center {
+        position: absolute;
+        left: 65%;
+        top: 50%;
+        transform: translateY(-50%);
+        text-align: left;
+    }
+}
+
+
+@media only screen and (max-width: 734px) {
+    .section-tiles .tile-apple-store .tile-copyblock-center {
+       position: static;
+       left:initial;
+       top:initial;
+       transform: none;
+    text-align: center;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-tiles .tile-apple-store .tile-copyblock{
+        width: 100%;
+        margin-top: 20px;
+     }
+}
+.tile-imessage .tile-copyblock{
+    bottom: 456px;
+    text-align: center;
+    background-size: contain;
+
+}
+
+@media only screen and (max-width: 1068px) {
+    .tile-imessage .tile-copyblock{
+        bottom: 230px;
+    
+    }
+}
+@media only screen and (max-width: 734px) {
+    .tile-imessage .tile-copyblock{
+        bottom: 256px;
+    
+    }}
+.tile-imessage .tile-headline {
+    margin-left: 20px;
+    margin-top: 18px;
+
+}
+    .section-features .image-5g{
+        background-size: contain!important;
+    }
+    .small-center{
+        position: static;
+    }
+
+.tile-imessage .tile-content .caption-link.typography-caption{
+    text-align: center;
+    width: 100%;
+    position: relative;
+    bottom: -40px;
+    font-size: 11px;
+    color: #959495;
+}
+@media only screen and (max-width: 1400px) and (min-width: 1300px){
+    .tile-imessage .tile-content .caption-link.typography-caption{
+        bottom: -30px;
+    }
+}
+
+@media only screen and (max-width: 1300px) and (min-width: 1290px){
+    .tile-imessage .tile-content .caption-link.typography-caption{
+        bottom: -10px;
+    }
+}
+@media only screen and (max-width: 1289px) and (min-width: 1199px){
+    .tile-imessage .tile-content .caption-link.typography-caption{
+        bottom: -14px;
+    }
+}
+@media only screen and (max-width: 1199px) and (min-width: 1160px){
+    .tile-imessage .tile-content .caption-link.typography-caption{
+        bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 1160px) and (min-width: 1069px){
+    .tile-imessage .tile-content .caption-link.typography-caption{
+        bottom: 18px;
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .tile-imessage .tile-content .caption-link.typography-caption{
+        bottom: -120px;
+        font-size: 11px;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .tile-imessage .tile-content .caption-link.typography-caption{
+        bottom: -74px;
+        font-size: 11px;
+    }
+}
+

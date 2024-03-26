@@ -1,0 +1,55 @@
+@media only screen and (max-width: 735px) {
+    .section-availability h2 {
+        max-width: 305px;
+    }
+}
+
+/* Workshop 2022-8-26 */
+em:lang(zh) {
+	font-style: italic;
+}
+
+.section-tours-gallery .block-content-block1 .copy-caption {
+    max-width: 190px;
+}
+
+/* iphone XS start*/
+.small-caps {
+    font-feature-settings: "smcp", "c2sc";
+    font-variant-caps:all-small-caps
+}
+/* iphone XS end*/
+
+.section-configure-wrapper .configure-item-case {
+    background-image: url(../image/cto-case__e0wemjpoxgcy_large.png);
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-configure-wrapper .configure-item-case {
+        background-image: url(../image/cto-case__e0wemjpoxgcy_large_2x.png)
+    }
+}
+
+@media only screen and (max-width:1068px) {
+    .section-configure-wrapper .configure-item-case {
+        background-image: url(../image/cto-case__e0wemjpoxgcy_medium.png)
+    }
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-configure-wrapper .configure-item-case {
+        background-image: url(../image/cto-case__e0wemjpoxgcy_medium_2x.png)
+    }
+}
+
+@media only screen and (max-width:735px) {
+    .section-configure-wrapper .configure-item-case {
+        background-image: url(../image/cto-case__e0wemjpoxgcy_small.png)
+    }
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .section-configure-wrapper .configure-item-case {
+        background-image: url(../image/cto-case__e0wemjpoxgcy_small_2x.png)
+    }
+}

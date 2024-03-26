@@ -1,0 +1,169 @@
+/*20211014 music and engraving*/
+
+.page-overview .section-engravings-update .section-image .image-engravings {
+
+    background-image: url("../image/engraving__ualb7ydsu1uq_large.png");
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-engravings-update .section-image .image-engravings {
+        background-image:url("../image/engraving__ualb7ydsu1uq_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-engravings-update .section-image .image-engravings {
+
+        background-image: url("../image/engraving__ualb7ydsu1uq_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-engravings-update .section-image .image-engravings {
+        background-image:url("../image/engraving__ualb7ydsu1uq_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-engravings-update .section-image .image-engravings {
+
+        background-image: url("../image/engraving__ualb7ydsu1uq_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-engravings-update .section-image .image-engravings {
+        background-image:url("../image/engraving__ualb7ydsu1uq_small_2x.png")
+    }
+}
+
+/* 2023/8/30 */
+
+.page-overview .section-devices .image-devices {
+    width: 564px;
+    height: 628px;
+    background-size: 564px 628px;
+    background-repeat: no-repeat;
+    background-image: url("../image/setup__cfebd9ivg8k2_large.jpg");
+    position: relative;
+    left: 50%;
+    margin-left:-257px
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .page-overview .section-devices .image-devices {
+        background-image: url("../image/setup__cfebd9ivg8k2_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-devices .image-devices {
+        width: 503px;
+        height: 561px;
+        background-size: 503px 561px;
+        background-repeat: no-repeat;
+        background-image: url("../image/setup__cfebd9ivg8k2_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-devices .image-devices {
+        background-image: url("../image/setup__cfebd9ivg8k2_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-devices .image-devices {
+        width: 314px;
+        height: 349px;
+        background-size: 314px 349px;
+        background-repeat: no-repeat;
+        background-image: url("../image/setup__cfebd9ivg8k2_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-devices .image-devices {
+        background-image: url("../image/setup__cfebd9ivg8k2_small_2x.jpg")
+    }
+}
+
+.page-overview .section-fall .image-audio-sharing.update {
+    width: 940px;
+    height: 782px;
+    background-size: 940px 782px;
+    background-repeat: no-repeat;
+    background-image: url("../image/sharing_update__d7mbbi55nagm_large.jpg");
+    position: relative;
+    left: 50%;
+    margin-left:-437px
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .page-overview .section-fall .image-audio-sharing.update {
+        background-image: url("../image/sharing_update__d7mbbi55nagm_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-fall .image-audio-sharing.update {
+        width: 872px;
+        height: 646px;
+        background-size: 872px 646px;
+        background-repeat: no-repeat;
+        background-image: url("../image/sharing_update__d7mbbi55nagm_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-fall .image-audio-sharing.update {
+        background-image: url("../image/sharing_update__d7mbbi55nagm_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-fall .image-audio-sharing.update {
+        width: 405px;
+        height: 421px;
+        background-size: 405px 421px;
+        background-repeat: no-repeat;
+        background-image: url("../image/sharing_update__d7mbbi55nagm_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-fall .image-audio-sharing.update {
+        background-image: url("../image/sharing_update__d7mbbi55nagm_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-fall .image-audio-sharing.update {
+        left: 50%;
+        margin-left:-436px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-fall .image-audio-sharing.update {
+        left: 50%;
+        margin-left:-198.5px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-devices .image-devices {
+        left: 50%;
+        margin-left:-236.5px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-devices .image-devices {
+        left: 50%;
+        margin-left:-147px
+    }
+}
+
+/* 2023/8/30 */

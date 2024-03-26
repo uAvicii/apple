@@ -1,0 +1,103 @@
+.chapternav-item-airpods-2gen {
+    padding-right: 20px;
+}
+.chapternav-item-airpods-3gen {
+    padding-left: 32px;
+    padding-right: 22px;
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .apple-music-ribbon p{
+        text-align: center;
+    }
+}
+
+
+/* hero animation */
+html.no-js .section-airpods-3rd-gen .video-container .static-frame {
+    opacity: 1;
+}
+
+/* holiday2022 start */
+.section-holiday-2022 .section-content .holiday-2022 .holiday-2022-content {
+	width: 367.05px;
+}
+.section-holiday-2022 .section-content .holiday-2022 .holiday-2022-content .holiday-2022-content-headline {
+	margin-top: 5px;
+}
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+	.section-holiday-2022 .section-content .holiday-2022 .holiday-2022-content {
+		width: unset;
+	}
+	.section-holiday-2022 .section-content .holiday-2022 .holiday-2022-content .holiday-2022-content-headline {
+		width: 308.03125px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.section-holiday-2022 .section-content .holiday-2022 .holiday-2022-content .holiday-2022-content-headline {
+		margin-top: -2px;
+	}
+}
+.holiday-2022-content-headline {
+    white-space: nowrap;
+}
+/* holiday2022 end */
+
+
+/* ribbon cny 2023 */
+html.ac-ls-visible .ribbon-cny-2023.iphone-page{
+    top: 287px;
+}
+
+
+html.ac-ls-visible #chapternav~#main, html.ac-ls-visible #chapternav~.main {
+		margin-top: 132px!important;
+}
+
+@media only screen and (max-width: 833px) {
+
+    html.ac-ls-visible .ribbon-cny-2023.iphone-page{
+	    top: 360px;
+	}
+}
+
+
+@media only screen and (max-width: 734px) {
+
+    html.ac-ls-visible .ribbon-cny-2023.iphone-page{
+	    top: 364px;
+	}
+}
+
+
+.ribbon-cny-2023.iphone-page {
+    position: static;
+}
+
+/* buystrip fixed */
+@media only screen and (min-width: 800px) {
+	body.holiday-2022-remove-keyline #ac-globalfooter .ac-gf-buystrip {
+        border-top:1px solid #d2d2d7;
+    }
+}
+
+/* fix ribbon */
+html.ac-ls-visible #chapternav ~ #main, html.ac-ls-visible #chapternav ~ .main {
+    margin-top: 115px !important
+}
+
+
+/* cny-2024 banner */
+@media only screen and (max-width: 734px){
+	.airpods-family-page.banner-cny-2024 .cny-2024 {
+			padding: 34px 0 98px;
+		}
+}
+
+.banner-cny-2024 .content sup a{
+	color: rgb(29, 29, 31)
+}
+
+.banner-cny-2024 .content sup a:hover{
+	color:#06c
+}

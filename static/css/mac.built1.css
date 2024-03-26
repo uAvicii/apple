@@ -1,0 +1,40 @@
+@media only screen and (max-width: 735px) {
+    .support-toggle-nav .toggle-item {
+        max-width: 129px;
+        width: 100%
+    }
+}
+
+.section-plans .applecare-plan .flex-row .column-dynamic-pricing {
+    flex-basis: 8.3333333333%;
+    max-width:8.3333333333%
+}
+
+.section-plans .applecare-plan .flex-row .column-dynamic-pricing.is-last {
+    flex-basis: 25%;
+    max-width:25%
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-plans .applecare-plan .flex-row .column-dynamic-pricing.is-last {
+        padding-left: 11px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-plans .applecare-plan .flex-row .column-dynamic-pricing.is-last {
+        padding-left:5px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-plans .applecare-plan .flex-row.column-labels {
+        justify-content: initial;
+    }
+}
+@media only screen and (max-width: 735px) {
+    .section-plans .applecare-plan .flex-row.column-labels .column-1.column-dynamic-pricing {
+        flex-basis: 66.6%;
+        max-width: 66.6%;
+    }
+}

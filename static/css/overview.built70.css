@@ -1,0 +1,63 @@
+#modal-chips .mx-section .gallery-wrap .speed-gallery .item-container .gallery-item .bars-container .badge-value-container{
+    align-items: flex-end;
+
+}
+#modal-chips .mx-section .gallery-wrap .speed-gallery .item-container .gallery-item .bars-container .badge-value{
+    line-height: 1.1;
+}
+#modal-chips .mx-section .gallery-wrap .speed-gallery .item-container .gallery-item .bars-container .badge-unit {
+    font-size: 32px;
+    line-height: 1.40;
+    margin-left: 6px;
+}
+
+@media only screen and (max-width: 1068px) {
+    #modal-chips .mx-section .gallery-wrap .speed-gallery .item-container .gallery-item .bars-container .badge-value{
+        line-height: 1.2;
+    }
+    #modal-chips .mx-section .gallery-wrap .speed-gallery .item-container .gallery-item .bars-container .badge-unit {
+        font-size: 20px;
+        line-height: 2;
+    }
+}
+@media only screen and (max-width: 734px) {
+    #modal-chips .mx-section .gallery-wrap .speed-gallery .item-container .gallery-item .bars-container .badge-value{
+        line-height: 1.3;
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-contrast .product-tile-price {
+        max-width: 9em;
+    }
+}
+@media only screen and (max-width: 734px) {
+    html.enhanced .hide-for-enhanced{
+        display: block;
+    }
+    html.enhanced .welcome-video.hide-for-base{
+        display: none;
+    }
+}
+
+html.ar-quicklook.wechat-fix .ar-link, html.ar-quicklook.wechat-fix .ar-quicklook-container{
+    display: none;
+}
+
+#modal-chips .mx-section .gallery-wrap .speed-gallery .item-container .gallery-item .bars-container .badge-unit:lang(zh-CN) {
+	line-height: 1.38;
+}
+@media only screen and (max-width: 1068px) {
+	#modal-chips .mx-section .gallery-wrap .speed-gallery .item-container .gallery-item .bars-container .badge-unit:lang(zh-CN) {
+		line-height: 1.6;
+	}
+}
+
+/* film icon */
+.icon-wrapper .icon, .icon-wrapper .more:not(.icon-before)::after, .icon-wrapper .icon-before::before, .icon-wrapper .icon-after::after {
+    position: static;
+}
+.icon-playcircle:before,
+.icon-playcircle:after {
+    top: 0px;
+}

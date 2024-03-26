@@ -1,0 +1,369 @@
+.section-shared-compare .compare-item-s8.device .compare-item-image {
+    background-image:url(../image/compare_s8__byj5qio8zc3m_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-shared-compare .compare-item-s8.device .compare-item-image {
+        background-image:url(../image/compare_s8__byj5qio8zc3m_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-shared-compare .compare-item-s8.device .compare-item-image {
+        background-image:url(../image/compare_s8__byj5qio8zc3m_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-s8.device .compare-item-image {
+        background-image:url(../image/compare_s8__byj5qio8zc3m_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-shared-compare .compare-item-s8.device .compare-item-image {
+        background-image:url(../image/compare_s8__byj5qio8zc3m_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-s8.device .compare-item-image {
+        background-image:url(../image/compare_s8__byj5qio8zc3m_small_2x.jpg)
+    }
+}
+
+
+.section-shared-compare .compare-item-ultra.device .compare-item-image {
+    background-image: url(../image/compare_ultra2__59f1hkgsfxei_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image:url(../image/compare_ultra2__59f1hkgsfxei_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image:url(../image/compare_ultra2__59f1hkgsfxei_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image:url(../image/compare_ultra2__59f1hkgsfxei_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image:url(../image/compare_ultra2__59f1hkgsfxei_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image:url(../image/compare_ultra2__59f1hkgsfxei_small_2x.jpg)
+    }
+}
+
+.grid-item.grid-item-workout .inline-video-container {
+	width: 694px;
+	height: 580px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.grid-item.grid-item-workout .inline-video-container {
+		width: 415px;
+		height: 340px;
+		margin-left: 25px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.grid-item.grid-item-workout .inline-video-container {
+		width: 346px;
+		height: 524px;
+		margin-left: 0px;
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.grid-item.grid-item-workout .inline-video-container .start-frame {
+		width: 415px;
+		height: 340px;
+		background-size: 415px 340px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.grid-item.grid-item-workout .inline-video-container .start-frame {
+		width: 346px;
+		height: 524px;
+		background-size: 346px 524px;
+	}
+}
+.grid-item.grid-item-workout .inline-video-container .start-frame {
+    background-repeat: no-repeat;
+    background-image:url(../image/workouts_startframe__cfdg94b0n7iu_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .grid-item.grid-item-workout .inline-video-container .start-frame {
+        background-image:url(../image/workouts_startframe__cfdg94b0n7iu_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .grid-item.grid-item-workout .inline-video-container .start-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/workouts_startframe__cfdg94b0n7iu_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .grid-item.grid-item-workout .inline-video-container .start-frame {
+        background-image:url(../image/workouts_startframe__cfdg94b0n7iu_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .grid-item.grid-item-workout .inline-video-container .start-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/workouts_startframe__cfdg94b0n7iu_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .grid-item.grid-item-workout .inline-video-container .start-frame {
+        background-image:url(../image/workouts_startframe__cfdg94b0n7iu_small_2x.jpg)
+    }
+}
+
+.grid-item.grid-item-workout .inline-video-container .end-frame {
+    background-repeat: no-repeat;
+    background-image:url(../image/workouts_endframe__fpeezijokj2a_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .grid-item.grid-item-workout .inline-video-container .end-frame {
+        background-image:url(../image/workouts_endframe__fpeezijokj2a_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .grid-item.grid-item-workout .inline-video-container .end-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/workouts_endframe__fpeezijokj2a_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .grid-item.grid-item-workout .inline-video-container .end-frame {
+        background-image:url(../image/workouts_endframe__fpeezijokj2a_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .grid-item.grid-item-workout .inline-video-container .end-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/workouts_endframe__fpeezijokj2a_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .grid-item.grid-item-workout .inline-video-container .end-frame {
+        background-image:url(../image/workouts_endframe__fpeezijokj2a_small_2x.jpg)
+    }
+}
+
+.family-setup-modal .family-setup-modal-image {
+    background-image: url(https://www.apple.com.cn/apple-watch-se/images/overview/family/family_setup_modal__p0c7aohylgyu_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .family-setup-modal .family-setup-modal-image {
+        background-image:url(https://www.apple.com.cn/apple-watch-se/images/overview/family/family_setup_modal__p0c7aohylgyu_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .family-setup-modal .family-setup-modal-image {
+        background-image:url(https://www.apple.com.cn/apple-watch-se/images/overview/family/family_setup_modal__p0c7aohylgyu_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .family-setup-modal .family-setup-modal-image {
+        background-image:url(https://www.apple.com.cn/apple-watch-se/images/overview/family/family_setup_modal__p0c7aohylgyu_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .family-setup-modal .family-setup-modal-image {
+        background-image: url(https://www.apple.com.cn/apple-watch-se/images/overview/family/family_setup_modal__p0c7aohylgyu_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .family-setup-modal .family-setup-modal-image {
+        background-image:url(https://www.apple.com.cn/apple-watch-se/images/overview/family/family_setup_modal__p0c7aohylgyu_small_2x.jpg)
+    }
+}
+
+
+.section-ar .ar-image {
+    background-image: url(../image/ar_tile_se__fxsa5injzomm_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ar .ar-image {
+        background-image: url(../image/ar_tile_se__fxsa5injzomm_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width:1068px) {
+    .section-ar .ar-image {
+        background-image: url(../image/ar_tile_se__fxsa5injzomm_medium.jpg)
+    }
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-ar .ar-image {
+        background-image: url(../image/ar_tile_se__fxsa5injzomm_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width:734px) {
+    .section-ar .ar-image {
+        background-image: url(../image/ar_tile_se__fxsa5injzomm_small.jpg)
+    }
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-ar .ar-image {
+        background-image: url(../image/ar_tile_se__fxsa5injzomm_small_2x.jpg)
+    }
+}
+/* 2023 09 */
+
+
+.family-setup-modal .family-setup-modal-image {
+    background-image: url(../image/family_setup_modal__et9m3u5l9oom_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .family-setup-modal .family-setup-modal-image {
+        background-image: url(../image/family_setup_modal__et9m3u5l9oom_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width:1068px) {
+    .family-setup-modal .family-setup-modal-image {
+        background-image: url(../image/family_setup_modal__et9m3u5l9oom_medium.jpg)
+    }
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .family-setup-modal .family-setup-modal-image {
+        background-image: url(../image/family_setup_modal__et9m3u5l9oom_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width:734px) {
+    .family-setup-modal .family-setup-modal-image {
+        background-image: url(../image/family_setup_modal__et9m3u5l9oom_small.jpg)
+    }
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .family-setup-modal .family-setup-modal-image {
+        background-image: url(../image/family_setup_modal__et9m3u5l9oom_small_2x.jpg)
+    }
+}
+
+
+.section-shared-compare .compare-item-s9.device .compare-item-image {
+    width: 219px;
+    height: 256px;
+    background-size: 219px 256px;
+    background-repeat: no-repeat;
+    background-image:url(../image/compare_s9__fvy7aq4vp2ie_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image:url(../image/compare_s9__fvy7aq4vp2ie_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        width: 176px;
+        height: 205px;
+        background-size: 176px 205px;
+        background-repeat: no-repeat;
+        background-image:url(../image/compare_s9__fvy7aq4vp2ie_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image:url(../image/compare_s9__fvy7aq4vp2ie_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        width: 140px;
+        height: 164px;
+        background-size: 140px 164px;
+        background-repeat: no-repeat;
+        background-image:url(../image/compare_s9__fvy7aq4vp2ie_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image:url(../image/compare_s9__fvy7aq4vp2ie_small_2x.jpg)
+    }
+}
+
+.compare-item-ultra.water-resistant .feature-item-icon {
+	width: 90px;height: 58px;background-size: 90px 58px;
+    background-image:url(../image/quicklook_water_resistant_100m__glg9gknaerqm_large.png)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-ultra.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant_100m__glg9gknaerqm_large_2x.png)}}
+.compare-item-s9.water-resistant .feature-item-icon {
+	width: 70px;height: 58px;background-size: 70px 58px;
+    background-image:url(../image/quicklook_water_resistant__cju7poexhwia_large.png)}
+.compare-item-se.water-resistant .feature-item-icon {
+	width: 70px;height: 58px;background-size: 70px 58px;
+    background-image:url(../image/quicklook_water_resistant__cju7poexhwia_large.png)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-s9.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant__cju7poexhwia_large_2x.png)}}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-se.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant__cju7poexhwia_large_2x.png)}}
+.compare-item-ultra.water-resistant .feature-item-icon {
+	width: 90px;height: 58px;background-size: 90px 58px;
+    background-image:url(../image/quicklook_water_resistant_100m__glg9gknaerqm_large.png)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-ultra.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant_100m__glg9gknaerqm_large_2x.png)}}
+.compare-item-s9.water-resistant .feature-item-icon {
+	width: 70px;height: 58px;background-size: 70px 58px;
+    background-image:url(../image/quicklook_water_resistant__cju7poexhwia_large.png)}
+.compare-item-se.water-resistant .feature-item-icon {
+	width: 70px;height: 58px;background-size: 70px 58px;
+    background-image:url(../image/quicklook_water_resistant__cju7poexhwia_large.png)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-s9.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant__cju7poexhwia_large_2x.png)}}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-se.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant__cju7poexhwia_large_2x.png)}}
+
+

@@ -1,0 +1,138 @@
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:100;
+	src:local('☺'), url("../font/sf-pro-icons_ultralight.woff2") format("woff2"), url("../font/sf-pro-icons_ultralight.woff") format("woff"), url("../font/sf-pro-icons_ultralight.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 100';
+	src:url('../font/sf-pro-icons_ultralight.eot');
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:200;
+	src:local('☺'), url("../font/sf-pro-icons_thin.woff2") format("woff2"), url("../font/sf-pro-icons_thin.woff") format("woff"), url("../font/sf-pro-icons_thin.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 200';
+	src:url('../font/sf-pro-icons_thin.eot');
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:300;
+	src:local('☺'), url("../font/sf-pro-icons_light.woff2") format("woff2"), url("../font/sf-pro-icons_light.woff") format("woff"), url("../font/sf-pro-icons_light.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 300';
+	src:url('../font/sf-pro-icons_light.eot');
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:500;
+	src:local('☺'), url("../font/sf-pro-icons_medium.woff2") format("woff2"), url("../font/sf-pro-icons_medium.woff") format("woff"), url("../font/sf-pro-icons_medium.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 500';
+	src:url('../font/sf-pro-icons_medium.eot');
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:600;
+	src:local('☺'), url("../font/sf-pro-icons_semibold.woff2") format("woff2"), url("../font/sf-pro-icons_semibold.woff") format("woff"), url("../font/sf-pro-icons_semibold.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 600';
+	src:url('../font/sf-pro-icons_semibold.eot');
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:700;
+	src:local('☺'), url("../font/sf-pro-icons_bold.woff2") format("woff2"), url("../font/sf-pro-icons_bold.woff") format("woff"), url("../font/sf-pro-icons_bold.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 700';
+	src:url('../font/sf-pro-icons_bold.eot');
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:800;
+	src:local('☺'), url("../font/sf-pro-icons_heavy.woff2") format("woff2"), url("../font/sf-pro-icons_heavy.woff") format("woff"), url("../font/sf-pro-icons_heavy.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 800';
+	src:url('../font/sf-pro-icons_heavy.eot');
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:900;
+	src:local('☺'), url("../font/sf-pro-icons_black.woff2") format("woff2"), url("../font/sf-pro-icons_black.woff") format("woff"), url("../font/sf-pro-icons_black.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 900';
+	src:url('../font/sf-pro-icons_black.eot');
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:400;
+	src:url('../font/sf-pro-icons_regular.eot');
+	src:local('☺'), url("../font/sf-pro-icons_regular.woff2") format("woff2"), url("../font/sf-pro-icons_regular.woff") format("woff"), url("../font/sf-pro-icons_regular.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+

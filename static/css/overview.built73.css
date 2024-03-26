@@ -1,0 +1,58 @@
+
+@media only screen and (max-width: 1068px) { 
+	.l_nowrap { white-space: normal; }
+}
+
+@media only screen and (min-width: 1069px) { 
+	.l_nowrap {
+		white-space: nowrap;
+	}
+}
+
+/*icons 布局4+3*/
+
+.section-applecare .contentnav-container {
+	max-width: 980px;
+	margin: 155px auto 0;
+}
+
+@media only screen and (max-width:1068px) {
+	.section-applecare .contentnav-container {
+		max-width: 692px;
+		margin: 96px auto 0;
+	}
+}
+
+@media only screen and (max-width:735px) {
+	.section-applecare .contentnav-container {
+		max-width: 190px;
+		margin: 56px auto 0;
+	}
+}
+
+
+.section-applecare .contentnav-items {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-row-gap: 140px;
+    row-gap: 140px;
+    grid-column-gap: 8%;
+    column-gap:8%
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-applecare .contentnav-items {
+        grid-row-gap: 100px;
+        row-gap: 100px;
+        grid-column-gap: 5%;
+        column-gap: 5%;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-applecare .contentnav-items {
+        grid-template-columns: repeat(1, 1fr);
+        grid-row-gap: 60px;
+        row-gap:60px
+    }
+}

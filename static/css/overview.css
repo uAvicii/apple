@@ -1,0 +1,1351 @@
+.job-creation .section-cta .more::after{
+     top: auto;
+  }
+
+.job-creation .section-cta .more-two::after{
+    top: -1px;
+}
+
+/*add for gallery-china*/
+.section-app-economy {
+    background: #f7f7f7;
+    padding-top: 156px;
+    padding-bottom: 107px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-app-economy {
+        padding-top: 93px;
+        padding-bottom: 33px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-app-economy {
+        padding-top:94px;
+        padding-bottom: 43px;
+    }
+}
+.gallery-section .gallery-supplier-captions-china {
+    position: relative;
+    margin-top: 40px;
+}
+
+/*add for cards-list*/
+.section-economy  .cards-list-container-china .cards-list {
+    list-style: none;
+    white-space: nowrap;
+    margin: 116px 25px 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-economy  .cards-list-container-china .cards-list {
+        margin: 72px 5px 0
+    }
+}
+
+.section-economy  .cards-list-container-china .cards-list li {
+    width: 350px;
+    height: 508px;
+    margin: 0 25px 8px;
+    padding: 30px 35px 0 35px;
+    background: #fff;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.06);
+    box-sizing: border-box;
+    vertical-align: top;
+    cursor: pointer;
+    position: relative
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-economy  .cards-list-container-china .cards-list li {
+        margin: 0 12px 8px 13px;
+        width: 288px;
+        height: 498px;
+        padding: 22px 22px 0 22px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-economy  .cards-list-container-china .cards-list li {
+        margin: 0 5px 8px
+    }
+}
+
+.section-economy  .cards-list-container-china .cards-list .state-heading {
+    font-size: 32px;
+    line-height: 1.09375;
+    font-weight: 400;
+    letter-spacing: .011em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+    padding-bottom: 12px
+}
+
+
+.section-economy  .cards-list-container-china .cards-list .state-heading:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-economy  .cards-list-container-china .cards-list .state-heading {
+        font-size: 28px;
+        line-height: 1.1073;
+        font-weight: 400;
+        letter-spacing: .012em;
+        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+    .section-economy  .cards-list-container-china .cards-list .state-heading:lang(zh-CN) {
+        font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}
+
+.section-economy  .cards-list-container-china .cards-list .statistic-heading {
+    font-size: 24px;
+    line-height: 1.20849;
+    font-weight: 400;
+    letter-spacing: .015em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    color: #666
+}
+.section-economy  .cards-list-container-china .cards-list .statistic-heading:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+@media only screen and (max-width: 1068px) {
+    .section-economy  .cards-list-container-china .cards-list .statistic-heading {
+        font-size: 22px;
+        line-height: 1.22739;
+        font-weight: 400;
+        letter-spacing: .016em;
+        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+    .section-economy  .cards-list-container-china .cards-list .statistic-heading:lang(zh-CN) {
+        font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}
+
+.section-economy  .cards-list-container-china .cards-list td .statistic-caption {
+    font-size: 12px;
+    line-height: 1.25;
+    font-weight: 400;
+    letter-spacing: 0em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    line-height: 1.4;
+    margin-top: 0;
+    padding-right: 10px;
+    white-space: normal;
+    color: #666
+}
+.section-economy  .cards-list-container-china .cards-list td .statistic-caption:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.section-economy  .cards-list-container-china .cards-list p.state-facts {
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    white-space: normal
+}
+.section-economy  .cards-list-container-china .cards-list p.state-facts:lang(zh) {
+    letter-spacing: 0em
+}
+
+.section-economy  .cards-list-container-china .cards-list p.state-facts:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.section-economy  .cards-list-container-china .cards-list table {
+    margin-top: 15px
+}
+
+.section-economy  .cards-list-container-china .cards-list tr {
+    margin-bottom: 0;
+    display: block
+}
+
+.section-economy  .cards-list-container-china .cards-list td {
+    width: 135px;
+    vertical-align: top;
+    padding-bottom: 17px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-economy  .cards-list-container-china .cards-list td {
+        width: 118px
+    }
+}
+
+.section-economy  .cards-list-container-china .cards-list td.bottom-left {
+    padding-bottom: 0
+}
+
+.section-economy  .cards-list-container-china .cards-list td.bottom-right {
+    padding-bottom: 42px;
+    height: 45px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-economy  .cards-list-container-china .cards-list td.bottom-right {
+        padding-bottom: 46px
+    }
+}
+
+.section-economy  .cards-list-container-china .cards-list .state-apps {
+    border-top: 2px solid rgba(0, 0, 0, 0.05);
+    position: absolute;
+    top: 344px;
+    bottom: 0;
+    left: 35px;
+    right: 35px;
+    margin-top: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-economy  .cards-list-container-china .cards-list .state-apps {
+        top: 351px;
+        left: 22px;
+        right: 22px
+    }
+}
+
+.section-economy  .cards-list-container-china .cards-list .state-apps p {
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    white-space: normal;
+    margin-top: 21px
+}
+.section-economy  .cards-list-container-china .cards-list .state-apps p:lang(zh) {
+    letter-spacing: 0em
+}
+
+.section-economy  .cards-list-container-china .cards-list .state-apps p:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-economy  .cards-list-container-china .cards-list .state-apps p {
+        margin-top: 19px
+    }
+}
+
+.section-economy  .cards-list-container-china .cards-list .state-apps .app {
+    float: left;
+    width: 65px;
+    margin-top: 0
+}
+
+.section-economy  .cards-list-container-china .cards-list .state-apps .app a {
+    display: block
+}
+
+.section-economy  .cards-list-container-china .cards-list .state-apps .app.middle {
+    width: 150px;
+    box-sizing: border-box;
+    padding: 0 42px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-economy  .cards-list-container-china .cards-list .state-apps .app.middle {
+        width: 114px;
+        padding: 0 25px
+    }
+}
+
+.section-economy  .cards-list-container-china .cards-list .state-apps figure {
+    margin: 14px auto 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-economy  .cards-list-container-china .cards-list .state-apps figure {
+        margin: 12px auto 0
+    }
+}
+
+.section-economy  .cards-list-container-china .cards-list .state-apps figcaption {
+    font-size: 11px;
+    line-height: 1.45455;
+    font-weight: 400;
+    letter-spacing: .005em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    line-height: 1.4;
+    text-align: center;
+    margin-top: 6px;
+    white-space: normal;
+    color: #666
+}
+.section-economy  .cards-list-container-china .cards-list .state-apps figcaption:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+
+/*add for gallery-china*/
+.card-gallery-china {
+    -webkit-tap-highlight-color: transparent
+}
+
+.card-gallery-china.build-in .horizontal-slider {
+    opacity: 0.9999
+}
+
+.card-gallery-china .cards-list-container {
+    overflow: hidden
+}
+
+.touch .card-gallery-china .cards-list-container, .no-js .card-gallery-china .cards-list-container {
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch
+}
+
+.card-gallery-china.build-in .cards-list li {
+    opacity: 0.9999;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
+}
+
+.card-gallery-china .cards-list-container {
+    overflow: hidden
+}
+
+.touch .card-gallery-china .cards-list-container, .no-js .card-gallery-china .cards-list-container {
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch
+}
+
+.card-gallery-china .cards-list {
+    list-style: none;
+    white-space: nowrap
+}
+
+.card-gallery-china .cards-list li {
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    opacity: 0.0001;
+    -webkit-transform: translate3d(90px, 0, 0);
+    transform: translate3d(90px, 0, 0)
+}
+
+.no-js .card-gallery-china .cards-list li, .ie .card-gallery-china .cards-list li {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none
+}
+
+.card-gallery-china .slider-wrapper {
+    padding: 68px 20px 0;
+    margin: 0 auto;
+    width: 85%;
+    max-width: 652px
+}
+
+@media only screen and (max-width: 1068px) {
+    .card-gallery-china .slider-wrapper {
+        padding: 58px 20px 0;
+        max-width: 463px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .card-gallery-china .slider-wrapper {
+        padding: 48px 20px 0
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .card-gallery-china .slider-wrapper {
+        max-width: 463px
+    }
+}
+
+.card-gallery-china .slider-wrapper:hover .ac-slider-thumb {
+    border: 2px solid #666
+}
+
+.touch .card-gallery-china .slider-wrapper {
+    display: none
+}
+
+.card-gallery-china .horizontal-slider {
+    height: 2px;
+    opacity: 0.0001;
+    background: none;
+    cursor: pointer;
+    margin: 0
+}
+
+.touch .card-gallery-china .horizontal-slider, .no-js .card-gallery-china .horizontal-slider {
+    display: none
+}
+
+.card-gallery-china .horizontal-slider .ac-slider-runnable-track {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: #dbdbdb
+}
+
+.card-gallery-china .horizontal-slider .ac-slider-thumb {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin-top: -12px;
+    height: 20px;
+    width: 20px;
+    background: #f7f7f7;
+    border-radius: 20px;
+    border: 2px solid #dbdbdb;
+    -webkit-transition: border-color 0.3s;
+    transition: border-color 0.3s;
+    cursor: pointer;
+    -webkit-animation-name: pulse;
+    animation-name: pulse;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-duration: 0.8s;
+    animation-duration: 0.8s
+}
+.section-hero .section-content .hero-content{
+    color: #000;
+}
+.section-employees{
+    padding: 0px 0px;
+
+}
+.section-employees .gallery-section-job{
+    margin-top: 0px;
+}
+.section-suppliers .gallery-section{
+    height: 802px;
+}
+@media only screen and (max-width: 1068px){
+    .section-suppliers .gallery-section{
+    height: 548px;
+}
+.section-suppliers .gallery-section-people{
+    height: 548px;
+}
+}
+@media only screen and (max-width: 735px){
+    .section-suppliers .gallery-section{
+    height: 467px;
+}
+}
+.section-employees .gallery-section .gallery-employee-captions{
+    margin-top: -800px;
+}
+@media only screen and (max-width: 735px){
+    .section-employees .gallery-section .gallery-employee-captions{
+    margin-top: -400px;
+}
+}
+.section-employees .gallery-section .gallery-employee-captions-job{
+    margin-top: -750px;
+}
+.section-employees .gallery-section .gallery-employee-captions{
+    margin-left: 1em;
+}
+@media only screen and (max-width: 1068px){
+    .section-employees .gallery-section .gallery-employee-captions-job,.section-employees .gallery-section .gallery-employee-captions{
+    margin-top: -600px;
+}
+.section-employees .gallery-section .gallery-employee-captions{
+    margin-left: 0.6em;
+}
+}
+@media only screen and (max-width: 735px){
+    .section-employees .gallery-section .gallery-employee-captions-job,.section-employees .gallery-section .gallery-employee-captions{
+    margin-top: 24px;
+}
+.section-employees .gallery-section .gallery-employee-captions{
+    margin-left: 0;
+}
+}
+.section-employees div.section-content{
+    margin-top: 126px;
+}
+@media only screen and (max-width: 1068px){
+    .section-employees div.section-content{
+    margin-top: 74px;
+}
+}
+@media only screen and (max-width: 735px){
+    .section-employees div.section-content{
+    margin-top: -40px;
+}
+}
+.section-suppliers .gallery-section .gallery-supplier-captions{
+    margin-top: -3em;
+    margin-left: 0.5em;
+}
+.section-employees .gallery-section-job,.section-employees .gallery-section{
+    height: 845px;
+}
+@media only screen and (max-width: 1068px){
+    .section-employees .gallery-section-job,.section-employees .gallery-section{
+    height: 634px;
+}
+}
+@media only screen and (max-width: 735px){
+    .section-employees .gallery-section{
+    height: 492px;
+}
+.section-employees .gallery-section-job{
+    height:701px;
+}
+}
+.section-employees .gallery-section .dotnav{
+    position: relative;
+    top: 5px;
+}
+.section-suppliers div.section-content.section-china-csr{
+    margin-top: 153px;
+    text-align: center;
+}
+
+.section-suppliers div.section-content.section-china-csr .vertical-center-cell p{
+    margin-top: 19px;
+}
+.number-caption-china{
+    text-align: center;
+}
+.section-suppliers {
+    background-color: #fff;
+}
+.number-headline-china{
+    text-align: left;
+}
+@media only screen and (max-width: 735px){
+    .number-headline-china{
+    text-align: center;
+}
+}
+.number-headline,.number-caption{
+    text-align: center;
+}
+
+.caption-headline{
+    color: #000;
+    font-size: 16px;
+
+}
+.caption-item,.caption-copy,.caption-headline .pipe,.section-hero .hero-caption .caption-headline .pipe{
+    font-size: 16px;
+    color: #000;
+}
+.section-suppliers .bordered-section p.intro,.section-suppliers .number-caption,.section-china-csr p.intro{
+    font-size: 20px;
+}
+@media only screen and (max-width: 1068px){
+    .section-suppliers .bordered-section p.intro,.section-suppliers .number-caption,.section-china-csr p.intro{
+    font-size: 18px;
+}
+}
+@media only screen and (max-width: 735x){
+    .section-suppliers .bordered-section p.intro,.section-suppliers .number-caption,.section-china-csr p.intro{
+    font-size: 19px;
+}
+}
+span.pf{
+    font-family: "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 14px;
+}
+span.pfg{
+    font-family: "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+    vertical-align: 1px
+}
+span.pfp{
+    font-family: "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 19px;
+    vertical-align: 1px
+}
+@media only screen and (max-width: 1068px){
+    span.pf{
+    font-family: "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 14px;
+    vertical-align: 0px
+}
+span.pfp{
+    font-family: "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 18px;
+    vertical-align: 1px
+}
+span.pfg{
+    font-family: "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+    vertical-align: 1px
+}
+}
+@media only screen and (max-width: 735px){
+    span.pf{
+    font-family: "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 14px;
+    vertical-align: 0px
+}
+span.pfg{
+    font-family: "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+    vertical-align: 1px
+}
+span.pfp{
+    font-family: "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 17px;
+    vertical-align: 1px
+}
+}
+span.pipe{
+    vertical-align: 2px;
+}
+.number-caption-left{
+    text-align: left;
+    font-size: 18px;
+}
+@media only screen and (max-width: 735px){
+    .number-caption-left{
+    text-align: center;
+    font-size: 16px;
+}
+}
+.hero-caption .caption-headline,.hero-caption .caption-copy{
+    font-size: 12px;
+}
+
+@media only screen and (max-width: 1068px){
+	.hero-caption .caption-headline,.hero-caption .caption-copy{
+    	font-size: 13px;
+	}
+}
+
+@media only screen and (max-width: 735px){
+    .section-suppliers{
+        padding-top: 35px;
+    }
+    .section-employees .gallery-section{
+        height: 548px;
+    }
+    .section-employees .gallery-section-job{
+    height:701px;
+}
+}
+.section-suppliers .number-caption-china{
+    font-size: 32px
+}
+@media only screen and (max-width: 1068px){
+    .section-suppliers .number-caption-china{
+    font-size: 28px
+}
+}
+@media only screen and (max-width: 735px){
+   .section-suppliers .number-caption-china{
+    font-size: 24px
+}
+}
+@media only screen and (max-width: 1068px){
+    .caption-item-en{
+        margin-left: -3em;
+    }
+}
+@media only screen and (max-width: 735px){
+    .caption-item-en{
+        margin-left: 0em;
+    }
+}
+.section-headline-china{
+    font-size: 44px;
+}
+@media only screen and (max-width: 1068px){
+    .section-headline-china{
+    font-size: 36px;
+}
+}
+@media only screen and (max-width: 1068px){
+    .section-headline-china{
+    font-size: 27px;
+}
+}
+.section-suppliers .gallery-section .gallery-supplier-captions-people{
+    margin-top: -3em;
+}
+.number-caption-left-three{
+    text-align: left
+}
+@media only screen and (max-width: 735px){
+    .number-caption-left-three{
+        text-align: center;
+}}
+
+/* add the fix css for index */
+.product-elevated:lang(zh) {
+    font-size: 48px;
+    line-height: 1.08365;
+    font-weight: 600;
+    letter-spacing: -.003em;
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif";
+}
+@media only screen and (max-width: 735px){
+    .product-elevated:lang(zh) {
+    font-size: 40px;
+}
+}
+@media only screen and (max-width: 375px){
+    .product-elevated:lang(zh) {
+    font-size: 30px;
+}
+.section-report:lang(zh){
+    font-size: 24px;
+}
+}
+
+/* Gallery nav layout for small */
+@media only screen and (max-width: 735px) {
+    .gallery-section .paddlenav-arrow-previous {
+        margin-top:-190px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .gallery-section .paddlenav-arrow-next {
+        margin-top:-190px;
+    }
+}
+
+html[lang=zh-CN] .intro-hero:lang(zh) {
+    font-size: 21px;
+    line-height: 1.38105;
+    font-weight: 400;
+    letter-spacing: .011em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+h2.section-headline.section-headline-china.large-7.large-offset-2.small-12.small-offset-0 { margin-top:2.5em;}
+
+@media only screen and (max-width: 1068px) {
+    html[lang=zh-CN] .intro-hero:lang(zh) {
+        font-size: 19px;
+    }
+
+    .section-hero .hero-caption .caption-wrapper {
+        margin-left: 20%;
+    }
+
+    .section-employees .gallery-employee-captions-job .gallery-caption .caption-item {
+        width: 40.3333%;
+    }
+
+    .section-employees #gallery-employee-captions #employee-caption-1 .caption-item {
+        left: 2%;
+    }
+
+    .section-suppliers .gallery-section .gallery-supplier-captions .caption-headline {
+        font-size: 13px;
+    }
+
+    #gallery-supplier-captions-people.gallery-supplier-captions.gallery-supplier-captions-people {
+        margin-top: -46px;
+    }
+    
+    h2.section-headline.section-headline-china.large-7.large-offset-2.small-12.small-offset-0 { margin-top:3em;}
+}
+@media only screen and (max-width: 735px){
+    html[lang=zh-CN] .intro-hero:lang(zh) {
+        font-size: 18px;
+        line-height: 1.38105;
+        font-weight: 300;
+    }
+    
+    .caption-item.row.large-7.large-push-2.small-push-0.small-9.medium-push-0.medium-8,
+    .caption-item.row.large-7.large-push-2.small-push-0.small-9,
+    .caption-item.row.large-7.large-push-2.small-push-0.small-10,
+    .caption-item.row.large-7.large-push-2.small-push-0.small-12 {
+        margin-left: 2%
+    }
+    
+     .section-employees #gallery-employee-captions #employee-caption-1 .caption-item {
+        left: 0;
+    }
+    
+    #gallery-supplier-captions-people.gallery-supplier-captions.gallery-supplier-captions-people {
+        margin-top: -36px;
+    }
+    .section-hero .hero-caption{
+        margin-bottom: -16px;
+    }
+    
+    h2.section-headline.section-headline-china.large-7.large-offset-2.small-12.small-offset-0 { margin-top:3.5em;}
+
+}
+html[lang=zh-CN] .hero-caption .caption-copy {
+    margin-top: 0px;
+}
+
+.caption-item, .caption-copy, .caption-headline .pipe, .section-hero .hero-caption .caption-headline .pipe {
+    font-size: 14px;
+    color: #000;
+}
+
+.section-suppliers .bordered-section p.intro, .section-suppliers .number-caption, .section-china-csr p.intro {
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-suppliers .bordered-section p.intro, .section-suppliers .number-caption, .section-china-csr p.intro {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-suppliers .bordered-section p.intro, .section-suppliers .number-caption, .section-china-csr p.intro {
+        font-size: 19px;
+    }
+}
+
+.section-employees .gallery-section .gallery-employee-captions {
+    margin-top: -790px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-employees .gallery-section .gallery-employee-captions {
+        margin-top: -600px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-employees .gallery-section .gallery-employee-captions {
+        margin-top: 24px;
+        width: 87.5%;
+        margin-left: 5%
+    }
+}
+
+.gallery-employee-captions .employee-caption-1 {
+    margin-left: 850px;
+    /*margin-top: -34px;*/
+}
+
+@media only screen and (max-width: 1068px) {
+    .gallery-employee-captions .employee-caption-1 {
+        /*margin-top: 0px;*/
+        margin-left: 600px;
+    }
+}
+
+.gallery-section-job #gallery-employee-captions .caption-copy {
+    font-size: 14px;
+}
+
+.section-suppliers .gallery-section .gallery-supplier-captions, .gallery-supplier-captions-people {
+    margin-left: 0.5em;
+}
+
+@media only screen and (max-width: 1068px) {
+    #gallery-supplier-captions-people {
+        margin-top: -55px;
+    }
+}
+
+p.caption-headline-white {
+    color: #fff;
+}
+
+p.caption-headline-weight {
+    font-weight: 400
+}
+@media only screen and (max-width: 735px){
+    p.caption-headline-weight {
+    font-size: 12px;
+    line-height: 1.33341;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    }
+}
+@media only screen and (max-width: 735px){
+.section-employees .gallery-section-job{
+    height:765px;
+}
+.section-employees .gallery-employee-captions-job .gallery-caption .caption-item {
+    width: 100%;
+
+}
+.section-employees .gallery-section{
+    height: 774px;
+}
+.gallery-employee-captions .employee-caption-1 {
+        margin-left: 0px;
+}
+.caption-copy-color{
+    color: #333;
+}
+}
+html[lang=zh-CN] .number-caption-fsz{
+    font-size: 32px;
+}
+@media only screen and (max-width: 1068px){
+    html[lang=zh-CN] .number-caption-fsz{
+    font-size: 28px;
+}
+}
+@media only screen and (max-width: 735px){
+    html[lang=zh-CN] .number-caption-fsz{
+    font-size: 24px;
+}
+}
+html[lang=zh-CN] .gallery-section-employee{
+    margin-top: 132px;
+}
+html[lang=zh-CN] .section-suppliers{
+    padding-top: 125px;
+}
+html[lang=zh-CN] .gallery-section-planet{
+    margin-top: 131px;
+}
+.gallery-section-tech-partnership{
+    margin-top: 155px;
+}
+.gallery-section-people{
+    margin-top: 131px;
+}
+.section-cta.section{
+    padding-top: 23px;
+}
+.bordered-section-yuto{
+    margin-top: 156px;
+}
+
+@media only screen and (max-width: 1068px){
+    html[lang=zh-CN] .gallery-section-employee{
+    margin-top: 84px;
+}
+html[lang=zh-CN] .section-suppliers{
+    padding-top: 74px;
+}
+html[lang=zh-CN] .gallery-section-planet{
+    margin-top: 83px;
+}
+.gallery-section-tech-partnership{
+    margin-top: 105px;
+}
+.gallery-section-people{
+    margin-top: 83px;
+}
+.section-suppliers div.section-content.section-china-csr{
+    margin-top: 102px;
+}
+.bordered-section-yuto{
+    margin-top: 106px;
+}
+.section-cta.section{
+    padding-top: 15px;
+}
+}
+
+@media only screen and (max-width: 735px){
+.section-employees .gallery-section-employee{
+    height: 612px;
+}
+.section-hero .hero-content {
+        text-align: left;
+    }
+ .section-hero .product-elevated{
+     text-align: center;
+ }
+.section-hero .hero-content p.intro{
+    text-align: center;
+}
+.section-hero .hero-caption .caption-wrapper {
+        margin-left: 0;
+    }
+.section-suppliers .bordered-section-people{
+    margin-bottom: 35px;
+}
+div.gallery-section.gallery-section-people{
+    margin-bottom: -87px;
+}
+.bordered-section {
+    margin-top: 156px;
+    margin-bottom: 35px;
+}
+html[lang=zh-CN] .gallery-section-planet{
+    margin-top: 131px;
+}
+.section-suppliers .bordered-section{
+    margin-top: 95px;
+    margin-bottom: 92px;
+}
+html[lang=zh-CN] .number-caption-number{
+    margin-top: 10px;
+}
+html[lang=zh-CN] .number-caption-numberz{
+    margin-top: 0px;
+}
+html[lang=zh-CN] .gallery-section-employee{
+    margin-top: 94px;
+}
+html[lang=zh-CN] .section-suppliers{
+    padding-top: 6px;
+}
+html[lang=zh-CN] .gallery-section-planet{
+    margin-top: 93px;
+}
+html[lang=zh-CN] .section-suppliers .gallery-section-tech-partnership{
+    margin-top: 105px;
+}
+.gallery-section-people{
+    margin-top: 83px;
+}
+.section-suppliers div.section-content.section-china-csr{
+    padding-top: 28px;
+    margin-top: 152px;
+}
+.bordered-section-yuto{
+    margin-top: 106px;
+}
+.section-cta.section{
+    padding-top: 2px;
+}
+}
+.section-suppliers .number-caption-china{
+    font-size: 32px
+}
+@media only screen and (max-width: 1068px){
+    .section-suppliers .number-caption-china{
+    font-size: 28px
+}
+}
+@media only screen and (max-width: 735px){
+   .section-suppliers .number-caption-china{
+    font-size: 24px
+}
+}
+
+div.badge-content.large-11.small-12.last.years { margin-top: -0.65em; }
+
+@media only screen and (max-width: 1068px){
+	div.badge-content.large-11.small-12.last.years { margin-top: -0.35em; }
+}
+@media only screen and (max-width: 735px){
+   div.badge-content.large-11.small-12.last.years { margin-top: 1em; }
+}
+
+/*ie*/
+.ie .section-hero .section-content .hero-content *{opacity: 1;}
+
+
+
+
+
+
+/* section-china-csr report start*/
+.section-china-csr .intro{
+    margin-left: auto;
+    margin-right: auto;
+}
+.cta_report_button {
+    margin-top: 40px;
+}
+@media only screen and (max-width: 1068px){
+    .cta_report_button {
+        margin-top: 30px;
+    }
+}
+
+.cta_report_button .button-neutral{
+    display: block;
+    width: 280px;
+    height: 45px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 30px;
+    z-index: 100;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cta_report_button .btn {
+    background: #ffffff;
+    font-size: 17px;
+    text-align: center;
+    position: absolute;
+    color: #333;
+    top: 1px;
+    left: 1px;
+    width: 278px;
+    line-height: 43px;
+    border-radius: 26px;
+}
+
+.cta_report_button .button-neutral .gradient_bg,
+.cta_report_button .button-neutral .gradient_bg:after {
+    display: block;
+    content: "";
+    width: 280px;
+    height: 45px;
+    background: #1d1d1f;
+
+}
+
+
+@media only screen and (min-width: 1068px){
+    .cta_report_button .button-neutral:hover .btn {
+        top: 2px;
+        left: 2px;
+        width: 276px;
+        line-height: 41px;
+    }
+
+    .cta_report_button .button-neutral:hover .gradient_bg,
+    .cta_report_button .button-neutral:hover .gradient_bg:after {
+        background: #507fec;
+        background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #507fec), color-stop(18%, #507fec), color-stop(42%, #45d56d), color-stop(62%, #6cc6e8), color-stop(82%, #507fec), color-stop(100%, #507fec));
+        background: -webkit-linear-gradient(-45deg, #507fec 0%, #507fec 18%, #45d56d 42%, #6cc6e8 62%, #507fec 82%, #507fec 100%);
+        background: -moz-linear-gradient(-45deg, #507fec 0%, #507fec 18%, #45d56d 42%, #6cc6e8 62%, #507fec 82%, #507fec 100%);
+        background: -o-linear-gradient(-45deg, #507fec 0%, #507fec 18%, #45d56d 42%, #6cc6e8 62%, #507fec 82%, #507fec 100%);
+        background: -ms-linear-gradient(-45deg, #507fec 0%, #507fec 18%, #45d56d 42%, #6cc6e8 62%, #507fec 82%, #507fec 100%);
+        
+    }
+    .cta_report_button .button-neutral:hover .gradient_bg {
+        animation: 2s anim linear infinite;
+    }
+    .cta_report_button .button-neutral:hover .gradient_bg:after {
+        transform: translateX(-280px);
+    }
+    @keyframes anim {
+        0% {
+            transform: translateX(0px);
+        }
+        100% {
+            transform: translateX(280px);
+        }
+    }
+
+}
+
+@media only screen and (min-width: 735px) and (max-width: 1068px){
+    .cta_report_button .button-neutral{
+        width: 250px;
+    }
+
+    .cta_report_button .btn {
+        width: 248px;
+    }
+
+    .cta_report_button .button-neutral .gradient_bg,
+    .cta_report_button .button-neutral .gradient_bg:after {
+        display: block;
+        content: "";
+        width: 250px;
+
+    }
+
+    .cta_report_button .button-neutral:hover .btn {
+        width: 246px;
+        top: 2px;
+        left: 2px;
+        line-height: 41px;
+    }
+
+    .cta_report_button .button-neutral:hover .gradient_bg,
+    .cta_report_button .button-neutral:hover .gradient_bg:after {
+        background: #507fec;
+        background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #507fec), color-stop(18%, #507fec), color-stop(42%, #45d56d), color-stop(62%, #6cc6e8), color-stop(82%, #507fec), color-stop(100%, #507fec));
+        background: -webkit-linear-gradient(-45deg, #507fec 0%, #507fec 18%, #45d56d 42%, #6cc6e8 62%, #507fec 82%, #507fec 100%);
+        background: -moz-linear-gradient(-45deg, #507fec 0%, #507fec 18%, #45d56d 42%, #6cc6e8 62%, #507fec 82%, #507fec 100%);
+        background: -o-linear-gradient(-45deg, #507fec 0%, #507fec 18%, #45d56d 42%, #6cc6e8 62%, #507fec 82%, #507fec 100%);
+        background: -ms-linear-gradient(-45deg, #507fec 0%, #507fec 18%, #45d56d 42%, #6cc6e8 62%, #507fec 82%, #507fec 100%);    
+    }
+    .cta_report_button .button-neutral:hover .gradient_bg {
+        animation: 2s anim linear infinite;
+    }
+    .cta_report_button .button-neutral:hover .gradient_bg:after {
+        transform: translateX(-250px);
+    }
+    @keyframes anim {
+        0% {
+            transform: translateX(0px);
+        }
+        100% {
+            transform: translateX(250px);
+        }
+    }
+
+}
+
+
+@media only screen and (max-width: 734px){
+    .cta_report_button .button-neutral{
+        width: 240px;
+    }
+    .cta_report_button .btn{
+        width: 238px;
+    }
+    .cta_report_button .button-neutral .gradient_bg,
+    .cta_report_button .button-neutral .gradient_bg:after {
+        width: 240px;
+
+    }
+}
+
+
+.drawer {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    overflow: hidden;
+    padding: 70px 0 0;
+}
+
+@media only screen and (max-width: 1068px) {
+    .drawer {
+        padding:50px 0 30px
+    }
+}
+
+.drawer .drawer-toggle {
+    display: block;
+    position:relative;
+    width: 150px;
+    height: 26px;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+.drawer .drawer-toggle .drawer-copy {
+    position: relative;
+    color: #06c;
+    background: #fff;
+    padding:0 18px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .drawer .drawer-toggle .drawer-copy {
+        padding:0 30px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .drawer .drawer-toggle .drawer-copy {
+        padding:0 18px
+    }
+}
+
+
+.drawer .drawer-toggle:focus .drawer-copy, .drawer .drawer-toggle:hover .drawer-copy {
+    text-decoration:underline
+}
+
+
+.drawer [data-drawer-container]{
+    overflow: hidden;
+    transition: all .5s ease;
+}
+
+.drawer [data-drawer-container].opened .hide{
+    opacity: 1;
+}
+[data-drawer-content].hide{
+    display: none;
+    opacity: 0;
+    transition: all .6s ease;
+    -webkit-transition: all .6s ease;
+    -moz-transition: all .6s ease;
+    -o-transition: all .6s ease;
+    -ms-transition: all .6s ease;
+}
+
+.drawer .drawer-toggle .drawer-copy{
+    opacity: 0;
+    transition: opacity 1s ease;
+    position: absolute;
+    left: 50%;
+    right: 0;
+    top: 0;
+    background: #fff;
+    margin-left:  auto;
+    margin-right: auto;
+    width: 150px;
+    transform: translateX(-50%);
+}
+.drawer-toggle .drawer-copy.drawer-copy-up{
+        opacity: 1;
+        z-index: 1;
+}
+
+.drawer-toggle .drawer-copy.drawer-copy-down{
+        opacity: 0;
+        z-index: 0;
+}
+
+
+
+.reports-grid {
+    list-style: none;
+    margin-left: 0;
+    margin-top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    padding:14px 0 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .reports-grid {
+        padding:16px 0 0
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .reports-grid {
+        padding: 10px 0 0;
+        flex-direction:column
+    }
+}
+
+html.text-zoom .reports-grid {
+    word-break:break-all
+}
+
+.reports-grid .report-list-item {
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    margin-top: 18px;
+}
+
+@media only screen and (min-width: 1069px) {
+    .reports-grid .report-list-item p {
+        font-size: 20px;
+        line-height: 1.381002381;
+        font-weight: 400;
+        letter-spacing: .011em;
+        
+    }
+}
+
+@media only screen and (min-width: 1069px) and(max-width: 734px) {
+    .reports-grid .report-list-item p {
+        font-size: 19px;
+        line-height: 1.4211026316;
+        font-weight: 400;
+        letter-spacing: .012em;
+    }
+
+}
+
+.reports-grid .report-list-item p + p {
+    margin-top:0
+}
+
+.section-suppliers div.section-content.section-china-csr .section-reports-previous p{
+    margin-top: 0;
+}
+
+
+/* section-china-csr report end*/
+
+
+
+

@@ -1,0 +1,155 @@
+.page-geniusbar .image-retail-geniusbar-genius { background-image:url("../image/genius_large.jpg"); background-size:980px 601px; width:980px; height:601px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-genius { background-image:url("../image/genius_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-geniusbar .image-retail-geniusbar-genius { background-image:url("../image/genius_medium.jpg"); background-size:693px 425px; width:693px; height:425px; }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-genius { background-image:url("../image/genius_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  .page-geniusbar .image-retail-geniusbar-genius { background-image:url("../image/genius_small.jpg"); background-size:737px 452px; width:737px; height:452px; }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-genius { background-image:url("../image/genius_small_2x.jpg"); }
+}
+
+.page-geniusbar .image-retail-geniusbar-it_deployment { background-image:url("../image/it_deployment_large.jpg"); background-size:1070px 439px; width:1070px; height:439px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-it_deployment { background-image:url("../image/it_deployment_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-geniusbar .image-retail-geniusbar-it_deployment { background-image:url("../image/it_deployment_medium.jpg"); background-size:768px 318px; width:768px; height:318px; }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-it_deployment { background-image:url("../image/it_deployment_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  .page-geniusbar .image-retail-geniusbar-it_deployment { background-image:url("../image/it_deployment_small.jpg"); background-size:737px 452px; width:737px; height:452px; }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-it_deployment { background-image:url("../image/it_deployment_small_2x.jpg"); }
+}
+.page-geniusbar .image-retail-geniusbar-expect { background-image:url("../image/expect_large.jpg"); background-size:572px 351px; width:572px; height:351px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-expect { background-image:url("../image/expect_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-geniusbar .image-retail-geniusbar-expect { background-image:url("../image/expect_medium.jpg"); background-size:693px 426px; width:693px; height:426px; }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-expect { background-image:url("../image/expect_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  .page-geniusbar .image-retail-geniusbar-expect { background-image:url("../image/expect_small.jpg"); background-size:736px 415px; width:736px; height:415px; }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-expect { background-image:url("../image/expect_small_2x.jpg"); }
+}
+.page-geniusbar .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_large.jpg"); background-size:1070px 439px; width:1070px; height:439px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-geniusbar .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_medium.jpg"); background-size:768px 318px; width:768px; height:318px; }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  .page-geniusbar .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_small.jpg"); background-size:737px 452px; width:737px; height:452px; }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_small_2x.jpg"); }
+}
+.page-geniusbar .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_large.jpg"); background-size:1070px 439px; width:1070px; height:439px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-geniusbar .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_medium.jpg"); background-size:768px 318px; width:768px; height:318px; }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  .page-geniusbar .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_small.jpg"); background-size:737px 452px; width:737px; height:452px; }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .page-geniusbar .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_small_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  .page-geniusbar .section-deployment .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_large.jpg"); background-size:1070px 439px; }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .page-geniusbar .section-deployment .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_large_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) and (max-width: 1068px) {
+  .page-geniusbar .section-deployment .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_medium.jpg"); background-size:768px 318px; }
+}
+@media only screen and (max-width: 734px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-geniusbar .section-deployment .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+  .page-geniusbar .section-deployment .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_small.jpg"); background-size:737px 452px; }
+}
+@media only screen and (max-width: 734px) and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (max-width: 734px) and (min-resolution: 144dpi) {
+  .page-geniusbar .section-deployment .image-retail-retail-geniusbar-it-deployment { background-image:url("../image/it_deployment_small_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  .page-geniusbar .section-service .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_large.jpg"); background-size:1070px 439px; }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .page-geniusbar .section-service .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_large_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) and (max-width: 1068px) {
+  .page-geniusbar .section-service .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_medium.jpg"); background-size:768px 318px; }
+}
+@media only screen and (max-width: 734px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-geniusbar .section-service .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+  .page-geniusbar .section-service .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_small.jpg"); background-size:737px 452px; }
+}
+@media only screen and (max-width: 734px) and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (max-width: 734px) and (min-resolution: 144dpi) {
+  .page-geniusbar .section-service .image-retail-geniusbar-service-repair-raza { background-image:url("../image/service_repair_raza_small_2x.jpg"); }
+}
+
+.section-hardware .service-info p{margin-bottom: 10px;}
+.page-geniusbar .section-hardware.section-cta .service-info-row .service-info {
+    margin: 0 60px;
+}
+
+@media only screen and (max-width: 1068px) {
+.page-geniusbar .section-hardware.section-cta .service-info-row .service-info {
+    margin: 0 20px 40px;
+}
+
+}
+@media only screen and (max-width: 734px) {
+    .page-geniusbar .section-hardware.section-cta .service-info-row .service-info {
+        text-align: left;
+        margin: 0 auto 60px;
+    }
+}
+
+
+/* FIXED IE RADAR */
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.page-geniusbar .section-hero h1 { padding: 12px 220px 0}
+}
+*::-ms-backdrop, .page-geniusbar .section-hero h1 { padding: 12px 220px 0}
+.page-geniusbar .section-hero h1 { padding: 12px 220px 0\9\0;}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.page-geniusbar .subsection-deployment .typography-section-headline { padding-top: 8px}
+}
+*::-ms-backdrop, .page-geniusbar .subsection-deployment .typography-section-headline { padding-top: 8px}
+.page-geniusbar .subsection-deployment .typography-section-headline { padding-top: 8px\9\0;}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.page-geniusbar .subsection-service .typography-section-headline { padding-top: 10px}
+}
+*::-ms-backdrop, .page-geniusbar .subsection-service .typography-section-headline { padding-top: 10px}
+.page-geniusbar .subsection-service .typography-section-headline { padding-top: 10px\9\0;}

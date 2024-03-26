@@ -1,0 +1,24 @@
+.icon-wrapper .icon-playcircle.icon-after{
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+html.wechat-fix .quicklook-component .ar-cta.classic-ar {
+    display: none
+}
+
+html.wechat-fix .quicklook-component .ar-cta.modern-ar {
+    display: none
+}
+
+html.wechat-fix .section-ar .typography-eyebrow.ar-copy{
+    display: block
+}
+
+html.wechat-fix.quick-look .links-wrapper>*.quicklook-component {
+        display: none
+    }
+@media only screen and (max-width: 735px) {
+    html.wechat-fix.quick-look .links-wrapper>*.quicklook-component {
+        display: none
+    }
+}

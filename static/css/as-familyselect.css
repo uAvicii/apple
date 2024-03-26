@@ -1,0 +1,37 @@
+.rf-familyselector-violator {
+    box-sizing: border-box;
+    white-space: nowrap;
+    display: block;
+    color: #bf4800;
+    width: 100%;
+    text-align: center;
+    margin-bottom: -28px;
+}
+
+@media only screen and (max-device-width: 736px) and (max-width: 1023px) { 
+    .rf-familyselector-violator {
+        margin-bottom: 0;
+        font-size: 14px;
+        line-height: 1.42859;
+        font-weight: 400;
+        letter-spacing: -.016em;
+        font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+    }
+
+    .rf-familyselector-image img {
+        width: 100%;
+        height: auto;
+    }
+
+    .rf-familyselector-section {
+        justify-content: center;
+    }
+
+    .rf-familyselector-wrapper {
+        text-align: center;
+    }
+
+    .rf-familyselector-section:first-child .rf-familyselector-image { 
+        padding-left: 0; 
+    }
+}

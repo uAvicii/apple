@@ -1,0 +1,75 @@
+/* 20200817 */
+.section-support {
+    padding-top:50px
+}
+.section-corporate-info .section-content .features-section.section-frequently {
+    border: none;
+}
+
+/* globalnav */
+
+html[lang=zh-CN].ac-ls-visible #ac-globalnav {
+    top:70px
+}
+
+@media only screen and (max-width: 1023px) {
+    html[lang=zh-CN].ac-ls-visible #ac-globalnav {
+       top:70px
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    html[lang=zh-CN].ac-ls-visible #ac-globalnav {
+         top:135px
+    }
+}
+
+html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible #ac-globalnav {
+    top:110px
+}
+
+@media only screen and (max-width: 1023px) {
+    html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible #ac-globalnav {
+        top:110px
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible #ac-globalnav {
+        top:179px
+    }
+}
+
+/* 2023/2/7 */
+html[lang=zh-CN].ac-ls-visible #globalnav, html[lang=zh-CN].ac-ls-visible #ac-globalnav {
+    top:70px
+}
+@media only screen and (max-width: 833px) {
+    html[lang=zh-CN].ac-ls-visible #globalnav, html[lang=zh-CN].ac-ls-visible #ac-globalnav {
+        top:139px
+    }
+}
+html[lang=zh-CN].ac-ls-visible #globalnav-placeholder, html[lang=zh-CN].ac-ls-visible #ac-gn-placeholder {
+    height:114px
+}
+@media only screen and (max-width: 833px) {
+    html[lang=zh-CN].ac-ls-visible #globalnav-placeholder, html[lang=zh-CN].ac-ls-visible #ac-gn-placeholder {
+        height:187px
+    }
+}
+html[lang=zh-CN].ac-ls-visible.ac-gn-segmentbar-visible #globalnav, html[lang=zh-CN].ac-ls-visible #ac-globalnav {
+    top:110px
+}
+@media only screen and (max-width: 833px) {
+    html[lang=zh-CN].ac-ls-visible.ac-gn-segmentbar-visible #globalnav, html[lang=zh-CN].ac-ls-visible #ac-globalnav {
+        top:179px
+    }
+}
+html[lang=zh-CN].ac-ls-visible.ac-gn-segmentbar-visible #globalnav-placeholder, html[lang=zh-CN].ac-ls-visible #ac-gn-placeholder {
+    height:154px
+}
+@media only screen and (max-width: 833px) {
+    html[lang=zh-CN].ac-ls-visible.ac-gn-segmentbar-visible #globalnav-placeholder, html[lang=zh-CN].ac-ls-visible #ac-gn-placeholder {
+        height:227px
+    }
+}

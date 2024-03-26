@@ -1,0 +1,33 @@
+.main .section-router .router-image {
+    background-image: url("../image/learn_more__djuwynxw3quu_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .main .section-router .router-image {
+        background-image: url("../image/learn_more__djuwynxw3quu_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-router .router-image {
+        background-image: url("../image/learn_more__djuwynxw3quu_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-router .router-image {
+        background-image: url("../image/learn_more__djuwynxw3quu_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main .section-router .router-image {
+        background-image: url("../image/learn_more__djuwynxw3quu_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .main .section-router .router-image {
+        background-image: url("../image/learn_more__djuwynxw3quu_small_2x.png")
+    }
+}

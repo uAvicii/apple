@@ -1,0 +1,150 @@
+/* Video end */
+
+.section-hero .inline-media figure.inline-video-frame-end {
+    width: 960px;
+    height: 284px;
+    background-size: 960px 284px;
+    background-repeat: no-repeat;
+    background-image: url(../image/hero_endframe__eocolbpq4bsm_large.jpg);
+    position: relative;
+    left: 50%;
+    margin-left: -470px;
+    position:absolute
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-hero .inline-media figure.inline-video-frame-end {
+        background-image:url(../image/hero_endframe__eocolbpq4bsm_large_2x.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .inline-media figure.inline-video-frame-end {
+        width: 640px;
+        height: 188px;
+        background-size: 640px 188px;
+        background-repeat: no-repeat;
+        margin-left: -313px;
+        background-image:url(../image/hero_endframe__eocolbpq4bsm_medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-hero .inline-media figure.inline-video-frame-end {
+        background-image:url(../image/hero_endframe__eocolbpq4bsm_medium_2x.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .inline-media figure.inline-video-frame-end {
+        width: 480px;
+        height: 294px;
+        background-size: 480px 294px;
+        background-repeat: no-repeat;
+        background-image:url(../image/hero_endframe__eocolbpq4bsm_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-hero .inline-media figure.inline-video-frame-end {
+        background-image:url(../image/hero_endframe__eocolbpq4bsm_small_2x.jpg);
+    }
+}
+
+/* Watch start */
+.grid-item-assistive-touch.full .inline-media figure.inline-video-frame-start {
+    width: 1070px;
+    height: 534px;
+    background-size: 1070px 534px;
+    background-repeat: no-repeat;
+    background-image: url(../image/pinch_startframe__f9funmd6jxyu_large.jpg);
+    position: relative;
+    position:absolute;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .grid-item-assistive-touch.full .inline-media figure.inline-video-frame-start {
+        background-image:url(../image/pinch_startframe__f9funmd6jxyu_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .grid-item-assistive-touch.full .inline-media figure.inline-video-frame-start {
+        width: 810px;
+        height: 360px;
+        background-size: 810px 360px;
+        background-repeat: no-repeat;
+        background-image:url(../image/pinch_startframe__f9funmd6jxyu_medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .grid-item-assistive-touch.full .inline-media figure.inline-video-frame-start {
+        background-image:url(../image/pinch_startframe__f9funmd6jxyu_medium_2x.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .grid-item-assistive-touch.full .inline-media figure.inline-video-frame-start {
+        width: 350px;
+        height: 510px;
+        background-size: 350px 510px;
+        background-repeat: no-repeat;
+        background-image:url(../image/pinch_startframe__f9funmd6jxyu_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .grid-item-assistive-touch.full .inline-media figure.inline-video-frame-start {
+        background-image:url(../image/pinch_startframe__f9funmd6jxyu_small_2x.jpg);
+    }
+}
+
+.grid-item-assistive-touch.full .inline-media figure.inline-video-frame-end {
+    width: 1070px;
+    height: 534px;
+    background-size: 1070px 534px;
+    background-repeat: no-repeat;
+    background-image: url(../image/pinch_endframe__gedcfxevpbyy_large.jpg);
+    position: relative;
+    position:absolute;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .grid-item-assistive-touch.full .inline-media figure.inline-video-frame-end {
+        background-image:url(../image/pinch_endframe__gedcfxevpbyy_large_2x.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .grid-item-assistive-touch.full .inline-media figure.inline-video-frame-end {
+        width: 810px;
+        height: 360px;
+        background-size: 810px 360px;
+        background-repeat: no-repeat;
+        background-image:url(../image/pinch_endframe__gedcfxevpbyy_medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .grid-item-assistive-touch.full .inline-media figure.inline-video-frame-end {
+        background-image:url(../image/pinch_endframe__gedcfxevpbyy_medium_2x.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .grid-item-assistive-touch.full .inline-media figure.inline-video-frame-end {
+        width: 350px;
+        height: 510px;
+        background-size: 350px 510px;
+        background-repeat: no-repeat;
+        background-image:url(../image/pinch_endframe__gedcfxevpbyy_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .grid-item-assistive-touch.full .inline-media figure.inline-video-frame-end {
+        background-image:url(../image/pinch_endframe__gedcfxevpbyy_small_2x.jpg);
+    }
+}
+/* Watch end */

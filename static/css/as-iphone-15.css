@@ -1,0 +1,222 @@
+.no-supports-ar .ar-kit-link,
+.supports-ar .ar-kit-copy {
+    display: none;
+}
+
+/* adjust WITB spacing */
+.rf-flagship-buyflow-witb .rc-witb-item:first-child .rc-witb-image-wrapper {
+    padding-left: 245px;
+}
+
+.rf-flagship-buyflow-witb .rc-witb-item:first-child .rc-witb-item-label {
+    padding-left: 260px;
+}
+
+.rf-flagship-buyflow-witb .rc-witb-item:last-child .rc-witb-image-wrapper {
+    padding-right: 245px;
+}
+
+.rf-flagship-buyflow-witb .rc-witb-item:last-child .rc-witb-item-label {
+    padding-right: 260px;
+}
+
+.as-footnotes .as-footnotes-sosumi sup:lang(zh-CN) {
+    font-family: SF Pro SC,SF Pro Text,Myriad Set Pro,SF Pro Icons,PingFang SC,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.cn .colornav-logo-productred {
+    display: none;
+}
+
+.rf-productlocator-filter-dimension input[name="pl_dimensionCapacity"]~.form-selector-label {
+    padding: 15px 12px;
+}
+
+.rf-productlocator-filter-dimension input[name="pl_dimensionCapacity"]:checked~.form-selector-label {
+    padding: 14px 11px;
+}
+
+.rf-flagship-buyflow-witb .rc-witb-image-wrapper {
+    background-color: #FBFBFD;
+}
+
+.rf-bfe-availability-buystrip .rf-bfe-availability-scroller-content {
+  height: 3.47059rem;
+}
+
+.rf-bfe-summary-price-box .rf-ac-messages a {
+    display: inline-block;
+}
+
+.rc-decisionsection-image-wrapper {
+    max-width: 120px;
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .rc-decisionsection-image-wrapper {
+        max-width: 112px;
+    }
+}
+
+.rf-bfe-summary-price-box .rc-prices-installmentsseparator {
+    padding: 0 0 2px;
+}
+
+.rf-bfe-compliance-container {
+    padding-top: 22px;
+}
+
+.rc-ribbon-gallery-item[aria-hidden='true'] a,
+.rc-ribbon-gallery-item[aria-hidden='true'] button {
+    display: inline-block;
+    visibility: hidden;
+}
+
+.rc-ribbon-content-item-base .more {
+    display: inline-block;
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .rf-bfe-summary-price-box .rc-prices-footer .rc-prices-purchaseoptiondescription .as-purchaseinfo-tradeindesctext {
+      margin-top: -26px;
+    }
+
+    .rf-bfe-summary-price-box .as-price-currentprice .as-price-highlight,
+    .rf-bfe-summary-price-box .rc-prices-currentprice .as-price-highlight {
+        padding-top: 0;
+    }
+
+    .rf-bfe-summary-border-fullWidth {
+        padding-bottom: 25px;
+    }
+
+    .rf-bfe-summary-border-fullWidth + .rf-bfe-summary-border-fullWidth {
+      margin-top: 0;
+    }
+}
+
+.rf-productlocator-selectstorebtn.button-block {
+    padding: 8px 16px;
+}
+
+.rf-bfe-summary .as-price-currentprice .as-price-savingspromotion-block {
+    display: none;
+}
+
+.rf-bfe-summary .rc-prices-promosavings .as-price-savingspromotion,
+.rf-bfe-summary .rc-prices-promosavings .as-price-savingspromotionprice,
+.rf-bfe-summary .rf-bfe-summary-promosavings .as-price-savingspromotion,
+.rf-bfe-summary .rf-bfe-summary-promosavings .as-price-savingspromotionprice {
+    color: #bf4800;
+}
+
+/**
+rdar://112111816 (23.7: JP IRO: Config OFF: Extra trade in content showing up in summary for PIF + Trade in flow)
+Aspen is working on a permanent fix for this issue.
+*/
+.jp .rf-bfe-summary-price-box .rf-bfe-summary-financing-message {
+    display: none;
+}
+
+/**
+ * rdar://114595259 (GR: Notify ME: Text under the CTA button for CF GR OFF and Notify ME On/ OFF is not center aligned with the button frame)
+ */
+.rf-bfe-summary-wrapper .rf-bfe-summary-carrierfinancedisclaimer,
+.rf-bfe-summary-fulfillment-fullWidth .rf-bfe-summary-carrierfinancedisclaimer {
+    text-align: center;
+    padding: 0 30px;
+    margin-top: 10px;
+}
+
+.rf-po-bfe-purchaseoptionsedit-option-container {
+    overflow: visible;
+}
+
+.rf-notifyme-overlay .rf-notifyme-overlay-wrapper {
+    width: 100%;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+}
+
+.rf-notifyme-overlay .rf-notifyme-subheader {
+    margin: 14px 55px;
+}
+
+.rf-notifyme-overlay .rf-notifyme-form {
+    padding: 65px 88px 48px;
+    text-align: left;
+}
+
+.rf-notifyme-overlay .rf-notifyme-disclaimer {
+    text-align: center;
+    padding: 0 88px;
+}
+
+.rf-notifyme-overlay .rf-notifyme-formbutton {
+    margin: 30px 0 0 0;
+    padding: 11px;
+}
+
+.rf-notifyme-overlay .rf-notifyme-success-image .icon-checksolid::after {
+    padding: 0;
+}
+
+.rf-notifyme-overlay .rf-notifyme-success-description {
+    margin: 30px 70px 0 70px;
+    padding: 0;
+    text-align: center;
+}
+
+.rf-notifyme-overlay .rs-notifyme-success-button {
+    max-width: 496px;
+    margin: 80px auto 0 auto;
+    padding: 11px;
+}
+
+.rf-notifyme-overlay .rf-notifyme-success-footer {
+    color: #6e6e73;
+    padding-top: 35px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .rf-notifyme-overlay .rf-notifyme-subheader {
+        margin: 14px 0;
+        text-align: center;
+    }
+
+    .rf-notifyme-overlay .rf-notifyme-form {
+        padding: 65px 0 48px;
+        text-align: left;
+    }
+
+    .rf-notifyme-overlay .rf-notifyme-disclaimer {
+        text-align: center;
+        padding: 0;
+    }
+
+    .rf-notifyme-overlay .rf-notifyme-success-description {
+        margin: 30px 0 0 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .rf-notifyme-overlay .rs-notifyme-success-button {
+        width: 100%;
+        margin: 80px 0 0 0;
+        padding: 11px;
+    }
+}
+
+.rf-accessoryslot-decisionsection-playcta {
+    opacity: .64;
+}
+
+/**
+ * rdar://118358189 (JP IRO Stage: Warm State - After Trade-in, After selecting payment)
+ * Adding this fix to temporarily display the contents of the span with class 'as-price-highlight'
+ */
+ .jp .rf-bfe-header-price .rc-prices-currentprice .rc-prices-fullprice .as-price-highlight {
+    display: inline-block;
+}

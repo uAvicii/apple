@@ -1,0 +1,158 @@
+/*built 2019-06-12*/
+.section-ar .ar-image {
+    background-repeat: no-repeat;
+    background-image: url("../image/ar_promo__cts4squx42wm_large.jpg");
+    background-size: cover
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ar .ar-image {
+        background-image: url("../image/ar_promo__cts4squx42wm_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ar .ar-image {
+        background-repeat: no-repeat;
+        background-image: url("../image/ar_promo__cts4squx42wm_medium.jpg");
+        background-size: cover
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ar .ar-image {
+        background-image: url("../image/ar_promo__cts4squx42wm_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-ar .ar-image {
+        background-repeat: no-repeat;
+        background-image: url("../image/ar_promo__cts4squx42wm_small.jpg");
+        background-size: cover
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-ar .ar-image {
+        background-image: url("../image/ar_promo__cts4squx42wm_small_2x.jpg")
+    }
+}
+
+/*2020-1103*/
+.subsection-colors .image-colors {
+    background-repeat: no-repeat;
+    background-image: url("../image/xdr_colors__bxib9qmhcu1y_large.jpg");
+    background-position: 0 0;
+    width: 100%;
+    left: 0
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .subsection-colors .image-colors {
+        background-image:url("../image/xdr_colors__bxib9qmhcu1y_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .subsection-colors .image-colors {
+        background-repeat:no-repeat;
+        background-image: url("../image/xdr_colors__bxib9qmhcu1y_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .subsection-colors .image-colors {
+        background-image:url("../image/xdr_colors__bxib9qmhcu1y_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .subsection-colors .image-colors {
+        background-repeat:no-repeat;
+        background-image: url("../image/xdr_colors__bxib9qmhcu1y_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .subsection-colors .image-colors {
+        background-image:url("../image/xdr_colors__bxib9qmhcu1y_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .subsection-colors .image-colors {
+        background-repeat:no-repeat;
+        background-image: url("../image/xdr_colors__bxib9qmhcu1y_small.jpg");
+        background-size: cover;
+        position: relative
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .subsection-colors .image-colors {
+        background-image:url("../image/xdr_colors__bxib9qmhcu1y_small_2x.jpg")
+    }
+}
+
+.subsection-angle .image-angle {
+    background-repeat: no-repeat;
+    background-image: url("../image/light_viewing_angle__bgaw5lv3qdqq_large.jpg");
+    background-size: cover
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .subsection-angle .image-angle {
+        background-image:url("../image/light_viewing_angle__bgaw5lv3qdqq_large_2x.jpg")
+    }
+}
+
+.subsection-angle .image-angle::after {
+    content: '';
+    display: block;
+    padding-bottom: 102.28571%
+}
+
+@media only screen and (max-width: 1068px) {
+    .subsection-angle .image-angle {
+        background-repeat:no-repeat;
+        background-image: url("../image/light_viewing_angle__bgaw5lv3qdqq_medium.jpg");
+        background-size: cover
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .subsection-angle .image-angle {
+        background-image:url("../image/light_viewing_angle__bgaw5lv3qdqq_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .subsection-angle .image-angle::after {
+        content:'';
+        display: block;
+        padding-bottom: 102.30608%
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .subsection-angle .image-angle {
+        background-repeat:no-repeat;
+        background-image: url("../image/light_viewing_angle__bgaw5lv3qdqq_small.jpg");
+        background-size: cover
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .subsection-angle .image-angle {
+        background-image:url("../image/light_viewing_angle__bgaw5lv3qdqq_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .subsection-angle .image-angle::after {
+        content:'';
+        display: block;
+        padding-bottom: 101.69082%
+    }
+}

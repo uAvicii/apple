@@ -1,0 +1,204 @@
+/* 倍 */
+.section-features .tile-chip .badge .badge-value .badge-unit {
+	font-size: 24px;
+	position: absolute;
+	display: inline-block;
+	margin-top: 6px;
+	margin-left: 2px;
+	padding: 0px;
+}
+
+/* HL */
+@media only screen and (max-width: 1068px) {
+	.section-features .tile-apps .copy-wrapper {
+		padding-top: 392px;
+	}
+}
+@media only screen and (max-width: 1010px) {
+	.section-features .tile-icloud .copy-wrapper {
+		margin-left: 26px;
+	}
+}
+@media only screen and (max-width: 810px) {
+	.section-features .tile-icloud .copy-wrapper {
+        margin-left: 8px;
+    }
+}
+@media only screen and (max-width: 807px) {
+	.section-features .tile-icloud .copy-wrapper {
+        margin-left: 4px;
+    }
+}
+@media only screen and (max-width: 734px) {
+	.section-features .tile-icloud .copy-wrapper {
+		margin-left: 20px;
+	}
+	.section-compare .product-copy {
+		margin-left: 0;
+	}
+	.section-features .tile-apps .copy-wrapper {
+		padding-top: 304px;
+	}
+	.section-features .tile-migration .migration-wrapper .typography-migration-headline-elevated {
+		margin-left: 0;
+	}
+}
+@media only screen and (max-width: 320px) {
+	.section-features .tile-icloud .copy-wrapper {
+		margin-left: -16px;
+	}
+}
+
+/*font-weight change to 600*/
+.typography-design-headline, .typography-iphone-headline, .typography-migration-headline, .typography-migration-headline-elevated, .typography-apps-headline, .typography-icloud-headline, .typography-battery-headline, .typography-chip-headline, .typography-chip-headline-elevated, .typography-chip-badge-value, .typography-security-headline, .typography-touch-id-headline, .typography-durability-headline, .typography-macos-eyebrow, .typography-macos-headline, .typography-continuity-headline, .typography-support-headline, .typography-footer-headline, strong, .section-hero strong, .typography-tile-back-headline, .section-features .tile-chip .badge .badge-value, .section-footer-gallery .paddlenav ul button.paddlenav-arrow, .typography-tile-back-subhead, .typography-hero-headline, .typography-battery-stat, typography-battery-stat-elevated, .typography-battery-stat-elevated {
+	font-weight: 600;
+}
+
+
+/** financing icon **/
+.section-ways-to-buy .overview-icon-financing {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 49px;
+    --p-height:43px
+}
+
+.section-features .tile-chip .tile-overlay-scroll-content.cn_alt_center {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-features .tile-chip .tile-overlay-scroll-content.cn_alt_center .copy-content {
+    flex-basis: 80%;
+    max-width: 760px;
+}
+/*斜体*/
+.theme-light strong, .tile-light strong, .theme-dark strong, .tile-dark strong, .theme-light strong .nowrap, .tile-light strong .nowrap, .theme-dark strong .nowrap, .tile-dark strong .nowrap {
+    font-synthesis: style;
+    font-style: italic;
+}
+.section-hero .strong-inline-block.strong-align strong{
+    font-synthesis: none;
+}
+
+/*Art*/
+.section-features .tile-icloud .copy {
+    margin-bottom:10px;
+}
+@media only screen and (max-width: 1068px) {
+    .section-features .tile-icloud .copy {
+        margin-bottom: -1px;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-features .tile-icloud .copy {
+        margin-bottom:0px;
+    }
+}
+
+
+.section-features .tile-battery .image-label {
+    top: 15px;
+    left: 29px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-features .tile-battery .image-label {
+        top: 11px;
+        left:19px;
+        line-height: 1.1916666667;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-features .tile-battery .image-label {
+        top: 9px;
+        left:16px;
+    }
+}
+@media only screen and (max-width: 1068px) {
+   .typography-battery-stat-elevated:lang(zh){
+        line-height: 1.1916666667;
+    }
+}
+@media only screen and (max-width: 734px) {
+	.typography-battery-stat-elevated:lang(zh){
+		line-height: 1.1529611765;
+	}
+}
+
+.section-features .tile-chip .headline-content .typography-chip-headline-elevated {
+    margin-top:0;
+}
+.section-features .tile-chip .headline-content .typography-chip-headline {
+    margin-top:10px
+}
+
+.tile-macos.theme-light strong, .tile-macos.tile-light strong {
+    padding-right: 0em;
+	padding-left: 0.08em;
+}
+
+.theme-light strong.lime_alt, .tile-light strong.lime_alt{
+	padding-right: 0em;
+	padding-left: 0em;
+}
+
+.tile-macos.theme-light strong.lime_alt_1, .tile-macos.tile-light strong.lime_alt_1{
+	padding-right: 0em;
+	padding-bottom: 0.1em;
+	padding-left: 0;
+}
+
+.tile-chip.theme-light strong, .tile-chip.tile-light strong{
+	padding-bottom: 0.1em;
+}
+
+
+.theme-light strong.lime_alt_2, .tile-light strong.lime_alt_2{
+	padding-right: 0em;
+	padding-left: 0.05em;
+}
+
+.theme-light strong.lime_alt_3, .tile-light strong.lime_alt_3{
+	padding-right: 0.26em;
+}
+
+
+.section-footer-gallery {
+    --headline-row-height: 73px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-footer-gallery {
+        --headline-row-height: 72px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-footer-gallery {
+        --headline-row-height: 68px;
+    }
+}
+
+/*小屏居左*/
+@media only screen and (max-width: 734px) {
+    .section-compare .gallery-item-content {
+        justify-content: start;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-compare .product-pricing {
+        max-width: 150px;
+    }
+}
+html.hide-acmi .section-compare .product-pricing .footnote {
+    display:inline-block;
+}
+@media only screen and (max-width: 734px) {
+    .section-features .tile-continuity .copy-wrapper {
+        align-items:start;
+    }
+}

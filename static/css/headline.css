@@ -1,0 +1,180 @@
+/*WebFont*/
+html[lang=zh-CN] body{font-family: 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+.main, .main .caption{ line-height:1.8;}
+.main h1, h1,.main h2, h2, .page-home .main h2{ line-height:1.1; letter-spacing: 1px;}
+.main h3, h3{ line-height:1.2; letter-spacing: 1px;}
+.main .intro{ line-height:1.6;}
+
+#ac-globalfooter h3.ac-gf-directory-column-section-title{ letter-spacing:0px;}
+
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {
+	.main h1, h1{letter-spacing: -2px;}
+    .main h2, h2, .page-home .main h2,.main h3, h3 {letter-spacing: -1px;}
+}
+
+html[lang=zh-CN] h1, html[lang=zh-CN] h2, html[lang=zh-CN] h3{font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+.puncuation{letter-spacing: -0.3em;}
+.letterspacing{ letter-spacing: -1px;}
+.letterspacing0{ letter-spacing: 0px;}
+.nowrap {
+    white-space: nowrap;
+}
+
+/*Keynote link*/
+.icon-play{font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+
+
+/*ProductHeader*/
+.localnav-link, .button-buynow, .button-compact{font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif; font-size:14px;}
+.localnav{ line-height:1.45;}
+@media only screen and (max-device-width: 767px) and (max-width: 767px) {
+    .localnav-link {
+        font-size: 17px;
+    }
+}
+
+
+/*mac-mini/features*//*mac-mini/design*/
+.graph-content{font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+.graph-large, .badge-content{font-family: "Myriad Set Pro", 'PingFang SC','Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+.graph-large .graph-half, .badge .badge-large .badge-half, .page-design .section-ports .icon-module figcaption{ font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif; }
+.page-design .section-ports .icon-module figcaption{ font-weight:200;}
+.page-specs .section-environment h4{font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif; letter-spacing: 1px;}
+.badge-large .badge-half{font-size: 0.3em;}
+.badge-large .badge-half-lifted{font-size: 0.5em;}
+
+.badge-large .badge-half.badge-eg, .page-wireless .badge .badge-large .badge-half.badge-eg{font-family: "Myriad Set Pro", 'PingFang SC','Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;font-size: 0.5em;}
+
+/*imac-with-retina*/
+html[lang=zh-CN] .page-overview .section-retina .diagram-5k .diagram-subheadline, html[lang=zh-CN] .page-overview .section-retina .diagram-5k .diagram-headline, html[lang=zh-CN] .page-overview .section-retina .diagram-5k .diagram-subheadline,html[lang=zh-CN] .page-overview .section-retina .diagram-5k .diagram-headlinel{font-family: "Myriad Set Pro", 'PingFang SC','Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+.infographic-content .infographic-value{font-family: "Myriad Set Pro", 'PingFang SC','Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+.page-design .energy-infographic .infographic-after{font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif; font-size: 2em;}
+html[lang=zh-CN] .graph-label, html[lang=zh-CN] .graph-label, .page-performance .thunderbolt-graph .graph-0 .graph-label{font-family: "Myriad Set Pro", 'PingFang SC','Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif; font-size:2.5em;}
+.page-performance .thunderbolt-graph .graph-0 .graph-label{font-size:2.7em;}
+
+/*ipad-air-2*/
+.localnav-head{font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+.localnav-disclosure .disclosure-text{font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+
+/*@media only screen and (min-width: 735px) and (min-device-width: 768px) {
+    .localnav-disclosure .disclosure-text{ line-height:40px; font-size:16px;}
+}
+ html[lang=zh-CN] body a.button{font-family: "Myriad Set Pro", 'PingFang SC','Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}*/
+.localnav-disclosure .disclosure-icon{top:-2px;}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .localnav-disclosure .disclosure-icon{top:9px;}
+}
+
+
+.badge-small{font-weight:200;}
+
+/* Show & Hide */
+
+@media only screen and (max-width: 735px) {
+    br.hide-for-small {
+        display: none
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    br.hide-for-medium {
+        display: none
+    }
+}
+
+br.hide-for-large {
+    display: none
+}
+
+@media only screen and (max-width: 1024px) {
+    br.hide-for-large {
+        display: block
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    br.show-for-small {
+        display: block
+    }
+}
+
+br.show-only-for-small {
+    display: none
+}
+
+@media only screen and (max-width: 735px) {
+    br.show-only-for-small {
+        display: block
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    br.show-for-medium {
+        display: block
+    }
+}
+
+br.show-only-for-medium {
+    display: none
+}
+
+@media only screen and (max-width: 1024px) {
+    br.show-only-for-medium {
+        display: block
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    br.show-only-for-medium {
+        display: none
+    }
+}
+
+br.show-for-large {
+    display: block
+}
+
+br.show-only-for-large {
+    display: block
+}
+
+@media only screen and (max-width: 1068px) {
+    br.show-only-for-large {
+        display: none
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    br.show-only-for-large {
+        display: none
+    }
+}
+@media only screen and (max-width: 735px) {
+    br.show-only-for-large {
+        display: none
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    br.hide-for-xsmall {
+        display: none
+    }
+}
+br.show-only-for-xsmall {
+    display: none
+}
+@media only screen and (max-width: 320px) {
+    br.show-only-for-xsmall {
+        display: block
+    }
+}
+/* Show & Hide End*/
+
+
+.adv-wrapper .adv-wrapper-text {
+	color: #a8a8aa;
+    font-size: 12px;
+    font-family: "HanHei SC", PingHei, "PingFang SC", STHeitiSC-Light, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+

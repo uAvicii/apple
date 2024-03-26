@@ -1,0 +1,103 @@
+#container #headerapplestore { margin:32px 0px 14px 0px; width:100%; height:26px; *margin-top:10px;}
+
+#container #maininfor .shopinfor { height:170px; }
+
+/*--- Resellers List ---*/
+#container #maincontainer {
+    background-color: transparent;
+    border-top: 1px solid #cecece;
+    margin: 0;
+    padding: 25px 0 20px;
+    width: 100%;
+}
+#container #maincontainer h2 {
+    font-size: 23px;
+}
+#container #maincontainer p {
+    color: #333;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 130%;
+}
+#container #maincontainer #sis_localmenu {
+    margin-top: -10px;
+}
+#container #maincontainer #sis_localmenu a {
+    text-decoration: none;
+}
+#container #maininfor {
+    float: left;
+    margin: 15px 0 10px;
+    width: 980px;
+}
+
+#container #maininfor .shoparea {
+    float: left;
+    width: 980px;
+    padding-top: 3rem;
+}
+#container #maininfor .shoparea h3 {
+    border-top: 1px solid #cecece;
+    color: #444444;
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+#container #maininfor .shoparea h3 a {
+    text-align: right;
+    width: 200px;
+}
+#container #maininfor .shoparea p {
+    font-size: 12px;
+    margin: 5px 0 0;
+    padding: 0;
+    width: 275px;
+}
+#container #maininfor .shopinfor {
+    display: block;
+    float: left;
+    height: 170px;
+    margin: 6px 0 0;
+    padding: 0;
+    width: 325px;
+}
+#container #maininfor .shopinfor h4 {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 18px;
+    margin: 10px 0 2px;
+}
+#container #maininfor .shopinfor h5 {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 18px;
+    margin: 2px 0 2px;
+    color: #444444;
+}
+#container #maininfor .shopinfor h4 a, #container #maininfor .shoparea h4 a:hover {
+    text-decoration: none;
+}
+#container #maininfor .shopinfor p {
+    color: #666666;
+    font-size: 12px;
+    line-height: 150%;
+    margin: 0;
+    padding-right: 20px;
+}
+#container #maininfor .shopinfor p a {
+    text-decoration: none;
+}
+
+#container #maininfor .shopinfor-hg {
+    height: 182px;
+}
+
+/*--- Global Footer ---*/
+#container #headerapplestore { margin:32px 0px 14px 0px; width:100%; height:26px; *margin-top:10px;}
+#breadcrumbs { margin-top: -15px; }
+
+#globalfooter {_margin-top:15px; _padding-top:15px;}
+
+.sosumi_reseller { min-height: 50px; _height:50px; font-size: 10px !important;  color: #888888; line-height: 1.5; padding-left:10px; margin-top: -8px; }
+

@@ -1,0 +1,61 @@
+/*typography-eyebrow*/
+section.section-outdoor-adventure-compass .typography-eyebrow{
+    height: 112px;
+}
+
+@media only screen and (max-width: 1068px) {
+    section.section-outdoor-adventure-compass .typography-eyebrow{
+        height: 75px;
+    }
+}
+
+@media only screen and (max-width: 868px) {
+    section.section-outdoor-adventure-compass .typography-eyebrow{
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 780px) {
+    section.section-outdoor-adventure-compass .typography-eyebrow{
+        height: 75px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    section.section-outdoor-adventure-compass .typography-eyebrow{
+        height: 200px;
+    }
+}
+
+/* ArtCD feedback */
+.hero-link {
+    transform: translateX(12px);
+}
+@media only screen and (max-width: 1068px) {
+    .hero-link {
+        transform: translateX(14px);
+    }
+}
+@media only screen and (max-width: 734px) {
+    .hero-link {
+        transform: translateX(12px);
+    }
+}
+/* iphone XS start*/
+.small-caps {
+    font-feature-settings: "smcp", "c2sc";
+    font-variant-caps:all-small-caps
+}
+/* iphone XS end*/
+
+/* ArtCD feedback */
+@media only screen and (max-width: 1068px) {
+    .battery-life-stats .typography-callout-numbers {
+        font-size: 56px!important;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .battery-life-stats .typography-callout-numbers {
+        font-size: 64px!important;
+    }
+}

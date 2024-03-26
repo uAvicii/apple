@@ -1,0 +1,88 @@
+.image-why-ipad-entertainment-stream {
+    --p-width: 1006px;
+    --p-height: 693px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .image-why-ipad-entertainment-stream {
+        --p-width: 730px;
+        --p-height: 473px
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .image-why-ipad-entertainment-stream {
+        --p-width: 400px;
+        --p-height: 277px
+    }
+}
+
+.image-why-ipad-entertainment-speakers {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 1085px;
+    --p-height: 714px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .image-why-ipad-entertainment-speakers {
+        --p-width: 721px;
+        --p-height: 492px
+    }
+}
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .image-why-ipad-entertainment-speakers {
+        --p-width: 400px;
+        --p-height: 261px
+    }
+}
+.marquee-item-label .marquee-title-block{
+     color:black;
+} 
+.figure-caption-cta.bottom-center a{
+   color: #515154;
+}
+.grid-item-stream .grid-figure.responsive-vertical-centering .figure-caption.bottom-center {
+    bottom: calc(var(--shadow-offset) * -1 - var(--caption-block-height) - var(--caption-spacing) + 26px) ;
+    text-align:center
+}
+@media only screen and (max-width: 734px) {
+    .grid-figure.responsive-vertical-centering .figure-caption.bottom-center.figure-caption-cta {
+        bottom: -30px;
+    }
+}
+
+.why-ipad-content .section-router .grid-item-ipados {
+    background-image: url(../image/ipados_17__o2lga5306h66_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .why-ipad-content .section-router .grid-item-ipados {
+        background-image:url(../image/ipados_17__o2lga5306h66_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .why-ipad-content .section-router .grid-item-ipados {
+        background-image:url(../image/ipados_17__o2lga5306h66_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .why-ipad-content .section-router .grid-item-ipados {
+        background-image:url(../image/ipados_17__o2lga5306h66_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .why-ipad-content .section-router .grid-item-ipados {
+        background-image:url(../image/ipados_17__o2lga5306h66_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .why-ipad-content .section-router .grid-item-ipados {
+        background-image:url(../image/ipados_17__o2lga5306h66_small_2x.jpg)
+    }
+}

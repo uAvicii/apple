@@ -1,0 +1,145 @@
+.section-highlights [data-component-list*=HighlightsGallery] .media-gallery .item-container .media-gallery-item-action-button .positioned-media-element.static {
+	background-image: url(../image/action_button__c3sv55bcbyeu_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+	.section-highlights [data-component-list*=HighlightsGallery] .media-gallery .item-container .media-gallery-item-action-button .positioned-media-element.static {
+		background-image: url(../image/action_button__c3sv55bcbyeu_large_2x.jpg)
+	}
+}
+
+@media only screen and (max-width:1068px) {
+	.section-highlights [data-component-list*=HighlightsGallery] .media-gallery .item-container .media-gallery-item-action-button .positioned-media-element.static {
+		background-image: url(../image/action_button__c3sv55bcbyeu_medium.jpg)
+	}
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+	.section-highlights [data-component-list*=HighlightsGallery] .media-gallery .item-container .media-gallery-item-action-button .positioned-media-element.static {
+		background-image: url(../image/action_button__c3sv55bcbyeu_medium_2x.jpg)
+	}
+}
+
+@media only screen and (max-width:734px) {
+	.section-highlights [data-component-list*=HighlightsGallery] .media-gallery .item-container .media-gallery-item-action-button .positioned-media-element.static {
+		background-image: url(../image/action_button__c3sv55bcbyeu_small.jpg);
+	}
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+	.section-highlights [data-component-list*=HighlightsGallery] .media-gallery .item-container .media-gallery-item-action-button .positioned-media-element.static {
+		background-image: url(../image/action_button__c3sv55bcbyeu_small_2x.jpg);
+	}
+}
+
+/* safety */
+.subsection-safety .overview-safety-safety-bg {
+	background-size: 1120px 680px;
+	background-repeat: no-repeat;
+	background-image: url(../image/safety__e3szr7wtega6_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi),
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx) {
+	.subsection-safety .overview-safety-safety-bg {
+		background-image: url(../image/safety__e3szr7wtega6_large_2x.jpg);
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.subsection-safety .overview-safety-safety-bg {
+		background-size: 908px 680px;
+		background-repeat: no-repeat;
+		background-image: url(../image/safety__e3szr7wtega6_medium.jpg);
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.subsection-safety .overview-safety-safety-bg {
+		background-image: url(../image/safety__e3szr7wtega6_medium_2x.jpg);
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.subsection-safety .overview-safety-safety-bg {
+		background-size: 634px 665px;
+		background-repeat: no-repeat;
+		background-image: url(../image/safety__e3szr7wtega6_small.jpg);
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.subsection-safety .overview-safety-safety-bg {
+		background-image: url(../image/safety__e3szr7wtega6_small_2x.jpg);
+	}
+}
+
+/* safety */
+
+/* chip */
+.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-chip .positioned-media-element.static {
+	background-size: 342px 342px;
+	background-repeat: no-repeat;
+	background-image: url(../image/highlights_chip_endframe__3159yn2mzkyi_large.jpg);
+	--hlts-glry-media-ele-width: 342px;
+	--hlts-glry-media-ele-height: 342px
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi),
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx) {
+	.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-chip .positioned-media-element.static {
+		background-image: url(../image/highlights_chip_endframe__3159yn2mzkyi_large_2x.jpg)
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-chip .positioned-media-element.static {
+		background-size: 272px 272px;
+		background-repeat: no-repeat;
+		background-image: url(../image/highlights_chip_endframe__3159yn2mzkyi_medium.jpg);
+		--hlts-glry-media-ele-width: 272px;
+		--hlts-glry-media-ele-height: 272px;
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-chip .positioned-media-element.static {
+		background-image: url(../image/highlights_chip_endframe__3159yn2mzkyi_medium_2x.jpg)
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-chip .positioned-media-element.static {
+		background-size: 172px 172px;
+		background-repeat: no-repeat;
+		background-image: url(../image/highlights_chip_endframe__3159yn2mzkyi_small.jpg);
+		--hlts-glry-media-ele-width: 172px;
+		--hlts-glry-media-ele-height: 172px;
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-chip .positioned-media-element.static {
+		background-image: url(../image/highlights_chip_endframe__3159yn2mzkyi_small_2x.jpg)
+	}
+}
+/* chip */

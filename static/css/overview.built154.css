@@ -1,0 +1,41 @@
+/*fix icon positin down*/
+.icon-wrapper .icon,.icon-wrapper .more::after,.icon-wrapper .icon-before::before,.icon-wrapper .icon-after::after {
+    position: relative;
+}
+
+/* update headline line-height*/
+.typography-section-headline {
+	line-height: 1.04167;
+}
+
+@media only screen and (max-width: 1068px) {
+	.typography-section-headline {
+		line-height: 1.07143;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.typography-section-headline{
+		line-height: 1.1;
+	}
+}
+
+/* ar in wechat */
+html.wechat-fix.quicklook-classic .augmented-reality-router .ar-link-classic {
+    display: none
+}
+
+html.wechat-fix.quicklook-modern .augmented-reality-router .ar-link-modern {
+    display: none
+}
+
+html.wechat-fix .augmented-reality-router .ar-text{
+	display: block;
+}
+
+/*fix se 1 generation Horizontal scroll bar*/
+@media only screen and (max-width: 320px) {
+    .typography-listening-time-stat {
+        font-size: 240px;
+    }
+}

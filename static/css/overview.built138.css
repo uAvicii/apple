@@ -1,0 +1,163 @@
+/* same code with other country srart*/
+.section-chip .chip-header .section-title-container {
+    margin-top: 10px;
+}
+
+.section-chip .chip-inline-compare .versus{
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 1068px){
+  .section-chip .chip-inline-compare .versus{
+    margin-top: 15px;
+    }  
+}
+
+.section-battery .versus{
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 1068px){
+  .section-battery .versus{
+    margin-top: 15px;
+    }  
+}
+
+.section-five-g .content-five-g-copy .faster-list .fast-bullet{
+    width: max-content;
+}
+
+@media only screen and (max-width: 734px){
+    .section-five-g .content-five-g-copy .faster-list .fast-bullet{
+        width: auto;
+    }
+
+    html.enhance-five-g .section-five-g .content-five-g-copy .faster-list .fast-bullet{
+        width: max-content;
+    }
+
+}
+/* same code with other country end*/
+
+.section-world-of-iphone .gallery-item-airpods .subhead {
+    max-width: 14rem;
+}
+
+@media only screen and (max-width: 734px) {
+    .section-colors .section-headline-container {
+        width: 260px;
+    }
+}
+
+
+
+/* inline_nowrap */
+
+.inline_nowrap{
+    display: inline;
+    text-decoration: inherit;
+    white-space:nowrap;
+    width: 100%;
+}
+
+/* artcd change font-size start*/
+.versus.typography-site-header-2 {
+    font-size: 28px;
+}
+@media only screen and (max-width: 734px) {
+    .versus.typography-site-header-2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+}
+
+.typography-site-body-copy-2 {
+    line-height: 1.36842105263158;
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-site-body-copy-2 {
+        line-height: 1.2353641176;
+    }
+
+}
+/* artcd change font-size end*/
+
+/* touch id start */
+html.enhance-touch-id .section-touch-id .intro {
+    bottom: 208px;
+}
+@media only screen and (max-width: 1068px) {
+    html.enhance-touch-id .section-touch-id .intro {
+        bottom:156px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhance-touch-id .section-touch-id .intro {
+        bottom:196px
+    }
+}
+
+
+/* touch id end */
+
+
+@media only screen and (max-width: 734px) {
+   html.enhance-touch-id .section-touch-id .move-for-left {
+        margin-left: -25px;
+    }
+}
+
+@media only screen and (max-width: 320px) {html[lang=zh-CN] br.hide-for-xsmall {display: none}}
+
+@media only screen and (min-width: 400px) and (max-width: 734px){
+    .left-for-smll{
+        padding-left: 0.6em;
+    }
+}
+
+
+/* fix price 。*/
+.sosumi-link-follows, .sosumi-link-follows + span {
+    display:none
+}
+
+.sosumi-link-follows[data-pricing-loaded], .sosumi-link-follows[data-pricing-loaded] + span.price-symbol {
+    display:inline
+}
+
+@media only screen and (max-width: 734px) {
+    .section-five-g .content-five-g .subhead {
+        margin-top: -80px;
+    }
+}
+
+.section-hero .intro .pricing-avail.copy-ragging, .section-hero .intro .pricing-body.copy-ragging {
+    max-width: 21rem;
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .intro .pricing-avail.copy-ragging, .section-hero .intro .pricing-body.copy-ragging {
+        max-width:18rem
+    }
+}
+
+@media only screen and (max-width: 340px) {
+    .main .sosumi-link-follows {
+        font-size: 19px;
+    }
+}
+.new-top{
+    margin-top: 10px;
+}
+
+/* br-for-se */
+.br-for-se {
+    display: none;
+}
+@media only screen and (max-width: 430px) {
+    .br-for-se {
+        display: block;
+    }
+}

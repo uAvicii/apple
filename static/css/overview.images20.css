@@ -1,0 +1,337 @@
+.image-derek {
+    background-image: url("../image/derek_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-derek {
+        background-image: url("../image/derek_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-derek {
+        background-image: url("../image/derek_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-derek {
+        background-image: url("../image/derek_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-derek {
+        background-image: url("../image/derek_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-derek {
+        background-image: url("../image/derek_small_2x.png")
+    }
+}
+.image-emily {
+    background-image: url("../image/emily_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-emily {
+        background-image: url("../image/emily_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-emily {
+        background-image: url("../image/emily_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-emily {
+        background-image: url("../image/emily_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-emily {
+        background-image: url("../image/emily_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-emily {
+        background-image: url("../image/emily_small_2x.png")
+    }
+}
+.image-jimmy {
+    background-image: url("../image/olivia_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-jimmy {
+        background-image: url("../image/olivia_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-jimmy {
+        background-image: url("../image/olivia_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-jimmy {
+        background-image: url("../image/olivia_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-jimmy {
+        background-image: url("../image/olivia_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-jimmy {
+        background-image: url("../image/olivia_small_2x.png")
+    }
+}
+.image-olivia {
+    background-image: url("../image/jimmy_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-olivia {
+        background-image: url("../image/jimmy_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-olivia {
+        background-image: url("../image/jimmy_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-olivia {
+        background-image: url("../image/jimmy_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-olivia {
+        background-image: url("../image/jimmy_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-olivia {
+        background-image: url("../image/jimmy_small_2x.png")
+    }
+}
+.image-entertained {
+    background-image: url("../image/entertained__chwtybq79sia_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-entertained {
+        background-image:url("../image/entertained__chwtybq79sia_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-entertained {
+        background-image: url("../image/entertained__chwtybq79sia_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-entertained {
+        background-image:url("../image/entertained__chwtybq79sia_medium_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .image-entertained {
+        background-image: url("../image/entertained__chwtybq79sia_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-entertained {
+        background-image:url("../image/entertained__chwtybq79sia_small_2x.jpg")}}
+.image-family-calendars {
+    background-image: url("../image/family_calendars__e1148sovnxkm_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-family-calendars {
+        background-image:url("../image/family_calendars__e1148sovnxkm_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-family-calendars {
+        background-image: url("../image/family_calendars__e1148sovnxkm_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-family-calendars {
+        background-image:url("../image/family_calendars__e1148sovnxkm_medium_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .image-family-sharing {
+        background-image: url("../image/family_sharing__fszi5qediei6_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-family-sharing {
+        background-image:url("../image/family_sharing__fszi5qediei6_small_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .image-find-my {
+        background-image: url("../image/find_my__fxz2tp938te2_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-find-my {
+        background-image:url("../image/find_my__fxz2tp938te2_small_2x.jpg")}}
+.image-find-my-macbook {
+    background-image: url("../image/find_my_macbook__dtgzgygb8qeu_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-find-my-macbook {
+        background-image:url("../image/find_my_macbook__dtgzgygb8qeu_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-find-my-macbook {
+        background-image: url("../image/find_my_macbook__dtgzgygb8qeu_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-find-my-macbook {
+        background-image:url("../image/find_my_macbook__dtgzgygb8qeu_medium_2x.jpg")}}
+.image-hero {
+    width: 1201px;
+    height: 713px;
+    background-size: 1201px 713px;
+    background-image: url("../image/hero__fgmhkkxk2hme_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-hero {
+        background-image:url("../image/hero__fgmhkkxk2hme_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-hero {
+        width: 850px;
+        height: 505px;
+        background-size: 850px 505px;
+        background-image: url("../image/hero__fgmhkkxk2hme_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-hero {
+        background-image:url("../image/hero__fgmhkkxk2hme_medium_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .image-hero {
+        width: 346px;
+        height: 206px;
+        background-size: 346px 206px;
+        background-image: url("../image/hero__fgmhkkxk2hme_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-hero {
+        background-image:url("../image/hero__fgmhkkxk2hme_small_2x.jpg")}}
+.image-kids-devices {
+    background-image: url("../image/kids_devices__eduhc54u8fwy_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-kids-devices {
+        background-image:url("../image/kids_devices__eduhc54u8fwy_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-kids-devices {
+        background-image: url("../image/kids_devices__eduhc54u8fwy_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-kids-devices {
+        background-image:url("../image/kids_devices__eduhc54u8fwy_medium_2x.jpg")}}
+.image-kids-screen-time {
+    background-image: url("../image/kids_screen_time__fjdxrwh98sya_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-kids-screen-time {
+        background-image:url("../image/kids_screen_time__fjdxrwh98sya_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-kids-screen-time {
+        background-image: url("../image/kids_screen_time__fjdxrwh98sya_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-kids-screen-time {
+        background-image:url("../image/kids_screen_time__fjdxrwh98sya_medium_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .image-kids-screen-time {
+        background-image: url("../image/kids_screen_time__fjdxrwh98sya_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-kids-screen-time {
+        background-image:url("../image/kids_screen_time__fjdxrwh98sya_small_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .image-organized {
+        background-image: url("../image/organized__gec1dvgyqm2y_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-organized {
+        background-image:url("../image/organized__gec1dvgyqm2y_small_2x.jpg")}}
+.image-organized-family-sharing {
+    background-image: url("../image/organized_family_sharing__em8m0tcywl6q_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-organized-family-sharing {
+        background-image:url("../image/organized_family_sharing__em8m0tcywl6q_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-organized-family-sharing {
+        background-image: url("../image/organized_family_sharing__em8m0tcywl6q_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-organized-family-sharing {
+        background-image:url("../image/organized_family_sharing__em8m0tcywl6q_medium_2x.jpg")}}
+.image-organized-get-started {
+    background-image: url("../image/organized_get_started__e5h56fs43682_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-organized-get-started {
+        background-image:url("../image/organized_get_started__e5h56fs43682_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-organized-get-started {
+        background-image: url("../image/organized_get_started__e5h56fs43682_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-organized-get-started {
+        background-image:url("../image/organized_get_started__e5h56fs43682_medium_2x.jpg")}}
+.image-permission {
+    
+    background-image: url("../image/permission__vxubeb6nnj6m_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-permission {
+        background-image:url("../image/permission__vxubeb6nnj6m_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-permission {
+        background-image: url("../image/permission__vxubeb6nnj6m_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-permission {
+        background-image:url("../image/permission__vxubeb6nnj6m_medium_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .image-permission {
+        background-image: url("../image/permission__vxubeb6nnj6m_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-permission {
+        background-image:url("../image/permission__vxubeb6nnj6m_small_2x.jpg")}}
+.image-purchases {
+    width: 759px;
+	height: 617px;
+	background-size: 759px 617px;
+    background-image: url("../image/purchases__frmvsne8owy2_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-purchases {
+        background-image:url("../image/purchases__frmvsne8owy2_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-purchases {
+        width: 534px;
+        height: 426px;
+        background-size: 534px 426px;
+        background-image: url("../image/purchases__frmvsne8owy2_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-purchases {
+        background-image:url("../image/purchases__frmvsne8owy2_medium_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .image-purchases {
+        width: 289px;
+        height: 231px;
+        background-size: 289px 231px;
+        background-image: url("../image/purchases__frmvsne8owy2_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-purchases {
+        background-image:url("../image/purchases__frmvsne8owy2_small_2x.jpg")}}
+.image-request {
+    background-image: url("../image/request__fxke76t01bam_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-request {
+        background-image:url("../image/request__fxke76t01bam_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-request {
+        background-image: url("../image/request__fxke76t01bam_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-request {
+        background-image:url("../image/request__fxke76t01bam_medium_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .image-request {
+        background-image: url("../image/request__fxke76t01bam_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-request {
+        background-image:url("../image/request__fxke76t01bam_small_2x.jpg")}}
+.image-share-photos {
+    background-image: url("../image/share_photos__0frqc59uxg2e_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-share-photos {
+        background-image:url("../image/share_photos__0frqc59uxg2e_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .image-share-photos {
+        background-image: url("../image/share_photos__0frqc59uxg2e_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-share-photos {
+        background-image:url("../image/share_photos__0frqc59uxg2e_medium_2x.jpg")}}

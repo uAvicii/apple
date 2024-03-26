@@ -1,0 +1,518 @@
+.section-ios .image-screen-10 glass-screen {
+    background-image: url(../image/screen_10__i32f4nrmth2e_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-10 glass-screen {
+        background-image: url(../image/screen_10__i32f4nrmth2e_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .section-ios .image-screen-10 glass-screen {
+        background-image: url(../image/screen_10__i32f4nrmth2e_medium.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-10 glass-screen {
+        background-image: url(../image/screen_10__i32f4nrmth2e_medium_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-11 glass-screen {
+    background-image: url(../image/screen_11__fquqdk9hauye_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-11 glass-screen {
+        background-image: url(../image/screen_11__fquqdk9hauye_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .section-ios .image-screen-11 glass-screen {
+        background-image: url(../image/screen_11__fquqdk9hauye_medium.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-11 glass-screen {
+        background-image: url(../image/screen_11__fquqdk9hauye_medium_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) {
+    .section-ios .image-screen-11 glass-screen {
+        background-image: url(../image/screen_11__fquqdk9hauye_small.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-11 glass-screen {
+        background-image: url(../image/screen_11__fquqdk9hauye_small_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-12 glass-screen {
+    background-image: url(../image/screen_12__bck8qznitxsi_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-12 glass-screen {
+        background-image: url(../image/screen_12__bck8qznitxsi_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .section-ios .image-screen-12 glass-screen {
+        background-image: url(../image/screen_12__bck8qznitxsi_medium.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-12 glass-screen {
+        background-image: url(../image/screen_12__bck8qznitxsi_medium_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) {
+    .section-ios .image-screen-12 glass-screen {
+        background-image: url(../image/screen_12__bck8qznitxsi_small.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-12 glass-screen {
+        background-image: url(../image/screen_12__bck8qznitxsi_small_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-13 glass-screen {
+    background-image: url(../image/screen_13__dtk4d7f67vqu_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-13 glass-screen {
+        background-image: url(../image/screen_13__dtk4d7f67vqu_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ios .image-screen-13 glass-screen {
+        background-image:url(../image/screen_13__dtk4d7f67vqu_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ios .image-screen-13 glass-screen {
+        background-image:url(../image/screen_13__dtk4d7f67vqu_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ios .image-screen-13 glass-screen {
+        background-image:url(../image/screen_13__dtk4d7f67vqu_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ios .image-screen-13 glass-screen {
+        background-image:url(../image/screen_13__dtk4d7f67vqu_small_2x.jpg)
+    }
+}
+
+
+
+.section-ios .image-screen-14 glass-screen {
+    background-image: url(../image/screen_14__emmp00b2v6mq_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-14 glass-screen {
+        background-image: url(../image/screen_14__emmp00b2v6mq_large_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-15 glass-screen {
+    background-image: url(../image/screen_15__fvn8g4vj4yq2_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-15 glass-screen {
+        background-image: url(../image/screen_15__fvn8g4vj4yq2_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) {
+    .section-ios .image-screen-15 glass-screen {
+        background-image: url(../image/screen_15__fvn8g4vj4yq2_small.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-15 glass-screen {
+        background-image: url(../image/screen_15__fvn8g4vj4yq2_small_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-16 glass-screen {
+    background-image: url(../image/screen_16__e85yoq7s5ueu_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-16 glass-screen {
+        background-image: url(../image/screen_16__e85yoq7s5ueu_large_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-17 glass-screen {
+    background-image: url(../image/screen_17__epo68s53pka6_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-17 glass-screen {
+        background-image: url(../image/screen_17__epo68s53pka6_large_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-18 glass-screen {
+    background-image: url(../image/screen_18__fjyjinqn81qq_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-18 glass-screen {
+        background-image: url(../image/screen_18__fjyjinqn81qq_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .section-ios .image-screen-18 glass-screen {
+        background-image: url(../image/screen_18__fjyjinqn81qq_medium.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-18 glass-screen {
+        background-image: url(../image/screen_18__fjyjinqn81qq_medium_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) {
+    .section-ios .image-screen-18 glass-screen {
+        background-image: url(../image/screen_18__fjyjinqn81qq_small.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-18 glass-screen {
+        background-image: url(../image/screen_18__fjyjinqn81qq_small_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-19 glass-screen {
+    background-image: url(../image/screen_19__cheo50rcl5ua_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-19 glass-screen {
+        background-image: url(../image/screen_19__cheo50rcl5ua_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .section-ios .image-screen-19 glass-screen {
+        background-image: url(../image/screen_19__cheo50rcl5ua_medium.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-19 glass-screen {
+        background-image: url(../image/screen_19__cheo50rcl5ua_medium_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) {
+    .section-ios .image-screen-19 glass-screen {
+        background-image: url(../image/screen_19__cheo50rcl5ua_small.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-19 glass-screen {
+        background-image: url(../image/screen_19__cheo50rcl5ua_small_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-1 glass-screen {
+    background-image: url(../image/screen_1__dd5wfdko9kmu_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-1 glass-screen {
+        background-image: url(../image/screen_1__dd5wfdko9kmu_large_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-2 glass-screen {
+    background-image: url(../image/screen_2__gfh5dx08erqm_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-2 glass-screen {
+        background-image: url(../image/screen_2__gfh5dx08erqm_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .section-ios .image-screen-2 glass-screen {
+        background-image: url(../image/screen_2__gfh5dx08erqm_medium.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-2 glass-screen {
+        background-image: url(../image/screen_2__gfh5dx08erqm_medium_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-3 glass-screen {
+    background-image: url(../image/screen_3__f3mkznbvz8eq_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-3 glass-screen {
+        background-image: url(../image/screen_3__f3mkznbvz8eq_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .section-ios .image-screen-3 glass-screen {
+        background-image: url(../image/screen_3__f3mkznbvz8eq_medium.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-3 glass-screen {
+        background-image: url(../image/screen_3__f3mkznbvz8eq_medium_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) {
+    .section-ios .image-screen-3 glass-screen {
+        background-image: url(../image/screen_3__f3mkznbvz8eq_small.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-3 glass-screen {
+        background-image: url(../image/screen_3__f3mkznbvz8eq_small_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-4 glass-screen {
+    background-image: url(../image/screen_4__exv00piq7qgm_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-4 glass-screen {
+        background-image: url(../image/screen_4__exv00piq7qgm_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .section-ios .image-screen-4 glass-screen {
+        background-image: url(../image/screen_4__exv00piq7qgm_medium.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-4 glass-screen {
+        background-image: url(../image/screen_4__exv00piq7qgm_medium_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) {
+    .section-ios .image-screen-4 glass-screen {
+        background-image: url(../image/screen_4__exv00piq7qgm_small.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-4 glass-screen {
+        background-image: url(../image/screen_4__exv00piq7qgm_small_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-5 glass-screen {
+    background-image: url(../image/screen_5__gafxmkrnhgya_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-5 glass-screen {
+        background-image: url(../image/screen_5__gafxmkrnhgya_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .section-ios .image-screen-5 glass-screen {
+        background-image: url(../image/screen_5__gafxmkrnhgya_medium.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-ios .image-screen-5 glass-screen {
+        background-image: url(../image/screen_5__gafxmkrnhgya_medium_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-6 glass-screen {
+    background-image: url(../image/screen_6__b65o4rki0naq_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-6 glass-screen {
+        background-image: url(../image/screen_6__b65o4rki0naq_large_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-7 glass-screen {
+    background-image: url(../image/screen_7__efiqj9t4xm0y_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-7 glass-screen {
+        background-image: url(../image/screen_7__efiqj9t4xm0y_large_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-8 glass-screen {
+    background-image: url(../image/screen_8__f8ctdefpljqu_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-8 glass-screen {
+        background-image: url(../image/screen_8__f8ctdefpljqu_large_2x.jpg)
+    }
+
+}
+
+.section-ios .image-screen-9 glass-screen {
+    background-image: url(../image/screen_9__c212rlt0rauu_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-ios .image-screen-9 glass-screen {
+        background-image: url(../image/screen_9__c212rlt0rauu_large_2x.jpg)
+    }
+
+}
+
+
+.section-ios .ios-image {
+    background-image: url(../image/ios16__f7s4v2yi43e6_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-ios .ios-image {
+        background-image:url(../image/ios16__f7s4v2yi43e6_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ios .ios-image {
+        background-image:url(../image/ios16__f7s4v2yi43e6_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ios .ios-image {
+        background-image:url(../image/ios16__f7s4v2yi43e6_small_2x.jpg)
+    }
+}
+
+.section-ios-17 .ios-image {
+    background-image: url(../image/ios17__99su08xwieai_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-ios-17 .ios-image {
+        background-image:url(../image/ios17__99su08xwieai_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ios-17 .ios-image {
+        background-image:url(../image/ios17__99su08xwieai_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ios-17 .ios-image {
+        background-image:url(../image/ios17__99su08xwieai_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ios-17 .ios-image {
+        background-image:url(../image/ios17__99su08xwieai_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ios-17 .ios-image {
+        background-image:url(../image/ios17__99su08xwieai_small_2x.jpg)
+    }
+}
+
+
+

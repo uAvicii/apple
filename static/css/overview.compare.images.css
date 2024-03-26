@@ -1,0 +1,110 @@
+.section-shared-compare .compare-item-s9.device .compare-item-image {
+    background-image: url(../image/compare_s9__dcuvret11pkm_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image:url(../image/compare_s9__dcuvret11pkm_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image: url(../image/compare_s9__dcuvret11pkm_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image:url(../image/compare_s9__dcuvret11pkm_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image: url(../image/compare_s9__dcuvret11pkm_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image:url(../image/compare_s9__dcuvret11pkm_small_2x.jpg)
+    }
+}
+
+.section-shared-compare .compare-item-ultra.device .compare-item-image {
+    background-image: url(../image/compare_ultra2__fqvpggy6g9ua_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image:url(../image/compare_ultra2__fqvpggy6g9ua_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image: url(../image/compare_ultra2__fqvpggy6g9ua_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image:url(../image/compare_ultra2__fqvpggy6g9ua_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image: url(../image/compare_ultra2__fqvpggy6g9ua_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image:url(../image/compare_ultra2__fqvpggy6g9ua_small_2x.jpg)
+    }
+}
+
+/*compare-water-icon*/
+.compare-item-s9.water-resistant .feature-item-icon {
+    width: 70px;
+    height: 58px;
+    background-size: 70px 58px;
+    background-repeat: no-repeat;
+    background-image:url(../image/quicklook_water_resistant__brps0kkfndsi_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-s9.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant__brps0kkfndsi_large_2x.png)
+    }
+}
+
+.compare-item-se.water-resistant .feature-item-icon {
+    width: 70px;
+    height: 58px;
+    background-size: 70px 58px;
+    background-repeat: no-repeat;
+    background-image:url(../image/quicklook_water_resistant__brps0kkfndsi_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-se.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant__brps0kkfndsi_large_2x.png)
+    }
+}
+
+.compare-item-ultra.water-resistant .feature-item-icon {
+    width: 90px;
+    height: 58px;
+    background-size: 90px 58px;
+    background-repeat: no-repeat;
+    background-image:url(../image/quicklook_water_resistant_100m__gin8ojg808mm_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-ultra.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant_100m__gin8ojg808mm_large_2x.png)
+    }
+}

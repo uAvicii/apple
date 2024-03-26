@@ -1,0 +1,584 @@
+.image-hero {
+    background-image: url("../image/hero_large1.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-hero {
+        background-image: url("../image/hero_large_2x1.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-hero {
+        background-image: url("../image/hero_medium1.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-hero {
+        background-image: url("../image/hero_medium_2x1.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-hero {
+        background-image: url("../image/hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-hero {
+        background-image: url("../image/hero_small_2x.jpg")
+    }
+}
+@media only screen and (max-width: 320px) {
+    .image-hero {
+        background-image: url("../image/hero_xsmall1.jpg")
+    }
+}
+
+@media only screen and (max-width: 320px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 320px) and (min-resolution: 1.5dppx), only screen and (max-width: 320px) and (min-resolution: 144dpi) {
+    .image-hero {
+        background-image: url("../image/hero_xsmall_2x1.jpg")
+    }
+}
+.image-apple-icon {
+    background-image: url("../image/apple_icon_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-apple-icon {
+        background-image: url("../image/apple_icon_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-apple-icon {
+        background-image: url("../image/apple_icon_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-apple-icon {
+        background-image: url("../image/apple_icon_medium_2x.png")
+    }
+}
+.image-employee-3 {
+    width: 1440px;
+    height: 814px;
+    background-size: 1440px 814px;
+    background-repeat: no-repeat;
+    background-image: url("../image/employee_3_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-employee-3 {
+        background-image: url("../image/employee_3_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-employee-3 {
+        width: 1068px;
+        height: 603px;
+        background-size: 1068px 603px;
+        background-repeat: no-repeat;
+        background-image: url("../image/employee_3_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-employee-3 {
+        background-image: url("../image/employee_3_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-employee-3 {
+        width: 736px;
+        height: 416px;
+        background-size: 736px 416px;
+        background-repeat: no-repeat;
+        background-image: url("../image/employee_3_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-employee-3 {
+        background-image: url("../image/employee_3_small_2x.jpg")
+    }
+}
+.image-employee-1 {
+    width: 1440px;
+    height: 814px;
+    background-size: 1440px 814px;
+    background-repeat: no-repeat;
+    background-image: url("../image/employee_1_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-employee-1 {
+        background-image: url("../image/employee_1_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-employee-1 {
+        width: 1068px;
+        height: 603px;
+        background-size: 1068px 603px;
+        background-repeat: no-repeat;
+        background-image: url("../image/employee_1_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-employee-1 {
+        background-image: url("../image/employee_1_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-employee-1 {
+        width: 736px;
+        height: 416px;
+        background-size: 736px 416px;
+        background-repeat: no-repeat;
+        background-image: url("../image/employee_1_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-employee-1 {
+        background-image: url("../image/employee_1_small_2x.jpg")
+    }
+}
+.image-employee-2 {
+    width: 1440px;
+    height: 814px;
+    background-size: 1440px 814px;
+    background-repeat: no-repeat;
+    background-image: url("../image/employee_2_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-employee-2 {
+        background-image: url("../image/employee_2_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-employee-2 {
+        width: 1068px;
+        height: 603px;
+        background-size: 1068px 603px;
+        background-repeat: no-repeat;
+        background-image: url("../image/employee_2_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-employee-2 {
+        background-image: url("../image/employee_2_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-employee-2 {
+        width: 736px;
+        height: 416px;
+        background-size: 736px 416px;
+        background-repeat: no-repeat;
+        background-image: url("../image/employee_2_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-employee-2 {
+        background-image: url("../image/employee_2_small_2x.jpg")
+    }
+}
+.image-employee-4 {
+    width: 1440px;
+    height: 814px;
+    background-size: 1440px 814px;
+    background-repeat: no-repeat;
+    background-image: url("../image/employee_4_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-employee-4 {
+        background-image: url("../image/employee_4_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-employee-4 {
+        width: 1068px;
+        height: 603px;
+        background-size: 1068px 603px;
+        background-repeat: no-repeat;
+        background-image: url("../image/employee_4_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-employee-4 {
+        background-image: url("../image/employee_4_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-employee-4 {
+        width: 736px;
+        height: 416px;
+        background-size: 736px 416px;
+        background-repeat: no-repeat;
+        background-image: url("../image/employee_4_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-employee-4 {
+        background-image: url("../image/employee_4_small_2x.jpg")
+    }
+}
+
+/*add theimages for employee-job*/
+.image-employee-3-job {
+    width: 1440px;
+    height: 814px;
+    background-size: 1440px 814px;
+    background-repeat: no-repeat;
+    background-image: url("../image/gudong_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-employee-3-job {
+        background-image: url("../image/gudong_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-employee-3-job {
+        width: 1068px;
+        height: 603px;
+        background-size: 1068px 603px;
+        background-repeat: no-repeat;
+        background-image: url("../image/gudong_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-employee-3-job {
+        background-image: url("../image/gudong_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-employee-3-job {
+        width: 736px;
+        height: 416px;
+        background-size: 736px 416px;
+        background-repeat: no-repeat;
+        background-image: url("../image/gudong_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-employee-3-job {
+        background-image: url("../image/gudong_small_2x.jpg")
+    }
+}
+.image-employee-2-job {
+    width: 1440px;
+    height: 814px;
+    background-size: 1440px 814px;
+    background-repeat: no-repeat;
+    background-image: url("../image/benlaishenghuo_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-employee-2-job {
+        background-image: url("../image/benlaishenghuo_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-employee-2-job {
+        width: 1068px;
+        height: 603px;
+        background-size: 1068px 603px;
+        background-repeat: no-repeat;
+        background-image: url("../image/benlaishenghuo_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-employee-2-job {
+        background-image: url("../image/benlaishenghuo_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-employee-2-job {
+        width: 736px;
+        height: 416px;
+        background-size: 736px 416px;
+        background-repeat: no-repeat;
+        background-image: url("../image/benlaishenghuo_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-employee-2-job {
+        background-image: url("../image/benlaishenghuo_small_2x.jpg")
+    }
+}
+.image-employee-4-job {
+    width: 1440px;
+    height: 814px;
+    background-size: 1440px 814px;
+    background-repeat: no-repeat;
+    background-image: url("../image/leyuansu_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-employee-4-job {
+        background-image: url("../image/leyuansu_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-employee-4-job {
+        width: 1068px;
+        height: 603px;
+        background-size: 1068px 603px;
+        background-repeat: no-repeat;
+        background-image: url("../image/leyuansu_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-employee-4-job {
+        background-image: url("../image/leyuansu_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-employee-4-job {
+        width: 736px;
+        height: 416px;
+        background-size: 736px 416px;
+        background-repeat: no-repeat;
+        background-image: url("../image/leyuansu_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-employee-4-job {
+        background-image: url("../image/leyuansu_small_2x.jpg")
+    }
+}
+.image-employee-1-job {
+    width: 1440px;
+    height: 814px;
+    background-size: 1440px 814px;
+    background-repeat: no-repeat;
+    background-image: url("../image/hehexinxi_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-employee-1-job {
+        background-image: url("../image/hehexinxi_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-employee-1-job {
+        width: 1068px;
+        height: 603px;
+        background-size: 1068px 603px;
+        background-repeat: no-repeat;
+        background-image: url("../image/hehexinxi_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-employee-1-job {
+        background-image: url("../image/hehexinxi_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-employee-1-job {
+        width: 736px;
+        height: 416px;
+        background-size: 736px 416px;
+        background-repeat: no-repeat;
+        background-image: url("../image/hehexinxi_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-employee-1-job {
+        background-image: url("../image/hehexinxi_small_2x.jpg")
+    }
+}
+
+.image-tech-partnership {
+    width: 1440px;
+    height: 802px;
+    background-size: 1440px 802px;
+    background-repeat: no-repeat;
+    background-image: url("../image/bozhongjinggong_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-tech-partnership {
+        background-image: url("../image/bozhongjinggong_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-tech-partnership {
+        width: 1068px;
+        height: 548px;
+        background-size: 1068px 548px;
+        background-repeat: no-repeat;
+        background-image: url("../image/bozhongjinggong_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-tech-partnership {
+        background-image: url("../image/bozhongjinggong_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-tech-partnership {
+        width: 736px;
+        height: 467px;
+        background-size: 736px 467px;
+        background-repeat: no-repeat;
+        background-image: url("../image/bozhongjinggong_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-tech-partnership {
+        background-image: url("../image/bozhongjinggong_small_2x.jpg")
+    }
+}
+.image-planet {
+    width: 1440px;
+    height: 802px;
+    background-size: 1440px 802px;
+    background-repeat: no-repeat;
+    background-image: url("../image/yutong_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-planet {
+        background-image: url("../image/yutong_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-planet {
+        width: 1068px;
+        height: 548px;
+        background-size: 1068px 548px;
+        background-repeat: no-repeat;
+        background-image: url("../image/yutong_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-planet {
+        background-image: url("../image/yutong_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-planet {
+        width: 736px;
+        height: 467px;
+        background-size: 736px 467px;
+        background-repeat: no-repeat;
+        background-image: url("../image/yutong_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-planet {
+        background-image: url("../image/yutong_small_2x.jpg")
+    }
+}
+.image-people {
+    width: 1440px;
+    height: 802px;
+    background-size: 1440px 802px;
+    background-repeat: no-repeat;
+    background-image: url("../image/people_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-people {
+        background-image: url("../image/people_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-people {
+        width: 1068px;
+        height: 548px;
+        background-size: 1068px 548px;
+        background-repeat: no-repeat;
+        background-image: url("../image/people_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-people {
+        background-image: url("../image/people_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-people {
+        width: 736px;
+        height: 467px;
+        background-size: 736px 467px;
+        background-repeat: no-repeat;
+        background-image: url("../image/people_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-people {
+        background-image: url("../image/people_small_2x.jpg")
+    }
+}
+
+.icon-pdf {
+    width: 37px;
+    height: 47px;
+    background-size: 37px 47px;
+    background-repeat: no-repeat;
+    background-image: url("../image/pdf_large.png");
+    margin-left: auto;
+    margin-right: auto
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .icon-pdf {
+        background-image: url("../image/pdf_large_2x.png")
+    }
+}
+
+
+
+
+

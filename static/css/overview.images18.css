@@ -1,0 +1,69 @@
+.section-hero .image-hero-lockup {
+    background-image: url("../image/landing_hero__ezvhxoasvo2u_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-hero .image-hero-lockup {
+        background-image: url("../image/landing_hero__ezvhxoasvo2u_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .image-hero-lockup {
+        background-image: url("../image/landing_hero__ezvhxoasvo2u_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-hero .image-hero-lockup {
+        background-image: url("../image/landing_hero__ezvhxoasvo2u_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-hero .image-hero-lockup {
+        background-image: url("../image/landing_hero__ezvhxoasvo2u_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-hero .image-hero-lockup {
+        background-image: url("../image/landing_hero__ezvhxoasvo2u_small_2x.png")
+    }
+}
+
+
+.section-applecare .image-ipod {
+    background-image: url("https://www.apple.com.cn/support/products/images/overview/landing_ipod__czth09x61jyq_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-applecare .image-ipod {
+        background-image: url("https://www.apple.com.cn/support/products/images/overview/landing_ipod__czth09x61jyq_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-applecare .image-ipod {
+        background-image: url("https://www.apple.com.cn/support/products/images/overview/landing_ipod__czth09x61jyq_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-applecare .image-ipod {
+        background-image: url("https://www.apple.com.cn/support/products/images/overview/landing_ipod__czth09x61jyq_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-applecare .image-ipod {
+        background-image: url("https://www.apple.com.cn/support/products/images/overview/landing_ipod__czth09x61jyq_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-applecare .image-ipod {
+        background-image: url("https://www.apple.com.cn/support/products/images/overview/landing_ipod__czth09x61jyq_small_2x.png")
+    }
+}
+

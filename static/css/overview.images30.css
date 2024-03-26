@@ -1,0 +1,228 @@
+/*Color animation start*/
+
+.section-design .inline-media.colors .glass-hardware .start-frame {
+    background-repeat: no-repeat;
+    background-image:url(../image/colors_startframe__ecf7p2cvvggi_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-design .inline-media.colors .glass-hardware .start-frame {
+        background-image:url(../image/colors_startframe__ecf7p2cvvggi_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .inline-media.colors .glass-hardware .start-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/colors_startframe__ecf7p2cvvggi_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-design .inline-media.colors .glass-hardware .start-frame {
+        background-image:url(../image/colors_startframe__ecf7p2cvvggi_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .inline-media.colors .glass-hardware .start-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/colors_startframe__ecf7p2cvvggi_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-design .inline-media.colors .glass-hardware .start-frame {
+        background-image:url(../image/colors_startframe__ecf7p2cvvggi_small_2x.jpg)
+    }
+}
+
+.section-design .inline-media.colors .glass-hardware .end-frame {
+    background-repeat: no-repeat;
+    background-image:url(../image/colors_endframe__fe5bnm14p2y6_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-design .inline-media.colors .glass-hardware .end-frame {
+        background-image:url(../image/colors_endframe__fe5bnm14p2y6_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .inline-media.colors .glass-hardware .end-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/colors_endframe__fe5bnm14p2y6_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-design .inline-media.colors .glass-hardware .end-frame {
+        background-image:url(../image/colors_endframe__fe5bnm14p2y6_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .inline-media.colors .glass-hardware .end-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/colors_endframe__fe5bnm14p2y6_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-design .inline-media.colors .glass-hardware .end-frame {
+        background-image:url(../image/colors_endframe__fe5bnm14p2y6_small_2x.jpg)
+    }
+}
+
+.section-design .inline-media.colors .glass-hardware .static-frame {
+    background-repeat: no-repeat;
+    background-image:url(../image/colors_startframe__ecf7p2cvvggi_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-design .inline-media.colors .glass-hardware .static-frame {
+        background-image:url(../image/colors_startframe__ecf7p2cvvggi_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .inline-media.colors .glass-hardware .static-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/colors_startframe__ecf7p2cvvggi_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-design .inline-media.colors .glass-hardware .static-frame {
+        background-image:url(../image/colors_startframe__ecf7p2cvvggi_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .inline-media.colors .glass-hardware .static-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/colors_startframe__ecf7p2cvvggi_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-design .inline-media.colors .glass-hardware .static-frame {
+        background-image:url(../image/colors_startframe__ecf7p2cvvggi_small_2x.jpg)
+    }
+}
+/*Color animation end*/
+
+/*Apps Animation start*/
+
+.section-apps .inline-media.apps .glass-hardware .start-frame {
+    background-repeat: no-repeat;
+    background-image:url(../image/apps_startframe__fcumml9gng6e_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-apps .inline-media.apps .glass-hardware .start-frame {
+        background-image:url(../image/apps_startframe__fcumml9gng6e_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-apps .inline-media.apps .glass-hardware .start-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/apps_startframe__fcumml9gng6e_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-apps .inline-media.apps .glass-hardware .start-frame {
+        background-image:url(../image/apps_startframe__fcumml9gng6e_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-apps .inline-media.apps .glass-hardware .start-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/apps_startframe__fcumml9gng6e_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-apps .inline-media.apps .glass-hardware .start-frame {
+        background-image:url(../image/apps_startframe__fcumml9gng6e_small_2x.jpg)
+    }
+}
+
+.section-apps .inline-media.apps .glass-hardware .end-frame {
+    background-repeat: no-repeat;
+    background-image:url(../image/apps_endframe__eql39buznqye_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-apps .inline-media.apps .glass-hardware .end-frame {
+        background-image:url(../image/apps_endframe__eql39buznqye_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-apps .inline-media.apps .glass-hardware .end-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/apps_endframe__eql39buznqye_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-apps .inline-media.apps .glass-hardware .end-frame {
+        background-image:url(../image/apps_endframe__eql39buznqye_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-apps .inline-media.apps .glass-hardware .end-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/apps_endframe__eql39buznqye_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-apps .inline-media.apps .glass-hardware .end-frame {
+        background-image:url(../image/apps_endframe__eql39buznqye_small_2x.jpg)
+    }
+}
+
+.section-apps .inline-media.apps .glass-hardware .static-frame {
+    background-repeat: no-repeat;
+    background-image:url(../image/apps_startframe__fcumml9gng6e_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-apps .inline-media.apps .glass-hardware .static-frame {
+        background-image:url(../image/apps_startframe__fcumml9gng6e_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-apps .inline-media.apps .glass-hardware .static-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/apps_startframe__fcumml9gng6e_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-apps .inline-media.apps .glass-hardware .static-frame {
+        background-image:url(../image/apps_startframe__fcumml9gng6e_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-apps .inline-media.apps .glass-hardware .static-frame {
+        background-repeat: no-repeat;
+        background-image:url(../image/apps_startframe__fcumml9gng6e_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-apps .inline-media.apps .glass-hardware .static-frame {
+        background-image:url(../image/apps_startframe__fcumml9gng6e_small_2x.jpg)
+    }
+}
+
+/*Apps Animation end*/

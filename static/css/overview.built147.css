@@ -1,0 +1,61 @@
+.page-overview .section-apple-music .section-copy .footnote {
+    position: static;
+}
+
+
+/* 2019-10-22 */
+.hero-intro .icon-playcircle::before,.hero-intro .icon-playcircle::after {
+    top:1px;
+}
+
+.mr-5{margin-right:-5px;}
+
+
+/* IDL */
+br.large {
+    display:block
+}
+
+@media only screen and (max-width: 1068px) {
+    br.large {
+        display:none
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    br.large {
+        display:none
+    }
+}
+
+br.medium {
+    display:none
+}
+
+@media only screen and (max-width: 1068px) {
+    br.medium {
+        display:block
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    br.medium {
+        display:none
+    }
+}
+
+br.small {
+    display:none
+}
+
+@media only screen and (max-width: 1068px) {
+    br.small {
+        display:none
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    br.small {
+        display:block
+    }
+}

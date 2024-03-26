@@ -1,0 +1,54 @@
+.ribbon-content a.more {
+    white-space: nowrap;
+}
+
+.rf-flagship-media {
+    min-height: 492px;
+}
+
+.rf-flagship-video {
+    height: 481px;
+    padding-top: 44px;
+}
+
+.rf-flagship-productselection-dimensioncolor .form-selector-swatch .form-selector-label {
+    padding: 22px 15px 18px;
+}
+
+.rf-flagship-productselection-dimensioncolor .form-selector-input.focused~.form-selector-label,
+.rf-flagship-productselection-dimensioncolor .form-selector-input:checked~.form-selector-label,
+.rf-flagship-productselection-dimensioncolor .form-selector-input:focus~.form-selector-label {
+    padding: 21px 14px 17px;
+}
+
+.rf-flagship-productselection-dimensioncolor .form-label-small + span.form-label-small {
+    min-height: 1.8824rem;
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .rf-flagship-media {
+        min-height: 300px;
+        justify-content: center;
+    }
+
+    .rf-flagship-video {
+        max-width: 490px;
+        height: auto;
+        padding-top: 0;
+    }
+
+    .rf-flagship-productselection-dimensioncolor .form-selector-swatch .form-selector-label {
+        padding: 20px 15px 16px;
+    }
+
+    .rf-flagship-productselection-dimensioncolor .form-selector-input.focused~.form-selector-label,
+    .rf-flagship-productselection-dimensioncolor .form-selector-input:checked~.form-selector-label,
+    .rf-flagship-productselection-dimensioncolor .form-selector-input:focus~.form-selector-label {
+        padding: 19px 14px 15px;
+    }
+}
+
+/* rdar://88300073 - hide tradein text in non-tradein pages */
+.as-price-tradein-text {
+    display: none;
+}

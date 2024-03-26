@@ -1,0 +1,125 @@
+/* dynamic island  endframe*/
+.section-highlights [data-component-list*="HighlightsGallery"] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.endframe {
+	background-image: url(../image/highlights_dynamic_island_endframe__b6spnbuvcq5e_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi),
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx) {
+	.section-highlights [data-component-list*="HighlightsGallery"] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.endframe {
+		background-image: url(../image/highlights_dynamic_island_endframe__b6spnbuvcq5e_large_2x.jpg);
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-highlights [data-component-list*="HighlightsGallery"] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.endframe {
+		background-image: url(../image/highlights_dynamic_island_endframe__b6spnbuvcq5e_medium.jpg);
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-highlights [data-component-list*="HighlightsGallery"] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.endframe {
+		background-image: url(../image/highlights_dynamic_island_endframe__b6spnbuvcq5e_medium_2x.jpg);
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-highlights [data-component-list*="HighlightsGallery"] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.endframe {
+		background-image: url(../image/highlights_dynamic_island_endframe__b6spnbuvcq5e_small.jpg);
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-highlights [data-component-list*="HighlightsGallery"] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.endframe {
+		background-image: url(../image/highlights_dynamic_island_endframe__b6spnbuvcq5e_small_2x.jpg);
+	}
+}
+
+/* dynamic island  startframe*/
+ .section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.startframe {
+	background-image: url(../image/highlights_dynamic_island_startframe__emrxzaec4fcm_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi),
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx) {
+	.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.startframe {
+		background-image: url(../image/highlights_dynamic_island_startframe__emrxzaec4fcm_large_2x.jpg);
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.startframe {
+		background-image: url(../image/highlights_dynamic_island_startframe__emrxzaec4fcm_medium.jpg);
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.startframe {
+		background-image: url(../image/highlights_dynamic_island_startframe__emrxzaec4fcm_medium_2x.jpg)
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.startframe {
+		background-image: url(../image/highlights_dynamic_island_startframe__emrxzaec4fcm_small.jpg);
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-highlights [data-component-list *=HighlightsGallery] .media-gallery .item-container .media-gallery-item-dynamic-island .positioned-media-element.startframe {
+		background-image: url(../image/highlights_dynamic_island_startframe__emrxzaec4fcm_small_2x.jpg)
+	}
+}
+
+/* Safety */
+.subsection-safety .overview-safety-safety-bg {
+	background-image: url(../image/safety__r2ikccfsr6ai_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi),
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx) {
+	.subsection-safety .overview-safety-safety-bg {
+		background-image: url(../image/safety__r2ikccfsr6ai_large_2x.jpg);
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.subsection-safety .overview-safety-safety-bg {
+		background-image: url(../image/safety__r2ikccfsr6ai_medium.jpg);
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.subsection-safety .overview-safety-safety-bg {
+		background-image: url(../image/safety__r2ikccfsr6ai_medium_2x.jpg);
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.subsection-safety .overview-safety-safety-bg {
+		background-image: url(../image/safety__r2ikccfsr6ai_small.jpg);
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.subsection-safety .overview-safety-safety-bg {
+		background-image: url(../image/safety__r2ikccfsr6ai_small_2x.jpg);
+	}
+}

@@ -1,0 +1,125 @@
+.geo-altmt {
+    margin-top: -21px
+}
+
+.section-hero .headline {
+    margin-top: 475px;
+}
+
+
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .headline {
+        margin-top: 380px
+    }
+    .section-environment .card-carbon-neutral .card-headline, .section-environment .card-environmental-rights .card-headline {
+        max-width: 7em !important;
+    }
+    #main #hero .HeroSubhead {
+        margin-top: 92px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .headline {
+    	max-width: 337px;
+        width: 88%;
+        margin-top: calc(628px + max(500px, min(1000px, 100vh))/2 - var(--video-height)/2)
+    }
+    #main #hero .HeroSubhead {
+        margin-top: 82px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .typography-card-headline-big.card-headline.geo-alt-s5 {
+        font-size: 38px;
+    }
+}
+
+
+/* 2023/3/23 */
+
+@media only screen and (max-width: 734px){
+    .inner-padding .badges-container .badge-value-human-rights {
+        min-width: 118px;
+    }
+    .inner-padding .badges-container .badge-value-act {
+        min-width: 117px;
+    }
+    .inner-padding .badges-container .badge-value-skills {
+        min-width: 98px;
+    }
+    .inner-padding .badges-container .badge-value-safety  {
+        min-width: 117px;
+    }
+    .inner-padding .badges-container .badge-value-wellness  {
+        min-width: 133px;
+    }
+    .inner-padding .badges-container .badge-value-zero-waste  {
+        min-width: 109px;
+    }
+    .inner-padding .badges-container .carbon-neutral-l{
+        min-width: 167px;
+      }
+}
+
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+    .inner-padding .badges-container .badge-value-human-rights {
+        min-width: 243px;
+    }
+    .inner-padding .badges-container .badge-value-act {
+        min-width: 236px;
+    }
+    .inner-padding .badges-container .badge-value-partnerships{
+        min-width: 171px;
+    }
+    .inner-padding .badges-container .badge-value-skills {
+        min-width: 236px;
+    }
+    .inner-padding .badges-container .badge-value-safety  {
+        min-width: 202px;
+    }
+    .inner-padding .badges-container .badge-value-wellness  {
+        min-width: 202px;
+    }
+    .inner-padding .badges-container .badge-value-zero-waste  {
+        min-width: 230px;
+    }
+    .inner-padding .badges-container .carbon-neutral-l{
+        min-width: 203px;
+      }
+}
+    .inner-padding .badge-value-human-rights {
+        min-width: 388px;
+    }
+    .inner-padding .badge-value-act  {
+    min-width: 368px;
+    }
+    .inner-padding .badge-value-skills  {
+    min-width: 350px;
+    }
+    .inner-padding .badge-value-safety  {
+    min-width: 313px;
+    }
+    .inner-padding .badge-value-zero-waste  {
+    min-width: 367px;
+    }
+    .inner-padding .carbon-neutral-l{
+    min-width: 325px;
+    }
+    .cardWidth {
+    max-width: 5.4em !important;
+    }
+    #main #hero .HeroSubhead {
+    margin-top: 57px;
+    }
+  .section-people .card-we-listen-and-act .card-headline {
+    max-width: 5.3em;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .intro > span {
+        max-width: 620px;
+    }
+}

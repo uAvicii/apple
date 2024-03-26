@@ -1,0 +1,73 @@
+/* hides PRODUCT_RED icon in CN geo */
+.cn .rf-productselection-colornav .colornav-logo-productred {
+    display: none;
+}
+
+/* hide summary chat in US Desktop since it shows below buystrip */
+.us .rf-step1apollo-summary-wrapper .rf-flagship-chatcontent {
+    display: none;
+}
+
+@media only screen and (max-device-width: 736px) and (max-width: 1023px) {
+    .us .rf-step1apollo-summary-wrapper .rf-flagship-chatcontent {
+        display: block;
+    }
+}
+
+.rs-apollo-buyflow .rc-witb-items .rc-witb-item {
+    flex-basis: 0;
+}
+
+.rs-apollo-buyflow .rc-witb-gallery-item-label {
+    white-space: normal;
+}
+
+.hide {
+    display: none;
+}
+
+.apple-watch-hermes .rc-witb-list-label {
+    padding: 24px 4px;
+}
+
+.rc-prices-footer .rc-prices-purchaseoptiondescription .as-purchaseinfo-podescriptiontext {
+    display: none;
+}
+
+.rc-prices-footer .rc-prices-purchaseoptiondescription .as-purchaseinfo-podescriptiontext:lang(vi-VN) {
+    display: block;
+}
+
+.rf-bfe-warm-summary-productscore .rf-bfe-productscore-img,
+.rf-bfe-summary-productscore .rf-bfe-productscore-img,
+.rf-bfe-band-color-productscore .rf-bfe-productscore-img {
+    width: 1.471rem;
+    height: auto;
+    align-self: auto;
+}
+
+.rf-bfe-warm-summary-productscore .rf-bfe-productscore-text,
+.rf-bfe-summary-productscore .rf-bfe-productscore-text,
+.rf-bfe-band-color-productscore .rf-bfe-productscore-text {
+    font-size: 12px;
+    line-height: 1.4705882353;
+    font-weight: 500;
+    letter-spacing: -0.039em;
+    color: black;
+    padding-left: 0;
+}
+
+@media (inverted-colors) {
+    .rf-bfe-productscore-svg svg {
+        background-color: white;
+        filter: invert(100%);
+    }
+}
+
+.rf-bfe-selector-subtext .rf-bfe-productscore-footer {
+    padding-top: 9px;
+}
+
+.rf-bfe-selector-subtext .rf-bfe-productscore-footer:first-child {
+    padding-top: 0;
+}

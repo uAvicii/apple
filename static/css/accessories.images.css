@@ -1,0 +1,33 @@
+section.section-accessories .image-ipad-accessories {
+    background-image: url(../image/ipad_pencil_keyboard_accessories__fjs19kkqlrue_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    section.section-accessories .image-ipad-accessories {
+        background-image:url(../image/ipad_pencil_keyboard_accessories__fjs19kkqlrue_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    section.section-accessories .image-ipad-accessories {
+        background-image: url(../image/ipad_pencil_keyboard_accessories__fjs19kkqlrue_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    section.section-accessories .image-ipad-accessories {
+        background-image:url(../image/ipad_pencil_keyboard_accessories__fjs19kkqlrue_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    section.section-accessories .image-ipad-accessories {
+        background-image: url(../image/ipad_pencil_keyboard_accessories__fjs19kkqlrue_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    section.section-accessories .image-ipad-accessories {
+        background-image:url(../image/ipad_pencil_keyboard_accessories__fjs19kkqlrue_small_2x.jpg)
+    }
+}

@@ -1,0 +1,41 @@
+.current-airpods .footnote.footnote-airpods {
+    margin-left: 0
+}
+
+.current-airpods-2nd-gen .footnote.footnote-airpods-2nd-gen {
+    margin-left: 0
+}
+
+.current-airpods-2nd-gen-specs .footnote.footnote-airpods-2nd-gen-specs {
+    margin-left: 0
+}
+
+.current-airpods-3rd-gen .footnote.footnote-airpods-3rd-gen {
+    margin-left: 0
+}
+
+.current-airpods-3rd-gen-specs .footnote.footnote-airpods-3rd-gen-specs {
+    margin-left: 0
+}
+
+.current-airpods-pro .footnote.footnote-airpods-pro {
+    margin-left: 0
+}
+
+.current-airpods-pro-specs .footnote.footnote-airpods-pro-specs {
+    margin-left: 0
+}
+
+.current-airpods-max .footnote.footnote-airpods-max {
+    margin-left: 0
+}
+
+.current-airpods-max-specs .footnote.footnote-airpods-max-specs {
+    margin-left: 0
+}
+
+/*wechat fix AR start*/
+html.wechat-fix.quicklook .section-compare .compare-module-wrapper .compare-quicklook-component {
+    display: none
+}
+/*wechat fix AR end*/

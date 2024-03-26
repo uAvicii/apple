@@ -1,0 +1,115 @@
+.section-hero .hero-headline {
+    max-width: none;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .section-content {
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .hero-headline {
+        max-width: none
+    }
+}
+
+html[lang=zh-CN] .centerall_09 { padding-left: 0.5em; }
+
+.section-how-to-buy .column-special-pricing .typography-intro-elevated {
+   max-width: none;
+}
+html[lang=zh-CN] .centerall {
+    padding-left: 0.5em;
+}
+
+
+
+@media only screen and (max-width: 734px) {
+    .section-hero .hero-copy {
+    max-width: 90%;
+}
+}
+
+
+.icon-wrapper .icon.headline-center-l {
+    position: absolute;
+}
+.cards .card .card-cta {
+    position: relative;
+}
+
+.icon-wrapper {
+    position: relative;
+}
+
+
+.section-spotlight .card .image-spotlight-inspiring-students {
+    width: 610px;
+    height: 420px;
+    background-size: 610px 420px;
+    background-repeat: no-repeat;
+    background-image: url("../image/spotlight_inspiring_students__c68ste27ji6a_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-spotlight .card .image-spotlight-inspiring-students {
+        background-image: url("../image/spotlight_inspiring_students__c68ste27ji6a_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-spotlight .card .image-spotlight-inspiring-students {
+        width: 397px;
+        height: 330px;
+        background-size: 397px 330px;
+        background-repeat: no-repeat;
+        background-image: url("../image/spotlight_inspiring_students__c68ste27ji6a_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-spotlight .card .image-spotlight-inspiring-students {
+        background-image: url("../image/spotlight_inspiring_students__c68ste27ji6a_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-spotlight .card .image-spotlight-inspiring-students {
+        width: 500px;
+        height: 290px;
+        background-size: 500px 290px;
+        background-repeat: no-repeat;
+        background-image: url("../image/spotlight_inspiring_students__c68ste27ji6a_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-spotlight .card .image-spotlight-inspiring-students {
+        background-image: url("../image/spotlight_inspiring_students__c68ste27ji6a_small_2x.jpg")
+    }
+}
+
+.f600 {
+    font-weight: 600 !important;
+}
+
+/* .section-spotlight .card .icon-after.icon-playcircle::after {
+    position: absolute;
+    top: 0.1em;
+}
+
+.section-spotlight .card .icon-after.more::after {
+    position: absolute;
+    top: 0.1em;
+} */

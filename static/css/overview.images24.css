@@ -1,0 +1,668 @@
+.page-continuity .section-airdrop .image-airdrop {
+    background-image: url("../image/airdrop__gjojbqtad0ia_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+    .page-continuity .section-airdrop .image-airdrop {
+        background-image: url("../image/airdrop__gjojbqtad0ia_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .page-continuity .section-airdrop .image-airdrop {
+        background-image: url("../image/airdrop__gjojbqtad0ia_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .page-continuity .section-airdrop .image-airdrop {
+        background-image: url("../image/airdrop__gjojbqtad0ia_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .page-continuity .section-airdrop .image-airdrop {
+        background-image: url("../image/airdrop__gjojbqtad0ia_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:735px) and (min-resolution:1.5dppx),
+only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .page-continuity .section-airdrop .image-airdrop {
+        background-image: url("../image/airdrop__gjojbqtad0ia_small_2x.jpg")
+    }
+
+}
+
+.page-continuity .section-apple-pay .image-apple-pay {
+    background-image: url("https://www.apple.com.cn/macos/continuity/images/overview/apple_pay__f2dpnttciyeu_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+    .page-continuity .section-apple-pay .image-apple-pay {
+        background-image: url("https://www.apple.com.cn/macos/continuity/images/overview/apple_pay__f2dpnttciyeu_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .page-continuity .section-apple-pay .image-apple-pay {
+        background-image: url("https://www.apple.com.cn/macos/continuity/images/overview/apple_pay__f2dpnttciyeu_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .page-continuity .section-apple-pay .image-apple-pay {
+        background-image: url("https://www.apple.com.cn/macos/continuity/images/overview/apple_pay__f2dpnttciyeu_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .page-continuity .section-apple-pay .image-apple-pay {
+        background-image: url("https://www.apple.com.cn/macos/continuity/images/overview/apple_pay__f2dpnttciyeu_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:735px) and (min-resolution:1.5dppx),
+only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .page-continuity .section-apple-pay .image-apple-pay {
+        background-image: url("https://www.apple.com.cn/macos/continuity/images/overview/apple_pay__f2dpnttciyeu_small_2x.jpg")
+    }
+
+}
+
+.page-continuity .section-continuity-camera .image-continuity-camera {
+    background-image: url("../image/continuity_camera__gmmfhh6sxw2u_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+    .page-continuity .section-continuity-camera .image-continuity-camera {
+        background-image: url("../image/continuity_camera__gmmfhh6sxw2u_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .page-continuity .section-continuity-camera .image-continuity-camera {
+        background-image: url("../image/continuity_camera__gmmfhh6sxw2u_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .page-continuity .section-continuity-camera .image-continuity-camera {
+        background-image: url("../image/continuity_camera__gmmfhh6sxw2u_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .page-continuity .section-continuity-camera .image-continuity-camera {
+        background-image: url("../image/continuity_camera__gmmfhh6sxw2u_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:735px) and (min-resolution:1.5dppx),
+only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .page-continuity .section-continuity-camera .image-continuity-camera {
+        background-image: url("../image/continuity_camera__gmmfhh6sxw2u_small_2x.jpg")
+    }
+
+}
+
+.page-continuity .section-continuity-camera .image-continuity-camera-2 {
+    background-image: url("../image/continuity_camera_2__ge9wognhadm6_large.jpg");
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-continuity .section-continuity-camera .image-continuity-camera-2 {
+        background-image:url("../image/continuity_camera_2__ge9wognhadm6_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-continuity .section-continuity-camera .image-continuity-camera-2 {
+        background-image:url("../image/continuity_camera_2__ge9wognhadm6_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-continuity .section-continuity-camera .image-continuity-camera-2 {
+        background-image:url("../image/continuity_camera_2__ge9wognhadm6_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-continuity .section-continuity-camera .image-continuity-camera-2 {
+        background-image:url("../image/continuity_camera_2__ge9wognhadm6_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-continuity .section-continuity-camera .image-continuity-camera-2 {
+        background-image:url("../image/continuity_camera_2__ge9wognhadm6_small_2x.jpg")
+    }
+}
+
+.page-continuity .section-handoff .image-handoff {
+    background-image: url("../image/handoff_email__cnk83cagbcya_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+    .page-continuity .section-handoff .image-handoff {
+        background-image: url("../image/handoff_email__cnk83cagbcya_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .page-continuity .section-handoff .image-handoff {
+        background-image: url("../image/handoff_email__cnk83cagbcya_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .page-continuity .section-handoff .image-handoff {
+        background-image: url("../image/handoff_email__cnk83cagbcya_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .page-continuity .section-handoff .image-handoff {
+        background-image: url("../image/handoff_email__cnk83cagbcya_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:735px) and (min-resolution:1.5dppx),
+only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .page-continuity .section-handoff .image-handoff {
+        background-image: url("../image/handoff_email__cnk83cagbcya_small_2x.jpg")
+    }
+
+}
+
+.page-continuity .section-hero .image-hero {
+    background-image: url("../image/hero__nmmwmcfu4oqy_large.jpg");
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-continuity .section-hero .image-hero {
+        background-image:url("../image/hero__nmmwmcfu4oqy_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-continuity .section-hero .image-hero {
+        background-image:url("../image/hero__nmmwmcfu4oqy_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-continuity .section-hero .image-hero {
+        background-image:url("../image/hero__nmmwmcfu4oqy_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-continuity .section-hero .image-hero {
+        background-image:url("../image/hero__nmmwmcfu4oqy_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-continuity .section-hero .image-hero {
+        background-image:url("../image/hero__nmmwmcfu4oqy_small_2x.jpg")
+    }
+}
+
+
+.page-continuity .section-hotspot .image-hotspot {
+    background-image: url("../image/hotspot__f9nr6d1avz6m_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+    .page-continuity .section-hotspot .image-hotspot {
+        background-image: url("../image/hotspot__f9nr6d1avz6m_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .page-continuity .section-hotspot .image-hotspot {
+        background-image: url("../image/hotspot__f9nr6d1avz6m_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .page-continuity .section-hotspot .image-hotspot {
+        background-image: url("../image/hotspot__f9nr6d1avz6m_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .page-continuity .section-hotspot .image-hotspot {
+        background-image: url("../image/hotspot__f9nr6d1avz6m_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:735px) and (min-resolution:1.5dppx),
+only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .page-continuity .section-hotspot .image-hotspot {
+        background-image: url("../image/hotspot__f9nr6d1avz6m_small_2x.jpg")
+    }
+
+}
+
+.page-continuity .section-markup .image-markup {
+    background-image: url("../image/markup__bkkuxa9payoi_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .page-continuity .section-markup .image-markup {
+        background-image: url("../image/markup__bkkuxa9payoi_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-continuity .section-markup .image-markup {
+        background-image: url("../image/markup__bkkuxa9payoi_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-continuity .section-markup .image-markup {
+        background-image: url("../image/markup__bkkuxa9payoi_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-continuity .section-markup .image-markup {
+        background-image: url("../image/markup__bkkuxa9payoi_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-continuity .section-markup .image-markup {
+        background-image: url("../image/markup__bkkuxa9payoi_small_2x.jpg")
+    }
+}
+
+.page-continuity .section-phone .image-making-calls {
+    background-image: url("../image/phone_making_calls__clct86a1nrma_large.jpg");
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-continuity .section-phone .image-making-calls {
+        background-image: url("../image/phone_making_calls__clct86a1nrma_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-continuity .section-phone .image-making-calls {
+        background-image: url("../image/phone_making_calls__clct86a1nrma_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-continuity .section-phone .image-making-calls {
+        background-image: url("../image/phone_making_calls__clct86a1nrma_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-continuity .section-phone .image-making-calls {
+        background-image: url("../image/phone_making_calls__clct86a1nrma_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-continuity .section-phone .image-making-calls {
+        background-image: url("../image/phone_making_calls__clct86a1nrma_small_2x.jpg")
+    }
+}
+
+
+.page-continuity .section-phone .image-phone {
+    background-image: url("../image/phone_receiving_calls__df47tsjglloy_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+    .page-continuity .section-phone .image-phone {
+        background-image: url("../image/phone_receiving_calls__df47tsjglloy_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .page-continuity .section-phone .image-phone {
+        background-image: url("../image/phone_receiving_calls__df47tsjglloy_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .page-continuity .section-phone .image-phone {
+        background-image: url("../image/phone_receiving_calls__df47tsjglloy_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .page-continuity .section-phone .image-phone {
+        background-image: url("../image/phone_receiving_calls__df47tsjglloy_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:735px) and (min-resolution:1.5dppx),
+only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .page-continuity .section-phone .image-phone {
+        background-image: url("../image/phone_receiving_calls__df47tsjglloy_small_2x.jpg")
+    }
+
+}
+
+.page-continuity .section-sidecar .image-sidecar {
+    background-image: url("../image/sidecar__cyywr72h9ic2_large.jpg");
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-continuity .section-sidecar .image-sidecar {
+        background-image:url("../image/sidecar__cyywr72h9ic2_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-continuity .section-sidecar .image-sidecar {
+        background-image:url("../image/sidecar__cyywr72h9ic2_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-continuity .section-sidecar .image-sidecar {
+        background-image:url("../image/sidecar__cyywr72h9ic2_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-continuity .section-sidecar .image-sidecar {
+        background-image:url("../image/sidecar__cyywr72h9ic2_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-continuity .section-sidecar .image-sidecar {
+        background-image:url("../image/sidecar__cyywr72h9ic2_small_2x.jpg")
+    }
+}
+
+.page-continuity .section-sms .image-sms {
+    background-image: url("../image/sms_message__coy69om0xspe_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+    .page-continuity .section-sms .image-sms {
+        background-image: url("../image/sms_message__coy69om0xspe_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .page-continuity .section-sms .image-sms {
+        background-image: url("../image/sms_message__coy69om0xspe_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .page-continuity .section-sms .image-sms {
+        background-image: url("../image/sms_message__coy69om0xspe_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .page-continuity .section-sms .image-sms {
+        background-image: url("../image/sms_message__coy69om0xspe_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:735px) and (min-resolution:1.5dppx),
+only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .page-continuity .section-sms .image-sms {
+        background-image: url("../image/sms_message__coy69om0xspe_small_2x.jpg")
+    }
+
+}
+
+.page-continuity .section-universal .image-universal {
+    background-image: url("../image/universal_clipboard__buc7s6apu25e_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+    .page-continuity .section-universal .image-universal {
+        background-image: url("../image/universal_clipboard__buc7s6apu25e_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .page-continuity .section-universal .image-universal {
+        background-image: url("../image/universal_clipboard__buc7s6apu25e_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .page-continuity .section-universal .image-universal {
+        background-image: url("../image/universal_clipboard__buc7s6apu25e_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .page-continuity .section-universal .image-universal {
+        background-image: url("../image/universal_clipboard__buc7s6apu25e_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:735px) and (min-resolution:1.5dppx),
+only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .page-continuity .section-universal .image-universal {
+        background-image: url("../image/universal_clipboard__buc7s6apu25e_small_2x.jpg")
+    }
+
+}
+
+.page-continuity .section-universal-control .image-universal-control {
+    background-image: url("../image/universal_control__d45vcgvunzu6_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+    .page-continuity .section-universal-control .image-universal-control {
+        background-image: url("../image/universal_control__d45vcgvunzu6_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .page-continuity .section-universal-control .image-universal-control {
+        background-image: url("../image/universal_control__d45vcgvunzu6_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .page-continuity .section-universal-control .image-universal-control {
+        background-image: url("../image/universal_control__d45vcgvunzu6_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .page-continuity .section-universal-control .image-universal-control {
+        background-image: url("../image/universal_control__d45vcgvunzu6_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:735px) and (min-resolution:1.5dppx),
+only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .page-continuity .section-universal-control .image-universal-control {
+        background-image: url("../image/universal_control__d45vcgvunzu6_small_2x.jpg")
+    }
+
+}
+
+
+
+/* 20221108 */
+
+/* image-airplay */
+.page-continuity .section-airplay .image-airplay {
+    background-image: url("../image/airplay__q655q706p0iu_large.jpg");
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-continuity .section-airplay .image-airplay {
+        background-image:url("../image/airplay__q655q706p0iu_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-continuity .section-airplay .image-airplay {
+        background-image:url("../image/airplay__q655q706p0iu_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-continuity .section-airplay .image-airplay {
+        background-image:url("../image/airplay__q655q706p0iu_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-continuity .section-airplay .image-airplay {
+        background-image:url("../image/airplay__q655q706p0iu_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-continuity .section-airplay .image-airplay {
+        background-image:url("../image/airplay__q655q706p0iu_small_2x.jpg")
+    }
+}
+
+/* image-unlock */
+
+
+.page-continuity .section-unlock .image-unlock {
+    background-image: url("../image/autounlock__bp7hphmrsbqu_large.jpg");
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-continuity .section-unlock .image-unlock {
+        background-image:url("../image/autounlock__bp7hphmrsbqu_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-continuity .section-unlock .image-unlock {
+        background-image:url("../image/autounlock__bp7hphmrsbqu_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-continuity .section-unlock .image-unlock {
+        background-image:url("../image/autounlock__bp7hphmrsbqu_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-continuity .section-unlock .image-unlock {
+        background-image:url("../image/autounlock__bp7hphmrsbqu_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-continuity .section-unlock .image-unlock {
+        background-image:url("../image/autounlock__bp7hphmrsbqu_small_2x.jpg")
+    }
+}

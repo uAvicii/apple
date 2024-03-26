@@ -1,0 +1,1400 @@
+/**** CEL ****/
+.image-cel {
+    width: 109px;
+    height: 164px;
+    background-size: 109px 164px;
+    background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-cel {
+        width: 108px;
+        height: 163px;
+        background-size: 108px 163px;
+        background-repeat: no-repeat;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-cel {
+        width: 112px;
+        height: 169px;
+        background-size: 112px 169px;
+        background-repeat: no-repeat;
+    }
+}
+
+/*MacBook*/
+    .a1534_a {
+        background-image: url("../image/a1534_a_large.jpg")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a1534_a {
+            background-image: url("../image/a1534_a_large_2x.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a1534_a {
+            background-image: url("../image/a1534_a_medium.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a1534_a {
+            background-image: url("../image/a1534_a_medium_2x.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a1534_a {
+            background-image: url("../image/a1534_a_small.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a1534_a {
+            background-image: url("../image/a1534_a_small_2x.jpg")
+        }
+    }
+
+    /*Macbookair*/
+    .a1466_a {
+        background-image: url("../image/a1466_a_large.jpg")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a1466_a {
+            background-image: url("../image/a1466_a_large_2x.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a1466_a {
+            background-image: url("../image/a1466_a_medium.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a1466_a {
+            background-image: url("../image/a1466_a_medium_2x.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a1466_a {
+            background-image: url("../image/a1466_a_small.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a1466_a {
+            background-image: url("../image/a1466_a_small_2x.jpg")
+        }
+    }
+
+    /*Macbookair retina*/
+    .a1932_a {
+        background-image: url("../image/a1932_a_large.jpg")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a1932_a {
+            background-image: url("../image/a1932_a_large_2x.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a1932_a {
+            background-image: url("../image/a1932_a_medium.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a1932_a {
+            background-image: url("../image/a1932_a_medium_2x.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a1932_a {
+            background-image: url("../image/a1932_a_small.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a1932_a {
+            background-image: url("../image/a1932_a_small_2x.jpg")
+        }
+    }
+
+    /*Macbookpro 13*/
+    .a1708_a {
+        background-image: url("../image/a1708_a_large.jpg")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a1708_a {
+            background-image: url("../image/a1708_a_large_2x.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a1708_a {
+            background-image: url("../image/a1708_a_medium.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a1708_a {
+            background-image: url("../image/a1708_a_medium_2x.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a1708_a {
+            background-image: url("../image/a1708_a_small.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a1708_a {
+            background-image: url("../image/a1708_a_small_2x.jpg")
+        }
+    }
+
+/*Macbookpro 13 Touchbar*/
+.a1989_a {
+    background-image: url("../image/a1989_a_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .a1989_a {
+        background-image: url("../image/a1989_a_large_2x.jpg")
+     }
+}
+
+@media only screen and (max-width: 1068px) {
+     .a1989_a {
+         background-image: url("../image/a1989_a_medium.jpg")
+     }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .a1989_a {
+        background-image: url("../image/a1989_a_medium_2x.jpg")
+     }
+}
+
+@media only screen and (max-width: 735px) {
+    .a1989_a {
+        background-image: url("../image/a1989_a_small.jpg")
+     }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .a1989_a {
+         background-image: url("../image/a1989_a_small_2x.jpg")
+     }
+}
+
+/*Macbookpro 15*/
+.a1990_c {
+     background-image: url("../image/a1990_c_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .a1990_c {
+        background-image: url("../image/a1990_c_large_2x.jpg")
+     }
+}
+
+@media only screen and (max-width: 1068px) {
+     .a1990_c {
+          background-image: url("../image/a1990_c_medium.jpg")
+      }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+     .a1990_c {
+        background-image: url("../image/a1990_c_medium_2x.jpg")
+     }
+    }
+
+@media only screen and (max-width: 735px) {
+    .a1990_c {
+          background-image: url("../image/a1990_c_small.jpg")
+     }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .a1990_c {
+    background-image: url("../image/a1990_c_small_2x.jpg")
+    }
+}
+
+/*imac 21*/
+.a1418_b {
+        background-image: url("../image/a1418_b_large.jpg")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a1418_b {
+            background-image: url("../image/a1418_b_large_2x.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a1418_b {
+            background-image: url("../image/a1418_b_medium.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a1418_b {
+            background-image: url("../image/a1418_b_medium_2x.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a1418_b {
+            background-image: url("../image/a1418_b_small.jpg")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a1418_b {
+            background-image: url("../image/a1418_b_small_2x.jpg")
+        }
+    }
+
+/*imac 21 retina*/
+.a2116_d{
+background-image: url("../image/a2116_d__eo4ivl0rxb0i_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .a2116_d {
+        background-image: url("../image/a2116_d__eo4ivl0rxb0i_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .a2116_d {
+        background-image: url("../image/a2116_d__eo4ivl0rxb0i_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .a2116_d {
+        background-image: url("../image/a2116_d__eo4ivl0rxb0i_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .a2116_d {
+        background-image: url("../image/a2116_d__eo4ivl0rxb0i_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .a2116_d {
+        background-image: url("../image/a2116_d__eo4ivl0rxb0i_small_2x.jpg")
+    }
+}
+
+/*imac 27*/
+.a2115_d {
+    background-image: url("../image/a2115_d_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .a2115_d {
+        background-image: url("../image/a2115_d_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .a2115_d {
+        background-image: url("../image/a2115_d_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .a2115_d {
+        background-image: url("../image/a2115_d_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .a2115_d {
+        background-image: url("../image/a2115_d_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .a2115_d {
+        background-image: url("../image/a2115_d_small_2x.jpg")
+    }
+}
+
+/*imac pro*/
+.a1862_d{
+    background-image: url("../image/a1862_d__b9d2si4qdb6u_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+   .a1862_d {
+        background-image: url("../image/a1862_d__b9d2si4qdb6u_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .a1862_d {
+        background-image: url("../image/a1862_d__b9d2si4qdb6u_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .a1862_d {
+        background-image: url("../image/a1862_d__b9d2si4qdb6u_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .a1862_d {
+        background-image: url("../image/a1862_d__b9d2si4qdb6u_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .a1862_d {
+        background-image: url("../image/a1862_d__b9d2si4qdb6u_small_2x.jpg")
+    }
+}
+
+/*Mac mini*/
+.a1993_d {
+    background-image: url("../image/a1993_d_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .a1993_d {
+        background-image: url("../image/a1993_d_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .a1993_d {
+        background-image: url("../image/a1993_d_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .a1993_d {
+        background-image: url("../image/a1993_d_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .a1993_d {
+        background-image: url("../image/a1993_d_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .a1993_d {
+        background-image: url("../image/a1993_d_small_2x.png")
+    }
+}
+
+/*MBPro 13 2019 2 thunderbolt 3*/
+.a2159_a
+{
+    background-image: url("../image/a2159_a_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .a2159_a {
+        background-image: url("../image/a2159_a_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .a2159_a {
+        background-image: url("../image/a2159_a_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .a2159_a {
+        background-image: url("../image/a2159_a_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .a2159_a{
+        background-image: url("../image/a2159_a_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .a2159_a{
+        background-image: url("../image/a2159_a_small_2x.jpg")
+    }
+}
+
+/*MBPro 16 */
+
+
+.a2141_a
+{
+    background-image: url("../image/a2141_a_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .a2141_a {
+        background-image: url("../image/a2141_a_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .a2141_a {
+        background-image: url("../image/a2141_a_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .a2141_a {
+        background-image: url("../image/a2141_a_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .a2141_a{
+        background-image: url("../image/a2141_a_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .a2141_a{
+        background-image: url("../image/a2141_a_small_2x.jpg")
+    }
+}
+
+/*MBA new */
+
+.a2179_a {
+	    background-image: url("../image/a2179_a_large.jpg")
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	    .a2179_a {
+	        background-image: url("../image/a2179_a_large_2x.jpg")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) {
+	    .a2179_a {
+	        background-image: url("../image/a2179_a_medium.jpg")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	    .a2179_a {
+	        background-image: url("../image/a2179_a_medium_2x.jpg")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) {
+	    .a2179_a {
+	        background-image: url("../image/a2179_a_small.jpg")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	    .a2179_a {
+	        background-image: url("../image/a2179_a_small_2x.jpg")
+	    }
+	}
+	
+/*MBP 13 2 thunderbolt 3 2020 */
+
+.a2289_a {
+	    background-image: url("../image/a2289_a_large.jpg")
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	    .a2289_a {
+	        background-image: url("../image/a2289_a_large_2x.jpg")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) {
+	    .a2289_a {
+	        background-image: url("../image/a2289_a_medium.jpg")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	    .a2289_a {
+	        background-image: url("../image/a2289_a_medium_2x.jpg")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) {
+	    .a2289_a {
+	        background-image: url("../image/a2289_a_small.jpg")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	    .a2289_a {
+	        background-image: url("../image/a2289_a_small_2x.jpg")
+	    }
+	}
+
+/*MBP 13 4 thunderbolt 3 2020 */
+
+.a2251_a {
+	    background-image: url("../image/a2251_a_large.png")
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	    .a2251_a {
+	        background-image: url("../image/a2251_a_large_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) {
+	    .a2251_a {
+	        background-image: url("../image/a2251_a_medium.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	    .a2251_a {
+	        background-image: url("../image/a2251_a_medium_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) {
+	    .a2251_a {
+	        background-image: url("../image/a2251_a_small.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	    .a2251_a {
+	        background-image: url("../image/a2251_a_small_2x.png")
+	    }
+	}
+	
+	
+/*MBA M1 2020 */
+.a2337_a {
+	    background-image: url("../image/a2337_a__gjnavrygxrqu_large.png")
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	    .a2337_a {
+	        background-image: url("../image/a2337_a__gjnavrygxrqu_large_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) {
+	    .a2337_a {
+	        background-image: url("../image/a2337_a__gjnavrygxrqu_medium.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	    .a2337_a {
+	        background-image: url("../image/a2337_a__gjnavrygxrqu_medium_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) {
+	    .a2337_a {
+	        background-image: url("../image/a2337_a__gjnavrygxrqu_small.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	    .a2337_a {
+	        background-image: url("../image/a2337_a__gjnavrygxrqu_small_2x.png")
+	    }
+	}
+	
+/*MBP 13 M1 2020 */
+.a2338_a {
+	    background-image: url("../image/a2338_a__fq8w95mb93qm_large.png")
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	    .a2338_a {
+	        background-image: url("../image/a2338_a__fq8w95mb93qm_large_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) {
+	    .a2338_a {
+	        background-image: url("../image/a2338_a__fq8w95mb93qm_medium.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	    .a2338_a {
+	        background-image: url("../image/a2338_a__fq8w95mb93qm_medium_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) {
+	    .a2338_a {
+	        background-image: url("../image/a2338_a__fq8w95mb93qm_small.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	    .a2338_a {
+	        background-image: url("../image/a2338_a__fq8w95mb93qm_small_2x.png")
+	    }
+	}
+/*Mac-mini M1 2020 */
+.a2348_d {
+	    background-image: url("../image/a2348_d__b64qrhnlbyj6_large.png")
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	    .a2348_d {
+	        background-image: url("../image/a2348_d__b64qrhnlbyj6_large_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) {
+	    .a2348_d {
+	        background-image: url("../image/a2348_d__b64qrhnlbyj6_medium.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	    .a2348_d {
+	        background-image: url("../image/a2348_d__b64qrhnlbyj6_medium_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) {
+	    .a2348_d {
+	        background-image: url("../image/a2348_d__b64qrhnlbyj6_small.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	    .a2348_d {
+	        background-image: url("../image/a2348_d__b64qrhnlbyj6_small_2x.png")
+	    }
+	}
+	
+/*iMac 24 2020 */
+
+.a2438_d {
+	    background-image: url("../image/a2438_d__f7sb1qvoz52e_large.png")
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	    .a2438_d {
+	        background-image: url("../image/a2438_d__f7sb1qvoz52e_large_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) {
+	    .a2438_d {
+	        background-image: url("../image/a2438_d__f7sb1qvoz52e_medium.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	    .a2438_d {
+	        background-image: url("../image/a2438_d__f7sb1qvoz52e_medium_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) {
+	    .a2438_d {
+	        background-image: url("../image/a2438_d__f7sb1qvoz52e_small.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	    .a2438_d {
+	        background-image: url("../image/a2438_d__f7sb1qvoz52e_small_2x.png")
+	    }
+	}
+	
+	.a2439_d {
+	    background-image: url("../image/a2439_d__29fm46zqx2au_large.png")
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	    .a2439_d {
+	        background-image: url("../image/a2439_d__29fm46zqx2au_large_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) {
+	    .a2439_d {
+	        background-image: url("../image/a2439_d__29fm46zqx2au_medium.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	    .a2439_d {
+	        background-image: url("../image/a2439_d__29fm46zqx2au_medium_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) {
+	    .a2439_d {
+	        background-image: url("../image/a2439_d__29fm46zqx2au_small.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	    .a2439_d {
+	        background-image: url("../image/a2439_d__29fm46zqx2au_small_2x.png")
+	    }
+	}
+/* 14-16  2021*/
+.a2442_a {
+	    background-image: url("../image/a2442_a__cx608bts0ui6_large.png")
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	    .a2442_a {
+	        background-image: url("../image/a2442_a__cx608bts0ui6_large_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) {
+	    .a2442_a {
+	        background-image: url("../image/a2442_a__cx608bts0ui6_medium.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	    .a2442_a {
+	        background-image: url("../image/a2442_a__cx608bts0ui6_medium_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) {
+	    .a2442_a {
+	        background-image: url("../image/a2442_a__cx608bts0ui6_small.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	    .a2442_a {
+	        background-image: url("../image/a2442_a__cx608bts0ui6_small_2x.png")
+	    }
+	}
+	
+.a2485_a {
+	    background-image: url("../image/a2485_a__ct9z3qnbi2ye_large.png")
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	    .a2485_a {
+	        background-image: url("../image/a2485_a__ct9z3qnbi2ye_large_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) {
+	    .a2485_a {
+	        background-image: url("../image/a2485_a__ct9z3qnbi2ye_medium.png")
+	    }
+	}
+
+	@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	    .a2485_a {
+	        background-image: url("../image/a2485_a__ct9z3qnbi2ye_medium_2x.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) {
+	    .a2485_a {
+	        background-image: url("../image/a2485_a__ct9z3qnbi2ye_small.png")
+	    }
+	}
+
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	    .a2485_a {
+	        background-image: url("../image/a2485_a__ct9z3qnbi2ye_small_2x.png")
+	    }
+	}
+/* 14-16  2021*/	
+/* mac studio 2022*/    
+.a2615_a {
+        background-image: url("../image/a2615_a__c2zu4q0yog66_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2615_a {
+            background-image: url("../image/a2615_a__c2zu4q0yog66_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2615_a {
+            background-image: url("../image/a2615_a__c2zu4q0yog66_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2615_a {
+            background-image: url("../image/a2615_a__c2zu4q0yog66_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2615_a {
+            background-image: url("../image/a2615_a__c2zu4q0yog66_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2615_a {
+            background-image: url("../image/a2615_a__c2zu4q0yog66_small_2x.png")
+        }
+    }
+/* studio display 2022*/    
+.a2525_a {
+        background-image: url("../image/a2525_a__di0kcu6tatkm_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2525_a {
+            background-image: url("../image/a2525_a__di0kcu6tatkm_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2525_a {
+            background-image: url("../image/a2525_a__di0kcu6tatkm_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2525_a {
+            background-image: url("../image/a2525_a__di0kcu6tatkm_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2525_a {
+            background-image: url("../image/a2525_a__di0kcu6tatkm_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2525_a {
+            background-image: url("../image/a2525_a__di0kcu6tatkm_small_2x.png")
+        }
+    }
+
+/* air m2 2022*/   
+
+.a2681_a {
+        background-image: url("../image/a2681_a__cmujg52zp7yq_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2681_a {
+            background-image: url("../image/a2681_a__cmujg52zp7yq_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2681_a {
+            background-image: url("../image/a2681_a__cmujg52zp7yq_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2681_a {
+            background-image: url("../image/a2681_a__cmujg52zp7yq_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2681_a {
+            background-image: url("../image/a2681_a__cmujg52zp7yq_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2681_a {
+            background-image: url("../image/a2681_a__cmujg52zp7yq_small_2x.png")
+        }
+    }
+
+
+/* mbp 14 2023*/   
+
+.a2779_a {
+        background-image: url("../image/a2779_a__eq0aqiik4rgy_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2779_a {
+            background-image: url("../image/a2779_a__eq0aqiik4rgy_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2779_a {
+            background-image: url("../image/a2779_a__eq0aqiik4rgy_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2779_a {
+            background-image: url("../image/a2779_a__eq0aqiik4rgy_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2779_a {
+            background-image: url("../image/a2779_a__eq0aqiik4rgy_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2779_a {
+            background-image: url("../image/a2779_a__eq0aqiik4rgy_small_2x.png")
+        }
+    }
+
+    /* mbp 16 2023*/   
+
+.a2780_a {
+        background-image: url("../image/a2780_a__dfthkxmh20om_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2780_a {
+            background-image: url("../image/a2780_a__dfthkxmh20om_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2780_a {
+            background-image: url("../image/a2780_a__dfthkxmh20om_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2780_a {
+            background-image: url("../image/a2780_a__dfthkxmh20om_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2780_a {
+            background-image: url("../image/a2780_a__dfthkxmh20om_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2780_a {
+            background-image: url("../image/a2780_a__dfthkxmh20om_small_2x.png")
+        }
+    }
+
+
+    /* macmini 2023*/   
+
+.a2686_d {
+        background-image: url("../image/a2686_d__dv2d4vy9fv42_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2686_d {
+            background-image: url("../image/a2686_d__dv2d4vy9fv42_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2686_d {
+            background-image: url("../image/a2686_d__dv2d4vy9fv42_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2686_d {
+            background-image: url("../image/a2686_d__dv2d4vy9fv42_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2686_d {
+            background-image: url("../image/a2686_d__dv2d4vy9fv42_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2686_d {
+            background-image: url("../image/a2686_d__dv2d4vy9fv42_small_2x.png")
+        }
+    }
+
+    .a2816_d {
+        background-image: url("../image/a2816_d__d4dldmehkl26_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2816_d {
+            background-image: url("../image/a2816_d__d4dldmehkl26_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2816_d {
+            background-image: url("../image/a2816_d__d4dldmehkl26_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2816_d {
+            background-image: url("../image/a2816_d__d4dldmehkl26_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2816_d {
+            background-image: url("../image/a2816_d__d4dldmehkl26_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2816_d {
+            background-image: url("../image/a2816_d__d4dldmehkl26_small_2x.png")
+        }
+    }
+
+
+
+
+.a2941_a {
+        background-image: url("../image/a2941_a__428gvxp9dxue_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2941_a {
+            background-image: url("../image/a2941_a__428gvxp9dxue_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2941_a {
+            background-image: url("../image/a2941_a__428gvxp9dxue_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2941_a {
+            background-image: url("../image/a2941_a__428gvxp9dxue_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2941_a {
+            background-image: url("../image/a2941_a__428gvxp9dxue_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2941_a {
+            background-image: url("../image/a2941_a__428gvxp9dxue_small_2x.png")
+        }
+    }
+
+
+.a2901_d {
+        background-image: url("../image/a2901_a__dko90ofxse2q_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2901_d {
+            background-image: url("../image/a2901_a__dko90ofxse2q_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2901_d {
+            background-image: url("../image/a2901_a__dko90ofxse2q_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2901_d {
+            background-image: url("../image/a2901_a__dko90ofxse2q_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2901_d {
+            background-image: url("../image/a2901_a__dko90ofxse2q_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2901_d {
+            background-image: url("../image/a2901_a__dko90ofxse2q_small_2x.png")
+        }
+    }
+
+    .a2874_a {
+        background-image: url("../image/a2874_a__d9x608zrptiu_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2874_a {
+            background-image: url("../image/a2874_a__d9x608zrptiu_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2874_a {
+            background-image: url("../image/a2874_a__d9x608zrptiu_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2874_a {
+            background-image: url("../image/a2874_a__d9x608zrptiu_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2874_a {
+            background-image: url("../image/a2874_a__d9x608zrptiu_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2874_a {
+            background-image: url("../image/a2874_a__d9x608zrptiu_small_2x.png")
+        }
+    }
+    
+    .a2873_a {
+        background-image: url("../image/a2873_a__bdu6klpgsi76_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2873_a {
+            background-image: url("../image/a2873_a__bdu6klpgsi76_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2873_a {
+            background-image: url("../image/a2873_a__bdu6klpgsi76_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2873_a {
+            background-image: url("../image/a2873_a__bdu6klpgsi76_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2873_a {
+            background-image: url("../image/a2873_a__bdu6klpgsi76_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2873_a {
+            background-image: url("../image/a2873_a__bdu6klpgsi76_small_2x.png")
+        }
+    }
+
+    .a2918_a {
+        background-image: url("../image/a2918_a__fqz9lshm6zau_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2918_a {
+            background-image: url("../image/a2918_a__fqz9lshm6zau_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2918_a {
+            background-image: url("../image/a2918_a__fqz9lshm6zau_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2918_a {
+            background-image: url("../image/a2918_a__fqz9lshm6zau_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2918_a {
+            background-image: url("../image/a2918_a__fqz9lshm6zau_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2918_a {
+            background-image: url("../image/a2918_a__fqz9lshm6zau_small_2x.png")
+        }
+    }
+    
+    .a2992_a {
+        background-image: url("../image/a2992_a__bccjvqvbuxea_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2992_a {
+            background-image: url("../image/a2992_a__bccjvqvbuxea_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2992_a {
+            background-image: url("../image/a2992_a__bccjvqvbuxea_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2992_a {
+            background-image: url("../image/a2992_a__bccjvqvbuxea_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2992_a {
+            background-image: url("../image/a2992_a__bccjvqvbuxea_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2992_a {
+            background-image: url("../image/a2992_a__bccjvqvbuxea_small_2x.png")
+        }
+    }
+
+.a2991_a {
+        background-image: url("../image/a2991_a__24knqf660jm2_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a2991_a {
+            background-image: url("../image/a2991_a__24knqf660jm2_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a2991_a {
+            background-image: url("../image/a2991_a__24knqf660jm2_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a2991_a {
+            background-image: url("../image/a2991_a__24knqf660jm2_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a2991_a {
+            background-image: url("../image/a2991_a__24knqf660jm2_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a2991_a {
+            background-image: url("../image/a2991_a__24knqf660jm2_small_2x.png")
+        }
+    }
+
+.a3113_a {
+        background-image: url("../image/a3113_a__o5absnjebn2a_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a3113_a {
+            background-image: url("../image/a3113_a__o5absnjebn2a_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a3113_a {
+            background-image: url("../image/a3113_a__o5absnjebn2a_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a3113_a {
+            background-image: url("../image/a3113_a__o5absnjebn2a_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a3113_a {
+            background-image: url("../image/a3113_a__o5absnjebn2a_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a3113_a {
+            background-image: url("../image/a3113_a__o5absnjebn2a_small_2x.png")
+        }
+    }
+
+
+.a3114_a {
+        background-image: url("../image/a3114_a__e12weh3co3cm_large.png")
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        .a3114_a {
+            background-image: url("../image/a3114_a__e12weh3co3cm_large_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) {
+        .a3114_a {
+            background-image: url("../image/a3114_a__e12weh3co3cm_medium.png")
+        }
+    }
+
+    @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+        .a3114_a {
+            background-image: url("../image/a3114_a__e12weh3co3cm_medium_2x.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) {
+        .a3114_a {
+            background-image: url("../image/a3114_a__e12weh3co3cm_small.png")
+        }
+    }
+
+    @media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+        .a3114_a {
+            background-image: url("../image/a3114_a__e12weh3co3cm_small_2x.png")
+        }
+    }
+
+
+
+
+

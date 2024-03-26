@@ -1,0 +1,302 @@
+/*layout font*/
+
+.typography-body-tight {
+    line-height: 1.35294;
+}
+
+@media only screen and (max-width: 1068px) {
+    .typography-body-tight {
+        line-height: 1.35294;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-body-tight {
+        line-height: 1.35294;
+    }
+}
+
+.typography-section-copy-alt {
+    line-height: 1.29167;
+}
+
+@media only screen and (max-width: 1068px) {
+    .typography-section-copy-alt {
+        line-height: 1.33333;
+        max-width: 86.33%;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-section-copy-alt {
+        line-height: 1.36842;
+        max-width: 83.3333333333%;
+    }
+}
+
+.typography-section-copy {
+    line-height: 1.25;
+}
+
+@media only screen and (max-width: 1068px) {
+    .typography-section-copy {
+        line-height: 1.33333;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-section-copy {
+        line-height: 1.36842;
+    }
+}
+
+html.no-enhance-xp .section-hero h2.static-text,
+html.no-hero-enhance-xp .section-hero h2.static-text,
+.typography-headline-hero,
+.typography-headline-standalone,
+.typography-headline-standalone-subsection,
+.typography-headline-chips,
+.typography-headline-standalone-alt,
+.typography-headline-standalone-alt-sm,
+.typography-headline-hero-super,
+.typography-headline-plays-cool,
+.typography-headline-reduced,
+.typography-eyebrow-reduced,
+.typography-chip-tout,
+.typography-router-tile-full-headline,
+.typography-modal-headline,
+.typography-modal-headline-chart,
+.typography-modal-sub-headline,
+.typography-modal-product-nav {
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-modal-chip-names {
+        font-weight: 600;
+    }
+}
+
+.subsection-chips .bento-section .badge .badge-unit {
+    font-size: 40px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .subsection-chips .bento-section .badge {
+        margin-right: 76px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .subsection-chips .bento-section .badge {
+        margin-right: 0;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .subsection-chips .bento-section .badge:nth-child(odd) {
+        margin-right: 35px
+    }
+}
+
+.subsection-chips .bento-section .badge:last-child {
+    margin-right: 0
+}
+
+.graph-gallery .subsection-gallery .item-container .gallery-item .bars-container .badge-unit {
+    margin-left: 4px;
+}
+
+.graph-gallery .item-container .gallery-item .bars-container .badge-value-container {
+    align-items: flex-end;
+}
+
+.graph-gallery .subsection-gallery .item-container .gallery-item .bars-container .badge-unit {
+    font-size: 30px;
+    line-height: 1.4;
+}
+
+@media only screen and (max-width: 1068px) {
+    .graph-gallery .subsection-gallery .item-container .gallery-item .bars-container .badge-unit {
+        font-size: 18px;
+        line-height: 1.45;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .graph-gallery .subsection-gallery .item-container .gallery-item .bars-container .badge-unit {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+}
+
+/*layout font*/
+
+
+/* icon-after::after  */
+
+.icon-wrapper .icon,
+.icon-wrapper .icon-after:after,
+.icon-wrapper .icon-before:before,
+.icon-wrapper .more:not(.icon-before):after {
+    position: relative;
+}
+
+@media only screen and (min-width: 735px) {
+    .router-item-trade-in .grid-item-headline {
+        max-width: 410px
+    }
+}
+
+/* wechat-fix ar start */
+
+html.wechat-fix.ar-quicklook .ar-quicklook-link {
+    display: none
+}
+
+html.wechat-fix.ar-quicklook .router-item-augmented-reality .grid-item-copy {
+    display: block
+}
+
+html.wechat-fix.ar-quicklook .section-hero .cta-wrap .ar-quicklook-link {
+    display: none
+}
+
+/* wechat-fix ar end */
+
+.overview-routers-accessories {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 1380px;
+    --p-height: 358px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .overview-routers-accessories {
+        --p-width: 737px;
+        --p-height: 247px
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .overview-routers-accessories {
+        --p-width: 736px;
+        --p-height: 224px
+    }
+}
+
+.section-hero-container.hero-container-movie-1 h2+h2 {
+    margin-top: 0;
+}
+
+@media only screen and (max-width: 734px) {
+    .router-item-augmented-reality .copy-cta-container {
+        max-width: 256px;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+    html.enhance-xp.hero-enhance-xp .section-hero .hero-intro .intro-text-wrap--animate {
+       top:7px;
+    }
+}
+
+.section-routers .accent-green:before {
+    width: 90px;
+    height: 52px;
+    background-size: 90px 52px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-routers .accent-green:before {
+        width: 78px;
+        height: 46px;
+        background-size: 78px 46px;
+    }
+}
+
+
+@media only screen and (max-width: 734px) {
+    .section-routers .accent-green:before {
+        width: 60px;
+        height: 38px;
+        background-size: 60px 38px;
+    }
+}
+
+/* avail */
+
+.space-alt li{
+    padding-left: 30px;
+}
+
+@media only screen and (max-width: 734px) {
+    .space-alt li{
+    padding-left: 0px;
+}
+}
+
+@media only screen and (max-width: 734px) {
+    .subsection-intro .modal-trigger-container .button {
+        max-width: 176px;
+    }
+}
+
+.measurement-label-height{
+    width: 100px;
+}
+
+@media only screen and (max-width: 1068px) {
+  .measurement-label-height{
+    width: 75px;
+}  
+}
+
+@media only screen and (max-width: 734px) {
+    .measurement-label-height{
+    width: auto;
+}  
+}
+
+@media only screen and (max-width: 1068px) {
+  .router-item-tradein .router-item-headline{
+    width: 350px;
+}
+}
+
+@media only screen and (max-width: 734px) {
+  .router-item-tradein .router-item-headline{
+    width: initial;
+}
+}
+
+.measurement-label-height{
+    width: 110px;
+}
+
+@media only screen and (max-width: 1068px) {
+  .measurement-label-height{
+    width: 75px;
+}  
+}
+
+@media only screen and (max-width: 734px) {
+    .measurement-label-height{
+    width: auto;
+}  
+}
+
+/* 24 month installments start */
+@media only screen and (max-width: 734px) {
+    html .page-overview .section-hero .cta-wrap .mx-pricing.has-dynamic-content {
+	max-width: 7.5em;
+}
+}
+/* 24 month installments end */
+
+@media only screen and (max-width: 734px) {
+    .section-compare .product-pricing {
+        max-width: 9em;
+    }
+}

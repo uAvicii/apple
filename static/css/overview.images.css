@@ -1,0 +1,1112 @@
+/*buystrip icon start*/
+.section-buystrip .image-icon-financing {
+    width: 52px;
+    height: 56px;
+    background-size: 52px 56px;
+    background-repeat: no-repeat;
+    background-image: url("../image/icon_financing__d22nz1xp0tyu_large.png");
+    position: relative;
+    left: 50%;
+    margin-left: -26px
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-buystrip .image-icon-financing {
+        background-image: url("../image/icon_financing__d22nz1xp0tyu_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-buystrip .image-icon-financing {
+        width: 41px;
+        height: 44px;
+        background-size: 41px 44px;
+        background-repeat: no-repeat;
+        background-image: url("../image/icon_financing__d22nz1xp0tyu_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-buystrip .image-icon-financing {
+        background-image: url("../image/icon_financing__d22nz1xp0tyu_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-buystrip .image-icon-financing {
+        left: 50%;
+        margin-left: -20.5px
+    }
+}
+
+.section-buystrip .image-icon-card {
+    width: 55px;
+    height: 75px;
+    background-size: 55px 75px;
+    background-repeat: no-repeat;
+    background-image: url("../image/icon_financing__d22nz1xp0tyu_large.png");
+    position: relative;
+    left: 50%;
+    margin-left: -27.5px
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-buystrip .image-icon-card {
+        background-image:url("../image/icon_financing__d22nz1xp0tyu_large_2x.png")
+    }
+}
+@media only screen and (max-width: 1068px) {
+   .section-buystrip .image-icon-card {
+        width: 40px;
+        height: 56px;
+        background-size: 40px 56px;
+        background-repeat: no-repeat;
+        background-image: url("../image/icon_financing__d22nz1xp0tyu_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-buystrip .image-icon-card {
+        background-image: url("../image/icon_financing__d22nz1xp0tyu_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-buystrip .image-icon-card {
+        left: 50%;
+        margin-left: -20px
+    }
+}
+
+.section-buystrip .image-icon-setup {
+    width: 53px;
+    height: 53px;
+    background-size: 53px 53px;
+    background-repeat: no-repeat;
+    background-image: url("../image/icon_personal_setup__piyx9dxwc3ue_large.png");
+    position: relative;
+    left: 50%;
+    margin-left: -26.5px
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-buystrip .image-icon-setup {
+        background-image: url("../image/icon_personal_setup__piyx9dxwc3ue_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-buystrip .image-icon-setup {
+        width: 43px;
+        height: 43px;
+        background-size: 43px 43px;
+        background-repeat: no-repeat;
+        background-image: url("../image/icon_personal_setup__piyx9dxwc3ue_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-buystrip .image-icon-setup {
+        background-image: url("../image/icon_personal_setup__piyx9dxwc3ue_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-buystrip .image-icon-setup {
+        left: 50%;
+        margin-left: -21.5px
+    }
+}
+
+/*buystrip icon end*/
+
+/*Music start*/
+.services-subsection .music {
+    background-image: url("../image/apple_music__dq9f4czrhw6e_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .services-subsection .music {
+        background-image:url("../image/apple_music__dq9f4czrhw6e_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .services-subsection .music {
+        background-image: url("../image/apple_music__dq9f4czrhw6e_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .services-subsection .music {
+        background-image:url("../image/apple_music__dq9f4czrhw6e_medium_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .services-subsection .music {
+        background-image: url("../image/apple_music__dq9f4czrhw6e_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .services-subsection .music {
+        background-image:url("../image/apple_music__dq9f4czrhw6e_small_2x.jpg")}}
+.services-subsection .music .promo-headline {
+    background-image: url("../image/apple_music_logo__e6qzv7u5iq2q_large.png")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .services-subsection .music .promo-headline {
+        background-image:url("../image/apple_music_logo__e6qzv7u5iq2q_large_2x.png")}}
+@media only screen and (max-width: 1068px) {
+    .services-subsection .music .promo-headline {
+        background-image: url("../image/apple_music_logo__e6qzv7u5iq2q_medium.png")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .services-subsection .music .promo-headline {
+        background-image:url("../image/apple_music_logo__e6qzv7u5iq2q_medium_2x.png")}}
+@media only screen and (max-width: 734px) {
+    .services-subsection .music .promo-headline {
+        background-image: url("../image/apple_music_logo__e6qzv7u5iq2q_small.png")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .services-subsection .music .promo-headline {
+        background-image:url("../image/apple_music_logo__e6qzv7u5iq2q_small_2x.png")}}
+
+/*Music end*/        
+        
+
+/*iCloud start*/
+.section-ipados .icloud .promo-image {
+    background-image: url("../image/icloud__czqjzr040qc2_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ipados .icloud .promo-image {
+        background-image:url("../image/icloud__czqjzr040qc2_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .section-ipados .icloud .promo-image {
+        background-image: url("../image/icloud__czqjzr040qc2_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipados .icloud .promo-image {
+        background-image:url("../image/icloud__czqjzr040qc2_medium_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .section-ipados .icloud .promo-image {
+        background-image: url("../image/icloud__czqjzr040qc2_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipados .icloud .promo-image {
+        background-image:url("../image/icloud__czqjzr040qc2_small_2x.jpg")}}
+
+/*iCloud end*/
+        
+ /*Apple Pay start*/
+.section-ipados .applepay .promo-image {
+    background-image: url("../image/apple_pay__u03k08osmwy2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ipados .applepay .promo-image {
+        background-image:url("../image/apple_pay__u03k08osmwy2_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipados .applepay .promo-image {
+        background-image: url("../image/apple_pay__u03k08osmwy2_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipados .applepay .promo-image {
+        background-image:url("../image/apple_pay__u03k08osmwy2_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipados .applepay .promo-image {
+        background-image: url("../image/apple_pay__u03k08osmwy2_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipados .applepay .promo-image {
+        background-image:url("../image/apple_pay__u03k08osmwy2_small_2x.jpg")
+    }
+}
+ /*Apple Pay end*/
+
+/*Trade in start*/
+
+.section-trade-acmi .trade .promo-image {
+    width: 458px;
+    height: 456px;
+    background-size: 458px 456px;
+    background-repeat: no-repeat;
+    background-image: url("../image/trade_in__ejwkdm497no2_large.jpg");
+    position: relative;
+    left: 50%;
+    margin-left:-178px;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .section-trade-acmi .trade .promo-image {
+        background-image: url("../image/trade_in__ejwkdm497no2_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-trade-acmi .trade .promo-image {
+        width: 332px;
+        height: 356px;
+        background-size: 332px 356px;
+        background-repeat: no-repeat;
+        background-image: url("../image/trade_in__ejwkdm497no2_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-trade-acmi .trade .promo-image {
+        background-image: url("../image/trade_in__ejwkdm497no2_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-trade-acmi .trade .promo-image {
+        width: 256px;
+        height: 251px;
+        background-size: 256px 251px;
+        background-repeat: no-repeat;
+        background-image: url("../image/trade_in__ejwkdm497no2_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-trade-acmi .trade .promo-image {
+        background-image: url("../image/trade_in__ejwkdm497no2_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-trade-acmi .trade .promo-image {
+        left: 50%;
+        margin-left:-118.5px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-trade-acmi .trade .promo-image {
+        left: 50%;
+        margin-left:-128px
+    }
+}
+/*Trade in End*/
+.section-essentials .keyboard {
+    background-image: url("../image/smart_keyboard_folio__b8j0ydqvjq2q_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-essentials .keyboard {
+        background-image: url("../image/smart_keyboard_folio__b8j0ydqvjq2q_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-essentials .keyboard {
+        background-repeat: no-repeat;
+        background-image: url("../image/smart_keyboard_folio__b8j0ydqvjq2q_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-essentials .keyboard {
+        background-image: url("../image/smart_keyboard_folio__b8j0ydqvjq2q_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-essentials .keyboard {
+        background-repeat: no-repeat;
+        background-image: url("../image/smart_keyboard_folio__b8j0ydqvjq2q_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-essentials .keyboard {
+        background-image: url("../image/smart_keyboard_folio__b8j0ydqvjq2q_small_2x.jpg")
+    }
+}
+.section-ipados .whyipad .promo-image {
+    background-image: url("../image/why_ipad__fyckwbl8w5u2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-ipados .whyipad .promo-image {
+        background-image: url("../image/why_ipad__fyckwbl8w5u2_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipados .whyipad .promo-image {
+        background-image: url("../image/why_ipad__fyckwbl8w5u2_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipados .whyipad .promo-image {
+        background-image: url("../image/why_ipad__fyckwbl8w5u2_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipados .whyipad .promo-image {
+        background-image: url("../image/why_ipad__fyckwbl8w5u2_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipados .whyipad .promo-image {
+        background-image: url("../image/why_ipad__fyckwbl8w5u2_small_2x.jpg")
+    }
+}
+
+
+.section-essentials .pencil .promo-image {
+    background-image: url("../image/apple_pencil__ekq506kmmys2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-essentials .pencil .promo-image {
+        background-image: url("../image/apple_pencil__ekq506kmmys2_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-essentials .pencil .promo-image {
+        background-image: url("../image/apple_pencil__ekq506kmmys2_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-essentials .pencil .promo-image {
+        background-image: url("../image/apple_pencil__ekq506kmmys2_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-essentials .pencil .promo-image {
+        background-image: url("../image/apple_pencil__ekq506kmmys2_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-essentials .pencil .promo-image {
+        background-image: url("../image/apple_pencil__ekq506kmmys2_small_2x.jpg")
+    }
+}
+
+/* 2021-0618 ipados-preview */
+.section-ipados .ipados .banner-container .image-ipados-preview {
+    background-image: url("../image/ipados_preview__fpet23yxiju6_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ipados .ipados .banner-container .image-ipados-preview {
+        background-image:url("../image/ipados_preview__fpet23yxiju6_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipados .ipados .banner-container .image-ipados-preview {
+        background-image: url("../image/ipados_preview__fpet23yxiju6_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipados .ipados .banner-container .image-ipados-preview {
+        background-image:url("../image/ipados_preview__fpet23yxiju6_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipados .ipados .banner-container .image-ipados-preview {
+        background-image: url("../image/ipados_preview__fpet23yxiju6_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipados .ipados .banner-container .image-ipados-preview {
+        background-image:url("../image/ipados_preview__fpet23yxiju6_small_2x.jpg")
+    }
+}
+
+/*2021-0817 TAA*/
+.section-get-more .today-virtual-sessions .promo-image-wrapper .promo-image {
+    background-image: url("../image/taa_virtual_sessions__c7pq13sefca6_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-get-more .today-virtual-sessions .promo-image-wrapper .promo-image {
+        background-image:url("../image/taa_virtual_sessions__c7pq13sefca6_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .section-get-more .today-virtual-sessions .promo-image-wrapper .promo-image {
+        background-image: url("../image/taa_virtual_sessions__c7pq13sefca6_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-get-more .today-virtual-sessions .promo-image-wrapper .promo-image {
+        background-image:url("../image/taa_virtual_sessions__c7pq13sefca6_medium_2x.jpg")}}
+@media only screen and (max-width: 734px) {
+    .section-get-more .today-virtual-sessions .promo-image-wrapper .promo-image {
+        background-image: url("../image/taa_virtual_sessions__c7pq13sefca6_small.jpg")}}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-get-more .today-virtual-sessions .promo-image-wrapper .promo-image {
+        background-image:url("../image/taa_virtual_sessions__c7pq13sefca6_small_2x.jpg")}}
+
+/* 2021-0903 */
+.section-ipad-10-2 .image-ipad-10-2 {
+    background-image: url("../image/ipad_10_2__7yowwyyrbmaa_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ipad-10-2 .image-ipad-10-2 {
+        background-image:url("../image/ipad_10_2__7yowwyyrbmaa_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipad-10-2 .image-ipad-10-2 {
+        background-image: url("../image/ipad_10_2__7yowwyyrbmaa_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipad-10-2 .image-ipad-10-2 {
+        background-image:url("../image/ipad_10_2__7yowwyyrbmaa_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipad-10-2 .image-ipad-10-2 {
+        background-image: url("../image/ipad_10_2__7yowwyyrbmaa_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipad-10-2 .image-ipad-10-2 {
+        background-image:url("../image/ipad_10_2__7yowwyyrbmaa_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipad-10-2 .image-ipad-10-2 {
+        left:50%;
+        margin-left: -190.5px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipad-10-2 .image-ipad-10-2 {
+        left:50%;
+        margin-left: -225.5px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipad-10-2 .image-ipad-10-2 {
+        margin-top:-42px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipad-10-2 .image-ipad-10-2 {
+        margin-top:-47px
+    }
+}
+/* ipados-16 */
+.section-trade-acmi .ipados-16.full-width .image-ipados-16 {
+    background-image: url("../image/ipados16_preview__d2mq96t3mt8i_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .section-trade-acmi .ipados-16.full-width .image-ipados-16 {
+        background-image: url("../image/ipados16_preview__d2mq96t3mt8i_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-trade-acmi .ipados-16.full-width .image-ipados-16 {
+        background-image: url("../image/ipados16_preview__d2mq96t3mt8i_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-trade-acmi .ipados-16.full-width .image-ipados-16 {
+        background-image: url("../image/ipados16_preview__d2mq96t3mt8i_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-trade-acmi .ipados-16.full-width .image-ipados-16 {
+        background-image: url("../image/ipados16_preview__d2mq96t3mt8i_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-trade-acmi .ipados-16.full-width .image-ipados-16 {
+        background-image: url("../image/ipados16_preview__d2mq96t3mt8i_small_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-trade-acmi .ipados-16 .image-ipados-16 {
+        background-image: url("../image/ipados16_preview__d2mq96t3mt8i_small.jpg");
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-trade-acmi .ipados-16 .image-ipados-16 {
+        background-image: url("../image/ipados16_preview__d2mq96t3mt8i_small_2x.jpg")
+    }
+}
+
+.bts-2022-image {
+    background-image: url("../image/bts22_gc_familypage_ipad__b1hklrq0p9bm_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .bts-2022-image {
+        background-image: url("../image/bts22_gc_familypage_ipad__b1hklrq0p9bm_large.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+   .bts-2022-image {
+        background-image: url("../image/bts22_gc_familypage_ipad__b1hklrq0p9bm_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .bts-2022-image {
+        background-image: url("../image/bts22_gc_familypage_ipad__b1hklrq0p9bm_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .bts-2022-image {
+        width: 375px;
+        height: 281px;
+        background-size: 375px 281px;
+        background-repeat: no-repeat;
+        background-image: url("../image/bts22_gc_familypage_ipad__b1hklrq0p9bm_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .bts-2022-image {
+        background-image: url("../image/bts22_gc_familypage_ipad__b1hklrq0p9bm_small_2x.jpg")
+    }
+}
+
+/* ipad-pro hero */
+.section-ipad-pro .image-ipad-pro {
+    background-image: url("../image/ipad_pro_hero__bh3eq6sqfjw2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ipad-pro .image-ipad-pro {
+        background-image:url("../image/ipad_pro_hero__bh3eq6sqfjw2_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipad-pro .image-ipad-pro {
+        background-image: url("../image/ipad_pro_hero__bh3eq6sqfjw2_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipad-pro .image-ipad-pro {
+        background-image:url("../image/ipad_pro_hero__bh3eq6sqfjw2_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipad-pro .image-ipad-pro {
+        background-image: url("../image/ipad_pro_hero__bh3eq6sqfjw2_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipad-pro .image-ipad-pro {
+        background-image:url("../image/ipad_pro_hero__bh3eq6sqfjw2_small_2x.jpg")
+    }
+}
+
+/* ipados-16 */
+.section-ipados .ipados-16.full-width .image-ipados-16 {
+    background-image: url("../image/ipados16__9t47xpd66wiq_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ipados .ipados-16.full-width .image-ipados-16 {
+        background-image:url("../image/ipados16__9t47xpd66wiq_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipados .ipados-16.full-width .image-ipados-16 {
+        background-image: url("../image/ipados16__9t47xpd66wiq_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipados .ipados-16.full-width .image-ipados-16 {
+        background-image:url("../image/ipados16__9t47xpd66wiq_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipados .ipados-16.full-width .image-ipados-16 {
+        background-image: url("../image/ipados16__9t47xpd66wiq_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipados .ipados-16.full-width .image-ipados-16 {
+        background-image:url("../image/ipados16__9t47xpd66wiq_small_2x.jpg")
+    }
+}
+
+
+/* valentines section start */
+.vday-2023-image {
+    background-image: url("../image/val23_ipad_familypage__w8koes4xfiay_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .vday-2023-image {
+        background-image: url("../image/val23_ipad_familypage__w8koes4xfiay_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .vday-2023-image {
+        background-image: url("../image/val23_ipad_familypage__w8koes4xfiay_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .vday-2023-image {
+        background-image: url("../image/val23_ipad_familypage__w8koes4xfiay_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .vday-2023-image {
+        background-image: url("../image/val23_ipad_familypage__w8koes4xfiay_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .vday-2023-image {
+        background-image: url("../image/val23_ipad_familypage__w8koes4xfiay_small_2x.png")
+    }
+}
+/* valentines section end */
+
+
+/* dragon gate start */
+
+.section-get-more .icloud-offer {
+    background:rgba(224, 237, 253)
+}
+
+.section-get-more .icloud-offer {
+    padding: 99px 0 96px;
+    display: flex;
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-get-more .icloud-offer {
+        padding: 98px 0 82px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-get-more .icloud-offer {
+        padding: 64px 0 72px;
+        flex-direction:column
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-get-more .icloud-offer .promo-image {
+    	left: 50%;
+        margin-left:-171px;
+        margin-top:30px;
+    }
+}
+
+html[dir=rtl] .section-get-more .icloud-offer .promo-image {
+    background-position: left;
+    margin-left:33px
+}
+
+@media only screen and (max-width: 1068px) {
+    html[dir=rtl] .section-get-more .icloud-offer .promo-image {
+        margin-left:0
+    }
+}
+
+.section-get-more .icloud-offer .promo-copy {
+    padding-left: 8%;
+    padding-right: 4%;
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-get-more .icloud-offer .promo-copy {
+    	padding-left: 2%;
+    	padding-right: 2%;
+	}
+}
+
+.section-get-more .icloud-offer .content-wrapper {
+    margin-left:-76px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-get-more .icloud-offer .content-wrapper {
+        margin-left:-3px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-get-more .icloud-offer .content-wrapper {
+        margin-left:0
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    html[dir=rtl] .section-get-more .icloud-offer .content-wrapper {
+        margin-left:-3px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html[dir=rtl] .section-get-more .icloud-offer .content-wrapper {
+        margin-left:0
+    }
+}
+
+
+.section-get-more .icloud-offer .promo-image {
+    width: 451px;
+    height: 302px;
+    background-size: 451px 302px;
+    background-repeat: no-repeat;
+    position: relative;
+    background-image: url("../image/icloud_ipad_family__b7xv3e9wkfki_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-get-more .icloud-offer .promo-image {
+        background-image: url("../image/icloud_ipad_family__b7xv3e9wkfki_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-get-more .icloud-offer .promo-image {
+ 		width: 329px;
+        height: 220px;
+        background-size: 329px 220px;
+        background-repeat: no-repeat;
+        background-image: url("../image/icloud_ipad_family__b7xv3e9wkfki_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-get-more .icloud-offer .promo-image {
+        background-image: url("../image/icloud_ipad_family__b7xv3e9wkfki_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-get-more .icloud-offer .promo-image {
+ 		width: 342px;
+        height: 229px;
+        background-size: 342px 229px;
+        background-repeat: no-repeat;
+        background-image: url("../image/icloud_ipad_family__b7xv3e9wkfki_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-get-more .icloud-offer .promo-image {
+        background-image: url("../image/icloud_ipad_family__b7xv3e9wkfki_small_2x.png")
+    }
+}
+
+/* dragon gate end */
+
+/*mothers-day-2023-image*/
+.banner-mothers-day-2023 .mothers-day-2023-image {
+
+    background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .banner-mothers-day-2023 .mothers-day-2023-image {
+        background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .banner-mothers-day-2023 .mothers-day-2023-image {
+
+        background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .banner-mothers-day-2023 .mothers-day-2023-image {
+        background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .banner-mothers-day-2023 .mothers-day-2023-image {
+
+        background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .banner-mothers-day-2023 .mothers-day-2023-image {
+        background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_small_2x.png")
+    }
+}
+
+/* Final Cut Pro */
+.section-ipad-hero .image-fcp-ipad-hero {
+    background-image: url("../image/fcp_ipad_hero__e663fdl2htea_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .section-ipad-hero .image-fcp-ipad-hero {
+        background-image: url("../image/fcp_ipad_hero__e663fdl2htea_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipad-hero .image-fcp-ipad-hero {
+        background-image: url("../image/fcp_ipad_hero__e663fdl2htea_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipad-hero .image-fcp-ipad-hero {
+        background-image: url("../image/fcp_ipad_hero__e663fdl2htea_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipad-hero .image-fcp-ipad-hero {
+        background-image: url("../image/fcp_ipad_hero__e663fdl2htea_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipad-hero .image-fcp-ipad-hero {
+        background-image: url("../image/fcp_ipad_hero__e663fdl2htea_small_2x.png")
+    }
+}
+/* ipados-17 */
+.section-ipados .ipados-17.full-width {
+    background-image: url("../image/ipados17__fbavkgtxnxyu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .section-ipados .ipados-17.full-width {
+        background-image: url("../image/ipados17__fbavkgtxnxyu_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipados .ipados-17.full-width {
+        background-repeat: no-repeat;
+        background-image: url("../image/ipados17__fbavkgtxnxyu_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipados .ipados-17.full-width {
+        background-image: url("../image/ipados17__fbavkgtxnxyu_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipados .ipados-17.full-width {
+        background-repeat: no-repeat;
+        background-image: url("../image/ipados17__fbavkgtxnxyu_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipados .ipados-17.full-width {
+        background-image: url("../image/ipados17__fbavkgtxnxyu_small_2x.jpg")
+    }
+}
+
+
+.banner-bts-2023 .bts-2023-image-ipad {
+    background-image: url("../image/bts23_fpbanner_ipad__b9na7k6j1rf6_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .banner-bts-2023 .bts-2023-image-ipad {
+        background-image: url("../image/bts23_fpbanner_ipad__b9na7k6j1rf6_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .banner-bts-2023 .bts-2023-image-ipad {
+        background-image: url("../image/bts23_fpbanner_ipad__b9na7k6j1rf6_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .banner-bts-2023 .bts-2023-image-ipad {
+        background-image: url("../image/bts23_fpbanner_ipad__b9na7k6j1rf6_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .banner-bts-2023 .bts-2023-image-ipad {
+        background-image: url("../image/bts23_fpbanner_ipad__b9na7k6j1rf6_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .banner-bts-2023 .bts-2023-image-ipad {
+        background-image: url("../image/bts23_fpbanner_ipad__b9na7k6j1rf6_small_2x.jpg")
+    }
+}
+
+
+/* Back to school 2023 last chance */
+/* ipad */
+.banner-bts-2023.bts-2023-last-chance .bts-2023-image-ipad {
+    background-image: url("../image/bts23_fpbanner_ipad_lc__ccpg0murx7de_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .banner-bts-2023.bts-2023-last-chance .bts-2023-image-ipad {
+        background-image: url("../image/bts23_fpbanner_ipad_lc__ccpg0murx7de_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .banner-bts-2023.bts-2023-last-chance .bts-2023-image-ipad {
+        background-image: url("../image/bts23_fpbanner_ipad_lc__ccpg0murx7de_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .banner-bts-2023.bts-2023-last-chance .bts-2023-image-ipad {
+        background-image: url("../image/bts23_fpbanner_ipad_lc__ccpg0murx7de_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .banner-bts-2023.bts-2023-last-chance .bts-2023-image-ipad {
+        background-image: url("../image/bts23_fpbanner_ipad_lc__ccpg0murx7de_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .banner-bts-2023.bts-2023-last-chance .bts-2023-image-ipad {
+        background-image: url("../image/bts23_fpbanner_ipad_lc__ccpg0murx7de_small_2x.jpg")
+    }
+}
+
+/* 2023-1008 hero images update */
+.section-ipad-10-9 .image-ipad-10-9 {
+    background-image: url("../image/ipad_hero__d0tgmaq6shm6_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ipad-10-9 .image-ipad-10-9 {
+        background-image:url("../image/ipad_hero__d0tgmaq6shm6_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipad-10-9 .image-ipad-10-9 {
+        background-image: url("../image/ipad_hero__d0tgmaq6shm6_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipad-10-9 .image-ipad-10-9 {
+        background-image:url("../image/ipad_hero__d0tgmaq6shm6_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipad-10-9 .image-ipad-10-9 {
+        background-image: url("../image/ipad_hero__d0tgmaq6shm6_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipad-10-9 .image-ipad-10-9 {
+        background-image:url("../image/ipad_hero__d0tgmaq6shm6_small_2x.jpg")
+    }
+}
+
+/* 2023-1012 */
+.section-ipados .final-cut .image-fcp-ipad-hero {
+    background-image: url("../image/fcp_ipad_hero__e663fdl2htea_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ipados .final-cut .image-fcp-ipad-hero {
+        background-image:url("../image/fcp_ipad_hero__e663fdl2htea_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipados .final-cut .image-fcp-ipad-hero {
+        background-image: url("../image/fcp_ipad_hero__e663fdl2htea_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ipados .final-cut .image-fcp-ipad-hero {
+        background-image:url("../image/fcp_ipad_hero__e663fdl2htea_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipados .final-cut .image-fcp-ipad-hero {
+        background-image: url("../image/fcp_ipad_hero__e663fdl2htea_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-ipados .final-cut .image-fcp-ipad-hero {
+        background-image:url("../image/fcp_ipad_hero__e663fdl2htea_small_2x.png")
+    }
+}

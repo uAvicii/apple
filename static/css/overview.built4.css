@@ -1,0 +1,393 @@
+/* Remove underline for sup when mouse move over*/
+.pane-apple-music .pane-content .text-block .pane-copy .links-stacked li a.footnote {
+  display: inline-block;
+}
+.pane-apple-music .pane-content .text-block .pane-copy .links-stacked li a.footnote,
+.pane-apple-music .pane-content .text-block .pane-copy .links-stacked li a.footnote:hover {
+  text-decoration: none;
+}
+
+
+
+.ac-gf-buystrip-info-icon-shipping {
+    background-image: url("../image/icon_large16.svg")
+}
+
+
+@media only screen and (max-width: 734px) {
+    .tile-trade {
+        min-height: 520px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .tile-trade {
+        min-height: 530px;
+    }
+}
+
+
+br.show-only-for-xsmall {display: none}
+@media only screen and (max-width: 320px) {html[lang=zh-CN] br.show-only-for-xsmall {display: block}}
+
+
+
+.section-buystrip .buystrip-item-icon-financing {
+    background-image: url("../image/icon_large17.svg")
+}
+.section-buystrip .buystrip-item-icon-financing{
+margin-left: auto;
+margin-right: auto;
+width: 97px;
+height: 97px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 735px) {
+    .section-trade .pane-flex {
+        height:502px
+    }
+}
+
+
+/*breakline*/
+@media only screen and (max-width: 734px){
+    span.show-only-for-large{
+        display: none;
+    }
+}
+
+/* mother's day */
+.section-mday-2022 .section-content .mday-2022 .mday-2022-content {
+    padding: 0 26px 0 110px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-mday-2022 .section-content .mday-2022 .mday-2022-content {
+        padding:0 40px 0 68px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-mday-2022 .section-content .mday-2022 .mday-2022-content {
+        padding: 0;
+    }
+}
+
+/*buystrip start*/
+.section-buystrip .buystrip-item-icon-financing{
+    width: 90px;
+    height: 90px;
+    background-size: auto 90px;
+}
+
+
+/*space*/
+html[lang=zh-CN] span.show-only-for-medium {display: none}
+@media only screen and (max-width: 1024px) {html[lang=zh-CN] span.show-only-for-medium {display: block}}
+@media only screen and (max-width: 1068px) {html[lang=zh-CN] span.show-only-for-medium {display: block}}
+@media only screen and (max-width: 735px) {html[lang=zh-CN] span.show-only-for-medium {display: none}}
+
+
+
+
+@media only screen and (max-width: 735px) {
+    .centeralgin_s_04{
+        padding-left: 0.4em;
+    }
+}
+
+.section-options .tile-half{
+    grid-column:span 2;
+}
+
+.section-options .tile-discount .tile-content{
+    width: auto;
+    max-width: 500px;
+}
+
+@media only screen and (max-width: 734px){
+    .section-options .tile-discount .tile-content{
+        width: auto;
+        max-width: 313px;
+    }
+}
+
+@media only screen and (max-width: 734px){
+    .section-options .tile-discount .tile-content{
+        width: 340px;
+        max-width: initial;
+    }
+}
+
+
+
+/*2020-1110*/
+.icon-wrapper .icon, .icon-wrapper .more::after, .icon-wrapper .icon-before::before, .icon-wrapper .icon-after::after {
+    display: inline;
+    position: relative;
+}
+
+
+/*tile-apple-music*/
+.tile-apple-music .tile-cta:nth-of-type(2) {
+    margin-left:20px
+}
+
+@media only screen and (max-width: 734px) {
+    .tile-apple-music .tile-cta:nth-of-type(2) {
+        margin-left:22px
+    }
+}
+
+.tile-apple-music .image-apple-music{
+    position: absolute;
+    bottom: 0;
+}
+
+.tile-three-rings{
+    margin-top: 0.78em;
+}
+
+
+/*trade in*/
+
+@media only screen and (max-width: 1068px) {
+    .main .section-options .tile-discount h2{
+        width: 505px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main .section-options .tile-discount h2{
+        width: 315px;
+
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .main .section-options .tile-discount .cs_320{
+        padding-left:0;
+    }
+}
+
+.tile-pride-bands-2021 .pride-colors-bg {
+    background-size: 170%;
+}
+
+.section-options .tile-watchos8 {
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-options .tile-watchos8 {
+        width:100%;
+        margin-bottom: 0;
+        min-height: 445px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-options .tile-watchos8 {
+        margin-bottom: 0
+    }
+}
+
+#main .section-options .tile-half{
+    width: 100%;
+
+}
+
+/*fix health app padding*/
+.section-app-tiles .section-content .tile-half{
+    grid-column: span 2;
+}
+
+
+/*fix isv*/
+.tile-display .tile-content-wrapper{
+    --max-width: 999px;
+    max-width: 999px;
+}
+
+.tile-image-wrapper .image{
+    left: calc(50% + 19px);
+}
+
+@media only screen and (max-width: 1068px) {
+    .tile-image-wrapper .image{
+        left: calc(50%);
+    }
+}
+
+
+.section-series-7.order-updates{
+    padding-top: 0;
+}
+
+/* 2022-9-4 */
+@media only screen and (min-width: 1441px) {
+    .section.section-se .tile.tile-se .tile-image {
+        transform: translate(20px, 0);
+    }
+}
+
+@media only screen and (max-width: 1441px) and (min-width: 1068px) {
+	.section.section-se .tile.tile-se .tile-content {
+        transform: translate(10px, 0);
+    }
+	.section.section-se .tile.tile-se .tile-image {
+        transform: translate(10px, 0);
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+	.section.section-se .tile.tile-se .tile-content {
+        transform: translate(3px, 0);
+    }
+    .section.section-se .tile.tile-se .tile-image {
+        transform: translate(2px, 0);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section.section-se .tile.tile-se .tile-content {
+        transform: translate(0, 1px);
+    }
+    .section.section-se .tile.tile-se .tile-image {
+        transform: translate(0, 1px);
+    }
+}
+
+/*0909*/
+.section-ultra .tile-content-wrapper-pickup{
+    padding-top:0 !important;
+    margin-top: -21px !important;
+}
+
+.section-series-8 .tile-content-wrapper-pickup{
+    margin-top: -22px !important;
+}
+
+.section-se .tile-content-wrapper-pickup{
+    margin-top: -20px !important;
+}
+
+
+.section.section-series-8 .tile.tile-series-8 .violator-secondary{
+        display: block;
+    }
+
+.section.section-se .tile.tile-se .violator-secondary{
+    display: block;
+}
+@media only screen and (max-width: 1068px) {
+    .section-ultra .tile-content-wrapper-pickup{
+        padding-top:0 !important;
+        margin-top: 0 !important;
+    }
+    .section-se .tile-content-wrapper-pickup{
+        margin-top: -11px !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 734px) {
+    .section-se .tile-content-wrapper-pickup{
+        margin-left:  0;
+        margin-top: -11px !important;
+    }
+
+}
+
+
+/*隐藏字幕*/
+.ac-modal-video .modal-content .ac-player-container .controls-text-tracks-toggle-button{
+    display:none;
+} 
+/* holiday2022 start */
+.holiday-2022-content .tile-headline {
+    white-space: nowrap;
+}
+.tile-holiday-2022.tile-holiday-2022-last-chance .tile-headline {
+	margin-top: 5px;
+}
+@media only screen and (max-width: 734px) {
+	.tile-holiday-2022.tile-holiday-2022-last-chance .tile-headline {
+		margin-top: -4px;
+	}
+}
+/* holiday2022 end */
+
+/* unity legal 20230113 */
+.section-hero .download-face .requires-caption {
+    width: 500px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .download-face .requires-caption {
+        width: 500px;
+    }
+    .section-hero .download-face .button {
+        width: 243px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .download-face .requires-caption {
+        width: 277px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .section-hero .download-face .button {
+        width: 243px;
+    }
+}
+
+.section-hero .tile-headline {
+    margin-left: 40px;
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .tile-headline {
+        margin-left: 20px;
+    }
+}
+
+
+/*Music Start*/
+.tile-apple-music.tile-block {
+    margin-top: 0px;
+}
+/*Music End*/
+
+/* fix qa radar */
+@media only screen and (max-width: 734px) {
+    .compare-item-se.chip p:last-child {
+        position: relative;
+        transform: translateY(-16px);
+    }
+}
+
+/* cny-2024 banner */
+@media only screen and (max-width: 1068px) {
+    .watch-family-page.banner-cny-2024 .cny-2024 {
+        padding: 30px 0 187px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .watch-family-page.banner-cny-2024 .cny-2024 {
+        padding: 17px 0 400px;
+    }
+}
+
+/* Black Unity 小屏边距*/
+@media only screen and (max-width:734px){
+    .section-black-unity .copy-download {
+        padding: 0 20px;
+    }
+}
+

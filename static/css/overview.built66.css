@@ -1,0 +1,59 @@
+@media only screen and (max-width: 734px) {
+    .s-p {
+        position: absolute;
+    }
+}
+/* layout */
+.card.card-padding.background-alt {
+	width: 312px;
+}
+/* layout */
+@media only screen and (max-width: 734px) {
+    .modal-scrim-blur .modal-overlay .spacing-section-bottom .l2-template-container-section-top.new-width{
+        max-width: 87%;
+    }
+}
+
+/* fixed USB-C */
+
+.l2-section-connect .grid-3-col {
+    margin-top: 10px;
+}
+
+html[lang=zh-CN] .cl_130{
+    padding-left: 1.3em;
+}
+
+@media only screen and (max-width: 734px) {
+        html[lang=zh-CN] .cs_130{
+        padding-left: 1em;
+    }
+}
+
+.subsection-dynamic-island #hw-composite-action-mode .inline-media-component-container .video-wrapper .fallback-frame{
+    opacity: 1;
+}
+.availability.typography-cta.avail-message{
+    color: #86868b;
+    font-weight: 600;
+}
+
+.page-overview .trade-in-ribbon .ribbon-copy-avail{
+    max-width: 400px;
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .trade-in-ribbon .ribbon-copy-avail {
+        max-width: 300px;
+    }
+}
+
+/* battery */
+@media only screen and (min-width:735px){
+    .subsection-battery .column-2{
+        margin-top: 0px;
+    }
+}
+
+
+

@@ -1,0 +1,79 @@
+.grid-item-widget .lottie-widget .static-frame.end-frame{
+    width: 347px;
+	height: 347px;
+	background-size: 347px 347px;
+	background-repeat: no-repeat;
+    background-image: url(../image/icon_bubble__dnvn5s4u95g2_large.png);
+    
+}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .grid-item-widget .lottie-widget .static-frame.end-frame{
+       background-image: url(../image/icon_bubble__dnvn5s4u95g2_large_2x.png);
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .grid-item-widget .lottie-widget .static-frame.end-frame{
+        width: 251px;
+		height: 251px;
+		background-size: 251px 251px;
+		background-repeat: no-repeat;
+        background-image:url(../image/icon_bubble__dnvn5s4u95g2_medium.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+   .grid-item-widget .lottie-widget .static-frame.end-frame{
+        background-image:url(../image/icon_bubble__dnvn5s4u95g2_medium_2x.png)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .grid-item-widget .lottie-widget .static-frame.end-frame{
+        width: 173px;
+		height: 173px;
+		background-size: 173px 173px;
+		background-repeat: no-repeat;
+        background-image:url(../image/icon_bubble__dnvn5s4u95g2_small.png)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .grid-item-widget .lottie-widget .static-frame.end-frame{
+        background-image:url(../image/icon_bubble__dnvn5s4u95g2_small_2x.png)
+    }
+}
+
+.section-experience .grid-item-control-center .overview-control-center {
+    background-image: url(../image/home_iphone__2lr2hn9kuo2y_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-experience .grid-item-control-center .overview-control-center {
+        background-image:url(../image/home_iphone__2lr2hn9kuo2y_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-experience .grid-item-control-center .overview-control-center {
+        background-image:url(../image/home_iphone__2lr2hn9kuo2y_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-experience .grid-item-control-center .overview-control-center {
+        background-image:url(../image/home_iphone__2lr2hn9kuo2y_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-experience .grid-item-control-center .overview-control-center {
+        background-image:url(../image/home_iphone__2lr2hn9kuo2y_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-experience .grid-item-control-center .overview-control-center {
+        background-image:url(../image/home_iphone__2lr2hn9kuo2y_small_2x.jpg)
+    }
+}

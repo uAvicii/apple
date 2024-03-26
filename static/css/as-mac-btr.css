@@ -1,0 +1,221 @@
+/*
+	Mac BTR CSS
+	===============================================
+*/
+
+.hide {
+    display: none;
+}
+
+.as-macbtr-13inchm2 .as-macbtr-m2-show,
+.as-macbtr-13inchm3 .as-macbtr-m3-show,
+.as-macbtr-15inchm3 .as-macbtr-m3-show,
+.as-macbtr-13inchm1 .as-macbtr-m1-show,
+.as-macbtr-13inchm2 .as-macbtr-m2-show,
+.as-macbtr-15inchm2 .as-macbtr-m2-show,
+.as-macbtr-13inchm2 .as-macbtr-13m2-show,
+.as-macbtr-15inchm2 .as-macbtr-15m2-show,
+.as-macbtr-13inch .as-macbtr-13inch-show,
+.as-macbtr-14inch .as-macbtr-14inch-show,
+.as-macbtr-16inch .as-macbtr-16inch-show,
+.as-macbtr-M1 .as-macbtr-M1-show,
+.as-macbtr-M2 .as-macbtr-M2-show,
+.as-macbtr-m1 .as-macbtr-M1-show,
+.as-macbtr-m2 .as-macbtr-M2-show {
+    display: block;
+}
+
+.family-mac-macbookpro .as-macbundle-eyebrow {
+    padding-bottom: 10px;
+}
+
+.as-macbtr-selection .as-footnotes .as-footnotes-sosumi ol {
+    padding: 0;
+    list-style-position: inside;
+}
+
+.rc-productbundle .rf-tradeupbanner .rf-tradeupbanner-action {
+    text-align: left;
+}
+
+.rc-productselection-2col .rc-prices-installmentsseparator {
+    padding-right: 4px;
+}
+
+.rc-productselection-2col .as-price-currentprice {
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+}
+
+.family-mac-imac-m1 .as-macbundle-eyebrow {
+    display: flex;
+    font-size: 14px;
+    align-items: center;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+
+.family-mac-imac-m1 .as-macbundle-eyebrow img {
+    padding-right: 4px;
+}
+
+.rc-productselection-2col .rc-prices-savings {
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.rf-overlay-chat-withbackgroundfooter .as-chat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rc-witb-item-label .dd-witb-tagline {
+    font-size: 12px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #888;
+    padding: 0 15px;
+    margin-top: 0;
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .family-mac-imac-m1 .as-macbundle-eyebrow {
+        padding-top: 8px;
+    }
+}
+
+.rs-bundleselection-header .violator-frameless {
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    padding-bottom: 3px;
+}
+
+.rs-bundleselection-header .violator-frameless:lang(ar) {
+    line-height: 1.58824;
+    letter-spacing: 0;
+}
+
+.rs-bundleselection-header .violator-frameless:lang(ja) {
+    letter-spacing: 0;
+}
+
+.rs-bundleselection-header .violator-frameless:lang(ko) {
+    line-height: 1.58824;
+    letter-spacing: 0;
+}
+
+.rs-bundleselection-header .violator-frameless:lang(zh) {
+    letter-spacing: 0;
+}
+
+.rs-bundleselection-header .violator-frameless:lang(th) {
+    line-height: 1.35296;
+    letter-spacing: 0;
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .rs-bundleselection-header .violator-frameless {
+        font-size: 12px;
+        line-height: 1.33337;
+        font-weight: 400;
+        letter-spacing: -0.01em;
+    }
+
+    .rs-bundleselection-header .violator-frameless:lang(ar) {
+        line-height: 1.66667;
+        letter-spacing: 0;
+    }
+
+    .rs-bundleselection-header .violator-frameless:lang(ja) {
+        line-height: 1.41667;
+        letter-spacing: 0;
+    }
+
+    .rs-bundleselection-header .violator-frameless:lang(ko) {
+        line-height: 1.41667;
+        letter-spacing: 0;
+    }
+
+    .rs-bundleselection-header .violator-frameless:lang(zh) {
+        letter-spacing: 0;
+    }
+
+    .rs-bundleselection-header .violator-frameless:lang(th) {
+        line-height: 1.33337;
+        letter-spacing: 0;
+    }
+}
+
+.rc-productbundle-title .as-macbundle-eyebrow {
+    padding-bottom: 10px;
+}
+
+.rf-acmi-banner a.more {
+    white-space: nowrap;
+}
+
+/* rdar://94076894 WITB Section distorted in ES  */
+.rs-mac-witb .rc-witb-item {
+    flex-basis: 0;
+}
+
+.rs-bundleselection-tabnav-button {
+    white-space: normal;
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .family-mac-macbookair
+        .rs-bundleselection-tabnav-items
+        .rs-bundleselection-tabnav-button:last-child {
+        margin-right: 0;
+    }
+
+    .family-mac-macbookair .rs-bundleselection-tabnav-label {
+        max-width: none;
+    }
+
+    .rc-productselection-grid .rc-productselection-2col {
+        justify-content: center;
+    }
+}
+
+.family-mac-macpro .rc-productbundle-image {
+    cursor: pointer;
+}
+
+.family-mac-macpro .rc-productselection-2col .rc-prices-currentprice {
+    display: inline-block;
+}
+
+.ca .family-mac-macpro .rc-productselection-2col .rc-prices-currentprice {
+    display: inline;
+}
+
+.ca
+    .rc-productselection-2col
+    .rc-prices-currentprice
+    .acinstallment-term-length {
+    margin-right: 2px;
+}
+
+@media not screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .family-mac-imac .rc-witb-item-image,
+    .family-mac-macbookpro .rc-witb-item-image {
+        height: 392px;
+    }
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .family-mac-imac div[id$="gallery-item-0"] .rc-witb-image-wrapper {
+        text-align: left;
+    }
+
+    .family-mac-imac div[id$="gallery-item-4"] .rc-witb-image-wrapper {
+        text-align: right;
+    }
+}

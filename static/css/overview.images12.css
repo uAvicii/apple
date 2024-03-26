@@ -1,0 +1,21 @@
+.overview-experiences-devices {
+    display: block;
+    width: 554px;
+    height:550px
+}
+
+@media only screen and (max-width: 1068px) {
+    .overview-experiences-devices {
+        display: block;
+        width: 328px;
+        height:400px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .overview-experiences-devices {
+        display: block;
+        width: 350px;
+        height:306px
+    }
+}

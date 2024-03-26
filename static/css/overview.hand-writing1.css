@@ -1,0 +1,1626 @@
+/* overview-design-display-snipe-1-4 */
+/* display_snipe_1__eahmdjqfpk2u */
+.section-design .overview-design-display-snipe-1,.section-design .snipe-true-tone {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 66px;
+    --p-height: 59px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-design .overview-design-display-snipe-1,.section-design .snipe-true-tone {
+        --p-width:61px;
+        --p-height: 55px
+    }
+}
+
+html.enhanced .section-design .overview-design-display-snipe-1 {
+    top: 91%;
+    right: 24%;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-design .overview-design-display-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: 100%;
+        right: 52%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-design .overview-design-display-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        transform-origin: left center;
+        bottom: 75%;
+        left: 109%
+    }
+}
+
+/* overview-design-display-snipe-2-4 */
+/* display_snipe_2__cz794nuwev6u */
+.section-design .overview-design-display-snipe-2,.section-design .snipe-photos {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 105px;
+    --p-height: 59px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-design .overview-design-display-snipe-2,.section-design .snipe-photos {
+        --p-width:100px;
+        --p-height: 55px
+    }
+}
+
+html.enhanced .section-design .overview-design-display-snipe-2 {
+    top: 91.5%;
+    right: 24%;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-design .overview-design-display-snipe-2 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: 99%;
+        right: 47%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-design .overview-design-display-snipe-2 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        transform-origin: left center;
+        bottom: 75%;
+        left: 107%
+    }
+}
+
+/* overview-design-colors-snipe-1-4 */
+/* colors_snipe_1__bydz5v4dt2s2 */
+.section-design .overview-design-colors-snipe-1,.section-design .snipe-speakers {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 85px;
+    --p-height: 61px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-design .overview-design-colors-snipe-1,.section-design .snipe-speakers {
+        --p-width:73px;
+        --p-height: 54px
+    }
+}
+
+html.enhanced .section-design .overview-design-colors-snipe-1 {
+    transform-origin: right top;
+    bottom: -13%;
+    right: 73%;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-design .overview-design-colors-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: -12%;
+        right: 63%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-design .overview-design-colors-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: -22%;
+        right: 66%
+    }
+}
+
+/* overview-design-colors-snipe-2-4 */
+/* colors_snipe_2__fecso2s3ctyu */
+.section-design .overview-design-colors-snipe-2,.section-design .snipe-touch-id {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 139px;
+    --p-height: 61px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-design .overview-design-colors-snipe-2,.section-design .snipe-touch-id {
+        --p-width:127px;
+        --p-height: 56px
+    }
+}
+
+html.enhanced .section-design .overview-design-colors-snipe-2 {
+    transform-origin: left bottom;
+    bottom: 84%;
+    left: 108%;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-design .overview-design-colors-snipe-2 {
+        transform-origin:left top;
+        bottom: unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 61%;
+        left: 98%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-design .overview-design-colors-snipe-2 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 26%;
+        left: 102%
+    }
+}
+
+/* overview-chip-cpu-snipe-1-4 */
+/* cpu_snipe_1__be0y6qcgkgeq */
+.section-chip .overview-chip-cpu-snipe-1,.section-chip .snipe-redesign {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 133px;
+    --p-height: 61px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-chip .overview-chip-cpu-snipe-1,.section-chip .snipe-redesign {
+        --p-width:120px;
+        --p-height: 56px
+    }
+}
+
+html.enhanced .section-chip .overview-chip-cpu-snipe-1 {
+    transform-origin: bottom left;
+    top: 11%;
+    left: 105%;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-chip .overview-chip-cpu-snipe-1 {
+        transform-origin:bottom right;
+        bottom: unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: -2%;
+        left: 0%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-chip .overview-chip-cpu-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 99%;
+        right: 60%
+    }
+}
+
+/* overview-chip-cpu-snipe-2-4 */
+/* cpu_snipe_2__e661u5mfl0a6 */
+.section-chip .overview-chip-cpu-snipe-2,.section-chip .snipe-apps {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 69px;
+    --p-height: 57px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-chip .overview-chip-cpu-snipe-2,.section-chip .snipe-apps {
+        --p-width:65px;
+        --p-height: 53px
+    }
+}
+
+html.enhanced .section-chip .overview-chip-cpu-snipe-2 {
+    transform-origin: bottom right;
+    bottom: 92%;
+    left: 13%;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-chip .overview-chip-cpu-snipe-2 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 94%;
+        right: 60%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-chip .overview-chip-cpu-snipe-2 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 99%;
+        right: 60%
+    }
+}
+
+/* overview-chip-cpu-snipe-3-4 */
+/* cpu_snipe_3__42jdwxynq0ya */
+.section-chip .overview-chip-cpu-snipe-3,.section-chip .snipe-games {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 70px;
+    --p-height: 55px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-chip .overview-chip-cpu-snipe-3,.section-chip .snipe-games {
+        --p-width:68px;
+        --p-height: 53px
+    }
+}
+
+html.enhanced .section-chip .overview-chip-cpu-snipe-3 {
+    transform-origin: bottom right;
+    bottom: 93%;
+    left: 19%;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-chip .overview-chip-cpu-snipe-3 {
+        transform-origin:top right;
+        bottom: unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 61%;
+        right: 101%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-chip .overview-chip-cpu-snipe-3 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 46%;
+        right: 105%
+    }
+}
+
+/* overview-chip-gpu-snipe-1-4 */
+/* gpu_snipe_1__fov04lc9jxqq */
+.section-chip .overview-chip-gpu-snipe-1,.section-chip .snipe-sketch-up {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 78px;
+    --p-height: 59px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-chip .overview-chip-gpu-snipe-1,.section-chip .snipe-sketch-up {
+        --p-width:72px;
+        --p-height: 55px
+    }
+}
+
+html.enhanced .section-chip .overview-chip-gpu-snipe-1 {
+    transform-origin: bottom right;
+    left: 40%;
+    top: -4%;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-chip .overview-chip-gpu-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: 4%;
+        left: 107%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-chip .overview-chip-gpu-snipe-1 {
+        transform-origin:bottom right;
+        bottom: unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 63%;
+        right: 115%
+    }
+}
+
+/* overview-chip-gpu-snipe-2-4 */
+/* gpu_snipe_2__fjs9ntyb822y */
+.section-chip .overview-chip-gpu-snipe-2,.section-chip .snipe-ar-filter {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 70px;
+    --p-height: 55px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-chip .overview-chip-gpu-snipe-2,.section-chip .snipe-ar-filter {
+        --p-width:68px;
+        --p-height: 52px
+    }
+}
+
+/* overview-chip-machine-learning-snipe-1-4 */
+/* machine_learning_snipe_1__ek881135v1qq */
+.section-chip .overview-chip-machine-learning-snipe-1,.section-chip .snipe-photos {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 84px;
+    --p-height: 59px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-chip .overview-chip-machine-learning-snipe-1,.section-chip .snipe-photos {
+        --p-width:79px;
+        --p-height: 57px
+    }
+}
+
+/* overview-cameras-center-stage-snipe-1-4 */
+/* center_stage_snipe_1__f4u3dbwmsjmi */
+.section-cameras .overview-cameras-center-stage-snipe-1,.section-cameras .snipe-video-calls {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 132px;
+    --p-height: 59px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-cameras .overview-cameras-center-stage-snipe-1,.section-cameras .snipe-video-calls {
+        --p-width:125px;
+        --p-height: 55px
+    }
+}
+
+/* overview-cameras-apps-snipe-1-4 */
+/* apps_snipe_1__euowewbpave6 */
+.section-cameras .overview-cameras-apps-snipe-1,.section-cameras .snipe-scan {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 90px;
+    --p-height: 29px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-cameras .overview-cameras-apps-snipe-1,.section-cameras .snipe-scan {
+        --p-width:83px;
+        --p-height: 27px
+    }
+}
+
+/* overview-cameras-apps-snipe-2-4 */
+/* apps_snipe_2__b365e31ruhiu */
+.section-cameras .overview-cameras-apps-snipe-2,.section-cameras .snipe-animation {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 69px;
+    --p-height: 58px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-cameras .overview-cameras-apps-snipe-2,.section-cameras .snipe-animation {
+        --p-width:66px;
+        --p-height: 56px
+    }
+}
+html.enhanced .section-cameras .overview-cameras-apps-snipe-2 {
+    transform-origin: left;
+    top: 82%;
+    left: 81%
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-cameras .overview-cameras-apps-snipe-2 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: 80%;
+        left: 87%
+    }
+}
+/* overview-cameras-apps-snipe-3-4 */
+/* apps_snipe_3__qtjpk2f50ua2 */
+.section-cameras .overview-cameras-apps-snipe-3,.section-cameras .snipe-imovie {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 118px;
+    --p-height: 60px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-cameras .overview-cameras-apps-snipe-3,.section-cameras .snipe-imovie {
+        --p-width:110px;
+        --p-height: 56px
+    }
+}
+
+html.enhanced .section-cameras .overview-cameras-apps-snipe-3 {
+    transform-origin: left;
+    top: 93%;
+    right: 38%
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-cameras .overview-cameras-apps-snipe-3 {
+        transform-origin:top left;
+        bottom: unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: 75%;
+        left: -1%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-cameras .overview-cameras-apps-snipe-3 {
+        transform-origin:left;
+        bottom: unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: 81%;
+        right: -21%
+    }
+}
+
+/* overview-wireless-stream-5g-snipe-1-4 */
+/* stream_5g_snipe_1__kgf1d564muyy */
+.section-wireless .overview-wireless-stream-5g-snipe-1,.section-wireless .snipe-plan {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 79px;
+    --p-height: 60px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-wireless .overview-wireless-stream-5g-snipe-1,.section-wireless .snipe-plan {
+        --p-width:75px;
+        --p-height: 57px
+    }
+}
+
+html.enhanced .section-wireless .overview-wireless-stream-5g-snipe-1 {
+    transform-origin: bottom left;
+    top: 10%;
+    left: 102%
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-wireless .overview-wireless-stream-5g-snipe-1 {
+        transform-origin:bottom right;
+        bottom: unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: -2%;
+        left: 16%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-wireless .overview-wireless-stream-5g-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 99%;
+        right: 60%
+    }
+}
+
+/* overview-wireless-stream-5g-snipe-2-4 */
+/* stream_5g_snipe_2__cqwfg8jdar2a */
+.section-wireless .overview-wireless-stream-5g-snipe-2,.section-wireless .snipe-collaborate {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 94px;
+    --p-height: 28px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-wireless .overview-wireless-stream-5g-snipe-2,.section-wireless .snipe-collaborate {
+        --p-width:89px;
+        --p-height: 27px
+    }
+}
+
+html.enhanced .section-wireless .overview-wireless-stream-5g-snipe-2 {
+    transform-origin: bottom right;
+    bottom: 93%;
+    left: 14%
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-wireless .overview-wireless-stream-5g-snipe-2 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 95%;
+        right: 60%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-wireless .overview-wireless-stream-5g-snipe-2 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 99%;
+        right: 60%
+    }
+}
+
+/* overview-wireless-stream-5g-snipe-3-4 */
+/* stream_5g_snipe_3__f01g86uujcqe */
+.section-wireless .overview-wireless-stream-5g-snipe-3,.section-wireless .snipe-game {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 75px;
+    --p-height: 60px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-wireless .overview-wireless-stream-5g-snipe-3,.section-wireless .snipe-game {
+        --p-width:70px;
+        --p-height: 55px
+    }
+}
+
+html.enhanced .section-wireless .overview-wireless-stream-5g-snipe-3 {
+    transform-origin: bottom right;
+    bottom: 92%;
+    left: 12%
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-wireless .overview-wireless-stream-5g-snipe-3 {
+        transform-origin:top right;
+        bottom: unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 61%;
+        right: 99%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-wireless .overview-wireless-stream-5g-snipe-3 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 46%;
+        right: 105%
+    }
+}
+
+/* overview-wireless-stream-wifi-snipe-1-4 */
+/* stream_wifi_snipe_1__bm31m4cbek4i */
+.section-wireless .overview-wireless-stream-wifi-snipe-1,.section-wireless .snipe-files {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 77px;
+    --p-height: 62px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-wireless .overview-wireless-stream-wifi-snipe-1,.section-wireless .snipe-files {
+        --p-width:72px;
+        --p-height: 58px
+    }
+}
+
+html.enhanced .section-wireless .overview-wireless-stream-wifi-snipe-1 {
+    transform-origin: right;
+    bottom: 99%;
+    right: 21%
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-wireless .overview-wireless-stream-wifi-snipe-1 {
+        transform-origin:bottom left;
+        bottom: 53%;
+        right: -27%;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-wireless .overview-wireless-stream-wifi-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 62%;
+        left: 106%
+    }
+}
+
+/* overview-wireless-stream-wifi-snipe-2-4 */
+/* stream_wifi_snipe_2__gfej4bj92jyq */
+.section-wireless .overview-wireless-stream-wifi-snipe-2,.section-wireless .snipe-friends {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 83px;
+    --p-height: 28px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-wireless .overview-wireless-stream-wifi-snipe-2,.section-wireless .snipe-friends {
+        --p-width:78px;
+        --p-height: 26px
+    }
+}
+
+html.enhanced .section-wireless .overview-wireless-stream-wifi-snipe-2 {
+    bottom: 96.5%;
+    right: 65%
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-wireless .overview-wireless-stream-wifi-snipe-2 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 69%;
+        right: 99%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-wireless .overview-wireless-stream-wifi-snipe-2 {
+        transform-origin:top right;
+        bottom: unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 35%;
+        right: 105%
+    }
+}
+
+/* overview-pencil-keyboard-apple-pencil-snipe-1-4 */
+/* apple_pencil_snipe_1__fxgcelw3dkyi */
+.section-pencil-keyboard .overview-pencil-keyboard-apple-pencil-snipe-1,.section-pencil-keyboard .snipe-mark-up {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 67px;
+    --p-height: 61px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-pencil-keyboard .overview-pencil-keyboard-apple-pencil-snipe-1,.section-pencil-keyboard .snipe-mark-up {
+        --p-width:62px;
+        --p-height: 56px
+    }
+}
+
+html.enhanced .section-pencil-keyboard .overview-pencil-keyboard-apple-pencil-snipe-1 {
+    top: 10%;
+    left: 108%
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-pencil-keyboard .overview-pencil-keyboard-apple-pencil-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: 6%;
+        left: 110%;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-pencil-keyboard .overview-pencil-keyboard-apple-pencil-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: 13%;
+        left: 110%
+    }
+}
+
+/* overview-pencil-keyboard-apple-pencil-snipe-2-4 */
+/* apple_pencil_snipe_2__bc1x2d0cjq36 */
+
+
+/* overview-pencil-keyboard-magic-keyboard-snipe-1-4 */
+/* magic_keyboard_snipe_1__gmqt45ynqsmm */
+.section-pencil-keyboard .overview-pencil-keyboard-magic-keyboard-snipe-1,.section-pencil-keyboard .snipe-type {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 127px;
+    --p-height: 96px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-pencil-keyboard .overview-pencil-keyboard-magic-keyboard-snipe-1,.section-pencil-keyboard .snipe-type {
+        --p-width:115px;
+        --p-height: 89px
+    }
+}
+
+html.enhanced .section-pencil-keyboard .overview-pencil-keyboard-magic-keyboard-snipe-1 {
+    top: 84%;
+    right: 62%
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-pencil-keyboard .overview-pencil-keyboard-magic-keyboard-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: 67%;
+        left: 66%;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-pencil-keyboard .overview-pencil-keyboard-magic-keyboard-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 24%;
+        left: 67%
+    }
+}
+
+/* overview-pencil-keyboard-usb-c-snipe-1-4 */
+/* usb_c_snipe_1__depo9cg25qeu */
+.section-pencil-keyboard .overview-pencil-keyboard-usb-c-snipe-1,.section-pencil-keyboard .snipe-connect {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 83px;
+    --p-height: 65px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-pencil-keyboard .overview-pencil-keyboard-usb-c-snipe-1,.section-pencil-keyboard .snipe-connect {
+        --p-width:74px;
+        --p-height: 57px
+    }
+}
+
+/* overview-ipados-multitask-snipe-1-4 */
+/* multitask_snipe_1__clqm4tu5hr0i */
+.section-ipados .overview-ipados-multitask-snipe-1,.section-ipados .snipe-write {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 89px;
+    --p-height: 61px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-ipados .overview-ipados-multitask-snipe-1,.section-ipados .snipe-write {
+        --p-width:83px;
+        --p-height: 57px
+    }
+}
+
+html.enhanced .section-ipados .overview-ipados-multitask-snipe-1 {
+    bottom: 102%;
+    right: 34%
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhanced .section-ipados .overview-ipados-multitask-snipe-1 {
+        bottom: 100%;
+        right: 32%;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-ipados .overview-ipados-multitask-snipe-1 {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 110%;
+        right: 23%
+    }
+}
+
+/* overview-ipados-multitask-snipe-2-4 */
+/* multitask_snipe_2__ftuc25xli0ae */
+.section-ipados .overview-ipados-multitask-snipe-2,.section-ipados .snipe-multitask {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 86px;
+    --p-height: 60px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-ipados .overview-ipados-multitask-snipe-2,.section-ipados .snipe-multitask {
+        --p-width:82px;
+        --p-height: 57px
+    }
+}
+
+/* overview-ipados-features-snipe-1-4 */
+/* features_snipe_1__imfeo3tvgyqi */
+.section-ipados .overview-ipados-features-snipe-1,.section-ipados .snipe-live-text {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 89px;
+    --p-height: 58px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-ipados .overview-ipados-features-snipe-1,.section-ipados .snipe-live-text {
+        --p-width:83px;
+        --p-height: 55px
+    }
+}
+
+/* overview-ipados-features-snipe-2-4 */
+/* features_snipe_2__tsfx4ut23vum */
+.section-ipados .overview-ipados-features-snipe-2,.section-ipados .snipe-shareplay {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 140px;
+    --p-height: 59px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-ipados .overview-ipados-features-snipe-2,.section-ipados .snipe-shareplay {
+        --p-width:129px;
+        --p-height: 55px
+    }
+}
+
+/* overview-ipados-features-snipe-3-4 */
+/* features_snipe_3__dxgv5dq46mky */
+.section-ipados .overview-ipados-features-snipe-3,.section-ipados .snipe-quick-note {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 100px;
+    --p-height: 61px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-ipados .overview-ipados-features-snipe-3,.section-ipados .snipe-quick-note {
+        --p-width:95px;
+        --p-height: 57px
+    }
+}
+
+
+/* overview-apps-app-store-snipe-2-4 */
+/* app_store_snipe_2__f5inmzxgldea */
+
+
+/* overview-apps-app-store-snipe-3-4 */
+/* app_store_snipe_3__fob8hcq49lqy */
+.section-apps .snipe-graphics {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 111px;
+    --p-height: 63px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-apps .snipe-graphics {
+        --p-width:105px;
+        --p-height: 60px
+    }
+}
+
+html.enhanced .section-apps .snipe-graphics {
+    top: 27%;
+    right: 102%;
+}
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-apps .snipe-graphics {
+        bottom:unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        bottom: 54%;
+        right: 98%
+    }
+}
+
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+
+html.no-enhanced .section-design .snipe-speakers {
+    top: 953px;
+    right: 582px;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-design .snipe-speakers {
+        top:786px;
+        right: 528px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-design .snipe-speakers {
+        top:424px;
+        right: 293px
+    }
+}
+
+html.no-enhanced .section-apps .snipe-build {
+    top: 870px;
+    right: 620px;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-apps .snipe-build {
+        top:713px;
+        right: 564px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-apps .snipe-build {
+        top:372px;
+        right: 308px
+    }
+}
+
+
+html.no-enhanced .section-pencil-keyboard .subsection-keyboard .snipe-type {
+    top: 780px;
+    left: 533px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-pencil-keyboard .subsection-keyboard .snipe-type {
+        top: 490px;
+        left: 396px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-pencil-keyboard .subsection-keyboard .snipe-type {
+        top:468px;
+        left: 38px
+    }
+}
+
+html.no-enhanced .section-pencil-keyboard .subsection-usbc .snipe-connect {
+    top: 350px;
+    left: 274px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-pencil-keyboard .subsection-usbc .snipe-connect {
+        top: 290px;
+        left: 208px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-pencil-keyboard .subsection-usbc .snipe-connect {
+        top:166px;
+        left: 150px
+    }
+}
+
+html.no-enhanced .section-apps .snipe-graphics {
+    top: 1062px;
+    right: 579px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-apps .snipe-graphics {
+        top:1031px;
+        right: 467px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-apps .snipe-graphics {
+        top: 600px;
+        right: 276px;
+    }
+}
+
+html.no-enhanced .section-design .snipe-photos {
+    top: 454px;
+    left: 101px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-design .snipe-photos {
+        top:unset;
+        left: 424px;
+        bottom: 729px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-design .snipe-photos {
+        left: 278px;
+        bottom: 489px
+    }
+}
+
+html.no-enhanced .section-design .snipe-true-tone {
+    top: 775px;
+    left: 377px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-design .snipe-true-tone {
+        top:625px;
+        left: unset;
+        right: 534px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-design .snipe-true-tone {
+        top: 403px;
+        right: 305px
+    }
+}
+
+html.no-enhanced .section-chip .snipe-redesign {
+    bottom: 1124px;
+    right: 382px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-chip .snipe-redesign {
+        bottom:925px;
+        right: 340px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-chip .snipe-redesign {
+        bottom: 602px;
+        right: 196px;
+    }
+}
+
+html.no-enhanced .section-chip .snipe-apps {
+    top: 754px;
+    left: 825px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-chip .snipe-apps {
+        left:unset;
+        top: 335px;
+        right: 634px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-chip .snipe-apps {
+        right:unset;
+        top: unset;
+        bottom: 516px;
+        left: 167px;
+    }
+}
+
+html.no-enhanced .section-chip .snipe-photos {
+    bottom: 564px;
+    right: 761px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-chip .snipe-photos {
+        bottom:519px;
+        right: 632px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-chip .snipe-photos {
+        bottom:unset;
+        right: unset;
+        top: 460px;
+        left: 68px
+    }
+}
+
+html.no-enhanced .section-cameras .snipe-video-calls {
+    top: 508px;
+    left: 836px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-cameras .snipe-video-calls {
+        top:634px;
+        left: 460px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-cameras .snipe-video-calls {
+        left:unset;
+        top: 450px;
+        right: -58px;
+    }
+}
+
+html.no-enhanced .section-cameras .snipe-scan {
+    top: 484px;
+    right: 900px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-cameras .snipe-scan {
+        right:unset;
+        top: unset;
+        bottom: 882px;
+        left: 431px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-cameras .snipe-scan {
+        bottom: 674px;
+        left: 251px;
+    }
+}
+
+html.no-enhanced .section-cameras .snipe-animation {
+    top: 667px;
+    left: 962px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-cameras .snipe-animation {
+        top:186px;
+        left: 691px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-cameras .snipe-animation {
+        top:unset;
+        bottom: 529px;
+        left: 412px;
+    }
+}
+
+html.no-enhanced .section-wireless .snipe-plan {
+    bottom: 1089px;
+    right: 424px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-wireless .snipe-plan {
+        bottom:861px;
+        right: 335px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-wireless .snipe-plan {
+        bottom: 600px;
+        right: 204px;
+    }
+}
+
+html.no-enhanced .section-wireless .snipe-collaborate {
+    top: 749px;
+    left: 828px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-wireless .snipe-collaborate {
+        top:unset;
+        left: unset;
+        bottom: 672px;
+        right: 630px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-wireless .snipe-collaborate {
+        right:unset;
+        bottom: 556px;
+        left: 182px;
+    }
+}
+
+html.no-enhanced .section-wireless .snipe-game {
+    top: 1046px;
+    right: 1056px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-wireless .snipe-game {
+        top:798px;
+        right: unset;
+        left: 570px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-wireless .snipe-game {
+        top:522px;
+        left: 382px;
+    }
+}
+
+html.no-enhanced .section-wireless .snipe-files {
+    bottom: 1337px;
+    left: 546px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-wireless .snipe-files {
+        left:unset;
+        bottom: 924px;
+        right: 421px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-wireless .snipe-files {
+        bottom:592px;
+        right: 294px;
+    }
+}
+
+html.no-enhanced .section-wireless .snipe-friends {
+    bottom: 575px;
+    right: 974px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-wireless .snipe-friends {
+        bottom:unset;
+        right: unset;
+        top: 926px;
+        left: 464px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-wireless .snipe-friends {
+        top: 634px;
+        left: 100px;
+    }
+}
+
+html.no-enhanced .section-pencil-keyboard .snipe-notes {
+    top: 1065px;
+    left: 2081px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-pencil-keyboard .snipe-notes {
+        top:unset;
+        bottom: 620px;
+        left: 1660px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-pencil-keyboard .snipe-notes {
+        bottom:unset;
+        left: unset;
+        top: 692px;
+        right: 314px
+    }
+}
+
+html.no-enhanced .section-ipados .snipe-write {
+    bottom: 890px;
+    right: 730px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-ipados .snipe-write {
+        bottom:720px;
+        right: 596px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-ipados .snipe-write {
+        right:unset;
+        bottom: 531px;
+        left: 214px;
+    }
+}
+
+html.no-enhanced .section-ipados .snipe-multitask {
+    top: 963px;
+    left: 702px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-ipados .snipe-multitask {
+        top:793px;
+        left: 558px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-ipados .snipe-multitask {
+        left:unset;
+        top: 707px;
+        right: 172px
+    }
+}
+
+html.no-enhanced .section-ipados .snipe-shareplay {
+    top: 970px;
+    left: 680px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-ipados .snipe-shareplay {
+        top:796px;
+        left: 500px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-ipados .snipe-shareplay {
+        top: 594px;
+        left: 307px;
+    }
+}
+
+html.no-enhanced .section-apps .snipe-word {
+    top: 450px;
+    right: 950px;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-apps .snipe-word {
+        top:358px;
+        right: 793px
+    }
+}
+
+@media only screen and (max-width: 834px) {
+    html.no-enhanced .section-apps .snipe-word {
+        top: 57px;
+        right: 395px;
+    }
+}
+
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-apps .snipe-word {
+        top:unset;
+        right: unset;
+        bottom: 533px;
+        left: 257px
+    }
+}
+
+html.no-enhanced .section-cameras .snipe-imovie {
+    top: 1176px;
+    right: 557px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-cameras .snipe-imovie {
+        top:unset;
+        bottom: 483px;
+        left: 893px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-cameras .snipe-imovie {
+        top:470px;
+        bottom: unset;
+        left: 200px
+    }
+}
+
+html.no-enhanced .section-ipados .snipe-quick-note {
+    top: 1437px;
+    left: 290px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-ipados .snipe-quick-note {
+        top:unset;
+        left: unset;
+        bottom: 606px;
+        right: 633px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-ipados .snipe-quick-note {
+        bottom:unset;
+        right: unset;
+        top: 772px;
+        left: 271px
+    }
+}
+
+html.no-enhanced .section-chip .snipe-games {
+    top: 1024px;
+    left: 708px;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-chip .snipe-games {
+        top:940px;
+        left: unset;
+        right: 742px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-chip .snipe-games {
+        top:642px;
+        right: 322px
+    }
+}
+
+html.no-enhanced .section-design .snipe-touch-id {
+    left: 1123px;
+    bottom: 525px;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-design .snipe-touch-id {
+        left:unset;
+        bottom: unset;
+        top: 1121px;
+        right: 32px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-design .snipe-touch-id {
+        top:605px;
+        right: 115px
+    }
+}
+
+html.no-enhanced .section-pencil-keyboard .snipe-mark-up {
+    top: 65px;
+    left: 1417px;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-pencil-keyboard .snipe-mark-up {
+        top:18px;
+        left: 1274px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-pencil-keyboard .snipe-mark-up {
+        top:55px;
+        left: 846px
+    }
+}
+
+html.no-enhanced .section-ipados .snipe-live-text {
+    top: 550px;
+    left: 810px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-ipados .snipe-live-text {
+        top:unset;
+        left: unset;
+        bottom: 1008px;
+        right: 281px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-ipados .snipe-live-text {
+        bottom:778px;
+        right: 240px
+    }
+}
+
+html.no-enhanced .section-chip .snipe-ar-filter {
+    bottom: 1017px;
+    right: 371px;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-chip .snipe-ar-filter {
+        bottom:965px;
+        right: 260px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-chip .snipe-ar-filter {
+        bottom:590px;
+        right: 228px
+    }
+}
+
+html.no-enhanced .section-chip .snipe-sketch-up {
+    top: 803px;
+    left: 687px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-chip .snipe-sketch-up {
+        top:661px;
+        left: 580px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-chip .snipe-sketch-up {
+        top:463px;
+        left: 383px
+    }
+}

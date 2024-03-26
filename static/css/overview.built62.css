@@ -1,0 +1,219 @@
+/* artcd layout start */
+.hero-payoff:lang(zh) {
+    letter-spacing:0.015em;
+    line-height: 1.02;
+}
+
+@media only screen and (max-width: 1068px) {
+    .hero-payoff:lang(zh) {
+    	letter-spacing:0em;
+    	line-height: 1.0875;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hero-payoff:lang(zh) {
+    	letter-spacing:0em;
+    	line-height: 1;
+    }
+}
+
+.value-prop:lang(zh) {
+    letter-spacing:0em;
+    line-height: 1.09;
+}
+
+@media only screen and (max-width: 1068px) {
+    .value-prop:lang(zh) {
+    	letter-spacing:0em;
+    	line-height: 1;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .value-prop:lang(zh) {
+    	font-size: 32px;
+    	letter-spacing:0em;
+    	line-height: 1.125;
+    }
+}
+
+.headline-section:lang(zh) {
+    letter-spacing:0.015em;
+    line-height: 1.02;
+}
+
+@media only screen and (max-width: 1068px) {
+    .headline-section:lang(zh) {
+    	letter-spacing:0em;
+    	line-height: 1.0875;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .headline-section:lang(zh) {
+    	letter-spacing:0em;
+    	line-height: 1;
+    }
+}
+@media only screen and (max-width: 374px) {
+    .headline-section {
+        line-height: 1;
+        letter-spacing: 0em;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-router-headline:lang(zh) {
+        line-height: 1.21875;
+    }
+}
+
+.section-case-battery .factoid .zh-alt {
+	position: relative;
+	bottom: 0.5em;
+}
+
+.section-case-battery .copy--scroll.water-resistant sup.footnote-number {
+    left: 1px;
+}
+/* artcd layout end */
+
+/*wechat fix AR*/
+
+html.wechat-fix .quicklook-component{display:none;}
+html.wechat-fix .quicklook-component.quick-look-modern {
+    display: none
+}
+
+html.wechat-fix .quicklook-component.quick-look-classic {
+    display: none
+}
+
+html.wechat-fix .section-ar .section-content .hide-on-quicklook {
+    display: block
+}
+
+#section-hero .link-container .icon-playcircle.gc-alts-fallback{
+	font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+/* hero start */
+@media only screen and (min-width: 2292px) {
+	.section-hero .icon-wrapper .icon, .section-hero .icon-wrapper .more:not(.icon-before)::after, .section-hero .icon-wrapper .icon-before::before, .section-hero .icon-wrapper .icon-after::after {
+    	position: static;
+	}
+}
+
+.hero-announce {
+    top:calc(50% - var(--hero-offset) + 50vh - var(--announce-bottom-offset) - env(safe-area-inset-bottom) - 40px)
+}
+
+html.mq-large-short .hero-announce, html.mq-medium-shorter .hero-announce, html.mq-small-shortest .hero-announce, html.mq-xlarge-short .hero-announce {
+    --announce-top-offset: 170px;
+    top:calc(var(--eyebrow-offset) * -1 + var(--announce-top-offset))
+}
+
+@media only screen and (max-width: 1068px) {
+    html.mq-large-short .hero-announce, html.mq-medium-shorter .hero-announce, html.mq-small-shortest .hero-announce, html.mq-xlarge-short .hero-announce {
+        --announce-top-offset:85px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.mq-large-short .hero-announce, html.mq-medium-shorter .hero-announce, html.mq-small-shortest .hero-announce, html.mq-xlarge-short .hero-announce {
+        --announce-top-offset:17px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hero-announce {
+        --announce-bottom-offset:160px
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-height: 630px) {
+    .hero-announce {
+        --announce-bottom-offset:120px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hero-announce {
+        --announce-top-offset: 29px;
+        --announce-bottom-offset:170px
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .hero-announce {
+        --announce-bottom-offset:150px
+    }
+}
+
+@media only screen and (max-width: 320px) and (max-height: 630px) {
+    .hero-announce {
+        --announce-bottom-offset:120px
+    }
+}
+
+@media only screen and (max-width: 375px) {
+	html.no-js .hero-announce {
+        --announce-bottom-offset:140px
+    }
+	
+}
+
+@media only screen and (max-width: 320px) and (max-height: 630px) {
+    html.no-js .hero-announce {
+        --announce-bottom-offset:100px
+    }
+}
+
+/* hero end */
+
+/* hide text-tracks-toggle-button start */
+.ac-video-player .ac-video-controls .main-controls-item.controls-text-tracks-toggle-button {
+    display: none;
+}
+/* hide text-tracks-toggle-button end */
+
+
+/* fixed no-js -20220911*/
+.section-case-battery .copy--scroll.speaker-case {
+    max-width: 325px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-case-battery .copy--scroll.speaker-case {
+        max-width:325px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-case-battery .copy--scroll.speaker-case {
+        max-width:275px
+    }
+}
+/* fixed no-js -end -*/
+
+/* hero headline font weight start */
+.hero-headline:lang(zh) {
+	font-weight: 700;
+	letter-spacing: -0.0210526316em;
+	font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+/* hero headline font weight end */
+
+
+/* play icon start */
+
+.section-hero .icon-play:before, .section-hero .icon-play:after, .section-hero .icon-playcircle:before, .section-hero .icon-playcircle:after  {
+	top: 1px;
+}
+
+/* play icon end */
+
+.touch-control-headline-container{
+    font-family: SF Pro SC,SF Pro Display,SF Pro Icons,PingFang SC,Helvetica Neue,Helvetica,Arial,sans-serif;
+}

@@ -1,0 +1,61 @@
+.section-audio-quality .theater {
+    display: none;
+}
+
+/* Apple TV alts */
+
+.section-audio-quality .duo {
+    padding-bottom: 120px;
+}
+
+
+@media only screen and (max-width: 1068px) {
+    .section-audio-quality .duo {
+        padding-bottom:100px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-audio-quality .duo {
+        padding-bottom:30px
+    }
+}
+
+/* Artists river */
+.marquee-tile .marquee-link .marquee-hover-container {
+    width: 192px;
+    height: 192px;
+}
+.marquee-tile .marquee-link .marquee-hover-container .marquee-picture img.marquee-picture-img  {
+    width: 192px;
+    height: 192px;
+}
+
+
+@media only screen and (max-width: 1068px) {
+    .marquee-tile .marquee-link .marquee-hover-container {
+        width: 140px;
+        height: 140px;
+    }
+    .marquee-tile .marquee-link .marquee-hover-container .marquee-picture img.marquee-picture-img {
+        width: 140px;
+        height: 140px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .marquee-tile .marquee-link .marquee-hover-container {
+        width: 130px;
+        height: 130px;
+    }
+    .marquee-tile .marquee-link .marquee-hover-container .marquee-picture img.marquee-picture-img {
+        width: 130px;
+        height: 130px;
+    }
+}
+
+@media only screen and (max-width:734px) {
+        .section-audio-quality .app-icon-deezer {
+        display: block;
+    }
+}

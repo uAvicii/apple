@@ -1,0 +1,19 @@
+
+/* BAG CSS
+	=============================================== */
+
+.cn .as-bagrecommendations .colornav-logo-productred {
+    display: none;
+}
+
+.cn .rf-recommendations .colornav-logo-productred {
+    display: none;
+}
+
+.rs-engraving-container-bundle {
+    font-variant-numeric: tabular-nums;
+}
+
+.rs-engraving-container-bundle .rs-engraving-font-mixed {
+    font-variant-numeric: normal;
+}

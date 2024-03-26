@@ -1,0 +1,6 @@
+/* iUp */
+@media only screen and (max-device-width: 320px) {
+    .localnav-standard .localnav-title {
+        padding-right: 2px;
+    }
+}

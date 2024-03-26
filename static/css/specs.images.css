@@ -1,0 +1,130 @@
+.section-display .image-display-iphone-14 {
+    background-image: url(../image/display_iphone14__fyrv25p19aye_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and(-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx) {
+    .section-display .image-display-iphone-14 {
+        background-image:url(../image/display_iphone14__fyrv25p19aye_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-display .image-display-iphone-14 {
+        background-image:url(../image/display_iphone14__fyrv25p19aye_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-display .image-display-iphone-14 {
+        background-image:url(../image/display_iphone14__fyrv25p19aye_small_2x.jpg)
+    }
+}
+
+.section-display .image-display-iphone-14-plus {
+    background-image: url(../image/display_iphone14_plus__ymcj1o41jxei_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and(-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx) {
+    .section-display .image-display-iphone-14-plus {
+        background-image:url(../image/display_iphone14_plus__ymcj1o41jxei_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-display .image-display-iphone-14-plus {
+        background-image:url(../image/display_iphone14_plus__ymcj1o41jxei_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-display .image-display-iphone-14-plus {
+        background-image:url(../image/display_iphone14_plus__ymcj1o41jxei_small_2x.jpg)
+    }
+}
+
+
+.section-size-and-weight .image-dimensions-iphone-14 {
+    background-image: url(../image/dimensions_iphone14__gfrfqvtnk32i_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx) {
+    .section-size-and-weight .image-dimensions-iphone-14 {
+        background-image: url(../image/dimensions_iphone14__gfrfqvtnk32i_large_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .section-size-and-weight .image-dimensions-iphone-14 {
+        background-image: url(../image/dimensions_iphone14__gfrfqvtnk32i_medium.jpg)
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-size-and-weight .image-dimensions-iphone-14 {
+        background-image: url(../image/dimensions_iphone14__gfrfqvtnk32i_medium_2x.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) {
+    .section-size-and-weight .image-dimensions-iphone-14 {
+        background-image: url(../image/dimensions_iphone14__gfrfqvtnk32i_small.jpg)
+    }
+
+}
+
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:734px) and (min-resolution:1.5dppx), only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-size-and-weight .image-dimensions-iphone-14 {
+        background-image: url(../image/dimensions_iphone14__gfrfqvtnk32i_small_2x.jpg)
+    }
+
+}
+
+.section-size-and-weight .image-dimensions-iphone-14-plus {
+    background-image: url(../image/dimensions_iphone14_plus__mimqy2ddyki2_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-size-and-weight .image-dimensions-iphone-14-plus {
+        background-image: url(../image/dimensions_iphone14_plus__mimqy2ddyki2_large_2x.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-size-and-weight .image-dimensions-iphone-14-plus {
+        background-image: url(../image/dimensions_iphone14_plus__mimqy2ddyki2_medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-size-and-weight .image-dimensions-iphone-14-plus {
+        background-image: url(../image/dimensions_iphone14_plus__mimqy2ddyki2_medium_2x.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-size-and-weight .image-dimensions-iphone-14-plus {
+        background-image: url(../image/dimensions_iphone14_plus__mimqy2ddyki2_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-size-and-weight .image-dimensions-iphone-14-plus {
+        background-image: url(../image/dimensions_iphone14_plus__mimqy2ddyki2_small_2x.jpg);
+    }
+}
+
+.section-built-in-apps .techspecs-app-icon-calendar {
+    background-image:url(../image/icon_calendar__c7dkb1qb21g2_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and(-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx) {
+    .section-built-in-apps .techspecs-app-icon-calendar {
+        background-image:url(../image/icon_calendar__c7dkb1qb21g2_large_2x.png)
+    }
+}
+
+
+

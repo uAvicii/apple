@@ -1,0 +1,15 @@
+@media only screen and (max-width: 1068px){
+    .router-download-software .router-headline{
+        width: 450px;
+    }
+}
+
+@media only screen and (max-width: 734px){
+    .router-download-software .router-headline{
+        width: initial;
+    }
+    .page-overview .section-router .router-item {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}

@@ -1,0 +1,213 @@
+/*layout font*/
+
+.typography-section-copy {
+    line-height: 1.315;
+}
+
+@media only screen and (max-width: 1068px) {
+    .typography-section-copy {
+        line-height: 1.33333;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-section-copy {
+        line-height: 1.36842;
+    }
+}
+
+.typography-callout-copy {
+    line-height: 1.25;
+}
+
+@media only screen and (max-width: 1068px) {
+    .typography-callout-copy {
+        line-height: 1.33333;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-callout-copy {
+        line-height: 1.36842;
+    }
+}
+
+.typography-headline-standalone,
+.typography-headline-hero,
+.typography-headline-video,
+.typography-headline-standalone-subsection,
+.typography-headline-elevated,
+.typography-headline-pairs-with,
+.typography-headline-spatial-audio,
+.typography-headline,
+.typography-router-tile-full-headline {
+    font-weight: 600;
+}
+
+/*layout font*/
+
+/* icon-after::after  */
+
+.icon-wrapper .icon,
+.icon-wrapper .more::after,
+.icon-wrapper .icon-before::before,
+.icon-wrapper .icon-after::after {
+    position: relative;
+}
+
+/* wechat-fix ar start */
+
+html.wechat-fix.ar-quicklook .ar-quicklook-link {
+    display: none
+}
+
+html.wechat-fix.ar-quicklook .router-item-augmented-reality .grid-item-copy {
+    display: block
+}
+
+html.wechat-fix.ar-quicklook .section-hero .cta-wrapper .ar-quicklook-link {
+    display: none
+}
+
+/* wechat-fix ar end */
+@media only screen and (max-width: 734px) {
+    .subsection-camera .center-stage-logos .facetime {
+        padding-right: 16px
+    }
+}
+
+.subsection-camera .center-stage-logos .webex {
+    padding-right: 71px
+}
+
+@media only screen and (max-width: 1068px) {
+    .subsection-camera .center-stage-logos .webex {
+        padding-right: 60px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .subsection-camera .center-stage-logos .webex {
+        padding-right: 38px
+    }
+}
+
+.subsection-camera .center-stage-logos .zoom {
+    padding-right: 71px
+}
+
+@media only screen and (max-width: 1068px) {
+    .subsection-camera .center-stage-logos .zoom {
+        padding-right: 60px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .subsection-camera .center-stage-logos .zoom {
+        padding-right: 33px
+    }
+}
+
+.subsection-camera .center-stage-logos .tencent .image-logo {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 40px;
+    --p-height:44px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .subsection-camera .center-stage-logos .tencent .image-logo {
+        --p-width: 40px;
+        --p-height: 44px
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .subsection-camera .center-stage-logos .tencent .image-logo {
+        --p-width: 33px;
+        --p-height: 36px
+    }
+}
+
+/**/
+.gc-half-space-1 {
+    font-size: 0.7em;
+}
+
+
+
+.subsection-stats .stats-list .stat-padding {
+    padding-right: 131px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .subsection-stats .stats-list .stat-padding {
+        padding-right: 10px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .subsection-stats .stats-list .stat-padding {
+        padding-right: 0
+    }
+}
+
+/* CTA */
+.section-hero .section-content ul.links-inline {
+    margin-left: 34px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .section-content ul.links-inline {
+        margin-left: 30px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .section-content ul.links-inline {
+        margin-left: 16px;
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .cta-wrapper .ar-quicklook-link {
+        padding-right: 4px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .cta-wrapper .ar-quicklook-link {
+        padding-left: 0;
+        margin-left: 13px;
+    }
+}
+
+
+@media only screen and (max-width: 320px) {
+    html[lang=zh-CN] br.xsmall-hide {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .router-item-augmented-reality .ar-quicklook-link .ar-link {
+        width: 231px;
+    }
+}
+
+html[lang=zh-CN] .typography-section-copy .body-copy {
+    line-height: 1.315;
+}
+
+@media only screen and (max-width: 1068px) {
+    html[lang=zh-CN] .typography-section-copy .body-copy{
+        line-height: 1.33333;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html[lang=zh-CN] .typography-section-copy .body-copy{
+        line-height: 1.36842;
+    }
+}

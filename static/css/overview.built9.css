@@ -1,0 +1,26 @@
+@media only screen and (max-width: 374px) {
+    .hero-headline {
+        position: relative;
+        width: 282px;
+        transform: translateX(-15px);
+    }
+}
+
+/* iphone XS start*/
+.small-caps {
+    font-feature-settings: "smcp", "c2sc";
+    font-variant-caps:all-small-caps
+}
+/* iphone XS end*/
+
+/* ECG */
+.ecg-tip-block {
+    font-size: 12px;
+    color: #86868b;
+}
+
+.ecg-tip-block .ecg-tip-block-text {
+    font-size: 12px;
+    margin-top: 2em;
+}
+/* ECG */

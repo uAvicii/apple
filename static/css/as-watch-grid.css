@@ -1,0 +1,28 @@
+/*
+    Apple Watch Grid Page
+    ===============================================
+*/
+
+.dd-modal-ipad-carrier .as-chat-hide,
+.dd-modal-ipad-carrier .as-chat-button,
+.dd-modal-ipad-carrier .dd-modal-help-section {
+    display: none;
+}
+
+.rf-wuipselect-wuip-details {
+    min-height: 17px;
+}
+
+.rf-designstudio .rf-designstudio-filters {
+    min-height: 60px;
+    display: block;
+}
+
+.rs-wuipselect-apollo .rf-wuipselect-collection .rf-wuipselect-collection-section {
+    padding-top: 50px;
+    padding-bottom: 16px;
+}
+
+.apple-watch-ultra .rf-wuipselect-wuip-details {
+    display: none;
+}

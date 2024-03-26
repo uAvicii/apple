@@ -1,0 +1,1256 @@
+.page-overview .section-hero .image-overview-hero-imac {
+    background-image:url(../image/imac__ck9whsk49umq_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-hero .image-overview-hero-imac {
+        background-image:url(../image/imac__ck9whsk49umq_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hero .image-overview-hero-imac {
+        background-image:url(../image/imac__ck9whsk49umq_medium.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .image-overview-hero-imac {
+        background-image:url(../image/imac__ck9whsk49umq_medium_2x.png)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-hero .image-overview-hero-imac {
+        background-image:url(../image/imac__ck9whsk49umq_small.png)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .image-overview-hero-imac {
+        background-image:url(../image/imac__ck9whsk49umq_small_2x.png)
+    }
+}
+
+.page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+    width: 910px;
+    height: 546px;
+    background-size: 910px 546px;
+    background-repeat: no-repeat;
+    background-image: url(../image/widgets__d1m1t8jqi7iq_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+        background-image:url(../image/widgets__d1m1t8jqi7iq_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+        width: 650px;
+        height: 390px;
+        background-size: 650px 390px;
+        background-repeat: no-repeat;
+        background-image:url(../image/widgets__d1m1t8jqi7iq_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+        background-image:url(../image/widgets__d1m1t8jqi7iq_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+        width: 307px;
+        height: 187px;
+        background-size: 307px 187px;
+        background-repeat: no-repeat;
+        background-image:url(../image/widgets__d1m1t8jqi7iq_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+        background-image:url(../image/widgets__d1m1t8jqi7iq_small_2x.jpg)
+    }
+}
+
+.page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+    background-image: url(../image/at_a_glance__d1ta9k5dzpm6_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+        background-image:url(../image/at_a_glance__d1ta9k5dzpm6_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+        background-image: url(../image/at_a_glance__d1ta9k5dzpm6_medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+        background-image:url(../image/at_a_glance__d1ta9k5dzpm6_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+        background-image: url(../image/at_a_glance__d1ta9k5dzpm6_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+        background-image:url(../image/at_a_glance__d1ta9k5dzpm6_small_2x.jpg)
+    }
+}
+
+.page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+    background-image:url(../image/web_apps__diq5nlbjjtea_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+        background-image:url(../image/web_apps__diq5nlbjjtea_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+        background-image:url(../image/web_apps__diq5nlbjjtea_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+        background-image:url(../image/web_apps__diq5nlbjjtea_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+        background-image:url(../image/web_apps__diq5nlbjjtea_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+        background-image:url(../image/web_apps__diq5nlbjjtea_small_2x.jpg)
+    }
+}
+
+.section-safari-passwords .section-safari-passwords .grid-item-search figure{
+        width: 82px;
+        height: 82px;
+        background-size: 82px 82px;
+        background-image: url("../image/safari_search__3wvc0394x0iq_large_2x.png");
+        opacity: 1;
+        left: -285px;
+}
+
+.section-safari-passwords .grid-item-mute .tile-blockquote {
+    margin: 0 auto;
+    max-width: 350px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-safari-passwords .grid-item-mute .tile-blockquote {
+        max-width: 250px;
+    }
+}
+
+.alts-search p {
+    text-align: left;
+    margin-top: 20px;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi),
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx) {
+    .section-safari-passwords .section-safari-passwords .grid-item-search figure {
+        background-image: url("../image/safari_search__3wvc0394x0iq_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-safari-passwords .section-safari-passwords .grid-item-search figure {
+        width: 72px;
+        height: 72px;
+        background-size: 72px 72px;
+        background-image: url("../image/safari_search__3wvc0394x0iq_medium.png");
+        left: 0px;
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-safari-passwords .section-safari-passwords .grid-item-search figure {
+        background-image: url("../image/safari_search__3wvc0394x0iq_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-safari-passwords .section-safari-passwords .grid-item-search figure {
+        width: 62px;
+        height: 62px;
+        background-size: 62px 62px;
+        background-image: url("../image/safari_search__3wvc0394x0iq_small.png");
+        top: 0px;
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-safari-passwords .section-safari-passwords .grid-item-search figure {
+        background-image: url("../image/safari_search__3wvc0394x0iq_small_2x.png")
+    }
+}
+
+.page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+    width: 637px;
+    height: 533px;
+    background-size: 637px 533px;
+    background-image:url(../image/messages_search__bwfb3b8bfx1e_large.jpg);
+    background-repeat: no-repeat;
+    left: 6px;
+    margin-left: 0;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+        background-image:url(../image/messages_search__bwfb3b8bfx1e_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+        width: 465px;
+        height: 385px;
+        background-size: 465px 385px;
+        background-image:url(../image/messages_search__bwfb3b8bfx1e_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+        background-image:url(../image/messages_search__bwfb3b8bfx1e_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+        width: 516px;
+        height: 312px;
+        background-size: 516px 312px;
+        background-image:url(../image/messages_search__bwfb3b8bfx1e_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+        background-image:url(../image/messages_search__bwfb3b8bfx1e_small_2x.jpg)
+    }
+}
+
+.page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+    background-image: url(../image/stickers__d5dnsx5jkp6q_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+        background-image:url(../image/stickers__d5dnsx5jkp6q_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+        background-image: url(../image/stickers__d5dnsx5jkp6q_medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+        background-image:url(../image/stickers__d5dnsx5jkp6q_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+        background-image: url(../image/stickers__d5dnsx5jkp6q_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+        background-image:url(../image/stickers__d5dnsx5jkp6q_small_2x.jpg)
+    }
+}
+
+.page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+    background-image:url(../image/notes_pages__d0uk6tfwlp4y_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+        background-image:url(../image/notes_pages__d0uk6tfwlp4y_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+        background-image:url(../image/notes_pages__d0uk6tfwlp4y_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+        background-image:url(../image/notes_pages__d0uk6tfwlp4y_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+        background-image:url(../image/notes_pages__d0uk6tfwlp4y_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+        background-image:url(../image/notes_pages__d0uk6tfwlp4y_small_2x.jpg)
+    }
+}
+
+.page-overview .section-gaming .grid-item-performance .image-performance {
+    background-image: url(../image/game_mode__bqv2tri7znte_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-gaming .grid-item-performance .image-performance {
+        background-image:url(../image/game_mode__bqv2tri7znte_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-gaming .grid-item-performance .image-performance {
+        background-image:url(../image/game_mode__bqv2tri7znte_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-gaming .grid-item-performance .image-performance {
+        background-image:url(../image/game_mode__bqv2tri7znte_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-gaming .grid-item-performance .image-performance {
+        background-image:url(../image/game_mode__bqv2tri7znte_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-gaming .grid-item-performance .image-performance {
+        background-image:url(../image/game_mode__bqv2tri7znte_small_2x.jpg)
+    }
+}
+
+
+.page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+    background-image:url(../image/communication_safety__y023hg9ynr6y_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+        background-image:url(../image/communication_safety__y023hg9ynr6y_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+        background-image:url(../image/communication_safety__y023hg9ynr6y_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+        background-image:url(../image/communication_safety__y023hg9ynr6y_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+        background-image:url(../image/communication_safety__y023hg9ynr6y_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+        background-image:url(../image/communication_safety__y023hg9ynr6y_small_2x.jpg)
+    }
+}
+
+
+.page-overview .section-router .router-item.router-download-software .image-apple-download-software {
+    width: 558px;
+    height: 276px;
+    background-size: 558px 276px;
+    background-repeat: no-repeat;
+    background-image:url(../image/apple_beta__bx4x8rmkacr6_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-router .router-item.router-download-software .image-apple-download-software {
+        background-image:url(../image/apple_beta__bx4x8rmkacr6_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-router .router-item.router-download-software .image-apple-download-software {
+        width: 359px;
+        height: 178px;
+        background-size: 359px 178px;
+        background-repeat: no-repeat;
+        background-image:url(../image/apple_beta__bx4x8rmkacr6_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-download-software .image-apple-download-software {
+        background-image:url(../image/apple_beta__bx4x8rmkacr6_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-router .router-item.router-download-software .image-apple-download-software {
+        width: 339px;
+        height: 168px;
+        background-size: 339px 168px;
+        background-repeat: no-repeat;
+        background-image:url(../image/apple_beta__bx4x8rmkacr6_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-download-software .image-apple-download-software {
+        background-image:url(../image/apple_beta__bx4x8rmkacr6_small_2x.jpg)
+    }
+}
+.page-overview .section-router .router-item.router-ios .image-ios17 {
+    background-image: url(../image/ios17__d9ax68o3ukqe_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-router .router-item.router-ios .image-ios17 {
+        background-image:url(../image/ios17__d9ax68o3ukqe_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-router .router-item.router-ios .image-ios17 {
+        background-image:url(../image/ios17__d9ax68o3ukqe_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-ios .image-ios17 {
+        background-image:url(../image/ios17__d9ax68o3ukqe_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-router .router-item.router-ios .image-ios17 {
+        background-image:url(../image/ios17__d9ax68o3ukqe_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-ios .image-ios17 {
+        background-image:url(../image/ios17__d9ax68o3ukqe_small_2x.jpg)
+    }
+}
+
+@media only screen and (min-width: 735px) {
+    .page-overview .section-router .router-item.router-ipados {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_large.jpg)
+    }
+}
+
+@media only screen and (min-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 735px) and (min-resolution: 1.5dppx), only screen and (min-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-ipados {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_large_2x.jpg)
+    }
+}
+
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+    .page-overview .section-router .router-item.router-ipados {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_medium.jpg)
+    }
+}
+
+@media only screen and (min-width: 735px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 735px) and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (min-width: 735px) and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-ipados {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_medium_2x.jpg)
+    }
+}
+
+@media only screen and (min-width: 735px) and (max-width: 734px) {
+    .page-overview .section-router .router-item.router-ipados {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_small.jpg)
+    }
+}
+
+@media only screen and (min-width: 735px) and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 735px) and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (min-width: 735px) and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-ipados {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_small_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-router .router-item.router-ipados .image-ipados-17 {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_large.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-ipados .image-ipados-17 {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 1068px) {
+    .page-overview .section-router .router-item.router-ipados .image-ipados-17 {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-ipados .image-ipados-17 {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .page-overview .section-router .router-item.router-ipados .image-ipados-17 {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-ipados .image-ipados-17 {
+        background-image:url(../image/ipados17__b4d9fbrl75iu_small_2x.jpg)
+    }
+}
+
+.page-overview .section-router .router-item.router-watchos .image-watchos {
+    background-image: url(../image/watchos__cfn27tle2jaq_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-router .router-item.router-watchos .image-watchos {
+        background-image:url(../image/watchos__cfn27tle2jaq_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-router .router-item.router-watchos .image-watchos {
+        background-image:url(../image/watchos__cfn27tle2jaq_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-watchos .image-watchos {
+        background-image:url(../image/watchos__cfn27tle2jaq_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-router .router-item.router-watchos .image-watchos {
+        background-image:url(../image/watchos__cfn27tle2jaq_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-router .router-item.router-watchos .image-watchos {
+        background-image:url(../image/watchos__cfn27tle2jaq_small_2x.jpg)
+    }
+}
+
+
+.page-overview .section-screen-savers .grid-item-new-screensavers .inline-video-container .end-frame {
+    background-image:url(../image/screen_saver_endframe__bysywv7ifzo2_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-screen-savers .grid-item-new-screensavers .inline-video-container .end-frame {
+        background-image:url(../image/screen_saver_endframe__bysywv7ifzo2_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-screen-savers .grid-item-new-screensavers .inline-video-container .end-frame {
+        background-image:url(../image/screen_saver_endframe__bysywv7ifzo2_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-screen-savers .grid-item-new-screensavers .inline-video-container .end-frame {
+        background-image:url(../image/screen_saver_endframe__bysywv7ifzo2_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-screen-savers .grid-item-new-screensavers .inline-video-container .end-frame {
+        background-image:url(../image/screen_saver_endframe__bysywv7ifzo2_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-screen-savers .grid-item-new-screensavers .inline-video-container .end-frame {
+        background-image:url(../image/screen_saver_endframe__bysywv7ifzo2_small_2x.jpg)
+    }
+}
+
+.page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+    background-image: url(../image/profiles__bpedp7curmpe_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+        background-image:url(../image/profiles__bpedp7curmpe_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+        background-image:url(../image/profiles__bpedp7curmpe_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+        background-image:url(../image/profiles__bpedp7curmpe_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+        background-image:url(../image/profiles__bpedp7curmpe_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+        background-image:url(../image/profiles__bpedp7curmpe_small_2x.jpg)
+    }
+}
+
+/* 20231031 */
+.page-overview .section-gaming .grid-item-performance .image-performance {
+    background-image: url(../image/game_mode__bqv2tri7znte_large.jpg);}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-gaming .grid-item-performance .image-performance {
+        background-image:url(../image/game_mode__bqv2tri7znte_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-gaming .grid-item-performance .image-performance {
+        background-image: url(../image/game_mode__bqv2tri7znte_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-gaming .grid-item-performance .image-performance {
+        background-image:url(../image/game_mode__bqv2tri7znte_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-gaming .grid-item-performance .image-performance {
+        background-image: url(../image/game_mode__bqv2tri7znte_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-gaming .grid-item-performance .image-performance {
+        background-image:url(../image/game_mode__bqv2tri7znte_small_2x.jpg)}}
+.page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+    background-image: url(../image/messages_search__bwfb3b8bfx1e_large.jpg)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+        background-image:url(../image/messages_search__bwfb3b8bfx1e_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+        background-image: url(../image/messages_search__bwfb3b8bfx1e_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+        background-image:url(../image/messages_search__bwfb3b8bfx1e_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+        background-image: url(../image/messages_search__bwfb3b8bfx1e_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-messages .grid-item-search .overview-messages-messages-search {
+        background-image:url(../image/messages_search__bwfb3b8bfx1e_small_2x.jpg)}}
+.page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+    background-image: url(../image/stickers__d5dnsx5jkp6q_large.jpg);}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+        background-image:url(../image/stickers__d5dnsx5jkp6q_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+        background-image: url(../image/stickers__d5dnsx5jkp6q_medium.jpg);}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+        background-image:url(../image/stickers__d5dnsx5jkp6q_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+        background-image: url(../image/stickers__d5dnsx5jkp6q_small.jpg);}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-messages .grid-item-stickers .overview-messages-stickers {
+        background-image:url(../image/stickers__d5dnsx5jkp6q_small_2x.jpg)}}
+.page-overview .section-video-conference .grid-item-in-frame .image-in-frame {
+    background-image: url(../image/frame__d7emeet8t2eu_large.jpg)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-video-conference .grid-item-in-frame .image-in-frame {
+        background-image:url(../image/frame__d7emeet8t2eu_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-video-conference .grid-item-in-frame .image-in-frame {
+        background-image: url(../image/frame__d7emeet8t2eu_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-video-conference .grid-item-in-frame .image-in-frame {
+        background-image:url(../image/frame__d7emeet8t2eu_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-video-conference .grid-item-in-frame .image-in-frame {
+        background-image: url(../image/frame__d7emeet8t2eu_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-video-conference .grid-item-in-frame .image-in-frame {
+        background-image:url(../image/frame__d7emeet8t2eu_small_2x.jpg)}}
+.page-overview .section-video-conference .grid-item-screen-sharing .image-screen-share {
+    background-image: url(../image/screen_sharing__c8oqqjhj8oeq_large.jpg);}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-video-conference .grid-item-screen-sharing .image-screen-share {
+        background-image:url(../image/screen_sharing__c8oqqjhj8oeq_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-video-conference .grid-item-screen-sharing .image-screen-share {
+        background-image: url(../image/screen_sharing__c8oqqjhj8oeq_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-video-conference .grid-item-screen-sharing .image-screen-share {
+        background-image:url(../image/screen_sharing__c8oqqjhj8oeq_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-video-conference .grid-item-screen-sharing .image-screen-share {
+        background-image: url(../image/screen_sharing__c8oqqjhj8oeq_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-video-conference .grid-item-screen-sharing .image-screen-share {
+        background-image:url(../image/screen_sharing__c8oqqjhj8oeq_small_2x.jpg)}}
+.page-overview .section-pdf-notes .grid-item-documents .tile-content {
+    background-image: url(../image/documents__1v0sry18guqe_large.jpg);}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-pdf-notes .grid-item-documents .tile-content {
+        background-image:url(../image/documents__1v0sry18guqe_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-pdf-notes .grid-item-documents .tile-content {
+        background-image: url(../image/documents__1v0sry18guqe_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-pdf-notes .grid-item-documents .tile-content {
+        background-image:url(../image/documents__1v0sry18guqe_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-pdf-notes .grid-item-documents .tile-content {
+        background-image: url(../image/documents__1v0sry18guqe_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-pdf-notes .grid-item-documents .tile-content {
+        background-image:url(../image/documents__1v0sry18guqe_small_2x.jpg)}}
+.page-overview .section-pdf-notes .grid-item-full-width-pdf .image-pdf-notes-full-width-pdf {
+    background-image: url(../image/full_width_pdf__cqnfrzwdag3m_large.jpg);}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-pdf-notes .grid-item-full-width-pdf .image-pdf-notes-full-width-pdf {
+        background-image:url(../image/full_width_pdf__cqnfrzwdag3m_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-pdf-notes .grid-item-full-width-pdf .image-pdf-notes-full-width-pdf {
+        background-image: url(../image/full_width_pdf__cqnfrzwdag3m_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-pdf-notes .grid-item-full-width-pdf .image-pdf-notes-full-width-pdf {
+        background-image:url(../image/full_width_pdf__cqnfrzwdag3m_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-pdf-notes .grid-item-full-width-pdf .image-pdf-notes-full-width-pdf {
+        background-image: url(../image/full_width_pdf__cqnfrzwdag3m_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-pdf-notes .grid-item-full-width-pdf .image-pdf-notes-full-width-pdf {
+        background-image:url(../image/full_width_pdf__cqnfrzwdag3m_small_2x.jpg)}}
+.page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+    background-image: url(../image/notes_pages__d0uk6tfwlp4y_large.jpg)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+        background-image:url(../image/notes_pages__d0uk6tfwlp4y_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+        background-image: url(../image/notes_pages__d0uk6tfwlp4y_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+        background-image:url(../image/notes_pages__d0uk6tfwlp4y_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+        background-image: url(../image/notes_pages__d0uk6tfwlp4y_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-pdf-notes .grid-item-notes-pages .image-pdf-notes-notes-pages {
+        background-image:url(../image/notes_pages__d0uk6tfwlp4y_small_2x.jpg)}}
+.page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+    background-image: url(../image/profiles__bpedp7curmpe_large.jpg);}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+        background-image:url(../image/profiles__bpedp7curmpe_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+        background-image: url(../image/profiles__bpedp7curmpe_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+        background-image:url(../image/profiles__bpedp7curmpe_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+        background-image: url(../image/profiles__bpedp7curmpe_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-safari-passwords .grid-item-profiles .image-profiles {
+        background-image:url(../image/profiles__bpedp7curmpe_small_2x.jpg)}}
+.page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+    background-image: url(../image/web_apps__diq5nlbjjtea_large.jpg)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+        background-image:url(../image/web_apps__diq5nlbjjtea_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+        background-image: url(../image/web_apps__diq5nlbjjtea_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+        background-image:url(../image/web_apps__diq5nlbjjtea_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+        background-image: url(../image/web_apps__diq5nlbjjtea_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-safari-passwords .grid-item-webapps .image-webapps {
+        background-image:url(../image/web_apps__diq5nlbjjtea_small_2x.jpg)}}
+.page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+    background-image: url(../image/at_a_glance__d1ta9k5dzpm6_large.jpg);}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+        background-image:url(../image/at_a_glance__d1ta9k5dzpm6_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+        background-image: url(../image/at_a_glance__d1ta9k5dzpm6_medium.jpg);}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+        background-image:url(../image/at_a_glance__d1ta9k5dzpm6_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+        background-image: url(../image/at_a_glance__d1ta9k5dzpm6_small.jpg);}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-at-a-glance .overview-desktop-widgets-at-a-glance {
+        background-image:url(../image/at_a_glance__d1ta9k5dzpm6_small_2x.jpg)}}
+.page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+    background-image: url(../image/widgets__d1m1t8jqi7iq_large.jpg);}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+        background-image:url(../image/widgets__d1m1t8jqi7iq_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+        background-image: url(../image/widgets__d1m1t8jqi7iq_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+        background-image:url(../image/widgets__d1m1t8jqi7iq_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+        background-image: url(../image/widgets__d1m1t8jqi7iq_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-widgets .overview-desktop-widgets-widgets {
+        background-image:url(../image/widgets__d1m1t8jqi7iq_small_2x.jpg)}}
+.page-overview .section-hero .image-overview-hero-imac {
+    background-image: url(../image/imac__ck9whsk49umq_large.png)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-hero .image-overview-hero-imac {
+        background-image:url(../image/imac__ck9whsk49umq_large_2x.png)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hero .image-overview-hero-imac {
+        background-image: url(../image/imac__ck9whsk49umq_medium.png)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-hero .image-overview-hero-imac {
+        background-image:url(../image/imac__ck9whsk49umq_medium_2x.png)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-hero .image-overview-hero-imac {
+        background-image: url(../image/imac__ck9whsk49umq_small.png)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-hero .image-overview-hero-imac {
+        background-image:url(../image/imac__ck9whsk49umq_small_2x.png)}}
+.page-overview .section-hero .image-overview-hero-mba {
+    background-image: url(../image/mba__b2y4t0hsa09y_large.png)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-hero .image-overview-hero-mba {
+        background-image:url(../image/mba__b2y4t0hsa09y_large_2x.png)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hero .image-overview-hero-mba {
+        background-image: url(../image/mba__b2y4t0hsa09y_medium.png)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-hero .image-overview-hero-mba {
+        background-image:url(../image/mba__b2y4t0hsa09y_medium_2x.png)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-hero .image-overview-hero-mba {
+        background-image: url(../image/mba__b2y4t0hsa09y_small.png)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-hero .image-overview-hero-mba {
+        background-image:url(../image/mba__b2y4t0hsa09y_small_2x.png)}}
+.page-overview .section-hero .image-overview-hero-mbp {
+    background-image: url(../image/mbp__cowts5athmfm_large.png)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-hero .image-overview-hero-mbp {
+        background-image:url(../image/mbp__cowts5athmfm_large_2x.png)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hero .image-overview-hero-mbp {
+        background-image: url(../image/mbp__cowts5athmfm_medium.png)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-hero .image-overview-hero-mbp {
+        background-image:url(../image/mbp__cowts5athmfm_medium_2x.png)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-hero .image-overview-hero-mbp {
+        background-image: url(../image/mbp__cowts5athmfm_small.png)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-hero .image-overview-hero-mbp {
+        background-image:url(../image/mbp__cowts5athmfm_small_2x.png)}}
+.page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+    background-image: url(../image/communication_safety__y023hg9ynr6y_large.jpg)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+        background-image:url(../image/communication_safety__y023hg9ynr6y_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+        background-image: url(../image/communication_safety__y023hg9ynr6y_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+        background-image:url(../image/communication_safety__y023hg9ynr6y_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+        background-image: url(../image/communication_safety__y023hg9ynr6y_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-privacy-security .grid-item-communication-safety .image-privacy-security-safety {
+        background-image:url(../image/communication_safety__y023hg9ynr6y_small_2x.jpg)}}
+.page-overview .section-privacy-security .grid-item-lockdown-mode .image-privacy-security-lockdown {
+    background-image: url(../image/lockdown__eqa9nv7zfnau_large.jpg)}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-privacy-security .grid-item-lockdown-mode .image-privacy-security-lockdown {
+        background-image:url(../image/lockdown__eqa9nv7zfnau_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-privacy-security .grid-item-lockdown-mode .image-privacy-security-lockdown {
+        background-image: url(../image/lockdown__eqa9nv7zfnau_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-privacy-security .grid-item-lockdown-mode .image-privacy-security-lockdown {
+        background-image:url(../image/lockdown__eqa9nv7zfnau_medium_2x.jpg)}}
+@media only screen and (max-width: 734px) {
+    .page-overview .section-privacy-security .grid-item-lockdown-mode .image-privacy-security-lockdown {
+        background-image: url(../image/lockdown__eqa9nv7zfnau_small.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-privacy-security .grid-item-lockdown-mode .image-privacy-security-lockdown {
+        background-image:url(../image/lockdown__eqa9nv7zfnau_small_2x.jpg)}}
+.page-overview .section-keyboard .grid-item-autocorrect .image-keyboard-autocorrect {
+    background-image: url(../image/autocorrect__fz4lcsscfvau_large.jpg);}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .page-overview .section-keyboard .grid-item-autocorrect .image-keyboard-autocorrect {
+        background-image:url(../image/autocorrect__fz4lcsscfvau_large_2x.jpg)}}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-keyboard .grid-item-autocorrect .image-keyboard-autocorrect {
+        background-image: url(../image/autocorrect__fz4lcsscfvau_medium.jpg)}}
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .page-overview .section-keyboard .grid-item-autocorrect .image-keyboard-autocorrect {
+        background-image:url(../image/autocorrect__fz4lcsscfvau_medium_2x.jpg)}}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .page-overview .section-keyboard .grid-item-autocorrect .image-keyboard-autocorrect {
+        background-image:url(../image/autocorrect__fz4lcsscfvau_small_2x.jpg)}}
+
+
+
+
+.page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+    background-image: url(../image/fading_screen_endframe__e05t4cb4zkeq_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+        background-image: url(../image/fading_screen_endframe__e05t4cb4zkeq_large_2x.jpg)
+    }
+}
+
+@supports ((-webkit-mask-image: url("")) or(mask-image: url(""))) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+        background-image: url(../image/fading_screen_endframe__e05t4cb4zkeq_large.jpg);
+        -webkit-mask-image: url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_large.png);
+        mask-image:url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_large.png)
+    }
+
+    @media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+        .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+            background-image: url(../image/fading_screen_endframe__e05t4cb4zkeq_large_2x.jpg);
+            -webkit-mask-image: url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_large_2x.png);
+            mask-image:url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_large_2x.png)
+        }
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+        background-image:url(../image/fading_screen_endframe__e05t4cb4zkeq_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+        background-image:url(../image/fading_screen_endframe__e05t4cb4zkeq_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    @supports ((-webkit-mask-image: url("")) or(mask-image: url(""))) {
+        .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+            background-image: url(../image/fading_screen_endframe__e05t4cb4zkeq_medium.jpg);
+            -webkit-mask-image: url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_medium.png);
+            mask-image:url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_medium.png)
+        }
+
+        @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+            .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+                background-image: url(../image/fading_screen_endframe__e05t4cb4zkeq_medium_2x.jpg);
+                -webkit-mask-image: url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_medium_2x.png);
+                mask-image:url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_medium_2x.png)
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+        background-image:url(../image/fading_screen_endframe__e05t4cb4zkeq_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+        background-image:url(../image/fading_screen_endframe__e05t4cb4zkeq_small_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    @supports ((-webkit-mask-image: url("")) or(mask-image: url(""))) {
+        .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+            background-image: url(../image/fading_screen_endframe__e05t4cb4zkeq_small.jpg);
+            -webkit-mask-image: url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_small.png);
+            mask-image:url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_small.png)
+        }
+
+        @media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+            .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading {
+                background-image: url(../image/fading_screen_endframe__e05t4cb4zkeq_small_2x.jpg);
+                -webkit-mask-image: url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_small_2x.png);
+                mask-image:url(/macos/sonoma/images/overview/desktop-widgets/fading_screen_endframe_mask__fe56bbnm6zau_small_2x.png)
+            }
+        }
+    }
+}
+
+.page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .start-frame {
+    background-image:url(../image/fading_screen_startframe__e4itel1u73ee_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .start-frame {
+        background-image:url(../image/fading_screen_startframe__e4itel1u73ee_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .start-frame {
+        background-image:url(../image/fading_screen_startframe__e4itel1u73ee_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .start-frame {
+        background-image:url(../image/fading_screen_startframe__e4itel1u73ee_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .start-frame {
+        background-image:url(../image/fading_screen_startframe__e4itel1u73ee_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .start-frame {
+        background-image:url(../image/fading_screen_startframe__e4itel1u73ee_small_2x.jpg)
+    }
+}
+
+.page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .end-frame {
+    background-image:url(../image/fading_screen_endframe__e05t4cb4zkeq_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .end-frame {
+        background-image:url(../image/fading_screen_endframe__e05t4cb4zkeq_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .end-frame {
+
+        background-image:url(../image/fading_screen_endframe__e05t4cb4zkeq_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .end-frame {
+        background-image:url(../image/fading_screen_endframe__e05t4cb4zkeq_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .end-frame {
+        background-image:url(../image/fading_screen_endframe__e05t4cb4zkeq_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-desktop-widgets .grid-item-fading .inline-video-fading .end-frame {
+        background-image:url(../image/fading_screen_endframe__e05t4cb4zkeq_small_2x.jpg)
+    }
+}
+
+
+
+.page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+    background-image:url(../image/swipe_to_reply_startframe__blzb5dhhau1y_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+        background-image:url(../image/swipe_to_reply_startframe__blzb5dhhau1y_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+        background-image:url(../image/swipe_to_reply_startframe__blzb5dhhau1y_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+        background-image:url(../image/swipe_to_reply_startframe__blzb5dhhau1y_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+        background-image:url(../image/swipe_to_reply_startframe__blzb5dhhau1y_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .start-frame {
+        background-image:url(../image/swipe_to_reply_startframe__blzb5dhhau1y_small_2x.jpg)
+    }
+}
+
+.page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+    background-image:url(../image/swipe_to_reply_endframe__ffv5ga48zii6_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+        background-image:url(../image/swipe_to_reply_endframe__ffv5ga48zii6_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+        background-image:url(../image/swipe_to_reply_endframe__ffv5ga48zii6_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+        background-image:url(../image/swipe_to_reply_endframe__ffv5ga48zii6_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+        background-image:url(../image/swipe_to_reply_endframe__ffv5ga48zii6_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-messages .grid-item-swipe-reply .inline-video-swipe-reply .end-frame {
+        background-image:url(../image/swipe_to_reply_endframe__ffv5ga48zii6_small_2x.jpg)
+    }
+}
+
+.page-overview .section-privacy-security .grid-item-sensitive-content .image-privacy-security-sensitive {
+    background-image: url(../image/sensitive_media__e0r68mrc77cm_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-privacy-security .grid-item-sensitive-content .image-privacy-security-sensitive {
+        background-image:url(../image/sensitive_media__e0r68mrc77cm_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-privacy-security .grid-item-sensitive-content .image-privacy-security-sensitive {
+        background-image:url(../image/sensitive_media__e0r68mrc77cm_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-privacy-security .grid-item-sensitive-content .image-privacy-security-sensitive {
+        background-image:url(../image/sensitive_media__e0r68mrc77cm_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-privacy-security .grid-item-sensitive-content .image-privacy-security-sensitive {
+        background-image:url(../image/sensitive_media__e0r68mrc77cm_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-privacy-security .grid-item-sensitive-content .image-privacy-security-sensitive {
+        background-image:url(../image/sensitive_media__e0r68mrc77cm_small_2x.jpg)
+    }
+}
+
+.page-overview .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+    background-image: url(../image/swipe_to_reply__e3sglpgnxes2_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .page-overview .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+        background-image:url(../image/swipe_to_reply__e3sglpgnxes2_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+        background-image: url(../image/swipe_to_reply__e3sglpgnxes2_medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+        background-image:url(../image/swipe_to_reply__e3sglpgnxes2_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+        background-image: url(../image/swipe_to_reply__e3sglpgnxes2_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .page-overview .section-messages .grid-item-swipe-reply .image-messages-swipe-reply {
+        background-image:url(../image/swipe_to_reply__e3sglpgnxes2_small_2x.jpg)
+    }
+}

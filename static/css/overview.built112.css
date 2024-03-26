@@ -1,0 +1,10 @@
+@media only screen and (max-width: 734px) {
+    .section-more-apps .section-content .section-button{
+    	position: relative;
+    	top: 35px;
+	}
+}
+
+.section-hero .gallery-container .gallery-item .content .hero-gallery-icon{
+	margin-bottom: -9px;
+}

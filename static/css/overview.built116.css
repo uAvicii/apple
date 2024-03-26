@@ -1,0 +1,55 @@
+/** 寸/小时 */
+.template-badge .badge-value .size{
+    font-size: 0.5em;
+}
+
+/** Fix new mac pro medium/small issue **/
+@media only screen and (max-width: 1068px) {
+    .page-overview .compare-column.product-10.compare-column-one:last-child {
+        display: block;
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .compare-column.product-10.compare-column-two:last-child {
+        display: block;
+    }
+}
+
+
+/** Fix small cel issue **/
+
+
+@media only screen and (max-width: 320px) {
+    .page-overview .compare.with-fullwidthrowheader.with-three-columns .compare-columnheader, .page-overview .compare.with-fullwidthrowheader.with-three-columns .compare-column {
+        font-size:13px;
+    }
+}
+
+
+/*remove price ,all model margin*/
+#all-models .device-content.template-item-default {
+        margin: 25px auto;
+    }
+    
+/* icon-after::after  */
+
+.icon-wrapper .icon, .icon-wrapper .more::after, .icon-wrapper .icon-before::before, .icon-wrapper .icon-after::after{position: relative;}
+
+html.hide-acmi #ac-globalfooter .ac-gf-buystrip-info-financing {
+    display:block
+}
+@media only screen and (max-width: 734px) {
+    .section-compare-table .template-dynamic-price {
+        max-width: 9em;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-compare-table .template-dynamic-price-monthly {
+        max-width: 9em;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}

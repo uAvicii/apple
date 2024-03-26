@@ -1,0 +1,20 @@
+.as-pinwheel15-section.as-pinwheel15-largetile .as-pinwheel-tileheroimage {
+    width: 100%;
+}
+.as-pinwheel15-section.as-pinwheel15-largetile .as-pinwheel-tilehero {
+    padding: 0;
+}
+
+.rc-gallery-dotnav ul li:only-child {
+    display: none;
+}
+
+.as-pinwheel-colorsection ul {
+    margin-left: 0;
+}
+
+@media only screen and (max-device-width: 736px) and (max-width: 1023px) {
+    .as-pinwheel.as-pinwheel14:not(.as-pinwheel-isfooterlinkpresent) {
+        padding-bottom: 34px;
+    }
+}

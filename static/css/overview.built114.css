@@ -1,0 +1,152 @@
+.typography-overview-features-headline {
+    padding-left: .5em;
+}
+
+.section-wireless .geo-alt.subsection-wifi .row-caption {
+    position: absolute;
+    width: 220px;
+    z-index: 10;
+    transform-origin: top right;
+    top: 96%;
+    right:53%
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-wireless .geo-alt.subsection-wifi .row-caption {
+        top: 103%;
+        right:48%
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-wireless .geo-alt.subsection-wifi .row-caption {
+        right:25%
+    }
+}
+
+html.enhanced .section-wireless .geo-alt.subsection-wifi .row-caption {
+    bottom: unset;
+    top: unset;
+    right: unset;
+    left: unset;
+    top: 86%;
+    right:108%
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-wireless .geo-alt.subsection-wifi .row-caption {
+        bottom: unset;
+        top: unset;
+        right: unset;
+        left: unset;
+        top: 87%;
+        left: -18%;
+        transform-origin:top left
+    }
+}
+
+br.br-for-xsmall {
+    display: none;
+}
+@media only screen and (max-width: 320px) {
+    br.br-for-xsmall {
+        display: block;
+    }
+}
+
+html.no-enhanced .section-wireless .subsection-5g .picture-wrapper-base {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 1176px;
+    --p-height: 1205px;
+    margin-top: -259px;
+    margin-left: 27px;
+    margin-bottom: 190px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    html.no-enhanced .section-wireless .subsection-5g .picture-wrapper-base {
+        --p-width:928px;
+        --p-height: 970px
+    }
+}
+
+@media only screen and (max-width: 734px)and (max-width:734px) {
+    html.no-enhanced .section-wireless .subsection-5g .picture-wrapper-base {
+        --p-width:616px;
+        --p-height: 652px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-wireless .subsection-5g .picture-wrapper-base {
+        margin-top:-4px;
+        margin-left: -95px;
+        margin-bottom: 110px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-wireless .subsection-5g .picture-wrapper-base {
+        left:50%;
+        margin-left: -323px;
+        position: relative;
+        margin-top: 50px;
+        margin-bottom: 90px
+    }
+}
+
+html.no-enhanced .section-wireless .subsection-wifi .picture-wrapper-base {
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 1150px;
+    --p-height: 1321px;
+    margin-top: -130px;
+    margin-left: 25px
+}
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    html.no-enhanced .section-wireless .subsection-wifi .picture-wrapper-base {
+        --p-width:792px;
+        --p-height: 1038px
+    }
+}
+
+@media only screen and (max-width: 734px)and (max-width:734px) {
+    html.no-enhanced .section-wireless .subsection-wifi .picture-wrapper-base {
+        --p-width:474px;
+        --p-height: 677px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-enhanced .section-wireless .subsection-wifi .picture-wrapper-base {
+        margin-top:40px;
+        margin-left: -90px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-wireless .subsection-wifi .picture-wrapper-base {
+        left:50%;
+        margin-left: -219px;
+        position: relative;
+        margin-top: 50px;
+        margin-bottom: 10px
+    }
+}
+
+html[data-segment-code="internal-epp-discounted"].hide-acmi #ac-globalfooter .ac-gf-buystrip-info-financing {
+    display: block;
+}
+
+html[data-segment-code]:not([data-segment-code="internal-epp-discounted"]) .ribbon-bts-2023 {
+    display: block !important
+}
+
+html[data-segment-code]:not([data-segment-code="internal-epp-discounted"]) .ac-gf-sosumi ul.additional-sosumi {
+    display: block !important
+}
+

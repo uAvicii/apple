@@ -1,0 +1,33 @@
+.rc-gallery-dotnav ul li:only-child {
+    display: none;
+}
+
+.rs-alp-categories + .as-footnotes {
+    margin-top: 74px;
+}
+
+.as-pinwheel14 + .rs-alp-categories {
+    margin-top: 80px;
+}
+
+@media only screen and (max-device-width: 736px) and (max-width: 1023px) {
+    .rs-alp-categories + .as-footnotes {
+        margin-top: 60px;
+    }
+
+    .as-pinwheel14 + .rs-alp-categories {
+        margin-top: 39px;
+    }
+
+    .as-pinwheel.as-pinwheel14:not(.as-pinwheel-isfooterlinkpresent) {
+        padding-bottom: 34px;
+    }
+}
+
+.as-pinwheel-colorgallery ul.color-gallery {
+    margin: 0;
+}
+
+.as-pinwheel15-section .as-pinwheel-colorimage {
+    margin: 0 2px;
+}

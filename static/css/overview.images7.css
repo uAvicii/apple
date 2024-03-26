@@ -1,0 +1,170 @@
+/* Holiday */
+
+.section-holiday-2021 .section-content .holiday-2021 .holiday-2021-image {
+    background-image: url(../image/aos_holiday_airpods_family_hero__bhtbaf0f1qpe_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-holiday-2021 .section-content .holiday-2021 .holiday-2021-image {
+        background-image:url(../image/aos_holiday_airpods_family_hero__bhtbaf0f1qpe_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-holiday-2021 .section-content .holiday-2021 .holiday-2021-image {
+        background-image:url(../image/aos_holiday_airpods_family_hero__bhtbaf0f1qpe_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-holiday-2021 .section-content .holiday-2021 .holiday-2021-image {
+        background-image:url(../image/aos_holiday_airpods_family_hero__bhtbaf0f1qpe_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-holiday-2021 .section-content .holiday-2021 .holiday-2021-image {
+        background-image:url(../image/aos_holiday_airpods_family_hero__bhtbaf0f1qpe_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-holiday-2021 .section-content .holiday-2021 .holiday-2021-image {
+        background-image:url(../image/aos_holiday_airpods_family_hero__bhtbaf0f1qpe_small_2x.jpg)
+    }
+}
+
+/* valentines section start */
+.section-vday-2023 .section-content .vday-2023-image {
+    background-image: url("../image/val23_airpods_familypage__d8l1d9vh2ru6_large.png");
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-vday-2023 .section-content .vday-2023-image {
+        background-image:url("../image/val23_airpods_familypage__d8l1d9vh2ru6_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-vday-2023 .section-content .vday-2023-image {
+        background-image:url("../image/val23_airpods_familypage__d8l1d9vh2ru6_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-vday-2023 .section-content .vday-2023-image {
+        background-image:url("../image/val23_airpods_familypage__d8l1d9vh2ru6_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-vday-2023 .section-content .vday-2023-image {
+        background-image:url("../image/val23_airpods_familypage__d8l1d9vh2ru6_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-vday-2023 .section-content .vday-2023-image {
+        background-image:url("../image/val23_airpods_familypage__d8l1d9vh2ru6_small_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-cny-2023 .section-content .cny-2023-content-headline {
+        font-size: 30px;
+    }
+}
+/* valentines section end */
+
+/*mothers-day-2023-image*/
+.banner-mothers-day-2023 .mothers-day-2023-image {
+
+    background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .banner-mothers-day-2023 .mothers-day-2023-image {
+        background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .banner-mothers-day-2023 .mothers-day-2023-image {
+
+        background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .banner-mothers-day-2023 .mothers-day-2023-image {
+        background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .banner-mothers-day-2023 .mothers-day-2023-image {
+ 
+        background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .banner-mothers-day-2023 .mothers-day-2023-image {
+        background-image: url("../image/md23_fampage_banner__cx7zup1dw56q_small_2x.png")
+    }
+}
+
+/* se-airpods */
+.airpods-family-page.banner-cny-2024 .cny-2024-image-se {
+    width: 391px;
+    height: 430px;
+    background-size: 391px 430px;
+    background-repeat: no-repeat;
+    background-image: url("../image/fpbanner_se_airpods__cnyvmgzu849y_large1.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .airpods-family-page.banner-cny-2024 .cny-2024-image-se {
+        background-image: url("../image/fpbanner_se_airpods__cnyvmgzu849y_large_2x1.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .airpods-family-page.banner-cny-2024 .cny-2024-image-se {
+        width: 254px;
+        height: 276px;
+        background-size: 254px 276px;
+        background-repeat: no-repeat;
+        background-image: url("../image/fpbanner_se_airpods__cnyvmgzu849y_medium1.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .airpods-family-page.banner-cny-2024 .cny-2024-image-se {
+        background-image: url("../image/fpbanner_se_airpods__cnyvmgzu849y_medium_2x1.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .airpods-family-page.banner-cny-2024 .cny-2024-image-se {
+        width: 235px;
+        height: 256px;
+        background-size: 235px 256px;
+        background-repeat: no-repeat;
+        background-image: url("../image/fpbanner_se_airpods__cnyvmgzu849y_small1.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .airpods-family-page.banner-cny-2024 .cny-2024-image-se {
+        background-image: url("../image/fpbanner_se_airpods__cnyvmgzu849y_small_2x1.png")
+    }
+}
+

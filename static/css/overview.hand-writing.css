@@ -1,0 +1,255 @@
+.section-powerful .section-header .overview-design-powerful-headline img {
+    --p-width: 227px;
+    --p-height:68px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .section-powerful .section-header .overview-design-powerful-headline img {
+        --p-width: 182px;
+        --p-height:55px
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .section-powerful .section-header .overview-design-powerful-headline img {
+        --p-width: 136px;
+        --p-height:41px
+    }
+}
+.section-powerful .section-header .section-headline-script.has-descenders {
+    bottom: -7px;
+    left:2px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-powerful .section-header .section-headline-script.has-descenders {
+        bottom:-5px;
+        left:1px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-powerful .section-header .section-headline-script.has-descenders {
+        bottom: -4px;
+        left:1px
+    }
+}
+.section-download .overview-design-download-headline img {
+    --p-width: 221px;
+    --p-height:76px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .section-download .overview-design-download-headline img {
+        --p-width: 177px;
+        --p-height:61px
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .section-download .overview-design-download-headline img {
+        --p-width: 133px;
+        --p-height:46px
+    }
+}
+.section-download .section-headline-script{
+        bottom:-8px
+}
+@media only screen and (max-width: 1068px) {
+    .section-download .section-headline-script {
+        bottom:-8px;
+        left:-2px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+   .section-download .section-headline-script {
+        bottom:-6px;
+        left:-1px
+    }
+}
+.section-essentials .section-header .overview-essentials-essentials-headline img {
+    --p-width: 228px;
+    --p-height:70px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .section-essentials .section-header .overview-essentials-essentials-headline img {
+        --p-width: 182px;
+        --p-height:56px
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .section-essentials .section-header .overview-essentials-essentials-headline img {
+        --p-width: 137px;
+        --p-height:42px
+    }
+}
+
+.section-essentials .section-header .section-headline-script {
+    bottom: -6px;
+    left:4px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-essentials .section-header .section-headline-script {
+        bottom:-4px;
+        left: 4px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-essentials .section-header .section-headline-script {
+        bottom:-3px;
+        left: 2px
+    }
+}
+.section-apps .section-header .overview-apps-apps-headline img {
+    --p-width: 145px;
+    --p-height:82px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .section-apps .section-header .overview-apps-apps-headline img {
+        --p-width: 118px;
+        --p-height:68px
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .section-apps .section-header .overview-apps-apps-headline img {
+        --p-width: 90px;
+        --p-height:51px
+    }
+}
+.section-apps .section-header .section-headline-script {
+        bottom:-6px;
+    }
+@media only screen and (max-width: 1068px) {
+    .section-apps .section-header .section-headline-script {
+        left:-3px
+        bottom:-8px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-apps .section-header .section-headline-script {
+        left:0;
+        bottom: -4px
+    }
+}
+
+/* camera */
+.section-camera .overview-camera-camera-headline img {
+    --p-width: 223px;
+    --p-height:74px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .section-camera .overview-camera-camera-headline img {
+        --p-width: 182px;
+        --p-height:60px
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .section-camera .overview-camera-camera-headline img {
+        --p-width: 135px;
+        --p-height:45px
+    }
+}
+.section-camera .section-headline-script {
+    bottom: -11px;
+    left:3px;
+}
+@media only screen and (max-width: 1068px) {
+    .section-camera .section-headline-script {
+		bottom: -8px;
+		left:2px;
+}
+}
+@media only screen and (max-width: 734px) {
+    .section-camera .section-headline-script {
+		bottom: -8px;
+		left:1px;
+}
+}
+/* design */
+
+.section-design .section-header .overview-design-design-headline img {
+    --p-width: 156px;
+    --p-height:77px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .section-design .section-header .overview-design-design-headline img {
+        --p-width: 127px;
+        --p-height:63px
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .section-design .section-header .overview-design-design-headline img {
+        --p-width: 94px;
+        --p-height:47px
+    }
+}
+
+.section-design .section-header .section-headline-script.has-descenders {
+    bottom: 2px;
+    left:-22px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .section-header .section-headline-script.has-descenders {
+        bottom: 2px;
+        left:-19px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .section-header .section-headline-script.has-descenders {
+        bottom: 2px;
+        margin-top: -20px;
+        left:-12px;
+    }
+}
+
+/* ipados */
+
+.section-ipados .overview-ipados-ipados-headline img {
+    --p-width: 259px;
+    --p-height:72px
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .section-ipados .overview-ipados-ipados-headline img {
+        --p-width: 212px;
+        --p-height:59px
+    }
+}
+
+@media only screen and (max-width: 734px) and (max-width: 734px) {
+    .section-ipados .overview-ipados-ipados-headline img {
+        --p-width: 167px;
+        --p-height:45px
+    }
+}
+.section-ipados .section-headline-script {
+    bottom: -12px;
+    left:-4px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipados .section-headline-script {
+        bottom:-9px;
+        left:-5px;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-ipados .section-headline-script {
+        bottom:-7px;
+        left:-6px;
+    }
+}

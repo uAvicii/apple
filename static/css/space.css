@@ -1,0 +1,115 @@
+.section-health-and-safety .card-wellness .card-headline {
+    max-width: 5.4em;
+}
+
+.modal .gradient-text {
+    display: block;
+}
+
+.modal .badge-value {
+    min-width: 50%;
+}
+
+html[lang=zh-CN] br.l-small, html[lang=zh-CN] br.m-small, html[lang=zh-CN] br.s-small {
+    display: none;
+}
+
+.modal .badge-value.breadth-l {
+    min-width: 374px;
+}
+
+.modal .badge-value.breadth-m {
+    min-width: 310px;
+}
+
+.modal .badge-value.breadth-s {
+    min-width: 260px;
+}
+
+.font-small {
+    font-size: 42px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal .badge-value.breadth-l {
+        min-width: 258px;
+    }
+    .modal .badge-value.breadth-m {
+        min-width: 220px;
+    }
+    .modal .badge-value.breadth-s {
+        min-width: 140px;
+    }
+    .modal .badge-content {
+        align-items: center;
+    }
+    .font-small {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal .badge-value.breadth-l {
+        min-width: 218px;
+    }
+    .font-small {
+        font-size: 17px;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .modal .badge-value.breadth-l {
+        min-width: 136px;
+    }
+
+    .modal .badge-value.l154.breadth-l {
+        min-width: 158px;
+    }
+    
+    .modal .badge-value.breadth-m {
+        min-width: 152px;
+    }
+
+    .modal .badge-value.breadth-s {
+        min-width: 124px;
+    }
+
+    html[lang=zh-CN] br.l-small {
+        display: block;
+    }
+
+    html[lang=zh-CN] .badge-caption br.small-show.no {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    html[lang=zh-CN] br.m-small {
+        display: block;
+    }
+    .modal-trigger {
+        font-size: 26px;
+    }
+}
+
+
+@media only screen and (max-width: 320px) {
+
+    .modal .badge-value.breadth-m {
+        min-width: 120px;
+    }
+    .modal .badge-value.breadth-s {
+        min-width: 96px;
+    }
+    html[lang=zh-CN] br.s-small {
+        display: block;
+    }
+    html[lang=zh-CN] .intro br.small-show.no {
+        display: none;
+    }
+
+    .intro .no.nowrap {
+        display: inline;
+        white-space: initial;
+    }
+}

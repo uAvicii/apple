@@ -1,0 +1,67 @@
+body:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size:14px;
+}
+h2{
+	font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	 font-size:24px;
+}
+h3{
+	 font-size:18px;
+	 line-height: 1.3em;
+	 margin-bottom: 10px;
+}
+
+
+table { border: 1px solid #fff; border-collapse: separate; margin-bottom: 20px; width: 980px;}
+table tr th, table tr td { font-size: 12px; line-height: 20px; background-color: #fff; padding: 10px 8px; border-right: 1px solid #626262; color: #000;}
+table tr.header th{ font-size:14px; line-height:22px; padding: 13px 0 13px 12px;}
+table tr th.choose, table tr td.choose{  text-align: center; padding:0px;}
+table tr td.choose{ vertical-align: middle;}
+table tr th.right.choose{ padding:0 6px;}
+
+#maininfor {width:980px; overflow: hidden;}
+table tr td a{word-wrap: break-word; }
+
+table.tabal_1 tr th.left div{ width:70px;}
+table.tabal_1 tr th.url div{ width:125px;}
+table.tabal_1 tr th.name div{ width:75px;}
+table.tabal_1 tr th.phone div{ width:100px;}
+table.tabal_1 tr th.choose div, table.tabal_1 tr td.choose div{width:50px;}
+table.tabal_1 tr th.choose div.iphone, table.tabal_1 tr td.choose div.iphone{width:54px;}
+table.tabal_1 tr th.choose div.homepod, table.tabal_1 tr td.choose div.homepod{width:76px;}
+table.tabal_1 tr th.choose div.airpods, table.tabal_1 tr td.choose div.airpods{width:64px;}
+table.tabal_2 tr th.left div{ width:80px;}
+table.tabal_2 tr th.url div{ width:115px;}
+table.tabal_2 tr th.name div{ width:75px;}
+table.tabal_2 tr th.phone div{ width:100px;}
+table.tabal_2 tr th.choose div, table.tabal_2 tr td.choose div{width:50px;}
+table.tabal_2 tr th.choose div.iphone, table.tabal_2 tr td.choose div.iphone{width:54px;}
+table.tabal_2 tr th.choose div.homepod, table.tabal_2 tr td.choose div.homepod{width:76px;}
+table.tabal_2 tr th.choose div.airpods, table.tabal_2 tr td.choose div.airpods{width:64px;}
+table.tabal_3 tr th.left div{ width:120px;}
+table.tabal_3 tr th.name div{ width:154px;}
+table.tabal_3 tr th.phone div{ width:108px;}
+table.tabal_3 tr th.choose div, table.tabal_3 tr td.choose div{width:50px;}
+table.tabal_3 tr th.choose div.iphone, table.tabal_3 tr td.choose div.iphone{width:54px;}
+table.tabal_3 tr th.choose div.homepod, table.tabal_3 tr td.choose div.homepod{width:76px;}
+table.tabal_3 tr th.choose div.airpods, table.tabal_3 tr td.choose div.airpods{width:64px;}
+
+table tbody tr th, table tbody tr td { border-bottom:1px solid #dadada;}
+table tbody tr.last th, table tbody tr.last td { border-bottom: 0; }
+table thead tr th{ border-bottom: 1px solid #626262;}
+table thead tr th.left {border-left: 0; }
+table tbody tr th{ border-left: 0; }
+table tbody tr td.right, table thead tr th.right { border-right: 0; }
+table tr th{ color: #000; font-weight: bold;  font-size:13px;}
+table thead tr th { background: #f4f4f4; }
+table tbody tr th { background: #f4f4f4; }
+table tbody tr.even th { background: #e6e6e6; }
+table tr.even th,  table tr.even td { background-color: #f4f4f4; }
+.circle{
+			width:9px;
+			height:9px;
+            display: inline-block;
+			background:black;
+			border-radius: 50%;
+		}

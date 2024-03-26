@@ -1,0 +1,371 @@
+/*fix icon positin down*/
+.icon-wrapper .icon,.icon-wrapper .more::after,.icon-wrapper .icon-before::before,.icon-wrapper .icon-after::after {
+    position: relative;
+}
+
+
+/* fix hey-siri-dinner cut on small*/
+@media only screen and (max-width: 734px){
+	.section-intercom .intercom .intercom-utterances .hey-siri-dinner{
+		top: -20px
+	}
+}
+
+/*fix siri no width*/
+.section-hero .hero-callouts{
+	min-width: 100%;
+}
+
+.section-sound .header-container{
+	min-width: 100%;
+}
+
+/*fix siri assistant positin on small*/
+@media only screen and (max-width: 734px){
+	.section-assistant .header-container{
+		align-items: baseline;
+	}
+}
+
+/*fix siri assistant positin on small*/
+.section-intercom .intercom .intercom-pictures .hey-siri-game{
+	left: 196px;
+}
+
+.section-intercom .intercom .intercom-pictures .hey-siri-dinner{
+	left: 210px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-intercom .intercom .intercom-pictures .hey-siri-game {
+        left: -29px;
+    }
+
+    .section-intercom .intercom .intercom-pictures .hey-siri-dinner{
+		left: -29px;
+	}
+}
+
+.color-grey{
+	color: #86868b!important;
+}
+
+/* Localized images size */
+.sound-devices .overview-sound-connectivity {
+    width: 1050px;
+    height: 407px;
+    left: 55%;
+}
+
+@media only screen and (max-width: 1068px) {
+    .sound-devices .overview-sound-connectivity {
+        width: 771px;
+        height:299px;
+        left: 55%;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .sound-devices .overview-sound-connectivity {
+        width: 341px;
+        height:133px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .sound-devices .overview-sound-connectivity {
+        left: 60%;
+        margin-bottom: 20px
+    }
+}
+
+/* wechat fix AR  start*/
+
+html.wechat-fix .quicklook-component {
+    display:none
+}
+
+
+html.wechat-fix .section-router .router-tiles .router.router-ar .column-copy .ar-copy{
+    display: block;
+}
+
+html.wechat-fix.quicklook-classic .quicklook-component.quicklook-cta-classic {
+    display:none
+}
+
+html.wechat-fix.quicklook-classic .quicklook-component.quicklook-cta-modern {
+    display:none
+}
+
+html.wechat-fix.quicklook-modern .quicklook-component.quicklook-cta-classic {
+    display:none
+}
+
+html.wechat-fix.quicklook-modern .quicklook-component.quicklook-cta-modern {
+    display:none
+}
+
+/*wechat fix AR end*/
+
+@media only screen and (max-width: 734px){
+    .modal-standard .content-padding .modal-callout-copy{
+        width: 90%;
+    }
+}
+
+html.no-js .section-sound .modal-homepod-content .modal-callout-copy{
+    width: 90%;
+}
+
+
+/*fix Intelligent assistant content short for no js*/
+@media only screen and (max-width: 734px) {
+    html.no-js .section-assistant .sticky-wrapper {
+        top: 411px;
+    }
+}
+
+
+/* qqmusic and neteasecloud and kugoumusic */
+.section-assistant .hey-siri-phrases .overview-icon-qqmusic {
+    display: block;
+    width: 76px;
+    height: 76px;
+    position: relative;
+    left: 50%;
+    margin-left:-38px
+}
+
+@media only screen and (max-width: 734px) {
+    .section-assistant .hey-siri-phrases .overview-icon-qqmusic {
+        display: block;
+        width: 58px;
+        height:58px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-assistant .hey-siri-phrases .overview-icon-qqmusic {
+        left: 50%;
+        margin-left:-29px
+    }
+}
+
+.section-assistant .hey-siri-phrases .overview-icon-neteasecloud {
+    display: block;
+    width: 76px;
+    height: 76px;
+    position: relative;
+    left: 50%;
+    margin-left:-38px
+}
+
+@media only screen and (max-width: 734px) {
+    .section-assistant .hey-siri-phrases .overview-icon-neteasecloud {
+        display: block;
+        width: 58px;
+        height:58px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-assistant .hey-siri-phrases .overview-icon-neteasecloud {
+        left: 50%;
+        margin-left:-29px
+    }
+}
+
+.section-assistant .hey-siri-phrases .overview-icon-kugoumusic {
+    display: block;
+    width: 76px;
+    height: 76px;
+    position: relative;
+    left: 50%;
+    margin-left:-38px
+}
+
+@media only screen and (max-width: 734px) {
+    .section-assistant .hey-siri-phrases .overview-icon-kugoumusic {
+        display: block;
+        width: 58px;
+        height:58px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-assistant .hey-siri-phrases .overview-icon-kugoumusic {
+        left: 50%;
+        margin-left:-29px
+    }
+}
+
+
+/*  20211011 update  */
+.section-intercom .intercom .intercom-pictures .room-label.kids-room-label-position {
+    left:16px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-intercom .intercom .intercom-pictures .room-label.kids-room-label-position {
+        left:12px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-intercom .intercom .intercom-pictures .room-label.kids-room-label-position {
+        left: 5px;
+    }
+}
+
+.section-intercom .intercom .intercom-pictures .room-label.bedroom-label-position {
+    left: 22px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-intercom .intercom .intercom-pictures .room-label.bedroom-label-position {
+        left:18px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-intercom .intercom .intercom-pictures .room-label.bedroom-label-position {
+        left:10px
+    }
+}
+
+.section-intercom .intercom .intercom-pictures .room-label.den-label-position {
+    left:16px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-intercom .intercom .intercom-pictures .room-label.den-label-position {
+        left: 14px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-intercom .intercom .intercom-pictures .room-label.den-label-position {
+        left:9px
+    }
+}
+
+.section-intercom .intercom .intercom-pictures .room-label.livingroom-label-position {
+    left: 19px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-intercom .intercom .intercom-pictures .room-label.livingroom-label-position {
+        left:17px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-intercom .intercom .intercom-pictures .room-label.livingroom-label-position {
+        left:27px
+    }
+}
+/*  20211011 update end  */
+
+
+/*fix siri no width*/
+@media only screen and (max-width: 320px) {
+    .section-hero .hero-bottom {
+        display: block;
+    }
+}
+
+/*  fixed watch the film position for only MOW start  */
+.section-hero .hero-container-pictures {
+    position: relative;
+    width: 100%;
+    margin-top: -370px;
+    margin-bottom: 35px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .hero-container-pictures {
+        margin-top: -200px;
+        margin-bottom:124px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .hero-container-pictures {
+        margin-top: -16vw;
+        margin-bottom: 35px;
+        --action-bar-height: 64px;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction:column
+    }
+}
+/*  fixed watch the film position for only MOW end  */
+
+/* font weight 600 start */
+.typography-homepod-headline {
+    font-weight: 600;
+    
+}
+
+.typography-hero-callout {
+    font-weight: 600;    
+}
+
+.typography-hero-intro {
+    font-weight: 600;    
+}
+
+.typography-hero-price {
+    font-weight: 600;    
+}
+
+.typography-homepod-title {
+    font-weight: 600;    
+}
+
+.typography-homepod-headline-reduced {
+    font-weight: 600;    
+}
+
+.typography-carplay-headline {
+    font-weight: 600;    
+}
+
+.typography-heysiri-intercom {
+    font-weight: 600;    
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-router-ar-headline {
+        font-weight: 600;        
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-router-promo-headline {
+        font-weight: 600;        
+    }
+}
+/* font weight 600 end */
+
+.section-router .router.router-promo-small{
+    display:none
+}
+@media only screen and (max-width: 734px) {
+    .section-router .router.router-promo-small{
+    display:block
+    }
+    .section-router .router.router-promo-large{
+     display:none
+   }
+   }
+
+/* Small study */
+@media only screen and (max-width: 734px) {
+    .section-intercom .intercom .intercom-pictures .room-label.den-label-position {
+        left: 5.4px;
+    }
+}

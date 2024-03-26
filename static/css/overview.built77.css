@@ -1,0 +1,15 @@
+.section-hero .intro-wrapper .pro-display-xdr-wrapper .intro {
+    max-width: 377px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .intro-wrapper .pro-display-xdr-wrapper .intro {
+        max-width: 300px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .intro-wrapper .pro-display-xdr-wrapper .intro {
+        max-width:342px
+    }
+}

@@ -1,0 +1,31 @@
+.section-holiday-2021 .tile-holiday-2021-image {
+    background-image:url(../image/aos_holiday_homepod_family_hero__bkw4iezrjur6_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-holiday-2021 .tile-holiday-2021-image {
+        background-image:url(../image/aos_holiday_homepod_family_hero__bkw4iezrjur6_large_2x.jpg)
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-holiday-2021 .tile-holiday-2021-image {
+        background-image:url(../image/aos_holiday_homepod_family_hero__bkw4iezrjur6_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-holiday-2021 .tile-holiday-2021-image {
+        background-image:url(../image/aos_holiday_homepod_family_hero__bkw4iezrjur6_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-holiday-2021 .tile-holiday-2021-image {
+        background-image:url(../image/aos_holiday_homepod_family_hero__bkw4iezrjur6_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-holiday-2021 .tile-holiday-2021-image {
+        background-image:url(../image/aos_holiday_homepod_family_hero__bkw4iezrjur6_small_2x.jpg)
+  }}

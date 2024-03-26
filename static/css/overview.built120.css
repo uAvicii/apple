@@ -1,0 +1,159 @@
+.section-phone .grid-item-personalize .image-overview-phone-personalize {
+    margin-top: -63px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-phone .grid-item-personalize .image-overview-phone-personalize {
+        margin-top: -55px;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-phone .grid-item-personalize .image-overview-phone-personalize {
+        margin-top: 0;
+    }
+}
+.tile-body-blockquote-fullbleed-large .asset-content {
+    grid-column-start: 1;
+}
+html.enhanced .section-airdrop .grid-item-contact-info .tile-header{
+    padding-bottom: 0px;
+}
+
+.section-facetime .grid-item-video-message .tile-body {
+    padding-top: 30px;
+}
+@media only screen and (max-width: 734px) {
+.section-facetime .grid-item-video-message .tile-body {
+    padding-top: 44px;
+    padding-right: 7px;
+
+    }
+}
+.section-safari-passwords .grid-item-mute .tile-blockquote {
+    padding:43px 140px 32px
+}
+
+@media only screen and (min-width: 735px) {
+    .section-safari-passwords .grid-item-mute .tile-blockquote {
+        text-align: center;
+    
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-safari-passwords .grid-item-mute .tile-blockquote {
+        padding-left: 0;
+        padding-right:0
+    }
+}
+.alts-search p{
+    text-align: left;
+    margin-top: 20px;
+
+}
+html.enhanced .section-airdrop .grid-item-contact-info .image-overview-airdrop-contact-info{
+    display: block 
+}
+@media only screen and (min-width: 1069px) {
+    .section-phone .grid-item-personalize .tile-blockquote {
+        max-width: 360px;
+    }
+}
+@media only screen and (min-width: 1069px) {
+    .grid-item-health-app .tile-blockquote {
+        max-width: 440px;
+    }
+}
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+    .grid-item-health-app .tile-blockquote {
+        min-width: 280px;
+    }
+}
+
+/*手机对手机自适应*/
+.section-airdrop .grid-item-contact-info .image-overview-airdrop-contact-info {
+    position: relative;
+    left: 50%;
+    margin-left: -695px;
+
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-airdrop .grid-item-contact-info .image-overview-airdrop-contact-info {
+        left: 50%;
+        margin-left:-514px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-airdrop .grid-item-contact-info .image-overview-airdrop-contact-info {
+        left: 0%;
+        margin-left:-240px
+    }
+}
+/*end */
+
+/* FaceTime start */
+
+@media only screen and (min-width: 735px) {
+    .section-facetime .grid-item-video-message .asset-content {
+        grid-column-start: 1;
+        grid-column-end: 13;
+    }
+}
+
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+    .section-facetime .grid-item-video-message .asset-content {
+        grid-column-start: 1;
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-facetime .grid-item-video-message .asset-content {
+        margin-top: 0px;
+        margin-left: -5px;
+        margin-bottom: 57px;
+    }
+}
+
+@media only screen and (max-width:734px){
+    .section-facetime .grid-item-video-message .asset-content {
+    margin-left: -22px;
+}}
+/* FaceTime end */
+
+/* 贴纸百宝箱 */
+.overview-messages-all-stickers {
+    max-width: 100%!important;
+}
+@media only screen and (max-width: 734px) {
+    .overview-messages-all-stickers {
+        max-width: unset!important;
+    }
+}
+
+.section-messages .grid-item-stickers .overview-messages-all-stickers {
+    width: 700px;
+    height: 676px;
+    background-size: 700px 676px;
+    background-repeat: no-repeat;
+    background-position: center 
+
+}
+@media only screen and (max-width: 1068px) {
+    .section-messages .grid-item-stickers .overview-messages-all-stickers {
+        width: 504px;
+        height: 443px;
+        background-size: 504px 443px;
+        background-repeat: no-repeat;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-messages .grid-item-stickers .overview-messages-all-stickers {
+        width: 100%;
+        max-width: 437px;
+        height: auto;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}

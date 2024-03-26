@@ -1,0 +1,36 @@
+.image-hero {
+    background-image: url(https://www.apple.com.cn/apple-watch-nike/images/overview/hero/hero__geynoebgcl2e_large.jpg);
+}
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .image-hero {
+        background-image:url(https://www.apple.com.cn/apple-watch-nike/images/overview/hero/hero__geynoebgcl2e_large_2x.jpg)
+    }
+}
+
+
+@media only screen and (max-width: 1068px) {
+    .image-hero {
+        background-image: url(https://www.apple.com.cn/apple-watch-nike/images/overview/hero/hero__geynoebgcl2e_medium.jpg);
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-hero {
+        background-image:url(https://www.apple.com.cn/apple-watch-nike/images/overview/hero/hero__geynoebgcl2e_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .image-hero {
+        background-image: url(https://www.apple.com.cn/apple-watch-nike/images/overview/hero/hero__geynoebgcl2e_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-hero {
+        background-image:url(https://www.apple.com.cn/apple-watch-nike/images/overview/hero/hero__geynoebgcl2e_small_2x.jpg)
+    }
+}
+
+
+
+

@@ -1,0 +1,120 @@
+.connection-area .grid-2-col {
+    justify-content: start;
+}
+
+@media only screen and (max-width: 1068px) {
+    .connection-area .grid-2-col {
+        grid-column-gap: 80px;
+    }
+}
+
+.connections-list {
+    justify-content: flex-start;
+}
+
+.l2-chip .spec-1 .typography-site-stat-caption {
+    width: 328px;
+}
+
+.l2-chip .spec-3 .typography-site-stat-caption {
+    width: 343px;
+}
+
+/* Fix A17 Pro */
+
+.subsection-chip .viewport-content .column-3-col {
+    flex-basis: 35.3333333333%;
+    max-width: 35.3333333333%;
+}
+
+@media only screen and (max-width: 1068px) {
+    .subsection-chip .viewport-content .column-3-col {
+        flex-basis: 41.33%;
+        max-width: 41.33%;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .subsection-chip .viewport-content .column-3-col {
+        flex-basis: 58.33%;
+        max-width: 58.33%;
+    }
+}
+
+.subsection-battery .stat-wrapper {
+    max-width: 320px;
+}
+
+@media only screen and (max-width: 734px) {
+    .subsection-battery .stat-wrapper {
+        max-width:none
+    }
+}
+
+
+/* Brand feedback */
+.l2-section-spatial .badge-reduced.badge-neutral.badge-environment {
+	font-size: 14px;
+}
+/* Brand feedback */
+
+
+.headline-center-pro{
+    position: absolute;
+}
+
+@media only screen and (max-width: 734px) {
+    .headline-center-pro{
+    position: initial;
+}
+}
+
+/* Design */
+#overview-design-design-titanium-endframe-1 {
+    opacity: 1;
+}
+
+/* write feedback */
+.subsection-usb-c .spacing-copy-after-img div:last-of-type a {
+	color: #f5f5f7;
+}
+/* write feedback */
+
+/* Safety */
+@media only screen and (max-width: 734px) {
+	.safety-l2-wrapper .l2-template-container{
+		padding-bottom: 100px;
+	}
+}
+
+/* 5x-zoom */
+#overview-5x-zoom-tetraprism-endframe-1 {
+    opacity: 1;
+}
+
+
+
+html[data-segment-code="eduind"] .adv-wrapper {
+    --globalmessage-segment-background: rgb(22, 22, 23);
+    --globalmessage-segment-scrim-background: rgba(255, 255, 255, .08);
+    --globalmessage-segment-text-color: rgba(255, 255, 255, .92);
+    --globalmessage-segment-border-color: rgba(255, 255, 255, .4)
+}
+.availability.typography-cta.avail-message{
+    color: #86868b;
+    font-weight: 600;
+}
+/* layout */
+.card.card-padding.background-alt {
+	width: 312px;
+}
+/* layout */
+/* 5G */
+.new-top {
+    margin-top: 18px !important;
+}
+/* 5g */
+
+.subsection-usb-c .column .typography-site-body.cn-alts {
+    margin-top: var(--sk-paragraph-plus-element-margin,0.8em);
+}

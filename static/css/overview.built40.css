@@ -1,0 +1,7 @@
+
+/* iphone XS start*/
+.small-caps {
+    font-feature-settings: "smcp", "c2sc";
+    font-variant-caps:all-small-caps
+}
+/* iphone XS end*/

@@ -1,0 +1,282 @@
+
+.section-ecosystem .icon-iphone .icon-wrapper {
+    margin-left: 60px;
+}
+
+.section-ecosystem .icon-mac .icon-wrapper {
+    margin-right: 60px;
+}
+
+.section-ecosystem .icon-ipad .icon-wrapper {
+    margin-left: 60px;
+    margin-right: 120px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-ecosystem .icon-iphone .icon-wrapper {
+    	margin-left: 39px;
+	}
+
+	.section-ecosystem .icon-mac .icon-wrapper {
+    	margin-right: 39px;
+	}
+
+	.section-ecosystem .icon-ipad .icon-wrapper {
+    	margin-left: 78px;
+    	margin-right: 78px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-ecosystem .icon-iphone .icon-wrapper {
+    	margin-left: 0;
+	}
+
+	.section-ecosystem .icon-mac .icon-wrapper {
+    	margin-right: 0;
+	}
+
+	.section-ecosystem .icon-ipad .icon-wrapper {
+    	margin-left: 0;
+    	margin-right: 0;
+	}
+}
+
+.typography-show-title-copy span.pingfang:lang(zh-CN) {
+	font-family: 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; 
+	font-size: 12px;
+	position: relative;
+	top: -1px;
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-show-title-copy span.pingfang:lang(zh-CN) {
+        font-size: 10px;
+    }
+}
+
+.section-catalog .channels .chin .typography-channel-chin span.pingfang:lang(zh-CN) {
+	font-family: 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; 
+	font-size: 24px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-catalog .channels .chin .typography-channel-chin span.pingfang:lang(zh-CN) {
+		font-family: 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; 
+		font-size: 18px;
+	}
+}
+        
+@media only screen and (max-width: 734px) {
+    .section-catalog .channels .chin .typography-channel-chin span.pingfang:lang(zh-CN) {
+        font-size: 13px;
+    }
+}
+
+
+
+/* font weight 600 start */
+.typography-section-headline {
+    font-weight: 600;
+}
+
+.typography-hero-callout {
+    font-weight: 600;
+}
+
+.typography-tab-gallery-link {
+    font-weight: 600;
+}
+
+.typography-tile-headline {
+    font-weight: 600;
+}
+
+.typography-router-headline {
+    font-weight: 600;
+}
+
+.modal-standard .cta, .modal-standard .intro-copy {
+    font-weight: 600;
+}
+
+.section-catalog .marquee-cta {
+    font-weight: 600;
+}
+/* font weight 600 end */
+
+
+/* follow v /c/ styles -start- */
+.hero-callout .color-pop, .section-header-headline .color-pop, .tile-headline .color-pop {
+    color:#a945e3
+}
+
+#ac-localnav .ac-ln-button {
+    background:#852dc4
+}
+
+#ac-localnav .ac-ln-button:hover {
+    background: #a945e3;
+}
+
+#ac-localnav .ac-ln-button:active {
+    background:#a945e3
+}
+
+
+.section-hero .hero-button {
+    background: #852dc4;
+}
+
+.section-hero .hero-button:hover {
+    background:#a945e3
+}
+
+.section-hero .hero-button:active {
+    background:#852dc4
+}
+
+.section-hero .hero-button.disabled, .section-hero .hero-button:disabled {
+    background: #852dc4;
+}
+
+
+.callout-button {
+    background: #852dc4;
+}
+
+.callout-button:hover {
+    background: #a945e3
+}
+
+.callout-button:active {
+    background: #852dc4
+}
+
+.callout-button.disabled,
+.callout-button:disabled {
+    background: #852dc4;
+}
+
+
+.section-catalog .tabnav-link {
+    color: #bcbcbc;
+}
+
+.section-catalog .tabnav-link.current,
+.section-catalog .tabnav-link:hover {
+    color: #a945e3
+}
+
+@media only screen and (max-width:734px) {
+    .section-catalog .tabnav-link.current:after {
+        border-bottom: 2px solid #a945e3;
+    }
+}
+
+.section-faq .accordion-button:hover .accordion-icon,
+.section-faq .accordion-button:hover .accordion-title-text {
+    color: #a945e3
+}
+
+
+/* channels tab */
+.section-catalog .channels .marquee-link {
+	height: 594px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-catalog .channels .marquee-link {
+        height:445px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-catalog .channels .marquee-link {
+        height:362px
+    }
+}
+
+.section-catalog .channels .marquee-item .hover-container, .section-catalog .channels .marquee-item .hover-container .hover-content {
+    border-radius: 0px;
+    border-top-right-radius: 18px;
+    border-top-left-radius:18px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-catalog .channels .marquee-item .hover-container, .section-catalog .channels .marquee-item .hover-container .hover-content {
+        border-top-right-radius: 15px;
+        border-top-left-radius:15px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-catalog .channels .marquee-item .hover-container, .section-catalog .channels .marquee-item .hover-container .hover-content {
+        border-top-right-radius: 12px;
+        border-top-left-radius:12px
+    }
+}
+
+.section-catalog .channels .chin .typography-channel-chin {
+    color:#fff
+}
+
+/* follow v /c/ styles -end- */
+
+html.no-reduced-motion .section-catalog .marquee-cta {
+    transition: transform 800ms;
+}
+
+
+/* channels bgcolor start */
+.justpod .overlay {
+    background-color:rgba(65, 40, 100, .8)
+}
+
+.sheng-dong-huo-po .overlay {
+    background-color:rgba(250, 198, 69, .8)
+}
+
+.ri-guang .overlay {
+    background-color:rgba(150, 133, 40, .8)
+}
+
+.midnightnetwork .overlay {
+    background-color:rgba(74, 9, 53, .8)
+}
+
+.jin-jin-le-dao .overlay {
+    background-color:rgba(190, 30, 30, .8)
+}
+
+.marcast .overlay {
+    background-color:rgba(42, 42, 64, .8)
+}
+
+.yangcheng .overlay {
+    background-color:rgba(190, 30, 30, .8)
+}
+
+.podcast-commune .overlay {
+    background-color:rgba(20, 33, 55, .8)
+}
+
+.himalaya .overlay {
+    background-color:rgba(250, 147, 57, .8)
+}
+
+.leechee .overlay {
+    background-color:rgba(0, 65, 154, .8)
+}
+/* channels bgcolor end */
+
+
+/* ArtCD feedback */
+@media only screen and (max-width: 1068px) {
+    .typography-hero-callout:first-child {
+        font-size: 32px;
+        line-height: 1.1875;
+    }
+}
+/* ArtCD feedback */
+

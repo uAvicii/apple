@@ -1,0 +1,22 @@
+/* localnav */
+html[lang=zh-CN] #ac-localnav, html[lang=zh-CN] #ac-localnav select, html[lang=zh-CN] #ac-localnav button {font-family: 'PingHei', 'PingFang SC','Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif; }
+
+.localnav-expandable .disclosure-text{ font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif; font-size: 14px;line-height: 37px;}
+html[lang=zh-CN] #ac-localnav, html[lang=zh-CN] #ac-localnav select, html[lang=zh-CN] #ac-localnav but{font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+
+html[lang=zh-CN] #ac-localnav h2.ac-ln-title { font-family: "Myriad Set Pro", 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif; }
+
+
+/* footer */
+html[lang=zh-CN] .ac-ln-menu a { font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+
+html[lang=zh-CN] #ac-globalfooter .ac-gf-buystrip-info-caption,
+html[lang=zh-CN] #ac-globalfooter .ac-gf-buystrip-info-copy,
+html[lang=zh-CN] #ac-globalfooter .ac-gf-buystrip-info-title,
+html[lang=zh-CN] #ac-globalfooter a.ac-gf-block .ac-gf-block-link,
+html[lang=zh-CN] #ac-globalfooter .ac-gf-sosumi p,
+html[lang=zh-CN] #ac-globalfooter .ac-gf-sosumi li,
+#ac-globalfooter[lang=zh-CN], 
+#ac-globalfooter[lang=zh-CN] select, 
+#ac-globalfooter[lang=zh-CN] button {font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}
+html[lang=zh-CN] #ac-globalfooter .ac-gf-buystrip-hero-title{font-family: "Myriad Set Pro", 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;}

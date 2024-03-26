@@ -1,0 +1,356 @@
+.section-hero .hero-container .hero-image {
+    background-image: url("../image/hero__dc03q027b14y_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-hero .hero-container .hero-image {
+        background-image:url("../image/hero__dc03q027b14y_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-hero .hero-container .hero-image {
+        background-image: url("../image/hero__dc03q027b14y_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-hero .hero-container .hero-image {
+        background-image:url("../image/hero__dc03q027b14y_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-hero .hero-container .hero-image {
+        background-image: url("../image/hero__dc03q027b14y_small.jpg")
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-hero .hero-container .hero-image {
+        background-image:url("../image/hero__dc03q027b14y_small_2x.jpg")
+    }
+}
+
+/*Compare-Ultra 2*/
+.section-shared-compare .compare-item-ultra.device .compare-item-image {
+    width: 219px;
+    height: 256px;
+    background-size: 219px 256px;
+    background-repeat: no-repeat;
+    background-image: url("../image/compare_ultra2__f8eeme0p35ei_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image: url("../image/compare_ultra2__f8eeme0p35ei_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        width: 176px;
+        height: 205px;
+        background-size: 176px 205px;
+        background-repeat: no-repeat;
+        background-image: url("../image/compare_ultra2__f8eeme0p35ei_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image: url("../image/compare_ultra2__f8eeme0p35ei_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        width: 140px;
+        height: 164px;
+        background-size: 140px 164px;
+        background-repeat: no-repeat;
+        background-image: url("../image/compare_ultra2__f8eeme0p35ei_small.jpg")
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-ultra.device .compare-item-image {
+        background-image: url("../image/compare_ultra2__f8eeme0p35ei_small_2x.jpg")
+    }
+}
+
+/*Compare-S9*/
+.section-shared-compare .compare-item-s9.device .compare-item-image {
+    width: 219px;
+    height: 256px;
+    background-size: 219px 256px;
+    background-repeat: no-repeat;
+    background-image: url("../image/compare_s9__cecuqrfaz56q_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image: url("../image/compare_s9__cecuqrfaz56q_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        width: 176px;
+        height: 205px;
+        background-size: 176px 205px;
+        background-repeat: no-repeat;
+        background-image: url("../image/compare_s9__cecuqrfaz56q_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image: url("../image/compare_s9__cecuqrfaz56q_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        width: 140px;
+        height: 164px;
+        background-size: 140px 164px;
+        background-repeat: no-repeat;
+        background-image: url("../image/compare_s9__cecuqrfaz56q_small.jpg")
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-s9.device .compare-item-image {
+        background-image: url("../image/compare_s9__cecuqrfaz56q_small_2x.jpg")
+    }
+}
+
+/*cellular-modal*/
+.cellular-modal-content .cellular-modal-image {
+    width: 317px;
+    height: 480px;
+    background-size: 317px 480px;
+    background-repeat: no-repeat;
+    background-image: url("../image/modal_cellular__ilyj59otzyuu_large.jpg");
+    margin:0 auto
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .cellular-modal-content .cellular-modal-image {
+        background-image: url("../image/modal_cellular__ilyj59otzyuu_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .cellular-modal-content .cellular-modal-image {
+        width: 299px;
+        height: 455px;
+        background-size: 299px 455px;
+        background-repeat: no-repeat;
+        background-image: url("../image/modal_cellular__ilyj59otzyuu_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .cellular-modal-content .cellular-modal-image {
+        background-image: url("../image/modal_cellular__ilyj59otzyuu_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .cellular-modal-content .cellular-modal-image {
+        width: 210px;
+        height: 321px;
+        background-size: 210px 321px;
+        background-repeat: no-repeat;
+        background-image: url("../image/modal_cellular__ilyj59otzyuu_small.jpg")
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .cellular-modal-content .cellular-modal-image {
+        background-image: url("../image/modal_cellular__ilyj59otzyuu_small_2x.jpg")
+    }
+}
+
+/*compare-water-icon*/
+.compare-item-s9.water-resistant .feature-item-icon {
+    width: 70px;
+    height: 58px;
+    background-size: 70px 58px;
+    background-repeat: no-repeat;
+    background-image:url(../image/quicklook_water_resistant__brps0kkfndsi_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-s9.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant__brps0kkfndsi_large_2x.png)
+    }
+}
+
+.compare-item-se.water-resistant .feature-item-icon {
+    width: 70px;
+    height: 58px;
+    background-size: 70px 58px;
+    background-repeat: no-repeat;
+    background-image:url(../image/quicklook_water_resistant__brps0kkfndsi_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-se.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant__brps0kkfndsi_large_2x.png)
+    }
+}
+
+.compare-item-ultra.water-resistant .feature-item-icon {
+    width: 90px;
+    height: 58px;
+    background-size: 90px 58px;
+    background-repeat: no-repeat;
+    background-image:url(../image/quicklook_water_resistant_100m__gin8ojg808mm_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .compare-item-ultra.water-resistant .feature-item-icon {
+        background-image:url(../image/quicklook_water_resistant_100m__gin8ojg808mm_large_2x.png)
+    }
+}
+
+
+/*  S9/why-apple-watch  */
+.grid-item.tile-ar.span-12 .series-9.ar-image {
+    background-image: url("../image/ar_tile_s9__ggxm3cbhzi6i_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .grid-item.tile-ar.span-12 .series-9.ar-image {
+        background-image: url("../image/ar_tile_s9__ggxm3cbhzi6i_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .grid-item.tile-ar.span-12 .series-9.ar-image {
+        background-image: url("../image/ar_tile_s9__ggxm3cbhzi6i_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .grid-item.tile-ar.span-12 .series-9.ar-image {
+        background-image: url("../image/ar_tile_s9__ggxm3cbhzi6i_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .grid-item.tile-ar.span-12 .series-9.ar-image {
+        background-image: url("../image/ar_tile_s9__ggxm3cbhzi6i_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .grid-item.tile-ar.span-12 .series-9.ar-image {
+        background-image: url("../image/ar_tile_s9__ggxm3cbhzi6i_small_2x.jpg")
+    }
+}
+
+/*  Se/why-apple-watch  */
+.grid-item.tile-ar.span-12 .se.ar-image {
+    background-image: url("../image/ar_tile_se__fxsa5injzomm_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .grid-item.tile-ar.span-12 .se.ar-image {
+        background-image: url("../image/ar_tile_se__fxsa5injzomm_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .grid-item.tile-ar.span-12 .se.ar-image {
+        background-image: url("../image/ar_tile_se__fxsa5injzomm_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .grid-item.tile-ar.span-12 .se.ar-image {
+        background-image: url("../image/ar_tile_se__fxsa5injzomm_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .grid-item.tile-ar.span-12 .se.ar-image {
+
+        background-image: url("../image/ar_tile_se__fxsa5injzomm_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .grid-item.tile-ar.span-12 .se.ar-image {
+        background-image: url("../image/ar_tile_se__fxsa5injzomm_small_2x.jpg")
+    }
+}
+
+
+/*  Ultra-2/why-apple-watch  */
+.grid-item.tile-ar.span-12 .ultra-2.ar-image {
+    background-image: url("../image/ar_tile_ultra__byh7igreq17m_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .grid-item.tile-ar.span-12 .ultra-2.ar-image {
+        background-image: url("../image/ar_tile_ultra__byh7igreq17m_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .grid-item.tile-ar.span-12 .ultra-2.ar-image {
+        background-image: url("../image/ar_tile_ultra__byh7igreq17m_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .grid-item.tile-ar.span-12 .ultra-2.ar-image {
+        background-image: url("../image/ar_tile_ultra__byh7igreq17m_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .grid-item.tile-ar.span-12 .ultra-2.ar-image {
+        background-image: url("../image/ar_tile_ultra__byh7igreq17m_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .grid-item.tile-ar.span-12 .ultra-2.ar-image {
+        background-image: url("../image/ar_tile_ultra__byh7igreq17m_small_2x.jpg")
+    }
+}
+
+/* watch-se */
+
+.section-shared-compare .compare-item-se.device .compare-item-image {
+    width: 219px;
+    height: 256px;
+    background-size: 219px 256px;
+    background-repeat: no-repeat;
+    background-image: url("../image/compare_se__fdadq4j7je2q_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-se.device .compare-item-image {
+        background-image: url("../image/compare_se__fdadq4j7je2q_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-shared-compare .compare-item-se.device .compare-item-image {
+        width: 176px;
+        height: 205px;
+        background-size: 176px 205px;
+        background-repeat: no-repeat;
+        background-image: url("../image/compare_se__fdadq4j7je2q_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-se.device .compare-item-image {
+        background-image: url("../image/compare_se__fdadq4j7je2q_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-shared-compare .compare-item-se.device .compare-item-image {
+        width: 140px;
+        height: 164px;
+        background-size: 140px 164px;
+        background-repeat: no-repeat;
+        background-image: url("../image/compare_se__fdadq4j7je2q_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-shared-compare .compare-item-se.device .compare-item-image {
+        background-image: url("../image/compare_se__fdadq4j7je2q_small_2x.jpg")
+    }
+}
+
+/* watch-se end */

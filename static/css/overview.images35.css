@@ -1,0 +1,81 @@
+.image-specialist-a, .section-carriers .image-specialist-1, .section-payments .image-specialist-2,
+.section-setup .image-specialist-2 {
+    background-image: url("../image/specialist_1__b0wby25ww5rm_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-specialist-a, .section-carriers .image-specialist-1, .section-payments .image-specialist-2,
+    .section-setup .image-specialist-2 {
+        background-image: url("../image/specialist_1__b0wby25ww5rm_large_2x.jpg")
+    }
+}
+
+.image-specialist-b, .section-carriers .image-specialist-2, .section-payments .image-specialist-4,
+.section-setup .image-specialist-3 {
+    background-image: url("../image/specialist_2__cszkuw9cwh26_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-specialist-b, .section-carriers .image-specialist-2, .section-payments .image-specialist-4,
+    .section-setup .image-specialist-3 {
+        background-image: url("../image/specialist_2__cszkuw9cwh26_large_2x.jpg")
+    }
+}
+
+.image-specialist-c, .section-carriers .image-specialist-3, .section-payments .image-specialist-1,
+.section-setup .image-specialist-4 {
+    background-image: url("../image/specialist_3__viiuueanqhum_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-specialist-c, .section-carriers .image-specialist-3, .section-payments .image-specialist-1,
+    .section-setup .image-specialist-4 {
+        background-image: url("../image/specialist_3__viiuueanqhum_large_2x.jpg")
+    }
+}
+
+.image-specialist-d, .section-carriers .image-specialist-4, .section-payments .image-specialist-3,
+.section-setup .image-specialist-1 {
+    background-image: url("../image/specialist_4__k3ystfxmgvem_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-specialist-d, .section-carriers .image-specialist-4, .section-payments .image-specialist-3,
+    .section-setup .image-specialist-1 {
+        background-image: url("../image/specialist_4__k3ystfxmgvem_large_2x.jpg")
+    }
+}
+
+.section-hero.screens .image-hero-bottom {
+    background-image: url(../image/hero_screens__d5bvceeayuc2_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-hero.screens .image-hero-bottom {
+        background-image:url(../image/hero_screens__d5bvceeayuc2_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero.screens .image-hero-bottom {
+        background-image:url(../image/hero_screens__d5bvceeayuc2_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-hero.screens .image-hero-bottom {
+        background-image:url(../image/hero_screens__d5bvceeayuc2_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero.screens .image-hero-bottom {
+        background-image:url(../image/hero_screens__d5bvceeayuc2_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-hero.screens .image-hero-bottom {
+        background-image:url(../image/hero_screens__d5bvceeayuc2_small_2x.jpg)
+    }
+}

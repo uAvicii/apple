@@ -1,0 +1,43 @@
+.section-external .image-external-connectors .diagram-text.diagram-speaker-mic {
+	left: 660px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-external .image-external-connectors .diagram-text.diagram-speaker-mic {
+        left: 420px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+	.section-external .image-external-connectors .diagram-text.diagram-speaker-mic {
+        bottom: 425px;
+        left: 28px;
+        width: 130px;
+
+    }
+}
+
+.section-external .image-external-connectors .diagram-text.diagram-speaker{
+	text-align: center;
+}
+
+.section-external .image-external-connectors .diagram-text.diagram-speaker{
+	left: 195px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-external .image-external-connectors .diagram-text.diagram-speaker{
+		left:140px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-external .image-external-connectors .diagram-text.diagram-speaker{
+		left: 95px;
+	}
+
+}
+
+
+
+

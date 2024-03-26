@@ -1,0 +1,27 @@
+.rf-flagship-buyflow-witb .rc-witb-image-wrapper {
+    background-color: #F4F4F6;
+}
+
+.rf-accessory-inline-cardgallery-content .rf-accessory-inline-cardgallery-image {
+    height: 264px;
+}
+
+.rf-accessory-inline-gallery-items .rf-accessory-inline-cardgallery-item {
+    background-color: #FAFAFA;
+}
+
+.rf-flagship-productselection.rf-productselection-withgallery .rf-product-dimension-with-gallery {
+    padding-top: 30px;
+}
+
+.rf-applecaresummarymultipartslot {
+    padding-bottom: 20px;
+}
+
+.rf-flagship-buyflow-witb .rc-witb-items {
+    flex-wrap: nowrap;
+}
+
+.rf-flagship-buyflow-witb .rc-witb-item-label {
+    padding: 24px 70px 0;
+}

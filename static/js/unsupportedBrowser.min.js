@@ -1,0 +1,1 @@
+!function(){var n=window.asUnsupportedBrowserUrl;function o(){return/baidu.*spider/i.test(window.navigator.userAgent)}function r(){return location.href===n}!n||r()||o()||window.crypto&&window.crypto.subtle&&window.crypto.subtle.encrypt||(location.href=n),!n||r()||o()||(location.href=n)}();

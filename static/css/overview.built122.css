@@ -1,0 +1,12 @@
+/*文本适配*/
+.text-adaptation {
+    flex: auto;
+    min-height: auto;
+}
+
+.globalheader-dark #globalmessage-segment, .theme-dark #globalmessage-segment {
+    --globalmessage-segment-background: rgb(22, 22, 23);
+    --globalmessage-segment-scrim-background: rgba(255, 255, 255, 0);
+    --globalmessage-segment-text-color: rgba(255, 255, 255, .92);
+    --globalmessage-segment-border-color: rgba(255, 255, 255, .4);
+}

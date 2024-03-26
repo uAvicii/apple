@@ -1,0 +1,27 @@
+.section-privacy{
+  padding-bottom: 175px;
+}
+
+
+@media only screen and (max-width: 1068px)and (max-width:1068px) {
+    .section-privacy{
+      padding-bottom: 175px;
+    }
+}
+
+@media only screen and (max-width: 734px){
+    .section-privacy{
+      padding-bottom: 0;
+    }
+}
+
+@media only screen and (min-width: 1068px) {
+  .section-intro .intro-copy-container .typography-headline-elevated.tile-headline {
+      width: 110%;
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .section-intro .intro-copy-container .typography-headline-elevated.tile-headline {
+    width: 100%;
+  }
+}

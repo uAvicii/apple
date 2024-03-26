@@ -1,0 +1,605 @@
+/*
+aos-overrides-.css has been deprecated in favor of using component
+css files and the release.css file. It remains in the repository
+for backward compatibility with possible legacy pages that might
+reference it directly instead of using the combined CSS file.
+============================================================ */
+
+
+
+
+
+
+
+
+
+
+
+/*
+This file is for global overrides to styles all over the system.  For each release,
+this file should be emptied - and reserved for last-minute fixes as necessary only.
+*/
+
+/* Still in use?
+#page-wrap p { margin: .75em 0; }
+
+#as-stepone { text-align: center; }
+#as-stepone #as-page-wrap { text-align: left; }
+
+#customerrating #title a,
+#customerrating #title a:hover {
+	color: white;
+	text-decoration: none;
+}
+form #theLayer {
+	z-index: 1000;
+}
+
+#as-page-content div.edit { margin-left: 10px; }
+
+#as-page-content .store-l0 div.mdl .store-l1 .store-l2 { margin-right: -22px; }
+#as-page-content div.printer-top { margin: 0; }
+#as-page-content .mdl #comparison-div .intro { margin-left: 0; margin-right: 0; }
+#as-page-content .shop .mdl-shop .download { margin: 0 17px; }
+
+*/
+
+/*China custom store home page*/
+.cn .bento.ns-buttons .tsncs {
+    font-size: 14px;
+    left: 86px;
+    position: absolute;
+    top: 389px;
+    z-index: 1;
+    text-align: center;
+}
+
+/* Needs to go in aos-family after we fix the location that intl stylesheets are pulled from */
+#area-product-selection tr.button form {
+	float: left;
+	margin-right: 5px;
+	width: 103px;
+}
+
+/* tab */
+#store-tab-overview {
+	line-height: 1.5em;
+}
+
+
+/* h2 */
+#store-tab-overview h2 {
+	margin: 5px 0 25px 71px;
+}
+
+
+/* sections */
+/* section 1 */
+#store-tab-overview .section1 {
+	border-bottom: 1px solid #bbb;
+	margin: 0 0 20px;
+	min-height: 430px;
+	padding: 50px 0 10px 307px;
+}
+#store-tab-overview .section1 .hero {
+	left: -20px;
+	position: absolute;
+	top: 2px;
+}
+/* s1 c1 */
+#store-tab-overview .section1 .col1 {
+	float: left;
+	width: 266px;
+}
+#store-tab-overview .section1 .col1 .img {
+	float: left;
+	margin: 4px 0 15px;
+	width: 67px;
+}
+#store-tab-overview .section1 .col1 .txt {
+	float: right;
+	margin-bottom: 15px;
+	width: 184px;
+}
+#store-tab-overview .section1 .col1 .txt p {
+	margin: 0;
+}
+/* s1 c2 */
+#store-tab-overview .section1 .col2 {
+	float: right;
+	width: 218px;
+}
+#store-tab-overview .section1 .col2 .txt h3 {
+	font-size: 11px;
+	margin: 0 0 3px 0;
+	padding: 0;
+}
+#store-tab-overview .section1 .col2 .txt p {
+	margin: 0 12px 16px 0;
+}
+#store-tab-overview .section1 .col2 .img {
+	margin-left: -4px;
+	margin-top: 10px;
+	position: absolute;
+}
+/* section 2 */
+#store-tab-overview .section2 table tr td {
+	vertical-align: top;
+}
+#store-tab-overview .section2 table tr.r-1 td.n-1 {
+	padding-right: 10px;
+	width: 154px;
+}
+#store-tab-overview .section2 table tr.r-1 td.n-2 {
+	padding-right: 32px;
+	width: 190px;
+}
+#store-tab-overview .section2 table tr.r-1 td.n-3 {
+	padding-right: 30px;
+	width: 200px;
+}
+#store-tab-overview .section2 table tr.r-1 td.n-4 {
+	width: 210px;
+}
+#store-tab-overview .section2 table tr.r-2 td.n-1 {
+	padding-right: 30px;
+	width: 646px;
+}
+#store-tab-overview .section2 table tr.r-1 td h3 {
+	color: #5C708A;
+	display: block;
+	font-size: 15px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0 0 10px 0;
+}
+#store-tab-overview .section2 table tr.r-1 td.n-2 div {
+	margin-bottom: 3px;
+}
+#store-tab-overview .section2 table tr.r-1 td.n-2 a {
+	color: #333;
+}
+#store-tab-overview .section2 table tr.r-1 td.n-3 img {
+	position: relative;
+	top: -5px;
+}
+#store-tab-overview .section2 ul {
+	margin: 0 8px 10px 0;
+	padding-left: 0;
+}
+#store-tab-overview .section2 table tr.r-1 td.n-2 li {
+	text-indent: 0;
+}
+#store-tab-overview li span {
+	color: #767c79;
+	line-height: 1.4;
+}
+
+/* switcher controls */
+#store-tab-overview #req-switcher {
+	line-height: normal;
+	margin: -2px 0 10px -5px;
+	width: 100%;
+}
+#store-tab-overview #req-switcher ul {
+	height: 19px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#store-tab-overview #req-switcher li {
+	background: transparent url(../image/compare-bg-tinytab-unselected.gif) top right repeat-x;
+	float: left;
+	height: 19px;
+	margin: 0;
+	padding: 0 0 0 11px;
+	text-indent: 0;
+}
+#store-tab-overview #req-switcher span {
+	color: #3366cc;
+	cursor: pointer;
+	height: 19px;
+	padding: 2px 5px;
+}
+#store-tab-overview #req-switcher li span:hover {
+	color: #333;
+}
+/* selected os view */
+#store-tab-overview #req-switcher.os li.os {
+	background: transparent url(../image/compare-bg-tinytab-lft-selected.gif) top left no-repeat;
+}
+#store-tab-overview #req-switcher.os li.os span {
+	background: transparent url(../image/compare-bg-tinytab-lft-selected.gif) top right no-repeat;
+	color: #7e7e7e;
+	cursor: default;
+}
+/* selected apps view */
+#store-tab-overview #req-switcher.apps li.apps {
+	background: transparent url(../image/compare-bg-tinytab-mdl-selected.gif) top left no-repeat;
+}
+#store-tab-overview #req-switcher.apps li.apps span {
+	background: transparent url(../image/compare-bg-tinytab-mdl-selected.gif) top right no-repeat;
+	color: #7e7e7e;
+	cursor: default;
+}
+#store-tab-overview #req-os.hide,
+#store-tab-overview #req-apps.hide {
+	display: none;
+}
+
+
+
+
+
+/* little tabbed list */
+#store-tab-overview #req-apps,
+#store-tab-overview #req-os {
+	margin: 0;
+	padding: 0;
+	width: 216px;
+}
+#store-tab-overview #req-os div {
+	color: #767c79;
+	margin-bottom: 8px;
+}
+#store-tab-overview #req-os div strong {
+	color: #333;
+	display: block;
+	font-weight: normal;
+	margin-bottom: 4px;
+}
+#store-tab-overview #req-apps li,
+#store-tab-overview #req-os li {
+	line-height: 1em;
+	margin: 0;
+	padding: .4em 0 .4em 1em;
+	text-indent: -1em;
+}
+#store-tab-overview #req-apps li span,
+#store-tab-overview #req-os li span {
+	line-height: 1em;
+}
+#store-tab-overview #req-apps li.n-1 {
+	color: #767c79;
+}
+#store-tab-overview #req-apps li.n-1 strong {
+	color: #333;
+	font-weight: normal;
+}
+
+
+
+/* footnotes */
+#store-tab-overview #footnotes {
+	font-size: 10px;
+	line-height: 12px;
+	margin: 20px 40px 0 0;
+}
+
+/* Thai text must be 11px at minimum, for legibility */
+html:lang(th-Th) #store-tab-overview #footnotes {
+    font-size: 11px;
+}
+
+#store-tab-overview #footnotes ol {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#store-tab-overview #footnotes ol li {
+	color: #ccc;
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+#store-tab-overview #footnotes.stand ol li.extnd {
+	display: none;
+}
+#store-tab-overview #footnotes a {
+	color: #ccc;
+}
+
+
+/* copyrights */
+#store-tab-overview #copyrights {
+	font-size: 10px;
+	line-height: 12px;
+	margin: 5px 0 7px;
+}
+
+/* Thai text must be 11px at minimum, for legibility */
+html:lang(th-Th) #store-tab-overview #copyrights {
+    font-size: 11px;
+}
+
+#store-tab-overview #copyrights p {
+	color: #ccc;
+	margin: 0;
+	padding: 0;
+}
+#store-tab-overview #copyrights p span {
+	font-style: italic;
+}
+
+
+/* GTK Nav modules */
+.gtk_module a.sub-dept-modlink {
+	display: block;
+	color: #333;
+	border-bottom: 1px solid #bfbfbf;
+	margin: 0 1px;
+	width: 166px;
+}
+
+.gtk_module a.last {
+	border-bottom: 0;
+	padding-bottom: 2px;
+	margin-bottom: -2px;
+}
+
+.gtk_module a.sub-dept-modlink:hover {
+	background: #eee;
+	text-decoration: none;
+}
+
+.gtk_module a.sub-dept-modlink strong {
+	display: block;
+	padding: 12px 12px .75em;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.gtk_module a.sub-dept-modlink span {
+	display: block;
+	padding: 0 12px 12px 24px;
+	font-size: .9em;
+	color: #666;
+
+}
+
+/* 2011-04-05: LIST NUMBERING ON PDP PAGE - PRODUCT OVERVIEW. REMOVE AFTER R4. */
+.product-details .footnotes ol li,
+.product-details .footnotes ul li {
+  color: #666;
+  line-height: 13px;
+  text-align: left;
+}
+
+/* 2011-04-08: 'footnote' BACKWARD COMPATIBILITY UNTIL 'footnotes' IS IN USE ACROSS ALL REFURB PRODUCTS */
+.product-details .footnote {
+   padding: 42px 19px;
+   clear: both;
+   font-size: 10px;
+   line-height: 18px;
+   color: #999999;
+   text-align: justify;
+}
+
+/* Thai text must be 11px at minimum, for legibility */
+html:lang(th-Th) .product-details .footnote {
+    font-size: 11px;
+}
+
+.product-details .footnote a {
+   text-decoration: underline;
+   color: #999999;
+}
+.product-details .footnote ol {
+   list-style-image: none;
+   list-style-position: outside;
+   list-style-type: decimal;
+}
+.product-details .footnote ol li {
+   display: list-item;
+   margin-bottom: 5px;
+   margin-left: 20px;
+}
+
+
+/* Home Page Subscribe button Temp orveride */
+.email_notification .notify_submit {
+margin-top: 10px;
+}
+
+/* Button Overrides */
+html.no .gifting button.transactional .label {
+    font-size: 11px;
+}
+
+html.se .gifting button.transactional .label,
+html.es .gifting button.transactional .label {
+    font-size: 10px;
+    margin-right: -5px;
+}
+
+html.pl #product-summary-primary button.transactional > span {
+    padding: 9px 7px;
+}
+
+/*Start of Changes for espresso ticket exp2://Ticket/11156781 */
+/*html.hu #product-summary-primary button.transactional > span {
+    padding: 4px 18px;
+}*/
+/*End of Changes for espresso ticket exp2://Ticket/11156781 */
+html.hu #order-summary-list button.transactional > span {
+    padding: 4px 7px;
+}
+/*Start of Changes for espresso ticket exp2://Ticket/11136608 */
+/*html.hu #engraving-options .purchase-info:first-child button.transactional > span {
+    padding: 4px 10px;
+}*/
+/*End of Changes for espresso ticket exp2://Ticket/11136608 */
+html.pl #order-summary-list button.transactional > span {
+    padding: 4px 9px;
+}
+html.hu #order-summary-list button.transactional .label,
+html.pl #order-summary-list button.transactional .label {
+    padding: 0px 1px;
+    margin-right: 0px;
+}
+html.pt body.cart #order-summary button.transactional > span {
+    padding: 4px 10px;
+}
+
+/* Getting rid of whitespace around server-generated tags */
+span.no-ws {
+    margin-right: -0.3em;
+}
+
+/* Artifact removal from Ask Now button in header */
+.ui-button .chat-button a{
+    text-shadow: none;
+}
+/* Remove LP artifacts */
+.box .box-content .chat .chat-button a img {
+    display: none;
+}
+
+.price_ship-previous,
+.previous_price {
+    text-decoration: line-through;
+}
+
+.ph .action-card .hasIsWas .price,
+.ph .action-card .hasIsWas span.previous_price {
+    white-space: nowrap;
+}
+/* Sub department & Category & Search results */
+.sub-department #primary .module .module_top h1 {
+	padding: 16px 15px 0;
+	font-weight: bold;
+	font-size: 19px;
+	line-height: 1.1em;
+	color: #343640;
+	text-shadow: 1px 1px 1px #f1f1f1;
+}
+
+html.hk .help-index .help-content .category.superlink,
+html.au .help-index .help-content .category.superlink{
+	height: 150px;
+}
+
+/* Fix for <rdar://problem/13910036> R5: New Store: IE: " Add to cart " link displayed in green when buy now is enabled */
+.product-details .action-card .compound-button .dynamic-menu .button,
+.product-details .action-card .compound-button .dynamic-menu .button:hover {
+	filter: none;
+}
+
+/* JV rdar://problem/14208384 */
+.vn .pinwheel .tile .tile-body .info .availability li.ship-promo, .id .pinwheel .tile .tile-body .info .availability li.ship-promo  {
+	display: none;
+}
+.vn .pinwheel .tile .tile-body .info .availability li + li:before, .id .pinwheel .tile .tile-body .info .availability li + li:before{
+	content: none;
+}
+
+/* Thai text must be 11px at minimum, for legibility */
+html:lang(th-Th) .community.topic-questions .questions-wrapper .questions .question-text a {
+    font-size: 11px;
+}
+
+.trending .trending-grid .quad .tile-wrap:nth-child(4n) .tile .product-details {
+    padding-right: 27px;
+}
+
+/* <rdar://problem/16096212> R03: QA2: WW: Search textbox is misaligned in iPod Nano, iPod shuffle step1 page */
+.product-selection #page .community #qa-search-summary-widget {
+    border: none;
+    border-radius: 16px;
+    padding: 8px 39px 9px 35px;
+    margin: -6px -6px;
+    background: #fff url(../image/community-search-question-mark-sm.png) no-repeat 7px 5px;
+    background-size: 23px 27px;
+}
+.product-selection #page .community .search-reset {
+    margin-right: -64px;
+}
+
+.product-selection #page .community .field-with-placeholder label {
+    margin: 2px 0 -2px 22px;
+}
+
+.question-search-results .questions .question { min-height: 52px; }
+
+/** Japan specific style **/
+html.jp .compare .mac-header .product-info ul.product-hero {
+    max-width:65%;
+}
+
+html.jp #compare .mac-header .product-info ul.price-shipping {
+    float: right;
+    text-align: right;
+    max-width:35%;
+    white-space:nowrap;
+    font-size:0.8em
+}
+
+html.jp #compare table .price td h4 {
+    font-size: 16px;
+}
+
+/* fix for <exp2://Ticket/18653160> AOS : WW : Home Page Public Name Banner Width Increase */
+.home #segment-banner h2.text-only.store-banner {
+    width: 650px;
+}
+
+
+/**
+ * This is fixed in rs-web R06 and onwards, but missed R05 integration
+ * <rdar://problem/15654954> QA3/R02: WW : Character limit Bar not displayed on Q&A page
+ */
+.community .textfieldThermometer {
+    float: right;
+}
+
+.trending-container .item-list .rating:not([data-rating]) {
+    visibility: hidden;
+}
+
+.cableChooser .unav-cart-box .cart-list .content {
+    border: 0;
+    box-shadow: none;
+    background: transparent;
+}
+
+/* Fix for radar <rdar://problem/18719219> R1: QA1: US SMB Finaning Page: LOB Nav is distorted */
+.store-header .masthead.clearfix:after {
+	clear: both
+}
+/* Fix for the radar: <rdar://problem/18498165> R1: QA1: MX: Mac LOB: Header "Accesorios para la Mac" font size is small and misaligned. */
+.pinwheel header > h2 {
+  font-size: 24px;
+  padding: 22px 0px;
+  text-align: center;
+}
+/* Fix for the radar: <rdar://problem/19485068> R2: Head Content Local for iPhone Accessories Pages - AsiaEnglish. */
+.ph .accessories-left-w-2013.geo .info, .my .accessories-left-w-2013.geo .info, .vn .accessories-left-w-2013.geo .info, .id .accessories-left-w-2013.geo .info {
+	width: 325px;
+	padding: 34px 40px 20px 284px;
+}
+.ja-jp .pinwheel header > h2 {
+  text-align: left;
+}
+
+/* Fix for espresso <exp2://Ticket/20983728> US: Apple TV step1 page: Financing link misplaced. */
+
+/* Accessories product details */
+html.en-us .ns.product-details .action-card .price.materializer > a {
+	font-size: 12px;
+	line-height: 1.7em;
+}
+
+/* Fix for radar <rdar://problem/21666368> MOW+DESKTOP:R6: QA2: Arrow '>' displayed under each filter option in Search Result Page. */
+.more-less-toggle.more:after {
+    content: '';
+}
+
+/*Fix for radar <rdar://problem/20914854> AOS Belgium - Gift Wrapping - Copy Wrapping breaks SVG sizing; Awkward wrapping for 'gift message preview' copy*/ 
+.nl-be .engraving-gifting .gift-edit .mts .form-control-offset > label {
+	display: block;
+    width: 80%;
+}
+.nl-be .engraving-gifting .show-gift-package .gift {
+	max-height: 18px;
+    margin-bottom: 18px;
+}

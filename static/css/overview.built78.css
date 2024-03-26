@@ -1,0 +1,90 @@
+.section-entertained sup>a{
+       color:#fff;
+}
+.section-find-my .medium-offset-0 {
+
+    margin-left:8%;
+}
+@media only screen and (max-width: 734px) {
+.section-find-my .image-find-my{
+    margin-top:20px;
+}
+}
+
+.section-setup .family-members .column {
+    width: 25%;
+}
+
+@media only screen and (max-width: 735px) {
+    .section-setup .family-members .column {
+        width: 50%
+    }
+}
+.section-setup .family-members .large-2 {
+    flex-basis: 25%;
+    max-width: 25%;
+}
+@media only screen and (max-width: 734px) {
+    .section-setup .family-members .small-6 {
+        -ms-flex-preferred-size: 50%;
+        flex-basis: 50%;
+        max-width:50%
+    }
+}
+
+@media only screen and (max-width:320px){
+    .section-entertained br{
+       display:none;
+    }     
+}    
+.section-hero .image-hero {
+       height:713px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .image-hero {
+        height:505px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .image-hero {
+        height:206px
+    }
+}
+
+.row.list-nobullet{
+     justify-content:center;
+}
+@media only screen and (max-width: 734px) {
+   .row.list-nobullet{
+       padding-top:50px;
+   }
+}
+/* hero */
+.section-hero .flex-row{
+   max-width:1201px;
+}
+@media only screen and (max-width: 1068px) {
+   .section-hero .flex-row{
+   max-width:980px;
+}
+}
+.section-hero .image-hero {
+    margin-left: 0;
+    padding-right:0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .image-hero {
+        margin-left: auto;
+        padding-right:0
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .image-hero {
+        margin-left: auto;
+        padding-right:0
+    }
+}

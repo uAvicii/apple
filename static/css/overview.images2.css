@@ -1,0 +1,191 @@
+/* S9 start */
+
+.september-2023 .section-announced .announced-item-apple-watch-series-9 .bg-image {
+    width: 378px;
+    height: 361px;
+    background-size: 378px 361px;
+    background-repeat: no-repeat;
+    background-image:url(../image/apple_watch_series_9__d15j8ib7ycia_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .september-2023 .section-announced .announced-item-apple-watch-series-9 .bg-image {
+        background-image:url(../image/apple_watch_series_9__d15j8ib7ycia_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .september-2023 .section-announced .announced-item-apple-watch-series-9 .bg-image {
+        width: 314px;
+        height: 412px;
+        background-size: 314px 412px;
+        background-repeat: no-repeat;
+        background-image:url(../image/apple_watch_series_9__d15j8ib7ycia_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .september-2023 .section-announced .announced-item-apple-watch-series-9 .bg-image {
+        background-image:url(../image/apple_watch_series_9__d15j8ib7ycia_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .september-2023 .section-announced .announced-item-apple-watch-series-9 .bg-image {
+        width: 335px;
+        height: 344px;
+        background-size: 335px 344px;
+        background-repeat: no-repeat;
+        background-image:url(../image/apple_watch_series_9__d15j8ib7ycia_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .september-2023 .section-announced .announced-item-apple-watch-series-9 .bg-image {
+        background-image:url(../image/apple_watch_series_9__d15j8ib7ycia_small_2x.jpg)
+    }
+}
+
+/* S9 End */
+
+/* Watch Ultra 2 Start */
+
+.september-2023 .section-announced .announced-item-apple-watch-ultra-2 .bg-image {
+    width: 378px;
+    height: 349px;
+    background-size: 378px 349px;
+    background-repeat: no-repeat;
+    background-image:url(../image/apple_watch_ultra_2__cyxfxw5245w2_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .september-2023 .section-announced .announced-item-apple-watch-ultra-2 .bg-image {
+        background-image:url(../image/apple_watch_ultra_2__cyxfxw5245w2_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .september-2023 .section-announced .announced-item-apple-watch-ultra-2 .bg-image {
+        width: 314px;
+        height: 378px;
+        background-size: 314px 378px;
+        background-repeat: no-repeat;
+        background-image:url(../image/apple_watch_ultra_2__cyxfxw5245w2_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .september-2023 .section-announced .announced-item-apple-watch-ultra-2 .bg-image {
+        background-image:url(../image/apple_watch_ultra_2__cyxfxw5245w2_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .september-2023 .section-announced .announced-item-apple-watch-ultra-2 .bg-image {
+        width: 335px;
+        height: 336px;
+        background-size: 335px 336px;
+        background-repeat: no-repeat;
+        background-image:url(../image/apple_watch_ultra_2__cyxfxw5245w2_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .september-2023 .section-announced .announced-item-apple-watch-ultra-2 .bg-image {
+        background-image:url(../image/apple_watch_ultra_2__cyxfxw5245w2_small_2x.jpg)
+    }
+}
+
+/* Watch Ultra 2 End */
+
+.section-announced .announced-item-macbook-pro .bg-image {
+    width: 378px;
+    height: 349px;
+    background-size: 378px 349px;
+    background-repeat: no-repeat;
+    background-image:url(../image/macbook_pro__bnb6n8c6udte_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-announced .announced-item-macbook-pro .bg-image {
+        background-image:url(../image/macbook_pro__bnb6n8c6udte_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-announced .announced-item-macbook-pro .bg-image {
+        width: 314px;
+        height: 389px;
+        background-size: 314px 389px;
+        background-repeat: no-repeat;
+        background-image:url(../image/macbook_pro__bnb6n8c6udte_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-announced .announced-item-macbook-pro .bg-image {
+        background-image:url(../image/macbook_pro__bnb6n8c6udte_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-announced .announced-item-macbook-pro .bg-image {
+        width: 334px;
+        height: 363px;
+        background-size: 334px 363px;
+        background-repeat: no-repeat;
+        background-image:url(../image/macbook_pro__bnb6n8c6udte_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-announced .announced-item-macbook-pro .bg-image {
+        background-image:url(../image/macbook_pro__bnb6n8c6udte_small_2x.jpg)
+    }
+}
+
+.section-announced .announced-item-imac .bg-image {
+    width: 378px;
+    height: 349px;
+    background-size: 378px 349px;
+    background-repeat: no-repeat;
+    background-image:url(../image/imac__b9rcnn4nzvhy_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-announced .announced-item-imac .bg-image {
+        background-image:url(../image/imac__b9rcnn4nzvhy_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-announced .announced-item-imac .bg-image {
+        width: 314px;
+        height: 389px;
+        background-size: 314px 389px;
+        background-repeat: no-repeat;
+        background-image:url(../image/imac__b9rcnn4nzvhy_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-announced .announced-item-imac .bg-image {
+        background-image:url(../image/imac__b9rcnn4nzvhy_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-announced .announced-item-imac .bg-image {
+        width: 334px;
+        height: 454px;
+        background-size: 334px 454px;
+        background-repeat: no-repeat;
+        background-image:url(../image/imac__b9rcnn4nzvhy_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-announced .announced-item-imac .bg-image {
+        background-image:url(../image/imac__b9rcnn4nzvhy_small_2x.jpg)
+    }
+}

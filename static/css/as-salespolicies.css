@@ -1,0 +1,13 @@
+.as-uniqueidentifier-table {
+    border-collapse: collapse;
+}
+
+.as-uniqueidentifier-data {
+    border: 1px solid #d2d2d7;
+    text-align: left;
+    padding: 8px;
+}
+
+.as-uniqueidentifier-tablerow:nth-child(even) {
+    background-color: #F5F5F7;
+}

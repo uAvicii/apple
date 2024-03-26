@@ -1,0 +1,150 @@
+html.no-static .section-hero .line-2 .transform {
+    width: max-content;
+}
+
+@media only screen and (max-width: 320px) {
+    html[lang=zh-CN] br.hide-for-xsmall {
+        display: none
+    }
+
+    .xs-rp{
+        position: static;
+    }
+}
+
+.beforeQuo {
+    position: relative;
+  }
+  
+  .beforeQuo::before {
+    content: '“';
+    position: absolute;
+    left: -0.65em;
+    top: 0px;
+    display: block;
+  }
+
+.section-router .routers {
+    grid-template-columns:auto auto auto;
+}
+
+@media only screen and (max-width: 734px) {
+    .section-router .routers {
+        grid-template-columns:none;
+    }
+}
+
+@media only screen and (min-width: 735px) {
+    .section-router .routers .router-item-malala {
+        grid-column: span 3;
+    }
+}
+
+.modal--ability .quote {
+    max-width: 700px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal--ability .quote {
+        max-width:550px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal--ability .quote {
+        max-width:570px
+    }
+}
+
+.modal--growing .quote {
+    max-width: 670px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal--growing .quote {
+        max-width:550px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal--growing .quote {
+        max-width:570px
+    }
+}
+
+.modal--higher-education .quote {
+    max-width: 720px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal--higher-education .quote {
+        max-width:550px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal--higher-education .quote {
+        max-width:570px
+    }
+}
+
+.modal--achieve .quote {
+    max-width: 680px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal--achieve .quote {
+        max-width:550px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal--achieve .quote {
+        max-width:570px
+    }
+}
+
+.modal--control .quote {
+    max-width: 720px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal--control .quote {
+        max-width:550px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal--control .quote {
+        max-width:570px
+    }
+}
+
+.pingfang{
+    font-family: "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif; 
+    font-size: 19px;
+    position: relative;
+    top: -1px;
+}
+
+
+@media only screen and (max-width: 734px) {
+    .pingfang{
+        font-size: 17px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #support .card__content {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+
+@media only screen and (max-width: 320px) {html[lang=zh-CN] br.hide-for-xsmall {display: none}}
+@media only screen and (max-width: 375px) {html[lang=zh-CN] br.show-only-for-eight {display: block}}
+
+.modal--support .modal-copy-style{
+    font-style: italic;
+}
+

@@ -1,0 +1,95 @@
+/*nav fix*/
+
+
+/* blood oxygen full tile */
+
+/* 2024 0223 */
+.grid-item-sleep .tile-content .tile-header {
+    padding-right: 40px
+}
+
+.grid-item-sleep .tile-content .tile-copy {
+    max-width: 490px
+}
+
+.grid-item-sleep .tile-content {
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.grid-item-sleep .tile-body,
+.grid-item-ecg .tile-body {
+    padding-top: 0px;
+}
+
+
+.grid-item-sleep .tile-body {
+    padding-bottom: 0px;
+}
+
+@media only screen and (max-width: 734px) {
+    .grid-item-sleep .tile-content {
+        flex-direction: column
+    }
+
+    .grid-item-sleep .tile-content .tile-body {
+        padding-top: 20px
+    }
+
+}
+
+/* wellness start */
+html[lang=zh-CN].ac-nav-overlap.ac-ls-visible #ac-globalnav {
+    top:inherit;
+}
+@media only screen and (max-width: 734px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible #ac-globalnav {
+        top:inherit;
+    }
+}
+html[lang=zh-CN].ac-nav-overlap.ac-ls-visible #ac-localnav {
+     margin-top: 114px;
+}
+@media (min-width: 768px) and (max-width: 833px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible #ac-localnav {
+        margin-top:183px
+    }
+}
+@media only screen and (max-width: 734px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible #ac-localnav {
+        margin-top:185px
+    }
+}
+@media screen and (max-width: 767px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible .fix-locale-switcher #ac-localnav {
+        margin-top:185px
+    }
+}
+html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-gn-segmentbar-visible .fix-locale-switcher #ac-localnav {
+    margin-top:154px
+}
+@media screen and (max-width: 767px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-gn-segmentbar-visible .fix-locale-switcher #ac-localnav {
+        margin-top:225px
+    }
+}
+html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-ls-cn-hp #ac-globalnav {
+    position: fixed;
+    margin-top:114px
+}
+@media only screen and (max-width: 734px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-ls-cn-hp #ac-globalnav {
+        top:183px
+    }
+}
+html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-ls-cn-hp #ac-localnav {
+    margin-top:165px
+}
+@media only screen and (max-width: 734px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-ls-cn-hp #ac-localnav {
+        margin-top:230px
+    }
+}
+html[lang=zh-CN].ac-nav-overlap.globalmessage-segment-visible.ac-ls-visible .ac-nav-overlap #ac-localnav {
+    margin-top:calc(var(--r-localeswitcher-height) + max(var(--r-globalmessage-segment-height, 0px), var(--r-adv-height, 0px)) + var(--r-globalnav-height))
+}

@@ -1,0 +1,161 @@
+@media only screen and (max-width: 735px) {
+    .section-block.mobile-mb{
+    margin-bottom: 300px;
+}
+        .section-stores .symbols-wrapper {
+            margin-top: 35px
+        }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-stores .margin-top {
+        margin-top: 1.4em
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    html[lang=zh-CN] .pay-cn {
+        margin-bottom: 300px;
+    }
+}
+
+/*-------------------------images localization start-------------------------*/
+.section-stores .symbols-wrapper .logos .contactless-logo-container.icon-container {
+	width: 119px;
+    height: 54px;
+    margin-left: 25px;
+	display: inline-block;
+}
+.section-stores .symbols-wrapper .logos .apple-pay-logo-container.icon-container {
+	margin-left: -8px;
+}
+@media only screen and (max-width: 1068px) {
+	.section-stores .symbols-wrapper .logos .contactless-logo-container.icon-container {
+		margin-left: 25px;
+	}
+}
+@media only screen and (max-width: 735px) {
+    .section-stores .symbols-wrapper .logos{
+        margin-top: 14px;
+    }
+    .section-stores .symbols-wrapper .logos .apple-pay-logo-container.icon-container {
+
+        margin-left: -19px;
+	}
+    .section-stores .symbols-wrapper .logos .contactless-logo-container.icon-container {
+        margin-top: 0.6px;
+        margin-left: -10px;
+	}
+}
+
+/*  hero position  */
+.section-hero .hardware-row {
+    width: 1260px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    margin-top: 30px;
+    margin-bottom: 57px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .hardware-row {
+        width: 720px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-hero .hardware-row {
+        width: 372px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .hardware-row {
+        margin-bottom: 66px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-hero .hardware-row {
+        margin-top: 10px;
+        margin-bottom: 12px
+    }
+}
+.page-overview .section-logo-group .section-content {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+
+
+
+
+@media only screen and (max-width: 1068px) {
+    .section-stores .video-thumbnail-wrapper {
+        margin-top: 551px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-stores .video-thumbnail-wrapper {
+        margin-top: 34px
+    }
+}
+
+/* earth day start */
+.section-get-around-town .caption {
+	position: absolute;
+	color: #515154;
+	bottom: 90px;
+    left: 100px;
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-get-around-town .caption {
+		bottom: 38px;
+    	left: 43px;
+	}
+}
+@media only screen and (max-width: 735px) {
+	.section-get-around-town .caption {
+		bottom: 10px;
+    	left: 50%;
+    	margin-left: -68px;
+	}
+}
+
+.section-get-around-town .caption a {
+	color: #515154;
+}
+
+.section-get-around-town .caption a:hover {
+	color: #0070c9;
+	text-decoration: none;
+}
+/* earth day end */
+
+/* legal start */
+#ac-globalfooter .ac-gf-sosumi .line-spacing {
+	padding-top: 0.7em;
+}
+/* legal end */
+
+/* sup start */
+.section-logo-group .suptop {
+	top: -.5em;
+	position: relative;
+	font-size: .6em;
+	vertical-align: baseline;
+}
+/* sup end */

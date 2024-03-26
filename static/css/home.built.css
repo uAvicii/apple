@@ -1,0 +1,22 @@
+.card .card-modifier.has-trigger-button {
+    padding-inline-end: 65px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .card .card-modifier.has-trigger-button {
+        padding-inline-end:73px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-select .product-tile-price{
+        width: 8.5em;
+    }
+}
+
+.section-select .gallery-gallery-1 .product-tile-product-mbp1416 .product-tile-plus-copy {
+    max-width: 265px;
+}
+.section-select .gallery-gallery-1 .stat-ports {
+    max-width: 276px;
+}

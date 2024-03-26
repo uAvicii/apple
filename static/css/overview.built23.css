@@ -1,0 +1,81 @@
+/* arrow start */
+.icon-wrapper .icon, .icon-wrapper .more::after, .icon-wrapper .icon-before::before, .icon-wrapper .icon-after::after{position: relative;}
+/* arrow end */
+
+/* hero alt start */
+.section-hero .section-content .hero-slide-wrapper .upper-content .copy-wrapper {
+    position: absolute;
+    bottom: calc(-303px - var(--hero-copy-block-y-adjuster));
+    width:100%
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .section-content .hero-slide-wrapper .upper-content .copy-wrapper {
+        bottom:calc(-232px - var(--hero-copy-block-y-adjuster))
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .section-content .hero-slide-wrapper .upper-content .copy-wrapper {
+        bottom:calc(-162px - var(--hero-copy-block-y-adjuster))
+    }
+}
+
+.section-hero .section-content .hero-slide-wrapper .upper-content .copy-wrapper .hero-headline {
+    margin-top: 30px;
+    font-size: 78px;
+    line-height: 1.07;
+    max-width:610px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .section-content .hero-slide-wrapper .upper-content .copy-wrapper .hero-headline {
+        margin-top: 24px;
+        font-size: 56px;
+        line-height: 1.07143;
+        max-width:460px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .section-content .hero-slide-wrapper .upper-content .copy-wrapper .hero-headline {
+        font-size: 40px;
+        line-height: 1.1;
+        margin-top:17px
+    }
+}
+/* hero alt end */
+
+/* override global start */
+html[lang=zh-CN] .typography-site-body.body-copy {
+    line-height: 1.19048;
+}
+@media only screen and (max-width: 1068px) {
+    html[lang=zh-CN] .typography-site-body.body-copy {
+        line-height: 1.29412;
+    }
+}
+@media only screen and (max-width: 734px) {
+    html[lang=zh-CN] .typography-site-body.body-copy {
+        line-height: 1.15798;
+    }
+}
+/* override global end */
+
+/* wechat-fix ar start */
+html.wechat-fix .quicklook-component {
+    display:none
+}
+
+html.wechat-fix.quicklook-classic .quicklook-component.quicklook-cta-classic {
+    display:none
+}
+
+html.wechat-fix.quicklook-modern .quicklook-component.quicklook-cta-modern {
+    display: none;
+}
+
+html.wechat-fix .quicklook-hide {
+    display:block
+}
+/* wechat-fix ar end */

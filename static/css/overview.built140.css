@@ -1,0 +1,31 @@
+/*Experience*/
+.tile-header {
+	margin-top: -3px;
+}
+
+/*Hiking-Elevation alerts*/
+@media only screen and (min-width:735px)and (max-width:1068px) {
+	.section-hiking .grid-item-elevation-alerts .elevation-alerts-body-content {
+		min-height: 178px;
+	}
+}
+
+/*Elevation alerts*/
+.section-hiking .grid-item-elevation-alerts .lottie-container .end-frame-picture {
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-position: 50%;
+}
+
+
+@media only screen and (max-width: 320px) {
+	html[lang=zh-CN] br.xs-hide {
+		display: none;
+	}	 
+}
+
+
+.section-mental-health .grid-item-reflect .tile-blockquote, .section-mental-health .grid-item-reflect .tile-header {
+	max-width: 350px;
+}

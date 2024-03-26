@@ -1,0 +1,147 @@
+/*
+    iPhone Step0 CSS
+    ===============================================
+*/
+
+.rf-ccard-withvideo .rf-ccard-inline-video {
+    width: 340px;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 195px;
+}
+
+.rf-ccard-withvideo .rf-ccard-content-desc {
+    width: auto;
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .rf-ccard-withvideo .rf-ccard-inline-video {
+        width: 275px;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 202px;
+    }
+}
+
+@media only screen and (max-device-width: 320px) {
+    .rf-ccard-withvideo .rf-ccard-inline-video {
+        width: 235px;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 238px;
+    }
+}
+
+.rf-ccard-fullwidth-video .rf-ccard-inline-video {
+    width: 100%;
+    height: 100%;
+    padding-top: 0;
+}
+
+html.no-touch .rf-cards-scroller .paddlenav-arrow {
+    transition: transform 0.5s ease-in, opacity 0.7s cubic-bezier(0.15, 0, 0.2, 1) 0.1s;
+}
+
+html.no-touch .rf-cards-scroller:hover .paddlenav-arrow:not([disabled]) {
+    transition-duration: 0.5s;
+}
+
+html.no-touch .rf-cards-scroller:hover .paddlenav-arrow:hover:not([disabled]) {
+    transition-duration: 0.5s;
+}
+
+html.no-touch .rf-cards-scroller:hover .paddlenav-arrow:active:not([disabled]) {
+    transition-duration: 0.5s;
+}
+
+html.as-keyboarduser .rf-cards-scroller .paddlenav-arrow:focus {
+    transition-duration: 0.5s;
+}
+
+html.as-keyboarduser .rf-cards-scroller .paddlenav-arrow:active {
+    transition-duration: 0.5s;
+}
+
+.rf-digitalmat-inlinetabnav-tabcontent-container {
+    padding-bottom: 33px;
+}
+
+.rf-digitalmat-explorelink {
+    padding-top: 5px;
+}
+
+.rf-card-msgtag-orange .rf-card-msgtag-content {
+    color: #bf4800;
+}
+
+.rf-card-msgtag-divider-left {
+    color: #6e6e73;
+    padding-left: 12px;
+}
+
+.rf-card-msgtag-divider-left:before {
+    color: #6e6e73;
+    content: "|";
+    margin-left: -7px;
+    position: absolute;
+}
+
+.rf-hcard-content-eyebrow {
+    width: 258px;
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .rf-digitalmat-inlinetabnav-tabcontent-container {
+        padding-bottom: 0;
+    }
+
+    .rf-digitalmat-productdetails {
+        padding-bottom: 14px;
+    }
+
+    .rf-digitalmat-explorelink {
+        padding-top: 0;
+    }
+
+    .rf-hcard-content-eyebrow {
+        width: auto;
+    }
+}
+
+@media only screen and (max-device-width: 320px) {
+    .rf-hcard-content-eyebrow {
+        width: 204px;
+    }
+}
+
+.jp .rf-ccard-playcta-chevron {
+    padding-top: 4px;
+}
+
+html.no-touch .rf-cards-scroller .paddlenav-arrow {
+    transition: transform 0.5s ease-in, opacity 0.7s cubic-bezier(0.15, 0, 0.2, 1) 0.1s;
+}
+
+html.no-touch .rf-cards-scroller:hover .paddlenav-arrow:not([disabled]) {
+    transition-duration: 0.5s;
+}
+
+html.no-touch .rf-cards-scroller:hover .paddlenav-arrow:hover:not([disabled]) {
+    transition-duration: 0.5s;
+}
+
+html.no-touch .rf-cards-scroller:hover .paddlenav-arrow:active:not([disabled]) {
+    transition-duration: 0.5s;
+}
+
+html.as-keyboarduser .rf-cards-scroller .paddlenav-arrow:focus {
+    transition-duration: 0.5s;
+}
+
+html.as-keyboarduser .rf-cards-scroller .paddlenav-arrow:active {
+    transition-duration: 0.5s;
+}
+
+.rf-ccard-withvideo div:empty {
+    height: 1px;
+}

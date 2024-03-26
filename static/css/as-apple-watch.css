@@ -1,0 +1,30 @@
+.rf-overlay-chat-withbackgroundfooter {
+    background-color: #f5f5f7;
+    text-align: center;
+    padding: 25px 80px;
+}
+
+.rf-overlay-chat-withbackgroundfooter .as-chat.as-chat-buyflow {
+    padding: 0;
+}
+
+.rc-overlay-gallery-footer {
+    position: fixed;
+    bottom: 48px;
+}
+
+.rf-ribbon.rf-ribbon-hide {
+    display: none;
+}
+
+.rc-overlay-gallery-footerdisclaimer {
+    display: none;
+}
+
+.rc-overlay-gallery-footer .rc-overlay-gallery-footerdisclaimer {
+    display: block;
+}
+
+.rc-flagship-compatibility .rs-compatibility-img {
+    align-self: center;
+}

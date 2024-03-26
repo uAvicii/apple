@@ -1,0 +1,21 @@
+@media only screen and (max-width: 734px) {
+    .s-nbsp {
+        display: none;
+    }
+}
+ .main .gallery-item-mail-privacy .will-strikethrough::after {
+  top: calc(1.5em / 3);
+ }
+
+
+.page-features .section-imessage.no-violator .article-item:nth-child(6) .article-body-subhead, .page-features .section-imessage.no-violator .article-item:nth-child(8) .article-body-subhead{
+    padding-top: 0px;
+ }
+ 
+ .page-features .section-imessage.no-violator .article-item:nth-child(5) .article-body-subhead{
+    padding-top: 40px;
+ }
+
+  
+  
+  

@@ -1,0 +1,82 @@
+/*
+	PDP CSS
+	===============================================
+*/
+
+/**
+ * rdar://72924807 - fix for band compatibility overlay chat styles
+ * TODO: remove in 21.5
+ */
+.as-pdp .rf-pdp-overlaychat-withbackgroundfooter {
+    padding: 0 80px;
+}
+
+@media only screen and (max-device-width: 736px) and (max-width: 1023px) {
+    .as-pdp .rf-pdp-overlaychat-withbackgroundfooter {
+        padding: 0 6.25%;
+    }
+
+    .rf-storelocator-selectaction {
+        left: 0;
+        right: 0;
+    }
+}
+
+.as-pdp .rf-pdp-overlaychat-withbackgroundfooter .as-chat-title {
+    padding-top: 0;
+}
+
+/**
+ * rdar://72924807 -- fix for extra padding above .form-selector-with-gutters
+ * TODO: remove in 21.5
+ */
+.as-pdp .rf-pdp-dimension-group .rc-dimension-selector-group {
+    margin-top: 0;
+}
+
+.rf-bandsizeguide-video .rc-videoplayer {
+    min-height: 346px;
+    overflow: hidden;
+}
+
+@media only screen and (max-device-width: 320px) and (orientation: portrait) {
+   .rf-pdp-violator {
+       white-space: normal;
+   }
+}
+
+.rf-recommendations-accessory-pricedesc {
+   display: block;
+   white-space: normal;
+}
+
+.rf-pdp-product-logo {
+    padding-left: 3px;
+    gap: 0;
+}
+
+.rf-pdp-product-logo .rf-pdp-product-logo-image {
+    width: 1.471rem;
+    height: auto;
+}
+
+.rf-pdp-product-logo span {
+    font-size: 12px;
+    line-height: 1.4705882353;
+    font-weight: 500;
+    letter-spacing: -0.039em;
+    color: black;
+}
+
+.rf-pdp-compatibility-productlistitems .rf-pdp-compatibility-productlistlinks {
+    text-decoration: underline;
+    color: #06c;
+}
+
+@media only screen and (max-device-width: 736px) and (max-width: 1023px) {
+    .rf-recommendations .rf-recommendations-accessory-image img,
+    .rf-recommendations .rf-recommendations-accessory-inline .rf-recommendations-accessory-image {
+        width: 100%;
+        height: auto;
+    }
+}

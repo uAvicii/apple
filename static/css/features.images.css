@@ -1,0 +1,664 @@
+@media only screen and (max-width: 1068px) {
+  .section-imessage .article-title {
+    max-width: 47%;
+  }
+}
+
+@media only screen and (max-width: 734px) {
+  .section-imessage .article-title {
+    max-width: 100%;
+  }
+}
+
+.section-apple-pay .article-figure {
+  background-image: url("../image/apple_pay__cc42mzz488wi_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apple-pay .article-figure {
+    background-image: url("../image/apple_pay__cc42mzz488wi_large_2x.jpg");
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .section-apple-pay .article-figure {
+    background-image: url("../image/apple_pay__cc42mzz488wi_medium.jpg");
+  }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apple-pay .article-figure {
+    background-image: url("../image/apple_pay__cc42mzz488wi_medium_2x.jpg");
+  }
+}
+@media only screen and (max-width: 734px) {
+  .section-apple-pay .article-figure {
+    background-image: url("../image/apple_pay__cc42mzz488wi_small.jpg");
+  }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .section-apple-pay .article-figure {
+    background-image: url("../image/apple_pay__cc42mzz488wi_small_2x.jpg");
+  }
+}
+
+
+
+.section-app-store .article-figure {
+    background-image: url("../image/app_store__hvx5i968rl6q_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-app-store .article-figure {
+        background-image: url("../image/app_store__hvx5i968rl6q_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-app-store .article-figure {
+        background-image: url("../image/app_store__hvx5i968rl6q_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-app-store .article-figure {
+        background-image: url("../image/app_store__hvx5i968rl6q_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-app-store .article-figure {
+        background-image: url("../image/app_store__hvx5i968rl6q_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-app-store .article-figure {
+        background-image: url("../image/app_store__hvx5i968rl6q_small_2x.jpg")
+    }
+}
+
+.section-car-play .article-figure {
+    background-image: url("../image/carplay__drux7ji7q2y6_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-car-play .article-figure {
+        background-image: url("../image/carplay__drux7ji7q2y6_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-car-play .article-figure {
+        background-image: url("../image/carplay__drux7ji7q2y6_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-car-play .article-figure {
+        background-image: url("../image/carplay__drux7ji7q2y6_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-car-play .article-figure {
+        background-image: url("../image/carplay__drux7ji7q2y6_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-car-play .article-figure {
+        background-image: url("../image/carplay__drux7ji7q2y6_small_2x.jpg")
+    }
+}
+
+.section-children-families .article-figure {
+    background-image: url("../image/children_and_families__byj6spu7xvki_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-children-families .article-figure {
+        background-image: url("../image/children_and_families__byj6spu7xvki_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-children-families .article-figure {
+        background-image: url("../image/children_and_families__byj6spu7xvki_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-children-families .article-figure {
+        background-image: url("../image/children_and_families__byj6spu7xvki_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-children-families .article-figure {
+        background-image: url("../image/children_and_families__byj6spu7xvki_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-children-families .article-figure {
+        background-image: url("../image/children_and_families__byj6spu7xvki_small_2x.jpg")
+    }
+}
+
+.section-health .article-figure {
+    background-image: url("../image/health__btg6n705ukya_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-health .article-figure {
+        background-image: url("../image/health__btg6n705ukya_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-health .article-figure {
+        background-image: url("../image/health__btg6n705ukya_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-health .article-figure {
+        background-image: url("../image/health__btg6n705ukya_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-health .article-figure {
+        background-image: url("../image/health__btg6n705ukya_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-health .article-figure {
+        background-image: url("../image/health__btg6n705ukya_small_2x.jpg")
+    }
+}
+
+.section-home .article-figure {
+    background-image: url("../image/home__fjxdb2xf156y_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-home .article-figure {
+        background-image: url("../image/home__fjxdb2xf156y_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-home .article-figure {
+        background-image: url("../image/home__fjxdb2xf156y_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-home .article-figure {
+        background-image: url("../image/home__fjxdb2xf156y_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-home .article-figure {
+        background-image: url("../image/home__fjxdb2xf156y_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-home .article-figure {
+        background-image: url("../image/home__fjxdb2xf156y_small_2x.jpg")
+    }
+}
+
+.section-icloud .article-figure {
+    background-image: url("../image/icloud__00l4krrxu4ym_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-icloud .article-figure {
+        background-image: url("../image/icloud__00l4krrxu4ym_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-icloud .article-figure {
+        background-image: url("../image/icloud__00l4krrxu4ym_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-icloud .article-figure {
+        background-image: url("../image/icloud__00l4krrxu4ym_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-icloud .article-figure {
+        background-image: url("../image/icloud__00l4krrxu4ym_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-icloud .article-figure {
+        background-image: url("../image/icloud__00l4krrxu4ym_small_2x.jpg")
+    }
+}
+
+.section-icloud-plus .article-figure {
+    background-image: url("../image/icloud_plus__eh3d5milkcmu_large1.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-icloud-plus .article-figure {
+        background-image: url("../image/icloud_plus__eh3d5milkcmu_large_2x1.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-icloud-plus .article-figure {
+        background-image: url("../image/icloud_plus__eh3d5milkcmu_medium1.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-icloud-plus .article-figure {
+        background-image: url("../image/icloud_plus__eh3d5milkcmu_medium_2x1.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-icloud-plus .article-figure {
+        background-image: url("../image/icloud_plus__eh3d5milkcmu_small1.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-icloud-plus .article-figure {
+        background-image: url("../image/icloud_plus__eh3d5milkcmu_small_2x1.jpg")
+    }
+}
+
+.section-imessage .article-figure {
+    background-image: url("../image/imessage__f3syc2nly02u_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-imessage .article-figure {
+        background-image: url("../image/imessage__f3syc2nly02u_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-imessage .article-figure {
+        background-image: url("../image/imessage__f3syc2nly02u_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-imessage .article-figure {
+        background-image: url("../image/imessage__f3syc2nly02u_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-imessage .article-figure {
+        background-image: url("../image/imessage__f3syc2nly02u_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-imessage .article-figure {
+        background-image: url("../image/imessage__f3syc2nly02u_small_2x.jpg")
+    }
+}
+
+.section-location .article-figure {
+    background-image: url("../image/location__f1r6071idhay_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-location .article-figure {
+        background-image: url("../image/location__f1r6071idhay_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-location .article-figure {
+        background-image: url("../image/location__f1r6071idhay_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-location .article-figure {
+        background-image: url("../image/location__f1r6071idhay_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-location .article-figure {
+        background-image: url("../image/location__f1r6071idhay_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-location .article-figure {
+        background-image: url("../image/location__f1r6071idhay_small_2x.jpg")
+    }
+}
+
+.section-maps .article-figure {
+    background-image: url("../image/maps__c35z2vep1866_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-maps .article-figure {
+        background-image: url("../image/maps__c35z2vep1866_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-maps .article-figure {
+        background-image: url("../image/maps__c35z2vep1866_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-maps .article-figure {
+        background-image: url("../image/maps__c35z2vep1866_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-maps .article-figure {
+        background-image: url("../image/maps__c35z2vep1866_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-maps .article-figure {
+        background-image: url("../image/maps__c35z2vep1866_small_2x.jpg")
+    }
+}
+
+.section-news .article-figure {
+    background-image: url("../image/news__fipfulxmb8uy_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-news .article-figure {
+        background-image: url("../image/news__fipfulxmb8uy_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-news .article-figure {
+        background-image: url("../image/news__fipfulxmb8uy_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-news .article-figure {
+        background-image: url("../image/news__fipfulxmb8uy_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-news .article-figure {
+        background-image: url("../image/news__fipfulxmb8uy_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-news .article-figure {
+        background-image: url("../image/news__fipfulxmb8uy_small_2x.jpg")
+    }
+}
+
+.section-photos .article-figure {
+    background-image: url("../image/photos__bkbre4x5zvjm_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-photos .article-figure {
+        background-image: url("../image/photos__bkbre4x5zvjm_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-photos .article-figure {
+        background-image: url("../image/photos__bkbre4x5zvjm_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-photos .article-figure {
+        background-image: url("../image/photos__bkbre4x5zvjm_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-photos .article-figure {
+        background-image: url("../image/photos__bkbre4x5zvjm_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-photos .article-figure {
+        background-image: url("../image/photos__bkbre4x5zvjm_small_2x.jpg")
+    }
+}
+
+.section-safari .article-figure {
+    background-image: url("../image/safari__dvsxt46fehsi_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-safari .article-figure {
+        background-image: url("../image/safari__dvsxt46fehsi_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-safari .article-figure {
+        background-image: url("../image/safari__dvsxt46fehsi_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-safari .article-figure {
+        background-image: url("../image/safari__dvsxt46fehsi_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-safari .article-figure {
+        background-image: url("../image/safari__dvsxt46fehsi_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-safari .article-figure {
+        background-image: url("../image/safari__dvsxt46fehsi_small_2x.jpg")
+    }
+}
+
+.section-sign-in .article-figure {
+    background-image: url("../image/sign_in__buh3bbnxrjci_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-sign-in .article-figure {
+        background-image: url("../image/sign_in__buh3bbnxrjci_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-sign-in .article-figure {
+        background-image: url("../image/sign_in__buh3bbnxrjci_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-sign-in .article-figure {
+        background-image: url("../image/sign_in__buh3bbnxrjci_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-sign-in .article-figure {
+        background-image: url("../image/sign_in__buh3bbnxrjci_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-sign-in .article-figure {
+        background-image: url("../image/sign_in__buh3bbnxrjci_small_2x.jpg")
+    }
+}
+
+.section-wallet .article-figure {
+    background-image: url("../image/wallet__jnf671s73hqq_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .section-wallet .article-figure {
+        background-image: url("../image/wallet__jnf671s73hqq_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-wallet .article-figure {
+        background-image: url("../image/wallet__jnf671s73hqq_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-wallet .article-figure {
+        background-image: url("../image/wallet__jnf671s73hqq_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-wallet .article-figure {
+        background-image: url("../image/wallet__jnf671s73hqq_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-wallet .article-figure {
+        background-image: url("../image/wallet__jnf671s73hqq_small_2x.jpg")
+    }
+}

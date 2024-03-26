@@ -1,0 +1,402 @@
+/* 回收处理 */
+#overview-hero-plan-text-recovery-2 {
+    transform: translateX(15px);
+}
+
+@media only screen and (max-width: 1068px) {
+    #overview-hero-plan-text-recovery-2 {
+        transform: translateX(7px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-hero-plan-text-recovery-2 {
+        transform: translateX(7px);
+    }
+}
+
+/* 物料 */
+#overview-hero-plan-text-materials-2 {
+    transform: translateX(38px);
+}
+
+@media only screen and (max-width: 1068px) {
+    #overview-hero-plan-text-materials-2 {
+        transform: translateX(32px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-hero-plan-text-materials-2 {
+        transform: translateX(16px);
+    }
+}
+
+/* 产品使用 */
+#overview-hero-plan-text-product-use-2 {
+    transform: translateX(15px);
+}
+
+@media only screen and (max-width: 1068px) {
+    #overview-hero-plan-text-product-use-2 {
+        transform: translateX(9px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-hero-plan-text-product-use-2 {
+        transform: translateX(6px);
+    }
+}
+
+/* 制造 */
+#overview-hero-plan-text-make-2 {
+    transform: translateX(-7px);
+}
+
+@media only screen and (max-width: 1068px) {
+    #overview-hero-plan-text-make-2 {
+        transform: translateX(-2px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-hero-plan-text-make-2 {
+        transform: translateX(-6px);
+    }
+}
+
+/* 运输 */
+#overview-hero-plan-text-shipping-2 {
+    transform: translateX(7px);
+}
+
+@media only screen and (max-width: 1068px) {
+    #overview-hero-plan-text-shipping-2 {
+        transform: translateX(2px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-hero-plan-text-shipping-2 {
+        transform: translateX(3px);
+    }
+}
+
+/* section-iphone */
+.section-iphone .card-headline .line2:before {
+    transform: translate(-63px, 0px);
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-iphone .card-headline .line2:before {
+        transform: translate(-33px, 0px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-iphone .card-headline .line2:before {
+        transform: translate(63px, 0px);
+    }
+}
+
+.section-iphone .card-headline .line2 span:after {
+    transform: translate(56px, -74px);
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-iphone .card-headline .line2 span:after {
+        transform: translate(15px, -58px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-iphone .card-headline .line2 span:after {
+        transform: translate(52px, -48px);
+    }
+}
+
+/* section-iphone */
+@media only screen and (max-width: 734px) {
+    .section-iphone .card-headline .line1:after {
+        transform: translate(-63px, 0px);
+    }
+}
+
+/* section-shipping */
+@media only screen and (max-width: 734px) {
+    .section-shipping .card-headline {
+        max-width: 100%;
+    }
+}
+
+/* section-aluminum */
+@media only screen and (max-width: 734px) {
+    #overview-card07-arrow1-2 {
+        transform: translate(37px, 14px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-card07-arrow2-2 {
+        transform: translate(25px, 8px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-card07-arrow3-2 {
+        transform: translate(-28px, 15px);
+    }
+}
+
+/* section-taptic-engine */
+html.enhance-xp .section-taptic-engine .image-notification {
+    right: 16px;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhance-xp .section-taptic-engine .image-notification {
+        right: 60px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhance-xp .section-taptic-engine .image-notification {
+        right: 67px;
+    }
+}
+
+.page-overview .section-taptic-engine .image-vibes-text {
+    right: 0px;
+    bottom: 6px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-taptic-engine .image-vibes-text {
+        right: -22px;
+        bottom: -2px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .page-overview .section-taptic-engine .image-vibes-text {
+        left: 25px;
+        bottom: -3px;
+    }
+}
+
+/* Carbon Neutral Logo */
+#overview-hero-icon-carbon-neutral-2 {
+    transform: translate(10px, -81px);
+}
+
+@media only screen and (max-width: 1068px) {
+    #overview-hero-icon-carbon-neutral-2 {
+        transform: translate(7px, -98px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-hero-icon-carbon-neutral-2 {
+        transform: translate(5px, -54px);
+    }
+}
+
+/* 100% */
+#overview-innovation-watch-text1-2 {
+    transform: translate(45px, -13px);
+}
+
+@media only screen and (max-width: 1068px) {
+    #overview-innovation-watch-text1-2 {
+        transform: translate(36px, -15px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-innovation-watch-text1-2 {
+        transform: translate(0px, -3px);
+    }
+}
+
+/* 30% */
+#overview-innovation-watch-text2-2 {
+    transform: translate(-48px, -29px);
+}
+
+@media only screen and (max-width: 1068px) {
+    #overview-innovation-watch-text2-2 {
+        transform: translate(-7px, 10px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-innovation-watch-text2-2 {
+        transform: translate(20px, -3px);
+    }
+}
+
+/* 50% */
+#overview-innovation-watch-text3-2 {
+    transform: translate(-15px, 19px);
+}
+
+@media only screen and (max-width: 1068px) {
+    #overview-innovation-watch-text3-2 {
+        transform: translate(-6px, 15px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    #overview-innovation-watch-text3-2 {
+        transform: translate(0px, 0px);
+    }
+}
+
+/*  */
+#overview-innovation-watch-arrow2-2 {
+    transform: translate(6px, -25px);
+}
+
+@media only screen and (max-width: 1068px) {
+    #overview-innovation-watch-arrow2-2 {
+        transform: translate(0px, 0px);
+    }
+}
+/* 光风雨 */
+.section-renewables span.image-renewables-1 {
+    margin-bottom: 7px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-renewables span.image-renewables-1 {
+        margin-bottom: 4px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-renewables span.image-renewables-1 {
+        margin-bottom: 3px;
+    }
+}
+
+.image-renewables-2 {
+    transform: translateX(8px);
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-renewables-2 {
+        transform: translateX(6px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .image-renewables-2 {
+        transform: translateX(5px);
+    }
+}
+
+/* section-iphone 左箭头 */
+.section-iphone .card-headline .line1:after {
+    transform: translateX(58px);
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-iphone .card-headline .line1:after {
+        transform: translateX(-30px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-iphone .card-headline .line1:after {
+        transform: translateX(-64px);
+    }
+}
+
+/* section-iphone */
+section.section-iphone .line1 {
+    transform: translate(45px, 0px);
+}
+
+@media only screen and (max-width: 1068px) {
+    section.section-iphone .line1 {
+        transform: translate(25px, 0px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    section.section-iphone .line1 {
+        transform: translate(0px, 0px);
+    }
+}
+
+section.section-iphone .line2 {
+    transform: translate(-51px, 0px);
+}
+
+@media only screen and (max-width: 1068px) {
+    section.section-iphone .line2 {
+        transform: translate(-14px, 0px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    section.section-iphone .line2 {
+        transform: translate(0px, 11px);
+    }
+}
+
+/* section-carbon-neutral */
+.artCD-feedback-fix-1 {
+    transform: translateX(43px);
+}
+
+@media only screen and (max-width: 1068px) {
+    .artCD-feedback-fix-1 {
+        transform: translateX(30px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .artCD-feedback-fix-1 {
+        transform: translateX(0px);
+    }
+}
+
+.artCD-feedback-fix-2 {
+    transform: translateX(-6px);
+}
+
+@media only screen and (max-width: 1068px) {
+    .artCD-feedback-fix-2 {
+        transform: translateX(0px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .artCD-feedback-fix-2 {
+        transform: translateX(0px);
+    }
+}
+
+/* logo-copy */
+.logo-copy {
+    transform: translateX(-8px);
+}
+@media only screen and (max-width: 1068px) {
+    .logo-copy {
+        transform: translateX(-10px);
+    }
+}
+@media only screen and (max-width: 734px) {
+    .logo-copy {
+        transform: translateX(0px);
+    }
+}
+
+/* fix chrome trade-in layout */
+@media only screen and (max-width: 734px) {
+    .section-trade-in .section-copy {
+        padding: 0 20px;
+    }
+}

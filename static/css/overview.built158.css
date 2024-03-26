@@ -1,0 +1,92 @@
+html.enhance-base-xp .section-spatial-audio .sticky .overflow-container .copy-wrapper .typography-intro-headline .headline-part-3 {
+    position: absolute;
+    padding:0px 72px
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhance-base-xp .section-spatial-audio .sticky .overflow-container .copy-wrapper .typography-intro-headline .headline-part-3 {
+        padding:0px 60px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhance-base-xp .section-spatial-audio .sticky .overflow-container .copy-wrapper .typography-intro-headline .headline-part-3 {
+        padding:0px
+    }
+}
+
+
+/*wechat fix AR start*/
+html.wechat-fix.quicklook .section-ar .quicklook-component {
+    display: none
+}
+
+html.wechat-fix.quicklook .section-ar .quicklook-hide {
+	display: block
+}
+/*wechat fix AR end*/
+
+/* line-height alt start */
+
+.section-value-props .tile-case .tile-content {
+    padding: 32px 0 0;
+}
+
+@media only screen and (max-width: 734px) {
+    .section-value-props .tile-case .tile-content {
+        padding: 30px 0 0;
+    }
+}
+
+.typography-intro-headline {
+    line-height: 1.06;
+}
+
+@media only screen and (max-width: 1068px) {
+    .typography-intro-headline {
+        line-height: 1.06;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-intro-headline {
+        line-height: 1.05;
+    }
+}
+
+.typography-value-props-headline {
+    line-height: 1.06;
+}
+
+@media only screen and (max-width: 1068px) {
+    .typography-value-props-headline {
+        line-height: 1.06;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-value-props-headline {
+        line-height: 1.05;
+    }
+}
+/* line-height alt end */
+
+.tile-battery .badge-wrapper.talk .badge-headline {
+    transform: translateX(4px);
+}
+
+@media only screen and (max-width: 734px) {
+    .tile-battery .badge-wrapper.talk .badge-headline {
+        transform: translateX(0);
+    }
+
+    .section-value-props .props-grid .lottie-container .play-pause-button {
+        margin-bottom: 55px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .section-value-props .props-grid .lottie-container .play-pause-button {
+        margin-bottom: 125px;
+    }
+}

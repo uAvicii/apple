@@ -1,0 +1,169 @@
+/* workout alt */
+
+.grid-item.grid-item-workout {
+	--tile-header-orientation: center;
+	--tile-orientation: row;
+}
+
+.grid-item.grid-item-workout .tile-header {
+	order: 2;
+	padding: 30px;
+	justify-content: center;
+}
+
+.grid-item.grid-item-workout .tile-content {
+	flex-direction: unset;
+}
+
+.grid-item.grid-item-workout .tile-body {
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+@media only screen and (max-width: 1068px) {
+	.grid-item.grid-item-workout .tile-header {
+		justify-content: left;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.grid-item.grid-item-workout .tile-header {
+		z-index: 1;
+		padding: 50px 0 0 30px;
+		justify-content: left;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.grid-item.grid-item-workout {
+		--tile-padding-top: 50px;
+		--tile-padding-left: var(--tile-padding);
+		--tile-padding-right: var(--tile-padding);
+		min-height: 550px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.grid-item.grid-item-workout .tile-content {
+		justify-content: center;
+		flex-direction: column-reverse;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.grid-item.grid-item-workout .tile-position-media-left {
+		height: 550px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.grid-item.grid-item-workout .tile-headline {
+		padding-bottom: 70px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.grid-item.grid-item-workout .tile-body {
+		margin-top: -190px;
+		padding: 0;
+	}
+}
+
+
+/*fix trade in*/
+.section-routers .tile-trade-in .copy-container{
+    max-width: 470px;
+}
+
+@media only screen and (max-width: 734px) {
+    .section-routers .tile-trade-in .copy-container {
+        max-width: 300px;
+    }
+}
+
+.grid-item-environment .cta{
+    margin-top: 8px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .grid-item-environment .cta{
+        margin-top: 3px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .grid-item.grid-item-fast .tile-header {
+        justify-content: flex-start;
+    }
+}
+
+
+/* iphone XS start*/
+.small-caps {
+    font-feature-settings: "smcp", "c2sc";
+    font-variant-caps:all-small-caps
+}
+/* iphone XS end*/
+
+html[lang=zh-CN].ac-nav-overlap.ac-ls-visible #ac-globalnav {
+    top:inherit;
+}
+
+@media only screen and (max-width: 734px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible #ac-globalnav {
+        top:inherit;
+    }
+}
+
+html[lang=zh-CN].ac-nav-overlap.ac-ls-visible #ac-localnav {
+     margin-top: 114px; 
+}
+
+@media (min-width: 768px) and (max-width: 833px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible #ac-localnav {
+        margin-top:183px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible #ac-localnav {
+        margin-top:185px
+    }
+}
+
+@media screen and (max-width: 767px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible .fix-locale-switcher #ac-localnav {
+        margin-top:185px
+    }
+}
+
+html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-gn-segmentbar-visible .fix-locale-switcher #ac-localnav {
+    margin-top:154px
+}
+
+@media screen and (max-width: 767px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-gn-segmentbar-visible .fix-locale-switcher #ac-localnav {
+        margin-top:225px
+    }
+}
+
+html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-ls-cn-hp #ac-globalnav {
+    position: fixed;
+    margin-top:114px
+}
+
+@media only screen and (max-width: 734px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-ls-cn-hp #ac-globalnav {
+        top:183px
+    }
+}
+
+html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-ls-cn-hp #ac-localnav {
+    margin-top:165px
+}
+
+@media only screen and (max-width: 734px) {
+    html[lang=zh-CN].ac-nav-overlap.ac-ls-visible.ac-ls-cn-hp #ac-localnav {
+        margin-top:230px
+    }
+}

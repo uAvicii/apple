@@ -1,0 +1,146 @@
+#main { width:984px; }
+#productheader { border: 0; }
+#productheader li a { text-shadow: 0px 1px 0 #fff; }
+#productheader h2 a { text-indent: 0; }
+
+#overview #productheader li#pn-overview a,
+#past #productheader li#pn-past a,
+#faq #productheader li#pn-faq a { color:#999; text-decoration:none; cursor:default; }
+
+.checkrebatestatuss { height: 39px; background: url(../image/checkrebatestatuss.png) no-repeat 0 0; _background-image: url(../image/checkrebatestatuss.gif); width: 174px; display: block; position: relative; text-decoration: none; text-indent: -9999px; overflow: hidden; }
+a.checkrebatestatuss:hover, a.checkrebatestatuss:focus { background-position: 0 -39px; }
+a.checkrebatestatuss:active { background-position: 0 -78px; }
+
+.getrebatecoupons, .submityourclaims { height: 25px; background-position: 0 0; background-repeat: no-repeat; display: block; position: relative; text-decoration: none; text-indent: -9999px; overflow: hidden; }
+a.getrebatecoupons:hover, a.submityourclaims:hover,
+a.getrebatecoupons:focus, a.submityourclaims:focus { background-position: 0 -25px; }
+a.getrebatecoupons:active, a.submityourclaims:active { background-position: 0 -50px; }
+
+.getrebatecoupons { background-image: url(../image/getrebatecoupons.png); _background-image: url(../image/getrebatecoupons.gif); width: 129px; }
+.submityourclaims { background-image: url(../image/submityourclaims.png); _background-image: url(../image/submityourclaims.gif); width: 123px; }
+
+img.promoTop { *margin-top:-1px } 
+
+/* layout
+------------------------*/
+html, body { background: #eee; }
+.content { padding: 36px 50px 12px; }
+
+#container { width:984px; }
+#main { margin: 0 auto; }
+#main .cap { margin:0 auto; height:8px; font-size:1px; behavior:url(https://www.apple.com.cn/promo/styles/global/scripts/lib/iepngfix.htc); }
+#main .cap.top { background:url(../image/content_top20080422.png) no-repeat 0 0; }
+#content { width:754px; padding:3.4em 115px 1.6em; background:url(../image/content_bg20080422.png) repeat-y 0 0; behavior:url(https://www.apple.com.cn/promo/styles/global/scripts/lib/iepngfix_scale.htc); }
+#main .cap.bottom { background:url(../image/content_bottom20080422.png) no-repeat 0 0; }
+
+#content .grid2col .column { width:47%; }
+
+/* general
+------------------------*/
+.grid2col .column {width: 47%;}
+
+#main img.center { display:block; margin-left:auto; margin-right:auto; }
+
+#content { color:#777; }
+#main h2 { margin:0 -65px 1.6em; padding-bottom:8px; font-size:22px; font-weight:normal; color:#333; border-bottom:1px solid #babcbd; }
+#main h3 { font-size:16px; line-height:1.3em; color:#333; }
+
+#main .gradient {
+	background:#f2f2f2;
+	background:-webkit-gradient(linear, left top, left bottom, from(#fff), to(#f2f2f2));
+	background:-webit-linear-gradient(top, #fff, #f2f2f2);
+	background:  -moz-linear-gradient(top, #fff, #f2f2f2);
+	background:       linear-gradient(top, #fff, #f2f2f2);
+}
+
+#main hr { clear:both; margin:36px -65px; border:1px solid #fff; background:#fff; border-top:1px solid #e1e4e6; }
+#main dl dt { color:#404040; font-weight:bold; }
+#main ol ol { list-style-type:lower-alpha; }
+
+#main .button .button { padding:11px 0 0; background-position:100% 0; } /* top right */
+#main .button .button .button { margin-left:-11px; padding:0 0 0 11px; background-position:0 100%; } /* bottom left */
+#main .button .button .button .button { margin-left:0; padding:11px 0 0 0; background-position:100% 100%; } /* bottom right */
+#main .button a { display:block; margin:-20px 0 0 -11px; color:#fff; font-size:10px; text-shadow:#4d4d4d 0 1px 1px; font-weight:bold; }
+#main .button a:hover { color:#dedede; text-decoration:none; }
+
+#main .button.requestrebateonline { width:11em; }
+#main .button.getrebatecoupon { width:9.6em; }
+
+/* anchor navigation
+------------------------*/
+#main .anchornav .toc { margin:0 0 3em; color:#999; }
+#main .anchornav .toc .cap { height:4px; }
+#main .anchornav .toc .cap.top { background:url(../image/box_top20080422.gif) no-repeat 0 0; }
+#main .anchornav .toc .cap.bottom { background:url(../image/box_bottom20080422.gif) no-repeat 0 0; }
+#main .anchornav .toc .padder { padding:1.6em 30px 1px; font-size:11px; _zoom:1; background:url(../image/box_bg20080422.gif) repeat-y 0 0; }
+
+#main .anchornav .toc h4 { margin-bottom:.6em; font-size:12px; color:#333; }
+#main .anchornav .toc ul { margin-bottom: 18px; }
+#main .anchornav .toc a { color:#666; }
+#main .anchornav .toc a:hover { color:#08c; }
+
+#main .anchornav a.top { float:right; margin-top:.3em; _background:none; }
+
+
+/* content footer
+------------------------*/
+#main #contentfooter { margin:0 -74px 1.6em; color:#666; }
+#main #contentfooter .padder { padding:5px 50px 1px; _zoom:1;
+	 url(/global/elements/blank.gif) no-repeat 0 0; -webkit-background-size:100% 100%;
+	_background:none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/promo/images/contentfooter_bg20080422.png', sizingMethod='scale');
+}
+
+#main #contentfooter img.left { position:relative; margin:4px 10px 0 -13px; }
+#main #contentfooter p { margin-left:24px; margin-bottom:.5em; }
+#main #contentfooter #cf-ca p { margin-top:8px; }
+
+/* Faq PromoFooter */
+#overview #faqfooter { margin: 5px 0 0 0; *padding: 0 0 0 1px; height: 70px; background: #f5f5f5; background:-webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#ffffff)); background: -moz-linear-gradient(top, #f5f5f5, #ffffff); text-align: left; position:relative; *border-bottom:1px solid #dadada; }
+#overview #faqfooter h4 { width:560px; float:left; margin: 15px 0 0 39px; padding: 10px 0 10px 50px; float: left; font-weight: 100; background: url("../image/faq_promo_icon.png") no-repeat; font-size: 13px !important; _margin-left:20px; }
+#overview #faqfooter h4 strong { padding-right: 4px; font-size: 13px !important; }
+
+#overview #faqfooter .canada-rebate-forms { width:270px; padding: 26px 0; float:left; background: url("../image/bts2011-past-promos-canada-flag.png") no-repeat 0 21px; }
+#overview #faqfooter .canada-rebate-forms a { margin-left: 35px; }
+
+p.sosumi, ul.sosumi, ol.sosumi { clear:both; width:940px; margin:0 auto; padding:12px 20px 0; color:#777; font-size:11px !important; }
+
+
+/* page specific
+------------------------*/
+
+/* index */
+#overview #main { width:980px; position:relative; margin-bottom: 15px;}
+#overview #main .content { padding:44px 64px 46px; }
+#overview #main #hero h1 { margin:0 auto; text-align:center; }
+#overview #main h2 { font-size:1.334em; line-height:1.25em; font-weight:bold; margin:0; padding:0; border:0; }
+#overview #main p { font-size:1.166em; line-height:1.428em; }
+#overview #main .rebates { padding:20px 0 0; /* padding:43px 0 0; margin-bottom:32px; border-bottom:1px solid #e0e0e0; */ }
+#overview #main h2 {margin-bottom: 11px;}
+
+/* faq */
+#faq #main { width:980px; *width:982px; }
+#faq #main .content { padding:55px 0 50px; }
+#faq #main .content h1 { margin-bottom:34px; text-align:center; }
+#faq #main .content h2 { margin:0 0 28px; border:0; padding-bottom:0; font-size:16px; font-weight:bold; }
+#faq #main .content h3 { margin-bottom:25px; font-size:15px; }
+#faq #main .content h4 { font-size:12px; }
+#faq #main .content h4.nowrap { *white-space:normal; }
+#faq #main .content .top-row { width:880px; padding:38px 50px 0; background:url(../image/divider_down.jpg) 0 0 no-repeat; background-size:980px 38px; }
+#faq #main .content section { margin-bottom:40px; }
+#faq #main .content ul.square { margin-left:17px; }
+
+@media only screen and (max-device-width:768px) {
+	#faq #main { width:982px; }
+}
+
+/* bts11codes */
+#bts11codes .content { padding:68px 65px 12px; *padding-bottom:30px; font-size:1.2em; line-height:1.428em; }
+#bts11codes header h1 { margin-bottom:0; }
+#bts11codes header .column.first { width:430px; margin-bottom:22px; }
+#bts11codes header img.right { margin-right:30px; }
+#bts11codes .callout { width:auto; padding:21px 22px 16px; font-size:0.8em; line-height:1.4em; *background:#fff; }
+#bts11codes .callout img.left { margin:-5px 16px 0 0; }
+#bts11codes .callout img.japan { margin-right:13px; }
+#bts11codes .callout img.canada { margin-left:15px; }
+#bts11codes .callout span { white-space:normal; text-align:left; }
+#bts11codes .shadow { *border:1px solid #e2e2e2; }

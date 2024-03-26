@@ -1,0 +1,13 @@
+.page-continuity .section-resources .resource.resource-airdrop-last {
+	opacity: 0;
+}
+
+.small-z {
+	display: none;
+}
+
+@media only screen and (max-width: 376px) {
+	.small-z {
+		display: block;
+	}
+}

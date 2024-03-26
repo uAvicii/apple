@@ -1,0 +1,171 @@
+.chapternav-item-apple-wallet .chapternav-icon {
+    background-size: 51px 54px;
+    background-repeat: no-repeat;
+    background-image: url(../image/apple_pay_light__er2rmnj99wom_large.svg);
+    width:51px
+}
+
+html.no-svg .chapternav-item-apple-wallet .chapternav-icon {
+    background-image:url(../image/apple_pay_light__er2rmnj99wom_large.png)
+}
+
+.section-more-experiences .router{
+            padding-bottom: 0px;
+            flex-direction: row;
+        }
+        .section-more-experiences .copy{
+            padding-top: 60px;
+            padding-left: 65px;
+            padding-right: 65px;
+        }
+        @media only screen and (max-width: 734px) {
+            .section-more-experiences .copy {
+                padding-left: 20px;
+                text-align: left;
+                 padding-top: 20px;
+            }
+        }
+        .section-more-experiences .typography-heading-headline{
+            color: #fff;
+        }
+        .section-more-experiences .router {
+            margin-left: auto;
+            margin-right: auto;
+            width:930px
+        }
+
+        @media only screen and (max-width: 1068px) {
+            .section-more-experiences .router {
+                margin-left: auto;
+                margin-right: auto;
+                width:652px
+            }
+        }
+
+        @media only screen and (max-width: 734px) {
+            .section-more-experiences .router {
+                margin-left: auto;
+                margin-right: auto;
+                width: 87.5%;
+            }
+        }
+
+        .services-overview-even-more-apple-pay {
+            display: block;
+            width: var(--p-width);
+            height: var(--p-height);
+            --p-width: 432px;
+            --p-height:340px
+        }
+
+        @media only screen and (max-width: 1068px) {
+            .services-overview-even-more-apple-pay {
+                display: block;
+                width: var(--p-width);
+                height:var(--p-height)
+            }
+        }
+
+        @media only screen and (max-width: 1068px) and (max-width: 1068px) {
+            .services-overview-even-more-apple-pay {
+                --p-width: 343px;
+                --p-height:270px
+            }
+        }
+
+        .section-more-experiences .router{
+            min-height: 340px;
+        }
+
+        @media only screen and (max-width: 1068px) {
+            .section-more-experiences .router {
+                min-height: 270px;
+            }
+        }
+
+        @media only screen and (max-width: 734px) {
+            .section-more-experiences .router {
+                min-height: 205px;
+            }
+        }
+
+        .section-more-experiences .router.apple-pay{
+            background: #fafafa;
+        }
+
+        .section-more-experiences .router.apple-pay .sub, .section-more-experiences .router.apple-pay p, .section-more-experiences .router.apple-pay span, .section-more-experiences .router.apple-pay h2{
+            color: #000;
+        }
+
+.section-more-experiences {
+    padding-top:0px;
+}
+
+.section-apple-books {
+    margin-bottom: 60px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-apple-books {
+        margin-bottom:38px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-apple-books {
+        margin-bottom:80px
+    }
+}
+
+.section-more-experiences .router-container>a:nth-child(-n+2){
+    margin-right: 0px;
+}
+
+.typography-router-card-body{
+    font-size: 40px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .typography-router-card-body {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .typography-router-card-body {
+        font-size: 21px;
+    }
+}
+
+
+.section-more-experiences .services-overview-even-more-checkmark-icon{
+    display: inline-table;
+}
+
+@media only screen and (max-width: 1068px) {
+   .section-more-experiences .services-overview-even-more-checkmark-icon {
+        margin-top: -2px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+   .section-more-experiences .services-overview-even-more-checkmark-icon {
+        margin-top: 0px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-more-experiences .hero-heading-headline-top {
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-apple-books {
+        margin-bottom:80px
+    }
+}
+
+.section-more-experiences h2{
+    font-weight: 600;
+}

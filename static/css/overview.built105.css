@@ -1,0 +1,73 @@
+.size{
+	font-size: 0.5em;
+}
+.badge.rays-animation .typography-rays-badge-unit, .badge .rays-animation .typography-rays-badge-unit.size{
+   font-size: 0.5em;
+}
+#main .pin-dimming-1 {
+   margin-left: 60px;
+}
+@media only screen and (max-width: 734px) {
+    .subsection-m2 .badges .badge:first-child {
+       margin-right:0
+    }
+    .subsection-rear-facing .badge:last-child{
+       margin-left:1.5em;
+    }
+    .subsection-m2 .badges .badge:nth-child(2){
+       margin:0 1.5em
+    }
+    #main .pin-dimming-1 {
+      margin-left: 0px;
+   }
+} 
+@media only screen and (max-width: 375px) {
+    .subsection-m2 .badges .badge:first-child {
+       margin-right:0
+    }
+    .subsection-rear-facing .badge:last-child{
+       margin-left:0;
+    }
+    .subsection-m2 .badges .badge:nth-child(2){
+      margin:0 0.7em
+    }
+}    
+@media only screen and (max-width: 320px) {
+    .s-small{
+        display:none
+    }
+     .subsection-m2 .badges .badge:nth-child(2){
+      margin:0 
+    }
+} 
+@media only screen and (max-width: 734px) {
+    html.enhanced .section-display-xdr .sticky-content.sticky-xdr-intro, html.enhanced .section-display-xdr .sticky-content.sticky-xdr-leds-dimming, html.enhanced .section-display-xdr .sticky-xdr-screens{
+      margin-top:24px;
+   }
+}
+.subsection-keyboard .copy-block{
+
+    padding-top: 20px;
+}
+@media only screen and (max-width: 1068px) {
+    .subsection-keyboard .copy-block{
+    padding-top: 46px;
+  }
+}
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+   #main .pin-dimming-1 {
+      margin-left: 65px;
+   }
+}
+html[data-segment-code="internal-epp-discounted"].hide-acmi #ac-globalfooter .ac-gf-buystrip-info-financing {
+    display: block;
+}
+
+html[data-segment-code]:not([data-segment-code="internal-epp-discounted"]) .ribbon-bts-2023 {
+    display: block !important
+}
+
+html[data-segment-code]:not([data-segment-code="internal-epp-discounted"]) .ac-gf-sosumi ul.additional-sosumi {
+    display: block !important
+}
+

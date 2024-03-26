@@ -1,0 +1,152 @@
+#main .grid-item-hearing-aids {
+    display: grid;
+    grid-column: span 2;
+}
+
+.typography-intro-elevated {
+    width: 43px;
+}
+
+/*0808*/
+.grid-item.grid-item-personal-voice .main-content {
+    grid-template: "first-line first-line first-line" "before-memoji memoji after-memoji" /2.5fr max-content 2fr;
+}
+
+.grid-item.grid-item-personal-voice .main-content .first-line {
+    grid-area: 3 / 1 / span 1 / span 3;
+    justify-self: center;
+    grid-column-gap: 0;
+    column-gap: 0;
+}
+
+.grid-item.grid-item-spoken-content .grid-copy .line.line-top {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.grid-item.grid-item-spoken-content .grid-copy .line.line-middle {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.grid-item.grid-item-spoken-content .grid-copy .line.line-bottom {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.grid-item.grid-item-magnifier .magnifier-graphic .microwave-button {
+    left: 21%;
+}
+
+.grid-item-siri-pause-time.half.is-enhanced .grid-copy .line-container-2 {
+    left: 19px;
+}
+
+.grid-item-back-tap .back-tap-content .tap-text-1 .centered-text {
+    margin-right: -22px;
+}
+
+.grid-item.grid-item-assistive-access .main-content>p>span:last-of-type {
+    margin-right: -20px;
+}
+
+.overview-back-tap-phone-text {
+    margin-left: 18px;
+}
+
+.grid-item-back-tap .back-tap-content .tap-text-2 .arrow-container {
+    margin-left: 2.2em;
+}
+
+@media only screen and (max-width:1068px) {
+    .grid-item.grid-item-magnifier .magnifier-graphic .microwave-button {
+        left: 21.5%;
+    }
+
+    .grid-item-siri-pause-time.half.is-enhanced .grid-copy .line-container-2 {
+        left: 14px;
+    }
+
+    .grid-item-back-tap .back-tap-content .tap-text-1 .centered-text {
+        margin-right: -12px;
+    }
+
+    .grid-item.grid-item-assistive-access .main-content>p>span:last-of-type {
+        margin-right: -15px;
+    }
+
+    .overview-back-tap-phone-text {
+        margin-left: 14px;
+    }
+
+    .grid-item-back-tap .back-tap-content .tap-text-2 .arrow-container {
+        margin-left: 1.3em;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-vision {
+        --headline-length: 14ch;
+    }
+
+    .section-speech {
+        --headline-length: 14ch;
+    }
+
+    .section-mobility {
+        --headline-length: 14ch;
+    }
+
+    .section-cognitive {
+        --headline-length: 14ch;
+    }
+
+    .grid-item.grid-item-spoken-content .grid-copy .line.line-middle {
+        padding-top: 5px;
+        padding-right: 0px;
+    }
+
+    .grid-item.grid-item-spoken-content .grid-copy {
+        line-height: 1;
+    }
+
+    .grid-item.grid-item-spoken-content .grid-copy .line.line-bottom {
+        padding-right: 4px;
+    }
+
+    .grid-item.grid-item-magnifier .magnifier-graphic .microwave-button {
+        left: 23%;
+    }
+
+    .grid-item-siri-pause-time.half.is-enhanced .grid-copy .line-container-2 {
+        left: 12px;
+    }
+
+    .grid-item.grid-item-personal-voice .main-content {
+        padding: 0
+    }
+
+    .grid-item.grid-item-assistive-access .main-content>p>span:last-of-type {
+        margin-right: 0;
+    }
+
+    .overview-back-tap-phone-text {
+        margin-left: 12px;
+    }
+
+    .grid-item-back-tap .back-tap-content .tap-text-2 .arrow-container {
+        margin-left: 1.1em;
+    }
+}
+.section-resources .resources-grid .resource-item .resource-cta {
+    max-width: 20ch;
+}
+.grid-item-siri-pause-time.half .grid-copy .enhanced, .grid-item-siri-pause-time.half.is-enhanced .grid-copy .static {
+    width: 120%;
+    margin-left: -15px;
+}
+
+.grid-item.grid-item-personal-voice .main-content p {
+    
+    max-inline-size: 6.4em;
+}

@@ -1,0 +1,223 @@
+/* section-taptic-engine */
+.section-taptic-engine .image-vibes-text {
+    background-size: 192px 54px;
+    background-repeat: no-repeat;
+    background-image: url(../image/card08_text_vibes__bvd2n5fgmbde_large.png);
+    display: block;
+    width: var(--p-width);
+    height: var(--p-height);
+    --p-width: 192px;
+    --p-height: 54px;
+    position: relative;
+    margin: .2em auto 0
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi),
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx) {
+    .section-taptic-engine .image-vibes-text {
+        background-image: url(../image/card08_text_vibes__bvd2n5fgmbde_large_2x.png);
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-taptic-engine .image-vibes-text {
+        background-size: 143px 40px;
+        background-repeat: no-repeat;
+        background-image: url(../image/card08_text_vibes__bvd2n5fgmbde_medium.png);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-taptic-engine .image-vibes-text {
+        background-image: url(../image/card08_text_vibes__bvd2n5fgmbde_medium_2x.png);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-taptic-engine .image-vibes-text {
+        background-size: 138px 39px;
+        background-repeat: no-repeat;
+        background-image: url(../image/card08_text_vibes__bvd2n5fgmbde_small.png);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-taptic-engine .image-vibes-text {
+        background-image: url(../image/card08_text_vibes__bvd2n5fgmbde_small_2x.png);
+    }
+}
+
+/*  */
+.modal[data-modal-name=apple-watch] .group-clean-electricity .text-decoration:after {
+    left: -8px;
+    width: 117px;
+    height: 57px;
+    background-size: 117px 57px;
+    background-repeat: no-repeat;
+    background-image: url(../image/boc_2_circle__bzcu9oxmvlea_large.png)
+}
+
+@media only screen and (max-width: 734px) {
+    .modal[data-modal-name=apple-watch] .group-clean-electricity .text-decoration:after {
+        left: 0
+    }
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .modal[data-modal-name=apple-watch] .group-clean-electricity .text-decoration:after {
+        background-image: url(../image/boc_2_circle__bzcu9oxmvlea_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal[data-modal-name=apple-watch] .group-clean-electricity .text-decoration:after {
+        width: 98px;
+        height: 48px;
+        background-size: 98px 48px;
+        background-repeat: no-repeat;
+        background-image: url(../image/boc_2_circle__bzcu9oxmvlea_medium.png)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px)and (min-resolution:1.5dppx),
+only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .modal[data-modal-name=apple-watch] .group-clean-electricity .text-decoration:after {
+        background-image: url(../image/boc_2_circle__bzcu9oxmvlea_medium_2x.png)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal[data-modal-name=apple-watch] .group-clean-electricity .text-decoration:after {
+        width: 74px;
+        height: 36px;
+        background-size: 74px 36px;
+        background-repeat: no-repeat;
+        background-image: url(../image/boc_2_circle__bzcu9oxmvlea_small.png)
+    }
+}
+
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px)and (min-resolution:1.5dppx),
+only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .modal[data-modal-name=apple-watch] .group-clean-electricity .text-decoration:after {
+        background-image: url(../image/boc_2_circle__bzcu9oxmvlea_small_2x.png)
+    }
+}
+
+.modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+    width: 145px;
+    height: 85px;
+    background-size: 145px 85px;
+    background-repeat: no-repeat;
+    background-image: url(../image/boc_2_pop_circle__foz2mz25q0ya_large.png);
+    top: -9px;
+    left: -9px
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+        background-image: url(../image/boc_2_pop_circle__foz2mz25q0ya_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+        width: 121px;
+        height: 71px;
+        background-size: 121px 71px;
+        background-repeat: no-repeat;
+        background-image: url(../image/boc_2_pop_circle__foz2mz25q0ya_medium.png)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px)and (min-resolution:1.5dppx),
+only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+        background-image: url(../image/boc_2_pop_circle__foz2mz25q0ya_medium_2x.png)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+        width: 97px;
+        height: 58px;
+        background-size: 97px 58px;
+        background-repeat: no-repeat;
+        background-image: url(../image/boc_2_pop_circle__foz2mz25q0ya_small.png)
+    }
+}
+
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px)and (min-resolution:1.5dppx),
+only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+        background-image: url(../image/boc_2_pop_circle__foz2mz25q0ya_small_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+        top: -14px;
+        left: -9px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+        top: -10px;
+        left: -8px
+    }
+}
+
+/*  */
+.modal[data-modal-name=apple-watch] .group-clean-electricity .text-decoration:after {
+    transform: translate(-6px, -4px);
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal[data-modal-name=apple-watch] .group-clean-electricity .text-decoration:after {
+        transform: translate(-4px, -5px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal[data-modal-name=apple-watch] .group-clean-electricity .text-decoration:after {
+        transform: translate(-9px, -3px);
+    }
+}
+
+.modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+    transform: translate(-17px, -8px);
+}
+
+@media only screen and (max-width: 1068px) {
+    .modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+        transform: translate(-12px, 0px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .modal[data-modal-name=apple-watch] .group-no-airplanes .text-decoration:after {
+        transform: translate(-8px, -2px);
+    }
+}
+
+/*For HL z-index*/
+.z-index-low{
+    position:relative;
+    z-index:3;
+}

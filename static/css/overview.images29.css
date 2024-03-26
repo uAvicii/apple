@@ -1,0 +1,419 @@
+.section-first-generation .image-1st-gen-apple-pencil-art {
+    background-image: url(../image/apple_pencil_art__fdt7iutg5gey_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-first-generation .image-1st-gen-apple-pencil-art {
+        background-image:url(../image/apple_pencil_art__fdt7iutg5gey_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-first-generation .image-1st-gen-apple-pencil-art {
+        background-image: url(../image/apple_pencil_art__fdt7iutg5gey_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-first-generation .image-1st-gen-apple-pencil-art {
+        background-image:url(../image/apple_pencil_art__fdt7iutg5gey_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-first-generation .image-1st-gen-apple-pencil-art {
+        background-image: url(../image/apple_pencil_art__fdt7iutg5gey_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .section-first-generation .image-1st-gen-apple-pencil-art {
+        background-image:url(../image/apple_pencil_art__fdt7iutg5gey_small_2x.jpg)
+    }
+}
+
+.section-hero .hero-image {
+    background-image: url(../image/apple_pencil_hero__re8xbxq9vr2i_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-hero .hero-image {
+        background-image:url(../image/apple_pencil_hero__re8xbxq9vr2i_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-hero .hero-image {
+        background-image: url(../image/apple_pencil_hero__re8xbxq9vr2i_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-hero .hero-image {
+        background-image:url(../image/apple_pencil_hero__re8xbxq9vr2i_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-hero .hero-image {
+        background-image: url(../image/apple_pencil_hero__re8xbxq9vr2i_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .section-hero .hero-image {
+        background-image:url(../image/apple_pencil_hero__re8xbxq9vr2i_small_2x.jpg)
+    }
+}
+
+.section-pencil-hover .image-second-gen-art {
+    background-image: url(../image/art__e1x5gz9tway6_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-pencil-hover .image-second-gen-art {
+        background-image:url(../image/art__e1x5gz9tway6_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-pencil-hover .image-second-gen-art {
+        background-image: url(../image/art__e1x5gz9tway6_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-pencil-hover .image-second-gen-art {
+        background-image:url(../image/art__e1x5gz9tway6_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-pencil-hover .image-second-gen-art {
+        background-image: url(../image/art__e1x5gz9tway6_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .section-pencil-hover .image-second-gen-art {
+        background-image:url(../image/art__e1x5gz9tway6_small_2x.jpg)
+    }
+}
+
+.section-usb-c .image-usb-c-apple-pencil-art {
+    background-image: url(../image/apple_pencil_art__fdt7iutg5gey_large1.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-usb-c .image-usb-c-apple-pencil-art {
+        background-image:url(../image/apple_pencil_art__fdt7iutg5gey_large_2x1.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-usb-c .image-usb-c-apple-pencil-art {
+        background-image: url(../image/apple_pencil_art__fdt7iutg5gey_medium1.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-usb-c .image-usb-c-apple-pencil-art {
+        background-image:url(../image/apple_pencil_art__fdt7iutg5gey_medium_2x1.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-usb-c .image-usb-c-apple-pencil-art {
+        background-image: url(../image/apple_pencil_art__fdt7iutg5gey_small1.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    .section-usb-c .image-usb-c-apple-pencil-art {
+        background-image:url(../image/apple_pencil_art__fdt7iutg5gey_small_2x1.jpg)
+    }
+}
+
+/* 手写字 2nd */
+.section-second-generation .image-2nd-gen-snipe-matte {
+    background-size: 53px 60px;
+    background-image: url(../image/snipe_matte__dnly0xf41066_large.png);
+    width: 53px;
+    height: 60px
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-second-generation .image-2nd-gen-snipe-matte {
+        background-image:url(../image/snipe_matte__dnly0xf41066_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-second-generation .image-2nd-gen-snipe-matte {
+        background-size:49px 56px;
+        background-image: url(../image/snipe_matte__dnly0xf41066_medium.png)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-second-generation .image-2nd-gen-snipe-matte {
+        background-image:url(../image/snipe_matte__dnly0xf41066_medium_2x.png)
+    }
+}
+
+.section-second-generation .image-2nd-gen-snipe-wireless {
+    background-size: 72px 85px;
+    background-image: url(../image/snipe_wireless__e147tgu26kuq_large.png);
+    width: 72px;
+    height: 85px
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-second-generation .image-2nd-gen-snipe-wireless {
+        background-image:url(../image/snipe_wireless__e147tgu26kuq_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-second-generation .image-2nd-gen-snipe-wireless {
+        background-size:65px 75px;
+        background-image: url(../image/snipe_wireless__e147tgu26kuq_medium.png)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-second-generation .image-2nd-gen-snipe-wireless {
+        background-image:url(../image/snipe_wireless__e147tgu26kuq_medium_2x.png)
+    }
+}
+
+/* 手写字 usb-c */
+.section-usb-c .image-usb-c-snipe-matte {
+    background-size: 53px 59px;
+    background-image: url(../image/snipe_matte__dnly0xf41066_large1.png);
+    width: 53px;
+    height: 59px
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-usb-c .image-usb-c-snipe-matte {
+        background-image:url(../image/snipe_matte__dnly0xf41066_large_2x1.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-usb-c .image-usb-c-snipe-matte {
+        background-size:49px 53px;
+        background-image: url(../image/snipe_matte__dnly0xf41066_medium1.png)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-usb-c .image-usb-c-snipe-matte {
+        background-image:url(../image/snipe_matte__dnly0xf41066_medium_2x1.png)
+    }
+}
+
+.section-usb-c .image-usb-c-snipe-usb-c {
+    background-size: 85px 85px;
+    background-image: url(../image/snipe_usb_c__ts2fjuhuvxei_large.png);
+    width: 85px;
+    height: 85px
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-usb-c .image-usb-c-snipe-usb-c {
+        background-image:url(../image/snipe_usb_c__ts2fjuhuvxei_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-usb-c .image-usb-c-snipe-usb-c {
+        background-size:84px 72px;
+        background-image: url(../image/snipe_usb_c__ts2fjuhuvxei_medium.png);
+        width: 84px;
+        height: 72px
+        
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-usb-c .image-usb-c-snipe-usb-c {
+        background-image:url(../image/snipe_usb_c__ts2fjuhuvxei_medium_2x.png)
+    }
+}
+
+/* 手写字 1st */
+.section-first-generation .image-1st-gen-snipe-smooth {
+    background-size: 54px 59px;
+    background-image: url(../image/snipe_smooth__evjwhzva1q82_large.png);
+    width: 54px;
+    height: 59px
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-first-generation .image-1st-gen-snipe-smooth {
+        background-image:url(../image/snipe_smooth__evjwhzva1q82_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-first-generation .image-1st-gen-snipe-smooth {
+        background-size:50px 52px;
+        background-image: url(../image/snipe_smooth__evjwhzva1q82_medium.png)
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-first-generation .image-1st-gen-snipe-smooth {
+        background-image:url(../image/snipe_smooth__evjwhzva1q82_medium_2x.png)
+    }
+}
+
+.section-first-generation .image-1st-gen-snipe-lightning {
+    background-size: 82px 89px;
+    background-image: url(../image/snipe_lightning__edzgmi2e9x2e_large.png);
+    width: 82px;
+    height: 89px
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-first-generation .image-1st-gen-snipe-lightning {
+        background-image:url(../image/snipe_lightning__edzgmi2e9x2e_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-first-generation .image-1st-gen-snipe-lightning {
+        background-size:90px 73px;
+        background-image: url(../image/snipe_lightning__edzgmi2e9x2e_medium.png);
+        width: 90px;
+        height: 73px
+    }
+}
+
+@media only screen and (max-width: 1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+    .section-first-generation .image-1st-gen-snipe-lightning {
+        background-image:url(../image/snipe_lightning__edzgmi2e9x2e_medium_2x.png)
+    }
+}
+
+
+/* 手写字位置 2nd */
+.section-second-generation .image-2nd-gen-snipe-matte {
+    top: 624px;
+    left: 174px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-second-generation .image-2nd-gen-snipe-matte {
+        top:551px;
+        left: 124px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-second-generation .image-2nd-gen-snipe-matte {
+        top:407px;
+        left: 101px
+    }
+}
+
+.section-second-generation .image-2nd-gen-snipe-wireless {
+    top: 115px;
+    left: 251px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-second-generation .image-2nd-gen-snipe-wireless {
+        top:103px;
+        left: 165px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-second-generation .image-2nd-gen-snipe-wireless {
+        top:60px;
+        left: 76px
+    }
+}
+
+/* 手写字位置 usb-c */
+.section-usb-c .image-usb-c-snipe-matte {
+    top: 510px;
+    left: 47px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-usb-c .image-usb-c-snipe-matte {
+        top:493px;
+        left: 158px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-usb-c .image-usb-c-snipe-matte {
+        top:403px;
+        left: 93px
+    }
+}
+
+.section-usb-c .image-usb-c-snipe-usb-c {
+    top: 139px;
+    left: 441px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-usb-c .image-usb-c-snipe-usb-c {
+        top:88px;
+        left: 150px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-usb-c .image-usb-c-snipe-usb-c {
+        top:64px;
+        left: 45px
+    }
+}
+
+
+/* 手写字位置 1st */
+.section-first-generation .image-1st-gen-snipe-lightning {
+    top: 119px;
+    left: 469px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-first-generation .image-1st-gen-snipe-lightning {
+        top:82px;
+        left: 182px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-first-generation .image-1st-gen-snipe-lightning {
+        top:64px;
+        left: 63px
+    }
+}
+
+.section-first-generation .image-1st-gen-snipe-smooth {
+    top: 582px;
+    left: 36px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-first-generation .image-1st-gen-snipe-smooth {
+        top:588px;
+        left: 126px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-first-generation .image-1st-gen-snipe-smooth {
+        top:396px;
+        left: 108px
+    }
+}
+

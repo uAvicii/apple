@@ -1,0 +1,47 @@
+/* family-sharing start */
+.icloud-update .section-router .tile-family-sharing .tile-image-update-family-sharing-router {
+    width: 770px;
+    height: 256px;
+    background-size: 770px 256px;
+    background-repeat: no-repeat;
+    background-image:url(../image/router_family_sharing__c6g8cxycpx0m_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .icloud-update .section-router .tile-family-sharing .tile-image-update-family-sharing-router {
+        background-image:url(../image/router_family_sharing__c6g8cxycpx0m_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .icloud-update .section-router .tile-family-sharing .tile-image-update-family-sharing-router {
+        width: 600px;
+        height: 198px;
+        background-size: 600px 198px;
+        background-repeat: no-repeat;
+        background-image:url(../image/router_family_sharing__c6g8cxycpx0m_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .icloud-update .section-router .tile-family-sharing .tile-image-update-family-sharing-router {
+        background-image:url(../image/router_family_sharing__c6g8cxycpx0m_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .icloud-update .section-router .tile-family-sharing .tile-image-update-family-sharing-router {
+        width: 448px;
+        height: 149px;
+        background-size: 448px 149px;
+        background-repeat: no-repeat;
+        background-image:url(../image/router_family_sharing__c6g8cxycpx0m_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .icloud-update .section-router .tile-family-sharing .tile-image-update-family-sharing-router {
+        background-image:url(../image/router_family_sharing__c6g8cxycpx0m_small_2x.jpg)
+    }
+}
+/* family-sharing end */

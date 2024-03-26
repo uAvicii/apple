@@ -1,0 +1,319 @@
+/* 1 */
+.section-design .section-content-block-ipad .hardware-fan .overview-design-fan-snipe1,.section-design .section-content-block-ipad .hardware-fan .snipe-1 {
+    transform: translate(16px,394px);
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .section-content-block-ipad .hardware-fan .overview-design-fan-snipe1,.section-design .section-content-block-ipad .hardware-fan .snipe-1 {
+        transform: translate(1px,248px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .section-content-block-ipad .hardware-fan .overview-design-fan-snipe1,.section-design .section-content-block-ipad .hardware-fan .snipe-1 {
+        transform: translate(-124px,-14px);
+        left: 50%
+    }
+}
+
+/* 2 */
+.section-design .section-content-block-ipad .hardware-fan .overview-design-fan-snipe2,.section-design .section-content-block-ipad .hardware-fan .snipe-2 {
+    transform: translate(769px,937px);
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .section-content-block-ipad .hardware-fan .overview-design-fan-snipe2,.section-design .section-content-block-ipad .hardware-fan .snipe-2 {
+        transform: translate(533px,641px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .section-content-block-ipad .hardware-fan .overview-design-fan-snipe2,.section-design .section-content-block-ipad .hardware-fan .snipe-2 {
+        transform: translate(-141px,139px);
+        left: 50%
+    }
+}
+
+/* 3 */
+.section-design .section-content-block-accessories .accessories-copy .overview-design-modular-snipe,.section-design .section-content-block-accessories .accessories-copy .snipe-1 {
+    transform: translate(70px,284px);
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .section-content-block-accessories .accessories-copy .overview-design-modular-snipe,.section-design .section-content-block-accessories .accessories-copy .snipe-1 {
+        transform: translate(24px,224px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .section-content-block-accessories .accessories-copy .overview-design-modular-snipe,.section-design .section-content-block-accessories .accessories-copy .snipe-1 {
+        transform: translate(-105px,286px);
+        left: 50%
+    }
+}
+
+/* 4 */
+.section-design .section-content-block-ipados .hardware-multiple-apps .overview-design-multiple-apps-snipe,.section-design .section-content-block-ipados .hardware-multiple-apps .snipe-1 {
+    transform: translate(560px,574px);
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .section-content-block-ipados .hardware-multiple-apps .overview-design-multiple-apps-snipe,.section-design .section-content-block-ipados .hardware-multiple-apps .snipe-1 {
+        transform: translate(236px,399px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .section-content-block-ipados .hardware-multiple-apps .overview-design-multiple-apps-snipe,.section-design .section-content-block-ipados .hardware-multiple-apps .snipe-1 {
+        transform: translate(38px,-55px);
+        left: 50%
+    }
+}
+
+/* 5 */
+.section.section-get-things-done .section-content-block-multitask .hardware-collaborate .overview-get-things-done-collaborate-snipe,.section.section-get-things-done .section-content-block-multitask .hardware-collaborate .snipe-1 {
+    transform: translate(795px,260px);
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section.section-get-things-done .section-content-block-multitask .hardware-collaborate .overview-get-things-done-collaborate-snipe,.section.section-get-things-done .section-content-block-multitask .hardware-collaborate .snipe-1 {
+        transform: translate(555px,200px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section.section-get-things-done .section-content-block-multitask .hardware-collaborate .overview-get-things-done-collaborate-snipe,.section.section-get-things-done .section-content-block-multitask .hardware-collaborate .snipe-1 {
+        transform: translate(34px,-32px);
+        left: 50%
+    }
+}
+
+/* 6 */
+.section-create .section-content-block-apple-pencil .hardware-draw .overview-create-draw-snipe,.section-create .section-content-block-apple-pencil .hardware-draw .snipe-1 {
+    transform: translate(894px,53px);
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-create .section-content-block-apple-pencil .hardware-draw .overview-create-draw-snipe,.section-create .section-content-block-apple-pencil .hardware-draw .snipe-1 {
+        transform: translate(547px,30px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-create .section-content-block-apple-pencil .hardware-draw .overview-create-draw-snipe,.section-create .section-content-block-apple-pencil .hardware-draw .snipe-1 {
+        transform: translate(33px,-36px);
+        left: 50%
+    }
+}
+
+/* 7 */
+.section-create .section-content-block-camera .video-wipe .overview-create-camera-snipe,.section-create .section-content-block-camera .video-wipe .snipe-1 {
+    transform: translate(7px,347px);
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-create .section-content-block-camera .video-wipe .overview-create-camera-snipe,.section-create .section-content-block-camera .video-wipe .snipe-1 {
+        transform: translate(3px,294px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-create .section-content-block-camera .video-wipe .overview-create-camera-snipe,.section-create .section-content-block-camera .video-wipe .snipe-1 {
+        transform: translate(40px,343px);
+        left: 50%
+    }
+}
+
+/* 8 */
+.section-connect .section-content-block-center-stage .hardware .overview-connect-center-stage-snipe {
+    transform: translate(93px,75px);
+    position: absolute
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-connect .section-content-block-center-stage .hardware .overview-connect-center-stage-snipe {
+        transform: translate(25px,56px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-connect .section-content-block-center-stage .hardware .overview-connect-center-stage-snipe {
+        transform: translate(14px,-57px);
+    }
+}
+
+/* 9 */
+.section-connect .video-wipe .overview-connect-front-camera-snipe {
+    transform: translate(-7px,1px);
+    position: absolute;
+    bottom: 0;
+    right: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-connect .video-wipe .overview-connect-front-camera-snipe {
+        transform: translate(-3px,6px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-connect .video-wipe .overview-connect-front-camera-snipe {
+        transform: translate(-101px,66px);
+    }
+}
+
+/* 10 */
+.section-watch-learn-play .section-content-block-ar .column-right .hardware .overview-watch-learn-play-ar-snipe {
+    transform: translate(-205px,57px);
+    position: absolute;
+    bottom: 0;
+    right: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-watch-learn-play .section-content-block-ar .column-right .hardware .overview-watch-learn-play-ar-snipe {
+        transform: translate(-50px,10px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-watch-learn-play .section-content-block-ar .column-right .hardware .overview-watch-learn-play-ar-snipe {
+        transform: translate(-20px,-21px);
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-watch-learn-play .section-content-block-ar .column-right .hardware .overview-watch-learn-play-ar-snipe {
+        bottom:unset;
+        top: 0
+    }
+}
+
+/* 12 */
+.section-ipad-accessories .section-content-block-connect-accessories .video-wipe .overview-ipad-accessories-connect-snipe {
+    transform: translate(15px,37px);
+    position: absolute;
+    bottom: 0;
+    right: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipad-accessories .section-content-block-connect-accessories .video-wipe .overview-ipad-accessories-connect-snipe {
+        transform: translate(50px,38px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipad-accessories .section-content-block-connect-accessories .video-wipe .overview-ipad-accessories-connect-snipe {
+        transform: translate(-25px,23px);
+    }
+}
+
+@media only screen and (min-width: 1069px) {
+    html.text-zoom .section-ipad-accessories .section-content-block-connect-accessories .video-wipe .overview-ipad-accessories-connect-snipe {
+        bottom:30px
+    }
+}
+
+/* 13 */
+.section-ipad-accessories .section-content-block-magic-keyboard-folio .hardware .overview-ipad-accessories-folio-snipe {
+    transform: translate(-280px,-20px);
+    position: absolute;
+    bottom: 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipad-accessories .section-content-block-magic-keyboard-folio .hardware .overview-ipad-accessories-folio-snipe {
+        transform: translate(122px,-184px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipad-accessories .section-content-block-magic-keyboard-folio .hardware .overview-ipad-accessories-folio-snipe {
+        transform: translate(-85px,25px);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.no-enhanced .section-ipad-accessories .section-content-block-magic-keyboard-folio .hardware .overview-ipad-accessories-folio-snipe {
+        transform: translate(-131px,-24px);
+    }
+}
+
+.section-create .section-content-block-apple-pencil .hardware-draw .overview-create-draw-snipe, .section-create .section-content-block-apple-pencil .hardware-draw .snipe-1 {
+    transform: translate(1250px, 70px);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-create .section-content-block-apple-pencil .hardware-draw .overview-create-draw-snipe, .section-create .section-content-block-apple-pencil .hardware-draw .snipe-1 {
+        transform:translate(550px, 269px)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-create .section-content-block-apple-pencil .hardware-draw .overview-create-draw-snipe, .section-create .section-content-block-apple-pencil .hardware-draw .snipe-1 {
+        transform: translate(100px, -57px);
+        left:50%
+    }
+}
+
+.section-design .section-content-block-ipad .hardware-fan .overview-design-fan-snipe3, .section-design .section-content-block-ipad .hardware-fan .snipe-3 {
+    transform: translate(98px, 1558px);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .section-content-block-ipad .hardware-fan .overview-design-fan-snipe3, .section-design .section-content-block-ipad .hardware-fan .snipe-3 {
+        transform:translate(-4px, 1051px)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .section-content-block-ipad .hardware-fan .overview-design-fan-snipe3, .section-design .section-content-block-ipad .hardware-fan .snipe-3 {
+        transform: translate(-129px, 639px);
+        left:50%
+    }
+}
+
+.section-ipad-accessories .section-content-block-apple-pencil .hardware .overview-ipad-accessories-pencil-snipe {
+    transform: translate(60px, -210px);
+    position:absolute
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ipad-accessories .section-content-block-apple-pencil .hardware .overview-ipad-accessories-pencil-snipe {
+        transform:translate(29px, -139px)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-ipad-accessories .section-content-block-apple-pencil .hardware .overview-ipad-accessories-pencil-snipe {
+        transform:translate(25px, -98px)
+    }
+}

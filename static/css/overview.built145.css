@@ -1,0 +1,55 @@
+/* arrow start */
+.icon-wrapper .icon, .icon-wrapper .more::after, .icon-wrapper .icon-before::before, .icon-wrapper .icon-after::after{position: relative;}
+/* arrow end */
+
+/**** Available at authorized resellers ***/
+.no-tade-in-alt{
+    margin-top: 24px;
+}
+
+
+.badge-value.camera {font-size: 39px;}
+@media only screen and (max-width: 735px) {
+    .badge-value.camera {
+        font-size: 28px;
+        }
+    }
+    
+.badge-unit {
+    font-size: 32px;
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: .004em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight:600
+}
+.badge-unit:lang(zh-CN), .badge .badge-unit-plus:lang(zh-CN), .badge .badge-unit-percent:lang(zh-CN), .badge .badge-unit-currency:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.colornav-wrapper .colornav-item .current .colornav-logo-productred{
+	display: none;
+}
+
+.colornav-wrapper .colornav-item .current .colornav-label-hidden{
+	font-size: 11px;
+	display: contents;
+	position: initial;
+	overflow: initial;
+}
+
+
+
+/* Solve the problem of dynamic price breaking */
+.nowrap-alts {
+    white-space: nowrap;
+    display: contents;
+}
+@media only screen and (max-width: 734px) {
+    .section-compare-table .template-dynamic-price-monthly {
+        max-width: 9em;
+        margin-right: auto;
+        margin-left: auto;
+    
+    }
+}

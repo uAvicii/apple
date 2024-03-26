@@ -1,0 +1,78 @@
+.rf-flagship-community {
+    display: none;
+}
+
+.rf-flagship-buystrip {
+    padding-top: 20px;
+}
+
+@media only screen and (max-device-width: 736px) and (max-width: 1023px) {
+    .rf-flagship-buystrip {
+        padding-top: 0;
+        border-bottom: 1px solid #d2d2d7;
+    }
+
+    .rc-witb-item-image {
+        height: 340px;
+        width: auto;
+        max-width: none;
+    }
+}
+
+.rf-engraving-tile .rf-engraving-message:lang(en-IN) {
+    font-family: 'Apple Monochrome Emoji Ind', 'SF Pro IN', 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+.rf-engraving-tile .rf-engraving-message:lang(ar) {
+    font-family: 'Apple Monochrome Emoji Ind', 'SF Pro AR', 'SF Pro Gulf', 'SF Pro Text', 'SF Pro Icons', 'AOS Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+.rf-engraving-tile .rf-engraving-message:lang(zh-CN) {
+    font-family: 'Apple Monochrome Emoji Ind', 'SF Pro SC', 'SF Pro Text', 'SF Pro Icons', 'AOS Icons', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+.rf-engraving-tile .rf-engraving-message:lang(zh-TW) {
+    font-family: 'Apple Monochrome Emoji Ind', 'SF Pro TC', 'SF Pro Text', 'SF Pro Icons', 'AOS Icons', 'PingFang TC', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+.rf-engraving-tile .rf-engraving-message:lang(ko) {
+    font-family: 'Apple Monochrome Emoji Ind', 'SF Pro KR', 'SF Pro Text', 'SF Pro Icons', 'AOS Icons', 'Apple Gothic', 'HY Gulim', 'MalgunGothic', 'HY Dotum', 'Lexi Gulim', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+.rf-engraving-tile .rf-engraving-message:lang(ja) {
+    font-family: 'Apple Monochrome Emoji Ind', 'SF Pro JP', 'SF Pro Text', 'SF Pro Icons', 'AOS Icons', 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+.rf-engraving-tile .rf-engraving-message:lang(th) {
+    font-family: 'Apple Monochrome Emoji Ind', 'SF Pro TH', 'SF Pro Text', 'SF Pro Icons', 'AOS Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+.rf-engraving-tile .rf-engraving-message:lang(zh-MO),
+.rf-engraving-tile .rf-engraving-message:lang(zh-HK) {
+    font-family: 'Apple Monochrome Emoji Ind', 'SF Pro HK', 'SF Pro Text', 'SF Pro Icons', 'AOS Icons', 'PingFang HK', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+.rf-engraving-overlay-content .rf-engraving-content {
+    transition: opacity .7s ease-in-out;
+}
+
+.rf-engraving-media {
+    height: auto;
+}
+
+.rf-engraving-media-content {
+    overflow: hidden;
+}
+
+.rf-acmi-banner a {
+    white-space: nowrap;
+}
+
+.rc-summary-price-box .price-point {
+    display: inline-block;
+}
+
+/* rdar://88300073 - hide tradein text in non-tradein pages */
+.as-price-tradein-text {
+    display: none;
+}

@@ -1,0 +1,1285 @@
+.section-design .subsection-touch .inline-video-design .start-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/touch_id_startframe__b9oeagtix0gi_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-design .subsection-touch .inline-video-design .start-frame {
+        background-image:url(../image/touch_id_startframe__b9oeagtix0gi_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .subsection-touch .inline-video-design .start-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/touch_id_startframe__b9oeagtix0gi_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-design .subsection-touch .inline-video-design .start-frame {
+        background-image:url(../image/touch_id_startframe__b9oeagtix0gi_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .subsection-touch .inline-video-design .start-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/touch_id_startframe__b9oeagtix0gi_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-design .subsection-touch .inline-video-design .start-frame {
+        background-image:url(../image/touch_id_startframe__b9oeagtix0gi_small_2x.jpg)
+    }
+}
+
+.section-design .subsection-touch .inline-video-design .end-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/touch_id_endframe__oehcatz4112m_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-design .subsection-touch .inline-video-design .end-frame {
+        background-image:url(../image/touch_id_endframe__oehcatz4112m_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .subsection-touch .inline-video-design .end-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/touch_id_endframe__oehcatz4112m_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-design .subsection-touch .inline-video-design .end-frame {
+        background-image:url(../image/touch_id_endframe__oehcatz4112m_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .subsection-touch .inline-video-design .end-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/touch_id_endframe__oehcatz4112m_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-design .subsection-touch .inline-video-design .end-frame {
+        background-image:url(../image/touch_id_endframe__oehcatz4112m_small_2x.jpg)
+    }
+}
+.section-design .subsection-touch .inline-video-design .static-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/touch_id_endframe__oehcatz4112m_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-design .subsection-touch .inline-video-design .static-frame {
+        background-image:url(../image/touch_id_endframe__oehcatz4112m_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .subsection-touch .inline-video-design .static-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/touch_id_endframe__oehcatz4112m_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-design .subsection-touch .inline-video-design .static-frame {
+        background-image:url(../image/touch_id_endframe__oehcatz4112m_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .subsection-touch .inline-video-design .static-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/touch_id_endframe__oehcatz4112m_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-design .subsection-touch .inline-video-design .static-frame {
+        background-image:url(../image/touch_id_endframe__oehcatz4112m_small_2x.jpg)
+    }
+}
+.section-design .subsection-magnetic .inline-video-design .start-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/pencil_attach_startframe__gm1q8sljg7ee_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-design .subsection-magnetic .inline-video-design .start-frame {
+        background-image:url(../image/pencil_attach_startframe__gm1q8sljg7ee_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .subsection-magnetic .inline-video-design .start-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/pencil_attach_startframe__gm1q8sljg7ee_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-design .subsection-magnetic .inline-video-design .start-frame {
+        background-image:url(../image/pencil_attach_startframe__gm1q8sljg7ee_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .subsection-magnetic .inline-video-design .start-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/pencil_attach_startframe__gm1q8sljg7ee_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-design .subsection-magnetic .inline-video-design .start-frame {
+        background-image:url(../image/pencil_attach_startframe__gm1q8sljg7ee_small_2x.jpg)
+    }
+}
+
+.section-design .subsection-magnetic .inline-video-design .end-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/pencil_attach_endframe__en7ag9ffqj6u_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-design .subsection-magnetic .inline-video-design .end-frame {
+        background-image:url(../image/pencil_attach_endframe__en7ag9ffqj6u_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .subsection-magnetic .inline-video-design .end-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/pencil_attach_endframe__en7ag9ffqj6u_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-design .subsection-magnetic .inline-video-design .end-frame {
+        background-image:url(../image/pencil_attach_endframe__en7ag9ffqj6u_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .subsection-magnetic .inline-video-design .end-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/pencil_attach_endframe__en7ag9ffqj6u_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-design .subsection-magnetic .inline-video-design .end-frame {
+        background-image:url(../image/pencil_attach_endframe__en7ag9ffqj6u_small_2x.jpg)
+    }
+}
+
+.section-design .subsection-magnetic .inline-video-design .static-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/pencil_attach_static__fm9mnk6q4amy_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-design .subsection-magnetic .inline-video-design .static-frame {
+        background-image:url(../image/pencil_attach_static__fm9mnk6q4amy_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .subsection-magnetic .inline-video-design .static-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/pencil_attach_static__fm9mnk6q4amy_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-design .subsection-magnetic .inline-video-design .static-frame {
+        background-image:url(../image/pencil_attach_static__fm9mnk6q4amy_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .subsection-magnetic .inline-video-design .static-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/pencil_attach_static__fm9mnk6q4amy_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-design .subsection-magnetic .inline-video-design .static-frame {
+        background-image:url(../image/pencil_attach_static__fm9mnk6q4amy_small_2x.jpg)
+    }
+}
+
+.section-design .section-header .inline-video-design .start-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/hand_rotation_startframe__f46pgzbcfqmq_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-design .section-header .inline-video-design .start-frame {
+        background-image:url(../image/hand_rotation_startframe__f46pgzbcfqmq_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .section-header .inline-video-design .start-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/hand_rotation_startframe__f46pgzbcfqmq_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-design .section-header .inline-video-design .start-frame {
+        background-image:url(../image/hand_rotation_startframe__f46pgzbcfqmq_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .section-header .inline-video-design .start-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/hand_rotation_startframe__f46pgzbcfqmq_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-design .section-header .inline-video-design .start-frame {
+        background-image:url(../image/hand_rotation_startframe__f46pgzbcfqmq_small_2x.jpg)
+    }
+}
+
+.section-design .section-header .inline-video-design .end-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/hand_rotation_endframe__xr5vq94k802e_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-design .section-header .inline-video-design .end-frame {
+        background-image:url(../image/hand_rotation_endframe__xr5vq94k802e_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .section-header .inline-video-design .end-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/hand_rotation_endframe__xr5vq94k802e_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-design .section-header .inline-video-design .end-frame {
+        background-image:url(../image/hand_rotation_endframe__xr5vq94k802e_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .section-header .inline-video-design .end-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/hand_rotation_endframe__xr5vq94k802e_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-design .section-header .inline-video-design .end-frame {
+        background-image:url(../image/hand_rotation_endframe__xr5vq94k802e_small_2x.jpg)
+    }
+}
+
+.section-design .section-header .inline-video-design .static-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/hand_rotation_endframe__xr5vq94k802e_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-design .section-header .inline-video-design .static-frame {
+        background-image:url(../image/hand_rotation_endframe__xr5vq94k802e_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .section-header .inline-video-design .static-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/hand_rotation_endframe__xr5vq94k802e_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-design .section-header .inline-video-design .static-frame {
+        background-image:url(../image/hand_rotation_endframe__xr5vq94k802e_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-design .section-header .inline-video-design .static-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/hand_rotation_endframe__xr5vq94k802e_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-design .section-header .inline-video-design .static-frame {
+        background-image:url(../image/hand_rotation_endframe__xr5vq94k802e_small_2x.jpg)
+    }
+}
+.hardware-marquee-landscape.app-1 glass-screen {
+    background-image: url(../image/screen_01__ep3b8l61b6gm_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-landscape.app-1 glass-screen {
+        background-image: url(../image/screen_01__ep3b8l61b6gm_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-landscape.app-1 glass-screen {
+        background-image: url(../image/screen_01__ep3b8l61b6gm_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-1 glass-screen {
+        background-image: url(../image/screen_01__ep3b8l61b6gm_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-landscape.app-1 glass-screen {
+        background-image: url(../image/screen_01__ep3b8l61b6gm_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-1 glass-screen {
+        background-image: url(../image/screen_01__ep3b8l61b6gm_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-portrait.app-2 glass-screen {
+    background-image: url(../image/screen_02__b4esfbagutle_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-portrait.app-2 glass-screen {
+        background-image: url(../image/screen_02__b4esfbagutle_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-portrait.app-2 glass-screen {
+        background-image: url(../image/screen_02__b4esfbagutle_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-2 glass-screen {
+        background-image: url(../image/screen_02__b4esfbagutle_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-portrait.app-2 glass-screen {
+        background-image: url(../image/screen_02__b4esfbagutle_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-2 glass-screen {
+        background-image: url(../image/screen_02__b4esfbagutle_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-landscape.app-3 glass-screen {
+    background-image: url(../image/screen_03__db7eit936as2_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-landscape.app-3 glass-screen {
+        background-image: url(../image/screen_03__db7eit936as2_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-landscape.app-3 glass-screen {
+        background-image: url(../image/screen_03__db7eit936as2_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-3 glass-screen {
+        background-image: url(../image/screen_03__db7eit936as2_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-landscape.app-3 glass-screen {
+        background-image: url(../image/screen_03__db7eit936as2_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-3 glass-screen {
+        background-image: url(../image/screen_03__db7eit936as2_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-portrait.app-4 glass-screen {
+    background-image: url(../image/screen_04__f8w790exd2ie_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-portrait.app-4 glass-screen {
+        background-image: url(../image/screen_04__f8w790exd2ie_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-portrait.app-4 glass-screen {
+        background-image: url(../image/screen_04__f8w790exd2ie_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-4 glass-screen {
+        background-image: url(../image/screen_04__f8w790exd2ie_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-portrait.app-4 glass-screen {
+        background-image: url(../image/screen_04__f8w790exd2ie_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-4 glass-screen {
+        background-image: url(../image/screen_04__f8w790exd2ie_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-landscape.app-5 glass-screen {
+    background-image: url(../image/screen_05__fyumttpnj36u_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-landscape.app-5 glass-screen {
+        background-image: url(../image/screen_05__fyumttpnj36u_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-landscape.app-5 glass-screen {
+        background-image: url(../image/screen_05__fyumttpnj36u_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-5 glass-screen {
+        background-image: url(../image/screen_05__fyumttpnj36u_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-landscape.app-5 glass-screen {
+        background-image: url(../image/screen_05__fyumttpnj36u_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-5 glass-screen {
+        background-image: url(../image/screen_05__fyumttpnj36u_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-portrait.app-6 glass-screen {
+    background-image: url(../image/screen_06__c4scwiv20be6_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-portrait.app-6 glass-screen {
+        background-image: url(../image/screen_06__c4scwiv20be6_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-portrait.app-6 glass-screen {
+        background-image: url(../image/screen_06__c4scwiv20be6_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-6 glass-screen {
+        background-image: url(../image/screen_06__c4scwiv20be6_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-portrait.app-6 glass-screen {
+        background-image: url(../image/screen_06__c4scwiv20be6_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-6 glass-screen {
+        background-image: url(../image/screen_06__c4scwiv20be6_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-landscape.app-7 glass-screen {
+    background-image: url(../image/screen_07__e7apj7o36x6q_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-landscape.app-7 glass-screen {
+        background-image: url(../image/screen_07__e7apj7o36x6q_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-landscape.app-7 glass-screen {
+        background-image: url(../image/screen_07__e7apj7o36x6q_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-7 glass-screen {
+        background-image: url(../image/screen_07__e7apj7o36x6q_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-landscape.app-7 glass-screen {
+        background-image: url(../image/screen_07__e7apj7o36x6q_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-7 glass-screen {
+        background-image: url(../image/screen_07__e7apj7o36x6q_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-landscape.app-9 glass-screen {
+    background-image: url(../image/screen_09__nznx97u9tpei_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-landscape.app-9 glass-screen {
+        background-image: url(../image/screen_09__nznx97u9tpei_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-landscape.app-9 glass-screen {
+        background-image: url(../image/screen_09__nznx97u9tpei_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-9 glass-screen {
+        background-image: url(../image/screen_09__nznx97u9tpei_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-landscape.app-9 glass-screen {
+        background-image: url(../image/screen_09__nznx97u9tpei_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-9 glass-screen {
+        background-image: url(../image/screen_09__nznx97u9tpei_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-portrait.app-10 glass-screen {
+    background-image: url(../image/screen_10__c09j5yt0vquu_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-portrait.app-10 glass-screen {
+        background-image: url(../image/screen_10__c09j5yt0vquu_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-portrait.app-10 glass-screen {
+        background-image: url(../image/screen_10__c09j5yt0vquu_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-10 glass-screen {
+        background-image: url(../image/screen_10__c09j5yt0vquu_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-portrait.app-10 glass-screen {
+        background-image: url(../image/screen_10__c09j5yt0vquu_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-10 glass-screen {
+        background-image: url(../image/screen_10__c09j5yt0vquu_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-portrait.app-12 glass-screen {
+    background-image: url(../image/screen_12__frtl837ksmuu_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-portrait.app-12 glass-screen {
+        background-image: url(../image/screen_12__frtl837ksmuu_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-portrait.app-12 glass-screen {
+        background-image: url(../image/screen_12__frtl837ksmuu_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-12 glass-screen {
+        background-image: url(../image/screen_12__frtl837ksmuu_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-portrait.app-12 glass-screen {
+        background-image: url(../image/screen_12__frtl837ksmuu_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-12 glass-screen {
+        background-image: url(../image/screen_12__frtl837ksmuu_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-landscape.app-13 glass-screen {
+    background-image: url(../image/screen_13__dc9hamy9oree_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-landscape.app-13 glass-screen {
+        background-image: url(../image/screen_13__dc9hamy9oree_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-landscape.app-13 glass-screen {
+        background-image: url(../image/screen_13__dc9hamy9oree_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-13 glass-screen {
+        background-image: url(../image/screen_13__dc9hamy9oree_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-landscape.app-13 glass-screen {
+        background-image: url(../image/screen_13__dc9hamy9oree_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-13 glass-screen {
+        background-image: url(../image/screen_13__dc9hamy9oree_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-landscape.app-15 glass-screen {
+    background-image: url(../image/screen_15__keoenonfu92e_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-landscape.app-15 glass-screen {
+        background-image: url(../image/screen_15__keoenonfu92e_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-landscape.app-15 glass-screen {
+        background-image: url(../image/screen_15__keoenonfu92e_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-15 glass-screen {
+        background-image: url(../image/screen_15__keoenonfu92e_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-landscape.app-15 glass-screen {
+        background-image: url(../image/screen_15__keoenonfu92e_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-15 glass-screen {
+        background-image: url(../image/screen_15__keoenonfu92e_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-landscape.app-17 glass-screen {
+    background-image: url(../image/screen_17__fmgekomomtm6_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-landscape.app-17 glass-screen {
+        background-image: url(../image/screen_17__fmgekomomtm6_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-landscape.app-17 glass-screen {
+        background-image: url(../image/screen_17__fmgekomomtm6_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-17 glass-screen {
+        background-image: url(../image/screen_17__fmgekomomtm6_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-landscape.app-17 glass-screen {
+        background-image: url(../image/screen_17__fmgekomomtm6_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-17 glass-screen {
+        background-image: url(../image/screen_17__fmgekomomtm6_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-portrait.app-18 glass-screen {
+    background-image: url(../image/screen_18__nxk3thf9gqq2_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-portrait.app-18 glass-screen {
+        background-image: url(../image/screen_18__nxk3thf9gqq2_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-portrait.app-18 glass-screen {
+        background-image: url(../image/screen_18__nxk3thf9gqq2_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-18 glass-screen {
+        background-image: url(../image/screen_18__nxk3thf9gqq2_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-portrait.app-18 glass-screen {
+        background-image: url(../image/screen_18__nxk3thf9gqq2_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-18 glass-screen {
+        background-image: url(../image/screen_18__nxk3thf9gqq2_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-landscape.app-19 glass-screen {
+    background-image: url(../image/screen_19__epit54px7pkm_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-landscape.app-19 glass-screen {
+        background-image: url(../image/screen_19__epit54px7pkm_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-landscape.app-19 glass-screen {
+        background-image: url(../image/screen_19__epit54px7pkm_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-19 glass-screen {
+        background-image: url(../image/screen_19__epit54px7pkm_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-landscape.app-19 glass-screen {
+        background-image: url(../image/screen_19__epit54px7pkm_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-19 glass-screen {
+        background-image: url(../image/screen_19__epit54px7pkm_small_2x.jpg)
+    }
+}
+.section-essentials .subsection-smartfolio .inline-video-essentials .start-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/folio_startframe__5agfqe1indum_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .start-frame {
+        background-image:url(../image/folio_startframe__5agfqe1indum_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .start-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/folio_startframe__5agfqe1indum_medium.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .start-frame {
+        background-image:url(../image/folio_startframe__5agfqe1indum_medium_2x.png)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .start-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/folio_startframe__5agfqe1indum_small.png)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .start-frame {
+        background-image:url(../image/folio_startframe__5agfqe1indum_small_2x.png)
+    }
+}
+
+.section-essentials .subsection-smartfolio .inline-video-essentials .end-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/folio_endframe__b73gka77v5yq_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .end-frame {
+        background-image:url(../image/folio_endframe__b73gka77v5yq_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .end-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/folio_endframe__b73gka77v5yq_medium.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .end-frame {
+        background-image:url(../image/folio_endframe__b73gka77v5yq_medium_2x.png)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .end-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/folio_endframe__b73gka77v5yq_small.png)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .end-frame {
+        background-image:url(../image/folio_endframe__b73gka77v5yq_small_2x.png)
+    }
+}
+
+.section-essentials .subsection-smartfolio .inline-video-essentials .static-frame {
+    background-repeat: no-repeat;
+    background-image: url(../image/folio_static__ce2dd9l1gwxe_large.png)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .static-frame {
+        background-image:url(../image/folio_static__ce2dd9l1gwxe_large_2x.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .static-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/folio_static__ce2dd9l1gwxe_medium.png)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .static-frame {
+        background-image:url(../image/folio_static__ce2dd9l1gwxe_medium_2x.png)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .static-frame {
+        background-repeat:no-repeat;
+        background-image: url(../image/folio_static__ce2dd9l1gwxe_small.png)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .section-essentials .subsection-smartfolio .inline-video-essentials .static-frame {
+        background-image:url(../image/folio_static__ce2dd9l1gwxe_small_2x.png)
+    }
+}
+
+.hardware-marquee-landscape.app-11 glass-screen {
+    background-image: url(../image/screen_11__fh0ykpd0om62_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-landscape.app-11 glass-screen {
+        background-image: url(../image/screen_11__fh0ykpd0om62_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-landscape.app-11 glass-screen {
+        background-image: url(../image/screen_11__fh0ykpd0om62_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-11 glass-screen {
+        background-image: url(../image/screen_11__fh0ykpd0om62_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-landscape.app-11 glass-screen {
+        background-image: url(../image/screen_11__fh0ykpd0om62_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-landscape.app-11 glass-screen {
+        background-image: url(../image/screen_11__fh0ykpd0om62_small_2x.jpg)
+    }
+}
+
+.hardware-marquee-portrait.app-20 glass-screen {
+    background-image: url(../image/screen_20__gva3uv93wzm2_large.jpg)
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution:144dpi),
+only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:1.5dppx) {
+    .hardware-marquee-portrait.app-20 glass-screen {
+        background-image: url(../image/screen_20__gva3uv93wzm2_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .hardware-marquee-portrait.app-20 glass-screen {
+        background-image: url(../image/screen_20__gva3uv93wzm2_medium.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-20 glass-screen {
+        background-image: url(../image/screen_20__gva3uv93wzm2_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .hardware-marquee-portrait.app-20 glass-screen {
+        background-image: url(../image/screen_20__gva3uv93wzm2_small.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+    .hardware-marquee-portrait.app-20 glass-screen {
+        background-image: url(../image/screen_20__gva3uv93wzm2_small_2x.jpg)
+    }
+}
+
+@media only screen and (min-width: 1069px) and (max-width:1799px) {
+
+    html.no-js .section-pillars .image-pillars-magic,
+    html.no-pillars-enhanced .section-pillars .image-pillars-magic {
+        background-image: url(../image/magic__efrpzfogbd0m_large.jpg);
+    }
+}
+
+@media only screen and (min-width: 1069px) and (max-width:1799px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-width:1069px) and (max-width:1799px) and (min-resolution:1.5dppx),
+only screen and (min-width:1069px) and (max-width:1799px) and (min-resolution:144dpi) {
+
+    html.no-js .section-pillars .image-pillars-magic,
+    html.no-pillars-enhanced .section-pillars .image-pillars-magic {
+        background-image: url(../image/magic__efrpzfogbd0m_large_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+
+    html.no-js .section-pillars .image-pillars-magic,
+    html.no-pillars-enhanced .section-pillars .image-pillars-magic {
+        background-image: url(../image/magic__efrpzfogbd0m_medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:1068px) and (min-resolution:1.5dppx),
+only screen and (max-width:1068px) and (min-resolution:144dpi) {
+
+    html.no-js .section-pillars .image-pillars-magic,
+    html.no-pillars-enhanced .section-pillars .image-pillars-magic {
+        background-image: url(../image/magic__efrpzfogbd0m_medium_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+
+    html.no-js .section-pillars .image-pillars-magic,
+    html.no-pillars-enhanced .section-pillars .image-pillars-magic {
+        background-image: url(../image/magic__efrpzfogbd0m_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (max-width:734px) and (min-resolution:1.5dppx),
+only screen and (max-width:734px) and (min-resolution:144dpi) {
+
+    html.no-js .section-pillars .image-pillars-magic,
+    html.no-pillars-enhanced .section-pillars .image-pillars-magic {
+        background-image: url(../image/magic__efrpzfogbd0m_small_2x.jpg)
+    }
+}
+
+@media only screen and (min-width: 1800px) {
+
+    html.no-js .section-pillars .image-pillars-magic,
+    html.no-pillars-enhanced .section-pillars .image-pillars-magic {
+        background-image: url(../image/magic__efrpzfogbd0m_xlarge.jpg);
+    }
+}
+
+@media only screen and (min-width: 1800px) and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-width:1800px) and (min-resolution:1.5dppx),
+only screen and (min-width:1800px) and (min-resolution:144dpi) {
+
+    html.no-js .section-pillars .image-pillars-magic,
+    html.no-pillars-enhanced .section-pillars .image-pillars-magic {
+        background-image: url(../image/magic__efrpzfogbd0m_xlarge_2x.jpg)
+    }
+}
+
+
+@media only screen and (min-width: 1069px) and (max-width:1799px) {
+    html.no-js .section-pillars .image-pillars-power,html.no-pillars-enhanced .section-pillars .image-pillars-power {
+        background-size:1050px 708px;
+        background-repeat: no-repeat;
+        background-image: url(../image/power__bf0c67r389zm_large.jpg);
+        background-size: auto 100%;
+        background-position: 0 100%;
+        height: 95%;
+        max-height: 708px;
+        width: calc(100% + 152px);
+        margin-left: -152px;
+        left: 0
+    }
+}
+
+@media only screen and (min-width: 1069px) and (max-width:1799px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-width:1069px) and (max-width:1799px) and (min-resolution:1.5dppx),only screen and (min-width:1069px) and (max-width:1799px) and (min-resolution:144dpi) {
+    html.no-js .section-pillars .image-pillars-power,html.no-pillars-enhanced .section-pillars .image-pillars-power {
+        background-image:url(../image/power__bf0c67r389zm_large_2x.jpg)
+    }
+}
+
+@media only screen and (min-width: 1800px) {
+    html.no-js .section-pillars .image-pillars-power,html.no-pillars-enhanced .section-pillars .image-pillars-power {
+        background-size:1464px 992px;
+        background-repeat: no-repeat;
+        background-image: url(../image/power__bf0c67r389zm_xlarge.jpg);
+        background-size: auto 100%;
+        background-position: 0 100%;
+        height: 85%;
+        max-height: 992px;
+        width: calc(100% + 262px);
+        margin-left: -262px;
+        left: 0
+    }
+}
+
+@media only screen and (min-width: 1800px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-width:1800px) and (min-resolution:1.5dppx),only screen and (min-width:1800px) and (min-resolution:144dpi) {
+    html.no-js .section-pillars .image-pillars-power,html.no-pillars-enhanced .section-pillars .image-pillars-power {
+        background-image:url(../image/power__bf0c67r389zm_xlarge_2x.jpg)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-js .section-pillars .image-pillars-power,html.no-pillars-enhanced .section-pillars .image-pillars-power {
+        background-repeat:no-repeat;
+        background-image: url(../image/power__bf0c67r389zm_medium.jpg);
+        background-size: cover;
+        width: 892px;
+        transform: translateX(-50%);
+        left: 50%;
+        position: relative
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    html.no-js .section-pillars .image-pillars-power,html.no-pillars-enhanced .section-pillars .image-pillars-power {
+        background-image:url(../image/power__bf0c67r389zm_medium_2x.jpg)
+    }
+}
+
+
+@media only screen and (max-width: 734px) {
+    html.no-js .section-pillars .image-pillars-power,html.no-pillars-enhanced .section-pillars .image-pillars-power {
+        background-repeat:no-repeat;
+        background-image: url(../image/power__bf0c67r389zm_small.jpg);
+        background-size: cover;
+        width: 138vw;
+        max-width: 538px
+    }
+}
+@media only screen and (max-width: 734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+    html.no-js .section-pillars .image-pillars-power,html.no-pillars-enhanced .section-pillars .image-pillars-power {
+        background-image:url(../image/power__bf0c67r389zm_small_2x.jpg)
+    }
+}

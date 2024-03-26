@@ -1,0 +1,13 @@
+@media only screen and (max-width: 375px) {
+    .page-overview .selector-dropdown {
+        font-size: 16px;}}
+        
+        @media only screen and (max-width: 320px) {
+    .page-overview .selector-dropdown {
+        font-size: 14px;}}
+        
+        
+p.celfont:lang(zh-CN){
+	font-size: 15px;
+	margin-top:8px;
+}

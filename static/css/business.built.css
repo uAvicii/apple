@@ -1,0 +1,522 @@
+.image-retail-business-jointventure-retail-jointventure-terms-title {
+    background-image: url("../image/retail_jointventure_terms_title_large.png");
+    background-size: 185px 29px;
+    width: 185px;
+    height: 29px;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 144), (min-resolution: 144dppx) {
+    .image-retail-business-jointventure-retail-jointventure-terms-title {
+        background-image: url("../image/retail_jointventure_terms_title_large_2x.png");
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-retail-business-jointventure-retail-jointventure-terms-title {
+        background-image: url("../image/retail_jointventure_terms_title_medium.png");
+        background-size: 185px 28px;
+        width: 185px;
+        height: 28px;
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 144dpi), only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 144), only screen and (max-width: 1068px) and (min-resolution: 144dppx) {
+    .image-retail-business-jointventure-retail-jointventure-terms-title {
+        background-image: url("../image/retail_jointventure_terms_title_medium_2x.png");
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-retail-business-jointventure-retail-jointventure-terms-title {
+        background-image: url("../image/retail_jointventure_terms_title_small.png");
+        background-size: 116px 18px;
+        width: 116px;
+        height: 18px;
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 144dpi), only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 144), only screen and (max-width: 735px) and (min-resolution: 144dppx) {
+    .image-retail-business-jointventure-retail-jointventure-terms-title {
+        background-image: url("../image/retail_jointventure_terms_title_small_2x.png");
+    }
+}
+
+.padding-width{padding: 0 50px;}
+@media only screen and (max-width: 1068px) {.padding-width{padding: 0;}}
+
+
+.page-business .container-image-modernize-alt .image-modernize-resize {
+    width: 980px;
+    height: 1025px;
+    background-size: 980px 1025px;
+    background-repeat: no-repeat;
+    background-image: url("../image/modernize_alt_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-business .container-image-modernize-alt .image-modernize-resize {
+        background-image: url("../image/modernize_alt_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-business .container-image-modernize-alt .image-modernize-resize {
+        width: 549px;
+        height: 853px;
+        background-size: 549px 853px;
+        background-repeat: no-repeat;
+        background-image: url("../image/modernize_alt_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-business .container-image-modernize-alt .image-modernize-resize {
+        background-image: url("../image/modernize_alt_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-business .container-image-modernize-alt .image-modernize-resize {
+        width: 762px;
+        height: 649px;
+        background-size: 762px 649px;
+        background-repeat: no-repeat;
+        background-image: url("../image/modernize_alt_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-business .container-image-modernize-alt .image-modernize-resize {
+        background-image: url("../image/modernize_alt_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-business .section-solutions .subsection-modernize .image-modernize {
+        position: relative;
+        left: 10%;
+        margin-left: -457px;
+        float: none;
+        top: -53px;
+        height: 517px
+    }
+}
+
+@media only screen and (max-width: 438px) {
+    .page-business .section-solutions .subsection-modernize .image-modernize {
+        position: relative;
+        left: 10%;
+        margin-left: -507px;
+        float: none;
+        top: -53px;
+        height: 517px
+    }
+}
+
+
+
+.page-business .image-productive-b-resize.image-productive-b-resize-alt{
+    background-repeat: no-repeat;
+    background-image: url("../image/productive_b_alt_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-business .image-productive-b-resize.image-productive-b-resize-alt{
+        background-image: url("../image/productive_b_alt_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-business .image-productive-b-resize.image-productive-b-resize-alt{
+        background-repeat: no-repeat;
+        background-image: url("../image/productive_b_alt_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-business .image-productive-b-resize.image-productive-b-resize-alt{
+        background-image: url("../image/productive_b_alt_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-business .image-productive-b-resize.image-productive-b-resize-alt{
+        background-repeat: no-repeat;
+        background-image: url("../image/productive_b_alt_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-business .image-productive-b-resize.image-productive-b-resize-alt
+    {
+        background-image: url("../image/productive_b_alt_small_2x.jpg")
+    }
+}
+
+.page-business .our-team-hero {
+    background-image: url("../image/business_our_team_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-business .our-team-hero {
+        background-image: url("../image/business_our_team_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-business .our-team-hero {
+        background-image: url("../image/business_our_team_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-business .our-team-hero {
+        background-image: url("../image/business_our_team_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-business .our-team-hero {
+        background-image: url("../image/business_our_team_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-business .our-team-hero {
+        background-image: url("../image/business_our_team_small_2x.png")
+    }
+}
+
+.page-business .section-services .service-shipping p {
+    padding: 0 110px
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-business .section-services .service-shipping p {
+        padding: 0 60px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-business .section-services .service-shipping p {
+        padding: 0 0px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-business .section-services .service-shipping p {
+        width: 230px;
+        margin: 0 auto
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-business .section-buttons .section-content .contact-link p {
+        padding: 0 10px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-business .section-buttons .section-content .contact-link p {
+        padding: 0 30px
+    }
+}
+@media all and (min-width: 535px) and (max-width: 735px) {
+    .page-business .section-buttons .section-content .contact-link p {
+        padding: 0 10px
+    }
+}
+@media only screen and (max-width: 320px) {
+    .page-business .section-buttons .section-content .contact-link p {
+        padding: 0 10px
+    }
+}
+/**/
+.page-business .section-solutions .subsection-succeed.alignments {
+    margin: 0px 0px 654px 0px
+}
+
+.page-business .section-solutions .subsection-modernize.alignments {
+    margin-bottom: 373px;
+}
+
+.page-business .section-solutions .subsection-productive {
+    margin: 0px 0px 484px 0px
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-business .section-solutions .subsection-succeed.alignments {
+        margin: 0px 0px 418px 0px
+    }
+    .page-business .section-solutions .subsection-modernize.alignments {
+        margin-bottom: 217px;
+    }
+    .page-business .section-solutions .subsection-productive {
+        margin: 0px 0px 254px 0px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-business .section-solutions .subsection-succeed.alignments {
+        margin: 0px 0px 0px 0px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-business .section-solutions .subsection-modernize.alignments {
+        margin: 0px 0px 0px 0px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-business .section-solutions .subsection-productive {
+        margin: 50px 0 25px 0
+    }
+}
+
+/*section-products*/
+@media only screen and (max-width: 735px){
+    .page-business .section-products .box-text.box-text-mod p{
+        min-width: 240px
+    }
+}
+/*image-modernize*/
+.page-business .section-solutions .subsection-modernize.alignments .image-modernize.image-modernize-resize{
+    top:-298px;
+    left:-499px;
+}
+
+@media only screen and (max-width: 1068px){
+    .page-business .section-solutions .subsection-modernize.alignments .image-modernize.image-modernize-resize{
+        top:-287px;
+        left:-190px;
+    }
+}
+
+@media only screen and (max-width: 735px){
+    .page-business .section-solutions .subsection-modernize.alignments .image-modernize.image-modernize-resize{
+        position: relative;
+        left: 10%;
+        margin-left: -457px;
+        float: none;
+        top: -53px;
+        height: 517px;
+    }
+}
+
+@media only screen and (max-width: 438px){
+    .page-business .section-solutions .subsection-modernize.alignments .image-modernize.image-modernize-resize{
+        position: relative;
+        left: 10%;
+        margin-left: -507px;
+        float: none;
+        top: -53px;
+        height: 517px;
+    }
+}
+
+.products-main div{
+    height: 420px;
+}
+
+
+@media only screen and (max-width: 1068px) {
+    .products-main div{
+        height: 372px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 735px) {
+    .products-main div{
+        height: 220px;
+    }
+
+}
+
+/* 2019-06-03 start add airplay quickbooks and excel images */
+.image-business-airplay {
+    background-image: url("../image/airdrop_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-business-airplay {
+        background-image:url("../image/airdrop_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-business-airplay {
+        background-image: url("../image/airdrop_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-business-airplay {
+        background-image:url("../image/airdrop_medium_2x.jpg")
+    }
+}
+
+
+
+@media only screen and (max-width: 735px) {
+    .image-business-airplay {
+        background-image: url("../image/airdrop_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-business-airplay {
+        background-image:url("../image/airdrop_small_2x.jpg")
+    }
+}
+
+
+
+.image-business-group-facetime {
+    width: 539px;
+    height: 405px;
+    background-size: 539px 405px;
+    background-repeat: no-repeat;
+    background-image: url("../image/facetime_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-business-group-facetime {
+        background-image:url("../image/facetime_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-business-group-facetime {
+        width:317px;
+        height: 238px;
+        background-size: 317px 238px;
+        background-repeat: no-repeat;
+        background-image: url("../image/facetime_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-business-group-facetime {
+        background-image:url("../image/facetime_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-business-group-facetime {
+        width:280px;
+        height: 210px;
+        background-size: 280px 210px;
+        background-repeat: no-repeat;
+        background-image: url("../image/facetime_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-business-group-facetime {
+        background-image:url("../image/facetime_small_2x.jpg")
+    }
+}
+
+
+/* 2019-06-03 end add airplay quickbooks and excel images */
+
+.section.section-hero .hero-image-text{
+    width: 1048px;
+}
+
+
+@media only screen and (max-width: 1068px) {
+    .section.section-hero .hero-image-text {
+        width: 692px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section.section-hero .hero-image-text {
+        width: 74.46809%
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .section.section-hero .hero-image-text {
+        width: 87.5%
+    }
+}
+
+
+/*20200722*/
+
+#main .section-page-headline sup{
+   font-size: 1em;
+   bottom: 0em;
+}
+
+#main .section-page-headline sup .footnote{
+    padding-left:0px;
+}
+
+
+/*collaborate-images*/
+
+.image-business-collaborate {
+    background-image: url("../image/collaborate_GEO_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .image-business-collaborate {
+        background-image: url("../image/collaborate_GEO_large_2x.jpg")
+    }
+}
+
+@media only screen and (min-width: 1442px) {
+    .image-business-collaborate {
+        background-image: url("../image/collaborate_GEO_xlarge.jpg")
+    }
+}
+
+@media only screen and (min-width: 1442px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1442px) and (min-resolution: 1.5dppx), only screen and (min-width: 1442px) and (min-resolution: 144dpi) {
+    .image-business-collaborate {
+        background-image: url("../image/collaborate_GEO_xlarge_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-business-collaborate {
+        background-image: url("../image/collaborate_GEO_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-business-collaborate {
+        background-image: url("../image/collaborate_GEO_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-business-collaborate {
+        background-image: url("../image/collaborate_GEO_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-business-collaborate {
+        background-image: url("../image/collaborate_GEO_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .image-business-collaborate {
+        background-image: url("../image/collaborate_GEO_xsmall.jpg")
+    }
+}
+
+@media only screen and (max-width: 375px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 375px) and (min-resolution: 1.5dppx), only screen and (max-width: 375px) and (min-resolution: 144dpi) {
+    .image-business-collaborate {
+        background-image: url("../image/collaborate_GEO_xsmall_2x.jpg")
+    }
+}
+

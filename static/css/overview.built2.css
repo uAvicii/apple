@@ -1,0 +1,599 @@
+/* ribbon start*/
+.ribbon-content .rotation{
+	display: none;
+}
+.ribbon-content .rotation.rotation-show{
+	display: block;
+}
+/* 
+.ac-gf-sosumi ul:first-child li{
+   display: none;
+}
+.ac-gf-sosumi ul:first-child .show{
+   display: block;
+}
+ */
+
+@media only screen and (max-width: 735px) { 
+    html[lang=zh-CN] .center_s_04 { padding-left: 0.4em; } 
+}
+
+#globalnav {
+   z-index: 998888;
+}
+
+/* ribbon end*/
+
+/* trade start */
+.section-trade-acmi .trade {
+
+    flex-direction:row-reverse;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+}
+.section-trade-acmi .trade .promo-copy {
+    padding-top: 129px;
+    padding-right:0px;
+}
+@media only screen and (max-width: 1068px) {
+    .section-trade-acmi .trade .promo-copy {
+    	padding-top: 72px;
+    	margin-right:0px;
+    	margin-bottom:0px;
+    	padding-right:5px;
+	}
+	.section-trade-acmi .trade .promo-headline{
+		max-width: 320px;
+	}
+}
+@media only screen and (max-width: 734px) {
+    .section-trade-acmi .trade .promo-copy {
+        padding-top: auto;
+        margin-right:auto;
+        padding-right:0px;
+    }
+}
+
+.section-trade-acmi .trade .promo-image-wrapper{
+	padding-top:63px;
+	padding-left:20px;
+}
+@media only screen and (max-width: 1068px) {
+    .section-trade-acmi .trade .promo-image-wrapper{
+		padding-top:15px;
+		padding-left:10px;
+	}
+}
+@media only screen and (max-width: 734px) {
+      .section-trade-acmi .trade {
+        flex-wrap: wrap;
+    }
+    .section-trade-acmi .trade .promo-image-wrapper{
+		padding-top:0px;
+		padding-left:0px;
+	}
+}
+
+/* Trade-in 20210714 */
+
+.section-trade-acmi .trade .promo-headline, .section-trade-acmi .may-2021-trade-in .promo-headline {
+    max-width: 485px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-trade-acmi .trade .promo-headline{
+        max-width: 325px;
+    }
+}
+/* trade end */
+
+/* music start */
+
+@media only screen and (max-width: 734px) {
+    .promo-section .banner-promo {
+        height:440px
+    }
+}
+
+.section-get-more .music .promo-image-wrapper .promo-image {
+    width: 590px;
+    height: 469px;
+    background-size: 590px 469px;
+    background-repeat: no-repeat;
+    background-image: url("../image/apple_music__dq9f4czrhw6e_large.jpg");
+    margin-left:-40px;
+    margin-top: 50px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-get-more .music .promo-image-wrapper .promo-image {
+    	margin-top: 63px;
+	}
+}
+
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .section-get-more .music .promo-image-wrapper .promo-image {
+        background-image: url("../image/apple_music__dq9f4czrhw6e_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-get-more .music .promo-image-wrapper .promo-image {
+        width: 412px;
+        height: 328px;
+        background-size: 412px 328px;
+        background-repeat: no-repeat;
+        background-image: url("../image/apple_music__dq9f4czrhw6e_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-get-more .music .promo-image-wrapper .promo-image {
+        background-image: url("../image/apple_music__dq9f4czrhw6e_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-get-more .music .promo-image-wrapper .promo-image {
+        width: 410px;
+        height: 219px;
+        background-size: 410px 219px;
+        background-repeat: no-repeat;
+        background-image: url("../image/apple_music__dq9f4czrhw6e_small.jpg");
+        position: relative;
+        left: 50%;
+        margin-left: -205px;
+        top: 27px;
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-get-more .music .promo-image-wrapper .promo-image {
+        background-image: url("../image/apple_music__dq9f4czrhw6e_small_2x.jpg")
+    }
+}
+
+
+.banner-container .music .promo-headline {
+    width: 158px;
+    height: 39px;
+    background-size: 158px 39px;
+    background-repeat: no-repeat;
+    background-image: url("../image/apple_music_logo__e6qzv7u5iq2q_large.png");
+    position: relative;
+    left: 50%;
+    margin-left:-79px
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+    .banner-container .music .promo-headline {
+        background-image: url("../image/apple_music_logo__e6qzv7u5iq2q_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .banner-container .music .promo-headline {
+        width: 105px;
+        height: 26px;
+        background-size: 105px 26px;
+        background-repeat: no-repeat;
+        background-image: url("../image/apple_music_logo__e6qzv7u5iq2q_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .banner-container .music .promo-headline {
+        background-image: url("../image/apple_music_logo__e6qzv7u5iq2q_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .banner-container .music .promo-headline {
+        width: 106px;
+        height: 27px;
+        background-size: 106px 27px;
+        background-repeat: no-repeat;
+        background-image: url("../image/apple_music_logo__e6qzv7u5iq2q_small.png");
+        left: 50%;
+        margin-left: -53px;
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .banner-container .music .promo-headline {
+        background-image: url("../image/apple_music_logo__e6qzv7u5iq2q_small_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .promo-section .banner-promo .promo-copy {
+        padding-top: 46px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .banner-container .music .promo-copy-wrapper p {
+        margin-top: 18px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .banner-container .music .links-stacked {
+        margin-top: 6px;
+    }
+}
+/* music end */
+
+/* fix arrow position start */
+.icon-wrapper .more::after, .icon-wrapper .icon-after.more::after {
+    position: relative;
+}
+/* fix arrow position end */
+
+/*Holiday 2020-1030 start*/
+@media only screen and (max-width: 734px) {
+    .holiday-2020 .copy {
+        max-width: 290px;
+    }
+}
+
+.center_ls { padding-left: 0.6em;}
+@media only screen and (max-width: 1068px) {
+  .center_ls { padding-left: 0em;}
+}
+@media only screen and (max-width: 734px) {
+    .center_ls { padding-left: 0.6em;}
+}
+
+@media only screen and (max-width: 734px) {
+    .holiday-2020 .wrapper {
+        height: 627px;
+    }
+}
+/*Holiday 2020-1030 end*/
+@media only screen and (max-width: 734px) {
+.headline-center-shide{
+    display:none
+ }
+}
+
+/* ribbon */
+.section-trade-acmi {
+	margin-bottom:30px;
+}
+@media only screen and (max-width: 1068px) {
+	.section-trade-acmi {
+        margin-bottom:20px;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-trade-acmi {
+        margin-bottom:15px;
+    }
+}
+
+/*TAA*/
+@media only screen and (max-width: 734px) {
+    .section-get-more .today-virtual-sessions .promo-copy {
+        padding-top: 0;
+    }
+}
+
+/* BTS */
+@media (max-width: 1400px) and (min-width: 1068px){
+    html[lang=zh-CN] br.large-medium-hide {display: none}
+}
+
+@media only screen and (min-width: 1200px){
+    .bts-2021-alt .copy{
+        min-width: 490px;
+    }
+}
+
+/* trade-in */
+.section-trade-acmi .trade .promo-headline {
+    padding: 0 0 0 25px;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-trade-acmi .trade .promo-headline {
+        padding:0
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-trade-acmi .trade .promo-headline {
+        max-width:330px
+    }
+}
+
+/* ipad-mini */
+.image-mini-script {
+    margin-left: 10px;
+}
+@media only screen and (max-width: 1068px) {
+    .image-mini-script {
+        margin-left: 9px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .image-mini-script {
+        margin-left: 8px;
+    }
+}
+
+
+/* chapternav start */
+@media only screen and (max-width: 833px) {
+    .ac-ls-visible .apple-card-ribbon, .ac-ls-visible .ribbon-ase, .ac-ls-visible .ribbon-obdb {
+        margin-top: unset;
+    }
+    #globalnav{
+         background: #000!important;
+    }
+    #globalnav {
+        --globalnav-background: rgba(0, 0, 0, .8);
+     }
+}
+
+/* chapternav end */
+/* ipados-16-preview start */
+.section-trade-acmi .trade.fp-tile{
+   margin-bottom:30px
+}
+@media only screen and (max-width: 1068px) {
+    .section-trade-acmi .trade.fp-tile{
+   margin-bottom:20px
+}
+}
+@media only screen and (max-width: 734px) {
+    .section-trade-acmi .trade.fp-tile{
+   margin-bottom:15px
+}
+}
+/* ipados-16-preview end */
+
+/* bts last chance */
+
+.bts-2022-copy .promo-intro-copy {
+    color:#1d1d1f
+}
+@media only screen and (max-width: 734px) {
+    .bts-2022-headline.last-chance{
+    max-width:none
+    }
+}
+
+/* 2022-1013 */
+@media only screen and (max-width: 734px) {
+    .section-announcement .typography-hero-headline {
+        max-width: 100%;
+    }
+}
+
+/* Fixed Why iPad */
+.br-for-why-ipad {
+    display: none;
+}
+@media only screen and (max-width: 1110px) {
+    .br-for-why-ipad {
+        display: block;
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .br-for-why-ipad {
+        display: none;
+    }
+}
+
+.chapternav-item.chapternav-item-keyboard .chapternav-new {
+    padding-left: 4px;
+}
+
+ .tile-holiday-2022-last-chance .holiday-2022-headline, .tile-holiday-2022-gift-yourself .holiday-2022-headline {
+    margin-top: 8px;
+}
+
+ /* Holiday-2022-last-chance */
+@media only screen and (max-width: 1068px) {
+    .tile-holiday-2022-last-chance .holiday-2022-headline, .tile-holiday-2022-gift-yourself .holiday-2022-headline {
+    margin-top: 3px;
+    }
+}
+
+@media only screen and (max-width: 734px){
+    .tile-holiday-2022-last-chance .holiday-2022-headline, .tile-holiday-2022-gift-yourself .holiday-2022-headline {
+    margin-top: 4px;
+    }
+}
+
+/* cny-2023-ribbon */
+.section-announcement{
+    padding-top: 52px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-announcement{
+        padding-top: 72px;
+    }
+}
+
+/* fixed ase cny-2023-ribbon */
+html.ac-ls-visible .ribbon-cny-2023.iphone-page , html.ac-gn-segmentbar-visible .ribbon-cny-2023.iphone-page {
+    margin-top: 6px;
+}
+/* fixed ase cny-2023-ribbon */
+
+/* Dargon gate ribbon start */
+.ribbon-blue-to-default {
+	--ribbon-background-color: #f5f5f7;
+	--ribbon-background-color-initial: #0071e3;
+	--ribbon-text-color: #1d1d1f;
+	--ribbon-text-color-initial: white;
+	--ribbon-link-color: #0066cc;
+	--ribbon-focus-color: rgba(0,125,250,0.6);
+	--ribbon-link-color-initial: white;
+}
+/* Dargon gate ribbon end */
+
+/* 2023/6/19 Fix iCloud  */
+.section-ipados .applepay .promo-image {
+    margin-top: 67px;
+}
+@media only screen and (max-width: 1068px) {
+    .section-ipados .icloud .promo-image {
+        margin-top: 49px;
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-ipados .applepay .promo-image {
+        margin-top: 82px;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-ipados .icloud .promo-image {
+        margin-top: 42px;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-ipados .applepay .promo-image {
+        margin-top: 45px;
+    }
+}
+
+/* bts-2023 */
+.banner-bts-2023 .content {
+    padding-top: 15px;
+    max-width:480px
+}
+
+@media only screen and (max-width: 1068px) {
+    .banner-bts-2023 .content {
+        margin-bottom: 0;
+        padding-top:18px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .banner-bts-2023 .content {
+        margin-bottom: 40px;
+        padding-top:5px
+    }
+}
+
+.rotation {
+    display: none;
+}
+.rotation.rotation-show {
+    display: block;
+}
+html [data-analytics-activitymap-region-id="ribbon"].acmi-ribbon.rotation.rotation-show {
+    display: block;
+}
+
+html[data-segment-code="smb"].hide-acmi [data-toggle-bts-2023="acmi"].rotation.rotation-show {
+    display: block !important;
+}
+/* iCloud ribbon height
+.apple-card-ribbon .ribbon-content-wrapper {
+    padding: .94118em 0;
+} */
+
+/* EPP iCloud ribbon show */
+html [data-analytics-activitymap-region-id="ribbon"].acmi-ribbon.rotation {
+    display: none
+}
+
+html[data-segment-code$="internal-epp-discounted"].hide-acmi [data-analytics-activitymap-region-id="ribbon"].acmi-ribbon {
+    display: block
+}
+
+html[data-segment-code$="internal-epp-discounted"].hide-acmi .ribbon-drop-wrapper {
+    animation-play-state: running;
+}
+html[data-segment-code$="smb"].hide-acmi .ribbon-drop-wrapper {
+    animation-play-state: running;
+}
+
+/* Store ribbon show */
+html[data-segment-code="smb"].hide-acmi [data-toggle-bts-2023="acmi"]:not(.ribbon-bts-2023) {
+    display: block !important
+}
+
+
+/* Trade-in Store width */
+
+html.hide-acmi .section-trade-acmi .trade .promo-headline, .section-trade-acmi .may-2021-trade-in .promo-headline {
+    max-width:485px
+}
+
+html.hide-acmi .section-trade-acmi .trade .promo-headline + p {
+    max-width: 390px;
+    margin:21px auto
+}
+
+@media only screen and (max-width: 1068px) {
+    html.hide-acmi .section-trade-acmi .trade .promo-headline, .section-trade-acmi .may-2021-trade-in .promo-headline {
+        max-width: 325px;
+    }
+    
+    html.hide-acmi .section-trade-acmi .trade .promo-headline + p {
+        max-width: 235px;
+        margin:14px auto
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.hide-acmi .section-trade-acmi .trade .promo-headline, .section-trade-acmi .may-2021-trade-in .promo-headline {
+        max-width: 325px;
+    }
+    
+    html.hide-acmi .section-trade-acmi .trade .promo-headline + p {
+        max-width:350px
+    }
+}
+
+/* 20230816 BTS */
+.banner-bts-2023.bts-2023-last-chance .bts-2023-copy,
+.banner-bts-2023 .bts-2023-copy {
+    margin: 20px auto;
+    max-width: 336px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .banner-bts-2023.bts-2023-last-chance .bts-2023-copy,
+    .banner-bts-2023 .bts-2023-copy {
+        max-width:280px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .banner-bts-2023.bts-2023-last-chance .bts-2023-copy,
+    .banner-bts-2023 .bts-2023-copy {
+        max-width:280px
+    }
+}
+
+/* cny-2024 banner */
+@media only screen and (max-width: 734px) {
+    .banner-cny-2024 .banner-wrapper {
+        padding: 31px 0px 112px 0%;
+    }
+}
+.rotation-ribbon{
+    display: none;
+}
+
+/* cny-2024 ribbon */
+@media only screen and (max-width: 734px) {
+	.ribbon-cny-2024.theme-dark-red,
+	.apple-card-ribbon.rotation-ribbon {
+		margin-top: -3px;
+	}
+	
+}
+
+

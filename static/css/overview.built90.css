@@ -1,0 +1,336 @@
+html.fix-cn-adv-ribbon {
+		margin-top: -1px !important;
+	}
+	
+.page-overview.fix-cn-ribbon{
+	margin-top: 40px;
+}
+
+html.ac-ls-visible body.page-overview.fix-cn-ribbon{
+		margin-top: -1px;
+}
+
+/*2020-1106*/
+@media only screen and (max-width: 734px) {
+    .section-connections .pin-connections-wrapper .pin-usb {
+        left: 252px;
+    }
+}
+.grid-item-macos>.grid-item-header>.text-content>.typography-headline {
+    max-width: 86%;
+}
+
+/* wechat-fix ar start */
+
+html.wechat-fix .section-hero .quicklook-ar-ios-12 {
+    display:none
+}
+
+html.wechat-fix.quick-look-classic .section-hero .quicklook-ar-ios-12 {
+    display:none
+}
+
+
+html.wechat-fix .section-hero .quicklook-ar-ios-13-plus {
+    display:none
+}
+
+html.wechat-fix.quick-look-modern .section-hero .quicklook-ar-ios-13-plus {
+    display:none
+}
+
+
+html.wechat-fix.quick-look .quicklook-component {
+    display:none
+}
+
+html.wechat-fix.quick-look.quick-look-classic .quicklook-component.quicklook-cta-classic {
+    display:none
+}
+
+html.wechat-fix.quick-look.quick-look-modern .quicklook-component.quicklook-cta-modern {
+    display:none
+}
+
+html.wechat-fix.quick-look .quicklook-hide {
+    display:block
+}
+/* wechat-fix ar end */
+
+/* ribbon */
+
+
+/*.ribbon-content .rotation{
+    display: none;
+}
+.ribbon-content .rotation.rotation-show{
+    display: block;
+}
+.ribbon-content p+*{
+    margin-top: 0;
+}
+.ac-gf-sosumi ul:first-child li{
+   display: none;
+}
+.ac-gf-sosumi ul:second-child li{
+   display: none;
+}
+.ac-gf-sosumi ul li:nth-child(3){
+   display: block;
+}
+.ac-gf-sosumi ul li.show{
+   display: block;
+}*/
+
+/* ribbon */
+
+/* icon-after::after  */
+
+.icon-wrapper .icon, .icon-wrapper .more::after, .icon-wrapper .icon-before::before, .icon-wrapper .icon-after::after{position: relative;}
+
+.section-router .grid-item-router .typography-headline.macos-alt-hl{
+    max-width: 100%;
+}
+
+
+@media only screen and (min-width: 735px) {
+    .router-item.router-item-tradein.full-split .router-item-content {
+        padding: 50px 44px 50px 0;
+    }
+}
+
+.section-router .accent-green:before {
+    width: 90px;
+    height: 52px;
+    background-size: 90px 52px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-router .accent-green:before {
+        width: 78px;
+        height: 46px;
+        background-size: 78px 46px;
+    }
+}
+
+
+@media only screen and (max-width: 734px) {
+    .section-router .accent-green:before {
+        width: 60px;
+        height: 38px;
+        background-size: 60px 38px;
+    }
+}
+
+.section-connections .section-connections-gallery .pin-connections-figure .pin-thunderbolt {
+    left: 760px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-connections .section-connections-gallery .pin-connections-figure .pin-thunderbolt {
+        left:480px
+    }
+
+}
+
+@media only screen and (max-width: 734px) {
+    .section-connections .section-connections-gallery .pin-connections-figure .pin-thunderbolt {
+        left:335px
+    }
+}
+
+.section-connections .section-connections-gallery .pin-connections-figure .pin-headphone {
+    left: 1105px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-connections .section-connections-gallery .pin-connections-figure .pin-headphone {
+        left:725px
+    }
+
+}
+
+@media only screen and (max-width: 734px) {
+    .section-connections .section-connections-gallery .pin-connections-figure .pin-headphone {
+        left:445px
+    }
+}
+
+.section-chip .grid-item-speed .speed-gallery .item-container .gallery-item .bars-container .badge-value-container{
+    align-items: flex-end;
+}
+.section-chip .grid-item-speed .speed-gallery .item-container .gallery-item .bars-container .badge-value {
+    line-height: 1.16;
+}
+.section-chip .grid-item-speed .speed-gallery .item-container .gallery-item .bars-container .badge-unit {
+    font-size: 32px;
+    line-height: 1.45;
+    margin-left: 4px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-chip .grid-item-speed .speed-gallery .item-container .gallery-item .bars-container .badge-value{
+        line-height: 1.2;
+    }
+    .section-chip .grid-item-speed .speed-gallery .item-container .gallery-item .bars-container .badge-unit {
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-chip .grid-item-speed .speed-gallery .item-container .gallery-item .bars-container .badge-value{
+        line-height: 1.3;
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-chip .grid-item-form-factor .grid-headline-normal-alt {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-chip .grid-item-storage .grid-item-content {
+        margin:139px 0 0
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-chip .grid-item-storage .grid-item-content {
+        margin:60px 0 0
+    }
+}
+
+.router-item-tradein .router-item-headline.has-dynamic-content{
+    max-width: 402px;
+}
+.router-item-tradein .router-item-headline{
+    max-width: 100%;
+}
+
+/* ArtCD feedback start */
+.typography-headline-super, .typography-chips-headline {
+	line-height: 1.0875;
+}
+.typography-compare-headline, .modal-contents .badge .badge-value, .typography-headline-normal-alt, html.text-zoom .typography-headline-super {
+	line-height: 1.09375;
+}
+.typography-quote-reduced {
+	line-height: 1.3125;
+}
+.typography-callout, .typography-speed-gallery-headline, .section-chip .grid-item-speed .speed-gallery .tabnav, .section-chip .grid-item-speed .speed-gallery .tabnav-link {
+	line-height: 1.21875;
+}
+.typography-eyebrow-elevated, .typography-badge-caption, .section-chip .grid-item-speed .speed-gallery .item-container .disclaimer, .section-chip .grid-item-speed .speed-gallery .item-container .gallery-item .bars-container .badge-unit, .section-chip .grid-item-speed .speed-gallery .item-container .gallery-item .bars-container .badge-value {
+    line-height: 1.25;
+}
+.router-item-eyebrow, .typography-compare-product-name, .typography-label, .typography-modal-copy, .section-hero .hero-price, .section-chip .grid-item-speed .speed-gallery .item-container .gallery-item-eyebrow {
+	line-height: 1.29167;
+}
+.typography-eyebrow-reduced, .section-hero .mac-mini-global-avail {
+	line-height: 1.3334;
+}
+.typography-chips-tout {
+	line-height: 1.36844;
+}
+.section-chip .grid-item-speed .speed-gallery .item-container .gallery-item .bars-container .bar-caption, .section-connections .section-connections-gallery .pin-connections-figure .pin-caption {
+	line-height: 1.35296;
+}
+.typography-compare-product-eyebrow, .typography-compare-copy, .inline-media-replay, .typography-compare-product-eyebrow, .typography-compare-copy, .inline-media-replay {
+	line-height: 1.5;
+}
+.typography-body-reduced-tight {
+	line-height: 1.35718;
+}
+@media only screen and (max-width: 1068px) {
+	.typography-hero-headline {
+		line-height: 1.0875;
+	}
+	.typography-headline-super, .typography-chips-headline {
+		line-height: 1.09375;
+	}
+	.modal-contents .badge .badge-unit {
+		line-height: 1.3125;
+	}
+	.typography-headline-reduced {
+		line-height: 1.21875;
+	}
+	.typography-callout, .typography-speed-gallery-headline {
+		line-height: 1.25;
+	}
+	.typography-eyebrow-elevated, .typography-badge-caption, .typography-modal-badge-value-reduced, .section-chip .grid-item-speed .speed-gallery .tabnav, .section-chip .grid-item-speed .speed-gallery .tabnav-link, .section-chip .grid-item-speed .speed-gallery .item-container .disclaimer {
+		line-height: 1.29167;
+	}
+	.router-item-eyebrow, .typography-compare-product-name, .typography-label, .typography-modal-copy {
+    	line-height: 1.3334;
+	}
+	.section-connections .section-connections-gallery .pin-connections-figure .pin-caption {
+		line-height: 1.35718;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.typography-headline-super-geo-alt {
+		line-height: 1.3125;
+	}
+	.router-item-headline, .typography-headline {
+		line-height: 1.21875;
+	}
+	.typography-headline-reduced {
+		line-height: 1.25;
+	}
+	.typography-callout {
+		line-height: 1.29167;
+	}
+	.typography-eyebrow-elevated, .typography-badge-caption, .typography-modal-badge-value-reduced, .section-hero .hero-price {
+    	line-height: 1.3334;
+	}
+	.typography-eyebrow-reduced, .section-hero .mac-mini-global-avail {
+		line-height: 1.36844;
+	}
+	.default-gallery .tabnav-link, html.reduced-motion .default-gallery .item-container .gallery-item:before, .typography-chips-modal-cta, .typography-modal-copy {
+    	line-height: 1.35296;
+	}
+	.typography-chips-tout {
+		line-height: 1.35718;
+	}
+}
+
+.item-container .badge-unit {
+	margin-bottom: 5.6px;
+}
+@media only screen and (max-width: 1068px) {
+	.item-container .badge-unit{
+		margin-bottom: 2.7px;
+	}
+}
+/* ArtCD feedback end */
+
+html[data-segment-code="internal-epp-discounted"].hide-acmi #ac-globalfooter .ac-gf-buystrip-info-financing {
+    display: block;
+}
+
+/* 24 month installments start */
+html.hide-acmi .section-compare .product-pricing .footnote {
+    display: inline-block;
+}
+.section-compare .product-pricing {
+	max-width: 7.8em;
+}
+@media only screen and (max-width: 1068px) {
+   .section-compare .product-pricing {
+		max-width: 7.8em;
+	}
+}
+@media only screen and (max-width: 734px) {
+   .section-compare .product-pricing {
+		max-width: 7.8em;
+	}
+}
+/* 24 month installments end */
+
+html[data-segment-code]:not([data-segment-code="internal-epp-discounted"]) .ribbon-bts-2023 {
+    display: block !important
+}
+
+html[data-segment-code]:not([data-segment-code="internal-epp-discounted"]) .ac-gf-sosumi ul.additional-sosumi {
+    display: block !important
+}

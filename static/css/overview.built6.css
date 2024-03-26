@@ -1,0 +1,205 @@
+/* add to your calendar start */
+
+.hide-for-built-in {
+    display: none;
+}
+
+html.arql.ios-12 .section-hero .ar-link.ios-12,html.arql.ios-13 .section-hero .ar-link.ios-13 {
+    display: none;
+}
+html.arql.ios-12.safari .section-hero .ar-link.ios-12 {
+    display:block
+}
+html.arql.ios-13.safari .section-hero .ar-link.ios-13 {
+    display:block
+}
+.safari .hide-for-built-in,
+.firefox .hide-for-built-in,
+.chrome .hide-for-built-in,
+.edge .hide-for-built-in {
+    display: block;
+}
+/*.ios.chrome .hide-for-other {
+    display: none;
+}*/
+/* add to your calendar end */
+
+
+/* Fixed hide calendar height start */
+.hide-for-social-safari {
+    margin-bottom: 24px;
+}
+.safari .hide-for-social-safari {
+    margin-bottom: 0;
+}
+.ios.chrome .hide-for-social-safari {
+    margin-bottom: 0;
+}
+/* Fixed hide calendar height end */
+
+
+/* fixed hero-copy-paragraph width */
+@media only screen and (max-width: 735px) {
+    .section-hero .section-content {
+        width: 92%;
+    }
+}
+/* fixed hero-copy-paragraph width end */
+
+
+/* wechat fix AR  start*/
+html.wechat-fix .typography-intro .calendar{
+	display: block;
+}
+
+html.wechat-fix .typography-intro .nocalendar{
+    display: none;
+}
+/*wechat fix AR end*/
+
+.section-hero .section-content .social-button.wechat:after {
+    font-family: "social-media-font" !important;
+    content: "";
+}
+.section-hero .section-content .social-button.weibo:after {
+    font-family: "social-media-font" !important;
+    content: "";
+}
+/* 20210602 */
+p.hide-for-other{
+   margin-top:0.35em;
+}
+@media only screen and (max-width: 735px) {
+	   p.hide-for-other{
+	   margin-top:0.395em;
+	}
+}
+/* 20210602 end */
+
+.hide-for-other {
+    display: none;
+}
+.safari .hide-for-other {
+    display: block;
+}
+.safari .hero-link.hide-for-other {
+    display: inline-block;
+}
+.safari .ac-social.hide-for-other {
+    display: flex;
+}
+
+.section-hero .hide-for-other-ar {
+        display: none !important;
+}
+
+
+.safari.ios-14 .section-hero .hide-for-other-ar,.safari.ios-15 .section-hero .hide-for-other-ar  {
+        display: block !important;
+}
+
+/* 20220822 */
+.section-hero .section-content .copy-container .hero-link.hide-for-other {
+    display: none;
+}
+.safari .section-hero .section-content .copy-container .hero-link.hide-for-other {
+    display: block;
+}
+/* 20220822 */
+
+
+/* 20220823 fixed spacing for not safari */
+.show-for-other {
+    display: block;
+}
+
+.safari .show-for-other {
+    display: none;
+}
+/* 20220823 fixed spacing for not safari end */
+
+
+.section-hero .section-content .social-button.weibo{
+    vertical-align: top;
+}
+
+.social-button.weibo {
+    color: #2997ff;
+}
+
+
+
+.section-hero .hero-copy {
+    max-width: 544px;
+}
+
+/* SassKit 7 */
+.typography-hero-copy.hero-copy {
+    line-height:1.3334
+}
+/* After */
+.cta-container.typography-body-reduced a .icon.icon-after.icon-playcircle::after {
+    position: static!important;
+}
+
+/* 20230525 */
+.hide-for-other-alt{
+    display: none;
+}
+
+html.chrome .hide-for-other-alt{
+    display: none;
+}
+
+html.safari .hide-for-other-alt{
+    display: block;
+}
+
+html.safari.ios-14 .hide-for-other-alt{
+    display: block;
+}
+
+
+html.firefox .hide-for-other-alt{
+    display: none !important;
+}
+
+.section-hero .hide-for-other-ar {
+        display: none !important;
+}
+
+
+.safari.ios-14 .section-hero .hide-for-other-ar,.safari.ios-15 .section-hero .hide-for-other-ar  {
+        display: block !important;
+}
+
+/* 20230525 */
+
+/* 20230817 start */
+.section-recent-events .recent-events-gallery .item-container .gallery-item.jun-2023 .copy-container {
+	padding-right: 14px;
+}
+.icon-wrapper .icon, .icon-wrapper .icon-after:after, .icon-wrapper .more:not(.icon-before):after {
+	position: relative;
+}
+/* 20230817 end */
+
+/* Change the video to a static image */
+
+/* Change the video to a static image */
+
+@media only screen and (max-width: 734px) {
+    .september-2023 .section-announced .announced-item-apple-watch-ultra-2 .product-copy {
+        max-width: 284px;
+    }
+    .september-2023 .section-announced .announced-item-iphone-15 .product-copy {
+		max-width: 276px;
+	}
+    .september-2023 .section-announced .announced-item-carbon-neutral .product-copy {
+        max-width: 270px;
+    }
+}
+
+.share .hide-for-other-alt{
+    display: none;
+}

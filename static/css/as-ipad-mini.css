@@ -1,0 +1,43 @@
+/*
+    iPad mini Step1 CSS
+    ===============================================
+*/
+
+.rf-productlocator-productdetails {
+    min-height: 68px;
+}
+
+@media only screen and (max-device-width: 736px) and (max-width: 1023px) {
+    .rf-productlocator-productdetails {
+        min-height: 0;
+    }
+}
+
+.rf-productlocator-selectstorebtn.button-block {
+    padding: 8px 16px;
+}
+
+.rf-accessoryslot-inlinetile .rf-accessoryslot-inlinetile-ipttext {
+    width: auto;
+    display: flex;
+    align-self: flex-start;
+    padding-left: 13px;
+}
+
+.rf-accessory-inline-applecare-overlay .as-chat-buyflow-content,
+.rf-accessory-inline-applecare-multipart-overlay .as-chat-buyflow-content,
+.rf-accessoryslot-inlinetile-overlay .as-chat-buyflow-content {
+    color: #1d1d1f;
+}
+
+.rf-bfe-dimension .as-price-withemi {
+    display: none;
+}
+
+@media only screen and (max-width: 1023px) and (max-device-width: 736px) {
+    .rf-bfe-accessory-slot fieldset {
+        display: block;
+        min-width: auto;
+        max-width: none;
+    }
+}

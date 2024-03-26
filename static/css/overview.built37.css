@@ -1,0 +1,230 @@
+.section-cards .card.near-card.card-siri .siri-utterance{
+    width: 100%;
+}
+
+.card-music-offer .card-copy {
+    padding-top:44px
+}
+
+.section-subscription-offers .offers-container .offer-item {
+	flex-basis: 50%;
+}
+
+@media only screen and (max-width: 1068px) {
+    .card-music-offer .card-copy {
+        padding-top:22px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .card-music-offer .card-copy {
+        padding-top:0
+    }
+}
+
+@media only screen and (min-width: 1069px) {
+    .card-music-offer .card-copy {
+        padding-right: 31px;
+        padding-left:31px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .card-music-offer .card-copy {
+        padding-bottom:44px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .card-music-offer .card-img-container {
+        padding-left:0
+    }
+}
+
+
+.card-music-offer{
+    min-height: 383px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .card-music-offer {
+        max-height: 287px;
+        min-height: initial;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .card-music-offer {
+        min-height: 526px;
+    }
+}
+
+
+@media only screen and (max-width: 734px) {
+    .card-music-offer .card-img-container {
+        padding-top: 0px;
+        margin-left: auto;
+        margin-top: -42px;
+    }
+}
+.for-ios{
+    display: none;
+}
+
+.for-other{
+    display: none;
+}
+
+html.ios .for-ios{
+    display: block;
+}
+
+html.no-ios .for-other{
+    display: block;
+}
+
+/*font-weight 600*/
+.section-headline {
+  font-weight: 600;
+}
+@media only screen and (max-width: 1068px) {
+  .section-headline {
+    font-weight: 600;
+  }
+}
+
+@media only screen and (max-width: 734px) {
+  .section-headline {
+    font-weight: 600;
+  }
+}
+
+.section-headline-reduced {
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-headline-reduced {
+    font-weight: 600;
+  }
+}
+
+@media only screen and (max-width: 734px) {
+  .section-headline-reduced {
+    font-weight: 600;
+  }
+}
+
+.hero-headline {
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 1068px) {
+  .hero-headline {
+    font-weight: 600;
+  }
+}
+
+@media only screen and (max-width: 734px) {
+  .hero-headline {
+    font-weight: 600;
+  }
+}
+
+.value-prop {
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 1068px) {
+  .value-prop {
+    font-weight: 600;
+  }
+  
+}
+
+@media only screen and (max-width: 734px) {
+  .value-prop {
+    font-weight: 600;
+  }
+  
+}
+
+.section-subscription-offers .typography-headline-reduced {
+  font-weight: 600;
+}
+
+.section-offers .card-headline {
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-offers .card-headline {
+    font-weight: 600;
+  }
+}
+
+.devices-headline {
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 1068px) {
+  .devices-headline {
+    font-weight: 600;
+  }
+  
+}
+
+@media only screen and (max-width: 734px) {
+  .devices-headline {
+    font-weight: 600;
+  }
+}
+
+.working-with-headline {
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 734px) {
+  .working-with-headline {
+    font-weight: 600;
+  }
+}
+/*font weight 600 end*/
+
+/* rihanna start */
+@media only screen and (max-width: 734px) {
+.section-cards .card-spatial-audio.rihanna .card-subhead {
+        max-width: 213px;
+    }
+}
+/* rihanna end */
+
+/* device start */
+
+@media only screen and (min-width:735px){
+	.devices-other .devices-item.device-sonos {
+		margin-left: 50px !important;
+	}
+	.devices-other .devices-item.device-roku {
+		margin-bottom: 50px
+	}
+
+	.devices-other .devices-item.device-xbox {
+		margin-bottom: 50px 
+	}
+}
+
+@media only screen and (max-width:734px) {
+.section-offers .card-music-offer {
+	padding-right: 72px;
+}
+}
+/* device end */
+
+
+
+/*classical headline weight start*/
+.section-classical .classical-headline {
+  font-weight: 600;
+}
+/*classical headline weight end*/

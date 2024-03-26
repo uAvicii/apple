@@ -1,0 +1,62 @@
+/*
+.controls-text-tracks-toggle-button {
+    display: none
+}
+*/
+
+/* for segmentbar start */
+@media only screen and (max-width: 833px) {
+    html[lang=zh-CN].ac-ls-visible #ac-globalnav {
+        top: 135px;
+    }
+}
+html[lang=zh-CN].ac-ls-visible .ac-nav-overlap #main, html[lang=zh-CN].ac-ls-visible .ac-nav-overlap .main {
+    margin-top: 70px
+}
+@media only screen and (max-width: 833px) {
+    html[lang=zh-CN].ac-ls-visible .ac-nav-overlap #main, html[lang=zh-CN].ac-ls-visible .ac-nav-overlap .main {
+        margin-top:135px
+    }
+}
+
+html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible .ac-nav-overlap #main,
+html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible .ac-nav-overlap .main {
+    margin-top: 110px
+}
+
+@media only screen and (max-width: 1023px) {
+    html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible .ac-nav-overlap #main,
+    html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible .ac-nav-overlap .main {
+        margin-top: 110px
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible .ac-nav-overlap #main,
+    html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible .ac-nav-overlap .main {
+        margin-top: 179px
+    }
+}
+
+html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible #ac-globalnav {
+    top: 110px
+}
+
+@media only screen and (max-width: 1023px) {
+    html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible #ac-globalnav {
+        top: 110px
+    }
+}
+@media only screen and (max-width: 833px) {
+    html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible #ac-globalnav {
+        top:179px
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    html[lang=zh-CN].ac-gn-segmentbar-visible.ac-ls-visible #ac-globalnav {
+        top: 179px
+    }
+}
+
+/* for segmentbar end */

@@ -1,0 +1,22 @@
+.section-keyboard-folio .hardware-birdseye figure.image {
+    margin-top:0px
+}
+@media only screen and (max-width: 1068px) {
+    .section-keyboard-details .hardware-birdseye figure.image {
+        margin-top:67px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-keyboard-details .hardware-birdseye figure.image {
+        margin-top:72px
+    }
+}
+.section-keyboard-folio .hardware-birdseye{
+   margin-top:-117px;
+}
+@media only screen and (max-width: 1068px) {
+    .section-keyboard-folio .hardware-birdseye{
+   margin-top:0
+}
+}

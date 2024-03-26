@@ -1,0 +1,181 @@
+.section-router .grid .large-span-12 .tile-content .copy-wrapper{
+    padding-top:42px
+}
+@media only screen and (max-width: 1068px) {
+    .section-router .grid .large-span-12 .tile-content .copy-wrapper {
+        padding-top:30px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-router .grid .large-span-12 .tile-content .copy-wrapper {
+        padding-top:25px
+    }
+}
+.section-control #heat-on .typography-gallery-headline {
+    margin-top: 64px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-control #heat-on .typography-gallery-headline {
+        margin-top:64px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-control #heat-on .typography-gallery-headline {
+        margin-top:29px
+    }
+}
+.section-control #start-fan .typography-gallery-headline {
+    margin-top:64px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-control #start-fan .typography-gallery-headline {
+        margin-top:64px
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-control #start-fan .typography-gallery-headline {
+        margin-top:29px
+    }
+}
+.section-router .homepod-mini .tile-headline {
+    max-width: 520px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-router .homepod-mini .tile-headline {
+        max-width: 520px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-router .homepod-mini .tile-headline {
+        max-width: 230px;
+    }
+}
+.page-overview .section-header-hero .typography-eyebrow, .page-overview .subsection .button-wrap, .page-overview .typography-headline-super, .page-overview .typography-manifesto{
+   font-weight:600
+}
+.typography-product-tile-headline{
+   font-weight:600
+}
+@media only screen and (max-width: 1068px) {
+.section-integration .row-item{
+   padding:30px 22px
+}
+}
+@media only screen and (max-width: 734px) {
+.section-integration .row-item{
+   padding:30px
+}
+}
+.page-overview .section-privacy .typography-headline-super, .page-overview .section-integration .typography-headline-super{
+   margin-left:0px
+}
+@media only screen and (max-width: 1448px) and (min-width: 1069px) {
+.page-overview .section-privacy .typography-headline-super, .page-overview .section-integration .typography-headline-super{
+   margin-left:-23px
+}
+}
+@media only screen and (max-width: 1068px) {
+.page-overview .section-privacy .typography-headline-super, .page-overview .section-integration .typography-headline-super{
+   margin-left:-20px
+}
+}
+@media only screen and (max-width: 734px) {
+.page-overview .section-privacy .typography-headline-super, .page-overview .section-integration .typography-headline-super{
+   margin-left:0px
+}
+}
+@media only screen and (min-width: 1441px) {
+	.section-accessories .section-gallery .section-paddlenav{
+	   display:none;
+	}
+}
+
+/* homeapp layout  */
+
+.section-router .homepod .tile-content {
+    flex-direction:row;
+}
+
+@media only screen and (max-width: 734px) {
+    .section-router .homepod .tile-content {
+        flex-direction:column
+    }
+}
+
+.section-router .homepod .tile-content .copy-wrapper {
+    text-align:left; 
+    margin-left: auto;
+    margin-right: auto;
+    flex-basis: 35%;
+    max-width:35%
+}
+
+@media only screen and (max-width: 734px) {
+    .section-router .homepod .tile-content .copy-wrapper {
+        text-align: center;
+        flex-basis: 100%;
+        max-width:100%
+    }
+}
+
+.section-router .homepod .tile-content .picture-wrapper {
+    flex-basis: 65%;
+    max-width: 65%;
+    margin-top: auto;
+    justify-content:flex-start;
+    margin-right: 6%;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-router .homepod .tile-content .picture-wrapper {
+        margin-right: 0;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-router .homepod .tile-content .picture-wrapper {
+        justify-content: center;
+        flex-basis: 100%;
+        max-width:100%
+    }
+}
+
+.section-router .homepod .tile-copy {
+    text-align: left;
+}
+
+@media only screen and (max-width: 734px) {
+    .section-router .homepod .tile-copy {
+        text-align: center;
+    }
+}
+
+.section-router .homepod .tile-content {
+    padding:0px 8.3333333333%
+}
+
+.grid .tile {
+    min-height:520px
+}
+
+@media only screen and (max-width: 1068px) {
+    .grid .tile {
+        min-height:406px
+    }
+}
+
+.section-router .homepod .tile-copy {
+    margin-left: 0;
+}
+
+@media only screen and (max-width: 734px) {
+    .grid .tile {
+        min-height:489px
+    }
+}
